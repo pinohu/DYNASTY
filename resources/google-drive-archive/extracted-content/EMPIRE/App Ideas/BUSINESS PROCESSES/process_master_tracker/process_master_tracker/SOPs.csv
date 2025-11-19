@@ -1,0 +1,98 @@
+SOP_ID,ProcessID,SOP_Title,Version,Last_Review,Owner,File_Link
+SOP-001,PROC-001,SOP for Annual Strategic Planning,1.0,2025-08-13,Process Owner,./SOPs/SOP-001.md
+SOP-002,PROC-002,SOP for Quarterly OKRs & Review,1.0,2025-08-13,Process Owner,./SOPs/SOP-002.md
+SOP-003,PROC-003,SOP for Market Research & Niche Validation,1.0,2025-08-13,Process Owner,./SOPs/SOP-003.md
+SOP-004,PROC-004,SOP for Product/Service Portfolio Management,1.0,2025-08-13,Process Owner,./SOPs/SOP-004.md
+SOP-005,PROC-005,SOP for Pricing Strategy & Packaging,1.0,2025-08-13,Process Owner,./SOPs/SOP-005.md
+SOP-006,PROC-006,SOP for Partner/Channel Strategy,1.0,2025-08-13,Process Owner,./SOPs/SOP-006.md
+SOP-007,PROC-007,SOP for Brand Governance & Messaging,1.0,2025-08-13,Process Owner,./SOPs/SOP-007.md
+SOP-008,PROC-008,SOP for SEO Content Lifecycle,1.0,2025-08-13,Process Owner,./SOPs/SOP-008.md
+SOP-009,PROC-009,SOP for Content Repurposing & Syndication,1.0,2025-08-13,Process Owner,./SOPs/SOP-009.md
+SOP-010,PROC-010,SOP for Social Media Calendar & Community,1.0,2025-08-13,Process Owner,./SOPs/SOP-010.md
+SOP-011,PROC-011,SOP for Email List Building & Nurture,1.0,2025-08-13,Process Owner,./SOPs/SOP-011.md
+SOP-012,PROC-012,SOP for Paid Ads Campaign Lifecycle,1.0,2025-08-13,Process Owner,./SOPs/SOP-012.md
+SOP-013,PROC-013,SOP for Influencer/UGC Program,1.0,2025-08-13,Process Owner,./SOPs/SOP-013.md
+SOP-014,PROC-014,SOP for PR & Thought Leadership,1.0,2025-08-13,Process Owner,./SOPs/SOP-014.md
+SOP-015,PROC-015,SOP for Affiliate/Referral Program,1.0,2025-08-13,Process Owner,./SOPs/SOP-015.md
+SOP-016,PROC-016,SOP for Web Analytics & CRO Loop,1.0,2025-08-13,Process Owner,./SOPs/SOP-016.md
+SOP-017,PROC-017,SOP for Lead Intake & Qualification,1.0,2025-08-13,Process Owner,./SOPs/SOP-017.md
+SOP-018,PROC-018,SOP for Discovery Call Workflow,1.0,2025-08-13,Process Owner,./SOPs/SOP-018.md
+SOP-019,PROC-019,SOP for Solutioning/Demo Workflow,1.0,2025-08-13,Process Owner,./SOPs/SOP-019.md
+SOP-020,PROC-020,SOP for Proposal & SOW Creation,1.0,2025-08-13,Process Owner,./SOPs/SOP-020.md
+SOP-021,PROC-021,SOP for Contracting & eSignature,1.0,2025-08-13,Process Owner,./SOPs/SOP-021.md
+SOP-022,PROC-022,SOP for Deal Desk & Discounting,1.0,2025-08-13,Process Owner,./SOPs/SOP-022.md
+SOP-023,PROC-023,SOP for Pipeline Hygiene & Forecasting,1.0,2025-08-13,Process Owner,./SOPs/SOP-023.md
+SOP-024,PROC-024,SOP for Onboarding Handoff (Sales→Delivery),1.0,2025-08-13,Process Owner,./SOPs/SOP-024.md
+SOP-025,PROC-025,SOP for Welcome & Kickoff,1.0,2025-08-13,Process Owner,./SOPs/SOP-025.md
+SOP-026,PROC-026,SOP for Requirements Gathering,1.0,2025-08-13,Process Owner,./SOPs/SOP-026.md
+SOP-027,PROC-027,SOP for Implementation/Setup,1.0,2025-08-13,Process Owner,./SOPs/SOP-027.md
+SOP-028,PROC-028,SOP for Training & Enablement,1.0,2025-08-13,Process Owner,./SOPs/SOP-028.md
+SOP-029,PROC-029,SOP for Go-Live/Launch Readiness,1.0,2025-08-13,Process Owner,./SOPs/SOP-029.md
+SOP-030,PROC-030,SOP for Hypercare (30/60/90),1.0,2025-08-13,Process Owner,./SOPs/SOP-030.md
+SOP-031,PROC-031,SOP for Onboarding Closeout & Feedback,1.0,2025-08-13,Process Owner,./SOPs/SOP-031.md
+SOP-032,PROC-032,SOP for Project Intake & Planning,1.0,2025-08-13,Operations Lead,./SOPs/SOP-032.md
+SOP-033,PROC-033,SOP for Work Execution & QA,1.0,2025-08-13,Operations Lead,./SOPs/SOP-033.md
+SOP-034,PROC-034,SOP for Change Request Management,1.0,2025-08-13,Operations Lead,./SOPs/SOP-034.md
+SOP-035,PROC-035,SOP for Deliverable Packaging & Handover,1.0,2025-08-13,Operations Lead,./SOPs/SOP-035.md
+SOP-036,PROC-036,SOP for Issue/Incident Response,1.0,2025-08-13,Operations Lead,./SOPs/SOP-036.md
+SOP-037,PROC-037,SOP for Maintenance & Service Reviews,1.0,2025-08-13,Operations Lead,./SOPs/SOP-037.md
+SOP-038,PROC-038,SOP for Product Sourcing/Vetting,1.0,2025-08-13,Process Owner,./SOPs/SOP-038.md
+SOP-039,PROC-039,SOP for Inventory Planning & Reorder,1.0,2025-08-13,Process Owner,./SOPs/SOP-039.md
+SOP-040,PROC-040,SOP for Listing Creation & QA,1.0,2025-08-13,Process Owner,./SOPs/SOP-040.md
+SOP-041,PROC-041,SOP for Order Fulfillment & Shipping,1.0,2025-08-13,Process Owner,./SOPs/SOP-041.md
+SOP-042,PROC-042,SOP for Returns & Exchanges,1.0,2025-08-13,Process Owner,./SOPs/SOP-042.md
+SOP-043,PROC-043,SOP for Supplier Performance Review,1.0,2025-08-13,Process Owner,./SOPs/SOP-043.md
+SOP-044,PROC-044,SOP for Roadmap & Backlog Grooming,1.0,2025-08-13,Process Owner,./SOPs/SOP-044.md
+SOP-045,PROC-045,SOP for Sprint Planning & Standups,1.0,2025-08-13,Process Owner,./SOPs/SOP-045.md
+SOP-046,PROC-046,SOP for Code Review & QA,1.0,2025-08-13,Process Owner,./SOPs/SOP-046.md
+SOP-047,PROC-047,SOP for Release/Deployment Management,1.0,2025-08-13,Process Owner,./SOPs/SOP-047.md
+SOP-048,PROC-048,SOP for Security Patch & Vulnerability Mgmt,1.0,2025-08-13,Process Owner,./SOPs/SOP-048.md
+SOP-049,PROC-049,SOP for Uptime/Monitoring/Incident Mgmt,1.0,2025-08-13,Process Owner,./SOPs/SOP-049.md
+SOP-050,PROC-050,SOP for Change Log & Communications,1.0,2025-08-13,Process Owner,./SOPs/SOP-050.md
+SOP-051,PROC-051,SOP for Helpdesk/Ticket Triage,1.0,2025-08-13,Process Owner,./SOPs/SOP-051.md
+SOP-052,PROC-052,SOP for Escalation & RCA,1.0,2025-08-13,Process Owner,./SOPs/SOP-052.md
+SOP-053,PROC-053,SOP for Renewals & Expansion,1.0,2025-08-13,Process Owner,./SOPs/SOP-053.md
+SOP-054,PROC-054,SOP for Health Scoring & QBRs,1.0,2025-08-13,Process Owner,./SOPs/SOP-054.md
+SOP-055,PROC-055,SOP for Community/Forum Moderation,1.0,2025-08-13,Process Owner,./SOPs/SOP-055.md
+SOP-056,PROC-056,SOP for Knowledge Base Management,1.0,2025-08-13,Process Owner,./SOPs/SOP-056.md
+SOP-057,PROC-057,SOP for Budgeting & Forecasting,1.0,2025-08-13,Process Owner,./SOPs/SOP-057.md
+SOP-058,PROC-058,SOP for Invoicing & Collections,1.0,2025-08-13,Process Owner,./SOPs/SOP-058.md
+SOP-059,PROC-059,SOP for AP/Expense Management,1.0,2025-08-13,Process Owner,./SOPs/SOP-059.md
+SOP-060,PROC-060,SOP for Payroll & Contractor Payments,1.0,2025-08-13,Process Owner,./SOPs/SOP-060.md
+SOP-061,PROC-061,SOP for Month-End Close & Reporting,1.0,2025-08-13,Process Owner,./SOPs/SOP-061.md
+SOP-062,PROC-062,SOP for Tax Compliance & Filings,1.0,2025-08-13,Process Owner,./SOPs/SOP-062.md
+SOP-063,PROC-063,SOP for Procurement & Vendor Mgmt,1.0,2025-08-13,Process Owner,./SOPs/SOP-063.md
+SOP-064,PROC-064,SOP for Workforce Planning & Reqs,1.0,2025-08-13,Process Owner,./SOPs/SOP-064.md
+SOP-065,PROC-065,SOP for Recruiting & Interviewing,1.0,2025-08-13,Process Owner,./SOPs/SOP-065.md
+SOP-066,PROC-066,SOP for New Hire Onboarding (People),1.0,2025-08-13,Process Owner,./SOPs/SOP-066.md
+SOP-067,PROC-067,SOP for Compensation & Benefits Admin,1.0,2025-08-13,Process Owner,./SOPs/SOP-067.md
+SOP-068,PROC-068,SOP for Performance Reviews & PIPs,1.0,2025-08-13,Process Owner,./SOPs/SOP-068.md
+SOP-069,PROC-069,SOP for L&D / Training Programs,1.0,2025-08-13,Process Owner,./SOPs/SOP-069.md
+SOP-070,PROC-070,SOP for Offboarding & Knowledge Transfer,1.0,2025-08-13,Process Owner,./SOPs/SOP-070.md
+SOP-071,PROC-071,SOP for Policy Management & Training,1.0,2025-08-13,Process Owner,./SOPs/SOP-071.md
+SOP-072,PROC-072,SOP for Data Privacy & Access Control,1.0,2025-08-13,Process Owner,./SOPs/SOP-072.md
+SOP-073,PROC-073,"SOP for Regulatory Compliance (e.g., HIPAA)",1.0,2025-08-13,Process Owner,./SOPs/SOP-073.md
+SOP-074,PROC-074,SOP for Contract Lifecycle Management,1.0,2025-08-13,Process Owner,./SOPs/SOP-074.md
+SOP-075,PROC-075,SOP for Risk Assessment & Mitigation,1.0,2025-08-13,Process Owner,./SOPs/SOP-075.md
+SOP-076,PROC-076,SOP for Business Continuity/DR,1.0,2025-08-13,Process Owner,./SOPs/SOP-076.md
+SOP-077,PROC-077,SOP for Internal Audit & CAPA,1.0,2025-08-13,Process Owner,./SOPs/SOP-077.md
+SOP-078,PROC-078,SOP for Integration Design & Orchestration,1.0,2025-08-13,Process Owner,./SOPs/SOP-078.md
+SOP-079,PROC-079,SOP for ETL/ELT Data Pipelines,1.0,2025-08-13,Process Owner,./SOPs/SOP-079.md
+SOP-080,PROC-080,SOP for KPI Definition & Dashboards,1.0,2025-08-13,Process Owner,./SOPs/SOP-080.md
+SOP-081,PROC-081,SOP for Automation Opportunity Intake,1.0,2025-08-13,Process Owner,./SOPs/SOP-081.md
+SOP-082,PROC-082,SOP for Bot/Script Maintenance,1.0,2025-08-13,Process Owner,./SOPs/SOP-082.md
+SOP-083,PROC-083,SOP for Data Backup & Restore Tests,1.0,2025-08-13,Process Owner,./SOPs/SOP-083.md
+SOP-084,PROC-084,SOP for Property Acquisition & Due Diligence,1.0,2025-08-13,Process Owner,./SOPs/SOP-084.md
+SOP-085,PROC-085,SOP for Tenant Onboarding & Lease Mgmt,1.0,2025-08-13,Process Owner,./SOPs/SOP-085.md
+SOP-086,PROC-086,SOP for Maintenance Work Orders,1.0,2025-08-13,Process Owner,./SOPs/SOP-086.md
+SOP-087,PROC-087,SOP for Construction Job Estimating & Bids,1.0,2025-08-13,Process Owner,./SOPs/SOP-087.md
+SOP-088,PROC-088,SOP for Site Safety & Compliance,1.0,2025-08-13,Process Owner,./SOPs/SOP-088.md
+SOP-089,PROC-089,SOP for Coaching Program Curriculum & Sessions,1.0,2025-08-13,Process Owner,./SOPs/SOP-089.md
+SOP-090,PROC-090,SOP for KDP Title Ideation & Launch,1.0,2025-08-13,Process Owner,./SOPs/SOP-090.md
+SOP-091,PROC-091,SOP for KDP Royalty Tracking & Optimization,1.0,2025-08-13,Process Owner,./SOPs/SOP-091.md
+SOP-092,PROC-092,SOP for Category/Location Taxonomy Updates,1.0,2025-08-13,Operations Lead,./SOPs/SOP-092.md
+SOP-093,PROC-093,SOP for Member Verification & QA,1.0,2025-08-13,Operations Lead,./SOPs/SOP-093.md
+SOP-094,PROC-094,SOP for Listing Approval & Publishing,1.0,2025-08-13,Operations Lead,./SOPs/SOP-094.md
+SOP-095,PROC-095,SOP for Lead Distribution & Routing,1.0,2025-08-13,Operations Lead,./SOPs/SOP-095.md
+SOP-096,PROC-096,SOP for Coupon/Deal Management,1.0,2025-08-13,Operations Lead,./SOPs/SOP-096.md
+SOP-097,PROC-097,SOP for Churn Prevention & Win-Back,1.0,2025-08-13,Operations Lead,./SOPs/SOP-097.md

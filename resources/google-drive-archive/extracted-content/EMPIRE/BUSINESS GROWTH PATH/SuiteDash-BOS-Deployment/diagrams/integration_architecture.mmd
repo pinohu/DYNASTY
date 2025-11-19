@@ -1,0 +1,31 @@
+%% Integration Architecture
+graph TD
+    A[Lead Forms/Ads] --> B[TruConversion]
+    A --> C[SalesPanel]
+    B --> D[Boost.space (Make)]
+    C --> D
+    A --> D
+
+    D --> E[SuiteDash CRM]
+    D --> F[AITable]
+    D --> G[ActiveCampaign/Acumbamail]
+    D --> H[SalesNexus]
+
+    E --> I[SuiteDash Portal]
+    E --> J[SuiteDash Invoicing]
+    E --> K[SuiteDash Projects]
+
+    K --> L[Blue (Project Mgmt)]
+    K --> M[n8n (Complex Flows)]
+    K --> N[ActivePieces (Simple Tasks)]
+    H --> M
+
+    F --> O[GraphQL Layer]
+    E --> O
+    H --> O
+    L --> O
+    M --> O
+
+    O --> P[Custom Apps/Dashboards (NoCode-X)]
+    I --> Q[Publy Deliverables]
+    Q --> I

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" font-family="Inter, Arial, sans-serif">
+<style>
+    .lane { fill:#f5f7fb; stroke:#c9d2e5; stroke-width:1; }
+    .box { fill:#ffffff; stroke:#334155; stroke-width:1; rx:6; ry:6; }
+    .title { font-weight:bold; fill:#0f172a; font-size:16px; }
+    .text { fill:#0f172a; font-size:12px; }
+    .caption { fill:#475569; font-size:11px; }
+    .arrow { stroke:#334155; stroke-width:1.5; marker-end:url(#arrow); fill:none; }
+</style>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+    <polygon points="0 0, 10 3.5, 0 7" fill="#334155"/>
+  </marker>
+</defs>
+<text x="20" y="30" class="title">Onboarding Swimlane (Ops Admin • CSM • PM • IT/Security • Client)</text>
+<rect x="10" y="40" width="1180" height="120" class="lane"/>
+<text x="20" y="55" class="caption">Ops Admin</text>
+<rect x="10" y="180" width="1180" height="120" class="lane"/>
+<text x="20" y="195" class="caption">CSM</text>
+<rect x="10" y="320" width="1180" height="120" class="lane"/>
+<text x="20" y="335" class="caption">PM</text>
+<rect x="10" y="460" width="1180" height="120" class="lane"/>
+<text x="20" y="475" class="caption">IT/Security</text>
+<rect x="10" y="600" width="1180" height="120" class="lane"/>
+<text x="20" y="615" class="caption">Client</text>
+<rect x="60" y="60" width="170" height="40" class="box"/>
+<text x="70" y="85" class="text">Auto-Provision Portal</text>
+<rect x="260" y="200" width="170" height="40" class="box"/>
+<text x="270" y="225" class="text">Welcome + Start FLOW</text>
+<rect x="460" y="620" width="170" height="40" class="box"/>
+<text x="470" y="645" class="text">Kickoff Form</text>
+<rect x="660" y="340" width="170" height="40" class="box"/>
+<text x="670" y="365" class="text">Kickoff Call</text>
+<rect x="860" y="340" width="200" height="40" class="box"/>
+<text x="870" y="365" class="text">Create Project Template</text>
+<rect x="1080" y="480" width="170" height="40" class="box"/>
+<text x="1090" y="505" class="text">Provision Access</text>
+<line x1="230" y1="80" x2="260" y2="220" class="arrow"/>
+<line x1="430" y1="220" x2="460" y2="640" class="arrow"/>
+<line x1="545" y1="640" x2="660" y2="360" class="arrow"/>
+<line x1="830" y1="360" x2="860" y2="360" class="arrow"/>
+<line x1="1060" y1="360" x2="1080" y2="500" class="arrow"/>

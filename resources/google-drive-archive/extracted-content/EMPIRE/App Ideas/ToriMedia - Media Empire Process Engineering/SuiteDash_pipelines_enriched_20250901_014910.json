@@ -1,0 +1,2477 @@
+{
+  "pipelines": [
+    {
+      "name": "Creative & Content Pipeline",
+      "stages": [
+        {
+          "name": "Intake & Brief",
+          "wip_limit": 0,
+          "precedence_index": 1
+        },
+        {
+          "name": "Ideation & Research",
+          "wip_limit": 0,
+          "precedence_index": 2
+        },
+        {
+          "name": "Draft / Production",
+          "wip_limit": 0,
+          "precedence_index": 3
+        },
+        {
+          "name": "Edit / Review",
+          "wip_limit": 0,
+          "precedence_index": 4
+        },
+        {
+          "name": "Design & Multimedia",
+          "wip_limit": 0,
+          "precedence_index": 5
+        },
+        {
+          "name": "QA / Compliance",
+          "wip_limit": 0,
+          "precedence_index": 6
+        },
+        {
+          "name": "Publish",
+          "wip_limit": 0,
+          "precedence_index": 7
+        },
+        {
+          "name": "Promotion / Syndication",
+          "wip_limit": 0,
+          "precedence_index": 8
+        },
+        {
+          "name": "Performance Review",
+          "wip_limit": 0,
+          "precedence_index": 9
+        }
+      ],
+      "task_templates": [
+        {
+          "title": "Thumbnail Designer \u2014 Intake & Brief",
+          "description": "Collect brief, objectives, brand assets; clarify scope for Thumbnail Designer. Define success metrics and deadlines.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Intake & Brief",
+          "description": "Collect brief, objectives, brand assets; clarify scope for Video Editor (Short). Define success metrics and deadlines.",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Intake & Brief",
+          "description": "Collect brief, objectives, brand assets; clarify scope for Copywriter. Define success metrics and deadlines.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Intake & Brief",
+          "description": "Collect brief, objectives, brand assets; clarify scope for Scriptwriter. Define success metrics and deadlines.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Intake & Brief",
+          "description": "Collect brief, objectives, brand assets; clarify scope for Illustrator. Define success metrics and deadlines.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Ideation & Research",
+          "description": "Research competitors and trends; produce 3\u20135 concepts/outlines for Thumbnail Designer.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Ideation & Research",
+          "description": "Research competitors and trends; produce 3\u20135 concepts/outlines for Video Editor (Short).",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Ideation & Research",
+          "description": "Research competitors and trends; produce 3\u20135 concepts/outlines for Copywriter.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Ideation & Research",
+          "description": "Research competitors and trends; produce 3\u20135 concepts/outlines for Scriptwriter.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Ideation & Research",
+          "description": "Research competitors and trends; produce 3\u20135 concepts/outlines for Illustrator.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Draft / Production",
+          "description": "Produce first draft/deliverable for Thumbnail Designer according to brand guide and brief.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Draft / Production",
+          "description": "Produce first draft/deliverable for Video Editor (Short) according to brand guide and brief.",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Draft / Production",
+          "description": "Produce first draft/deliverable for Copywriter according to brand guide and brief.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Draft / Production",
+          "description": "Produce first draft/deliverable for Scriptwriter according to brand guide and brief.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Draft / Production",
+          "description": "Produce first draft/deliverable for Illustrator according to brand guide and brief.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Edit / Review",
+          "description": "Apply editorial review, fact-check, and revisions for Thumbnail Designer output.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Edit / Review",
+          "description": "Apply editorial review, fact-check, and revisions for Video Editor (Short) output.",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Edit / Review",
+          "description": "Apply editorial review, fact-check, and revisions for Copywriter output.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Edit / Review",
+          "description": "Apply editorial review, fact-check, and revisions for Scriptwriter output.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Edit / Review",
+          "description": "Apply editorial review, fact-check, and revisions for Illustrator output.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Design & Multimedia",
+          "description": "Add/adjust visual assets; export production-ready formats for Thumbnail Designer deliverable.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Design & Multimedia",
+          "description": "Add/adjust visual assets; export production-ready formats for Video Editor (Short) deliverable.",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Design & Multimedia",
+          "description": "Add/adjust visual assets; export production-ready formats for Copywriter deliverable.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Design & Multimedia",
+          "description": "Add/adjust visual assets; export production-ready formats for Scriptwriter deliverable.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Design & Multimedia",
+          "description": "Add/adjust visual assets; export production-ready formats for Illustrator deliverable.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 QA / Compliance",
+          "description": "Run checklist: brand, legal, accessibility; obtain approvals for Thumbnail Designer.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 QA / Compliance",
+          "description": "Run checklist: brand, legal, accessibility; obtain approvals for Video Editor (Short).",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 QA / Compliance",
+          "description": "Run checklist: brand, legal, accessibility; obtain approvals for Copywriter.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 QA / Compliance",
+          "description": "Run checklist: brand, legal, accessibility; obtain approvals for Scriptwriter.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 QA / Compliance",
+          "description": "Run checklist: brand, legal, accessibility; obtain approvals for Illustrator.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Publish",
+          "description": "Deploy deliverable to target channel(s); verify formatting and tracking for Thumbnail Designer.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Publish",
+          "description": "Deploy deliverable to target channel(s); verify formatting and tracking for Video Editor (Short).",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Publish",
+          "description": "Deploy deliverable to target channel(s); verify formatting and tracking for Copywriter.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Publish",
+          "description": "Deploy deliverable to target channel(s); verify formatting and tracking for Scriptwriter.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Publish",
+          "description": "Deploy deliverable to target channel(s); verify formatting and tracking for Illustrator.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Promotion / Syndication",
+          "description": "Cross-post and distribute deliverable; add UTMs; notify stakeholders for Thumbnail Designer.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Promotion / Syndication",
+          "description": "Cross-post and distribute deliverable; add UTMs; notify stakeholders for Video Editor (Short).",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Promotion / Syndication",
+          "description": "Cross-post and distribute deliverable; add UTMs; notify stakeholders for Copywriter.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Promotion / Syndication",
+          "description": "Cross-post and distribute deliverable; add UTMs; notify stakeholders for Scriptwriter.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Promotion / Syndication",
+          "description": "Cross-post and distribute deliverable; add UTMs; notify stakeholders for Illustrator.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Thumbnail Designer \u2014 Performance Review",
+          "description": "Analyze performance vs KPIs; log learnings and next actions for Thumbnail Designer.",
+          "sla_hours": 4,
+          "kpis": "CTR uplift; revisions per asset; on-time delivery %",
+          "billing_unit": "per thumbnail",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify editor on upload; auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short) \u2014 Performance Review",
+          "description": "Analyze performance vs KPIs; log learnings and next actions for Video Editor (Short).",
+          "sla_hours": 4,
+          "kpis": "Avg. watch %; completion rate; time-to-edit",
+          "billing_unit": "per short video",
+          "base_rate": 400,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Phygital+; Unmixr AI; Activepieces (ingest/export)",
+          "automations": "Auto-ingest from Drive; auto-caption; render queue",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter \u2014 Performance Review",
+          "description": "Analyze performance vs KPIs; log learnings and next actions for Copywriter.",
+          "sla_hours": 4,
+          "kpis": "Ad CTR; conv. rate; QA error rate",
+          "billing_unit": "per word (or $250 per ad pack)",
+          "base_rate": 0.35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Katteb; WordHero; Writeseed; Grammarly",
+          "automations": "Auto-assign editor; grammar QA; plagiarism scan",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Scriptwriter \u2014 Performance Review",
+          "description": "Analyze performance vs KPIs; log learnings and next actions for Scriptwriter.",
+          "sla_hours": 4,
+          "kpis": "1st-pass approval %; turnaround time",
+          "billing_unit": "per script",
+          "base_rate": 300,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; versioning and comments",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator \u2014 Performance Review",
+          "description": "Analyze performance vs KPIs; log learnings and next actions for Illustrator.",
+          "sla_hours": 4,
+          "kpis": "Saves/shares; turnaround; revisions",
+          "billing_unit": "per illustration",
+          "base_rate": 450,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export size variants; link to asset library",
+          "approver_role": "Creative Director"
+        }
+      ]
+    },
+    {
+      "name": "Social & Community Pipeline",
+      "stages": [
+        {
+          "name": "Calendar Planning",
+          "wip_limit": 0,
+          "precedence_index": 1
+        },
+        {
+          "name": "Asset Prep",
+          "wip_limit": 0,
+          "precedence_index": 2
+        },
+        {
+          "name": "Approval",
+          "wip_limit": 0,
+          "precedence_index": 3
+        },
+        {
+          "name": "Scheduling",
+          "wip_limit": 0,
+          "precedence_index": 4
+        },
+        {
+          "name": "Live / Engage",
+          "wip_limit": 0,
+          "precedence_index": 5
+        },
+        {
+          "name": "Moderation & Escalation",
+          "wip_limit": 0,
+          "precedence_index": 6
+        },
+        {
+          "name": "UGC Curation",
+          "wip_limit": 0,
+          "precedence_index": 7
+        },
+        {
+          "name": "Weekly Reporting",
+          "wip_limit": 0,
+          "precedence_index": 8
+        }
+      ],
+      "task_templates": [
+        {
+          "title": "Hashtag Researcher \u2014 Calendar Planning",
+          "description": "Create weekly calendar aligned to campaigns; allocate slots for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Calendar Planning",
+          "description": "Create weekly calendar aligned to campaigns; allocate slots for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Calendar Planning",
+          "description": "Create weekly calendar aligned to campaigns; allocate slots for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Calendar Planning",
+          "description": "Create weekly calendar aligned to campaigns; allocate slots for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 Asset Prep",
+          "description": "Prepare/upload assets and captions; map to calendar items for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Asset Prep",
+          "description": "Prepare/upload assets and captions; map to calendar items for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Asset Prep",
+          "description": "Prepare/upload assets and captions; map to calendar items for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Asset Prep",
+          "description": "Prepare/upload assets and captions; map to calendar items for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 Approval",
+          "description": "Route posts to approver; ensure compliance and brand tone for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Approval",
+          "description": "Route posts to approver; ensure compliance and brand tone for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Approval",
+          "description": "Route posts to approver; ensure compliance and brand tone for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Approval",
+          "description": "Route posts to approver; ensure compliance and brand tone for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 Scheduling",
+          "description": "Schedule content at optimal times; set reminders and failsafes for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Scheduling",
+          "description": "Schedule content at optimal times; set reminders and failsafes for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Scheduling",
+          "description": "Schedule content at optimal times; set reminders and failsafes for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Scheduling",
+          "description": "Schedule content at optimal times; set reminders and failsafes for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 Live / Engage",
+          "description": "Monitor comments/DMs; respond/escalate per SOPs for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Live / Engage",
+          "description": "Monitor comments/DMs; respond/escalate per SOPs for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Live / Engage",
+          "description": "Monitor comments/DMs; respond/escalate per SOPs for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Live / Engage",
+          "description": "Monitor comments/DMs; respond/escalate per SOPs for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 Moderation & Escalation",
+          "description": "Apply rules; remove spam/abuse; escalate sensitive cases for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Moderation & Escalation",
+          "description": "Apply rules; remove spam/abuse; escalate sensitive cases for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Moderation & Escalation",
+          "description": "Apply rules; remove spam/abuse; escalate sensitive cases for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Moderation & Escalation",
+          "description": "Apply rules; remove spam/abuse; escalate sensitive cases for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 UGC Curation",
+          "description": "Select and secure permissions for UGC; schedule reposts for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 UGC Curation",
+          "description": "Select and secure permissions for UGC; schedule reposts for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 UGC Curation",
+          "description": "Select and secure permissions for UGC; schedule reposts for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 UGC Curation",
+          "description": "Select and secure permissions for UGC; schedule reposts for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Hashtag Researcher \u2014 Weekly Reporting",
+          "description": "Compile platform metrics; share insights and actions for Hashtag Researcher.",
+          "sla_hours": 4,
+          "kpis": "Reach lift; CTR change; hashtag rank",
+          "billing_unit": "per weekly report",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report generation and delivery",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Content Scheduler \u2014 Weekly Reporting",
+          "description": "Compile platform metrics; share insights and actions for Content Scheduler.",
+          "sla_hours": 4,
+          "kpis": "On-time publish %; posting errors %",
+          "billing_unit": "per week",
+          "base_rate": 100,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; SocialBee/Buffer",
+          "automations": "Auto-schedule by best time; repost evergreen",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager \u2014 Weekly Reporting",
+          "description": "Compile platform metrics; share insights and actions for Community Manager.",
+          "sla_hours": 8,
+          "kpis": "Avg. response time; engagement/member; retention %",
+          "billing_unit": "per month retainer",
+          "base_rate": 2500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Portal; SalesNexus CRM",
+          "automations": "Auto-escalate flagged content; sentiment alerts",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "DM Specialist \u2014 Weekly Reporting",
+          "description": "Compile platform metrics; share insights and actions for DM Specialist.",
+          "sla_hours": 4,
+          "kpis": "Qualified leads; response time; lead\u2192opportunity %",
+          "billing_unit": "per qualified lead (or $20/hr)",
+          "base_rate": 35,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SalesNexus; WhatsApp CRM; Auto-assign via Pabbly",
+          "automations": "Auto-create CRM lead; tag source; assign follow-up",
+          "approver_role": "Marketing Lead"
+        }
+      ]
+    },
+    {
+      "name": "Advertising & Growth Pipeline",
+      "stages": [
+        {
+          "name": "Campaign Brief",
+          "wip_limit": 0,
+          "precedence_index": 1
+        },
+        {
+          "name": "Audience & Offers",
+          "wip_limit": 0,
+          "precedence_index": 2
+        },
+        {
+          "name": "Creative Build",
+          "wip_limit": 0,
+          "precedence_index": 3
+        },
+        {
+          "name": "Tracking & Pixels",
+          "wip_limit": 0,
+          "precedence_index": 4
+        },
+        {
+          "name": "Launch",
+          "wip_limit": 0,
+          "precedence_index": 5
+        },
+        {
+          "name": "Optimize (A/B)",
+          "wip_limit": 0,
+          "precedence_index": 6
+        },
+        {
+          "name": "Retargeting",
+          "wip_limit": 0,
+          "precedence_index": 7
+        },
+        {
+          "name": "CRO / Landing Tests",
+          "wip_limit": 0,
+          "precedence_index": 8
+        },
+        {
+          "name": "Post-Mortem Report",
+          "wip_limit": 0,
+          "precedence_index": 9
+        }
+      ],
+      "task_templates": [
+        {
+          "title": "Creative Split Tester \u2014 Campaign Brief",
+          "description": "Define goals, budget, audience, messaging; creative asks for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Campaign Brief",
+          "description": "Define goals, budget, audience, messaging; creative asks for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Campaign Brief",
+          "description": "Define goals, budget, audience, messaging; creative asks for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Campaign Brief",
+          "description": "Define goals, budget, audience, messaging; creative asks for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Audience & Offers",
+          "description": "Build target segments; craft offers/value props; align with Creative Split Tester outputs.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Audience & Offers",
+          "description": "Build target segments; craft offers/value props; align with Retargeting Specialist outputs.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Audience & Offers",
+          "description": "Build target segments; craft offers/value props; align with Funnel Specialist outputs.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Audience & Offers",
+          "description": "Build target segments; craft offers/value props; align with CRO Specialist outputs.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Creative Build",
+          "description": "Produce ad assets/landing pages; QA links/tracking for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Creative Build",
+          "description": "Produce ad assets/landing pages; QA links/tracking for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Creative Build",
+          "description": "Produce ad assets/landing pages; QA links/tracking for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Creative Build",
+          "description": "Produce ad assets/landing pages; QA links/tracking for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Tracking & Pixels",
+          "description": "Install/test pixels, UTMs, events; verify data capture for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Tracking & Pixels",
+          "description": "Install/test pixels, UTMs, events; verify data capture for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Tracking & Pixels",
+          "description": "Install/test pixels, UTMs, events; verify data capture for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Tracking & Pixels",
+          "description": "Install/test pixels, UTMs, events; verify data capture for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Launch",
+          "description": "Deploy campaigns; verify delivery pacing and spend for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Launch",
+          "description": "Deploy campaigns; verify delivery pacing and spend for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Launch",
+          "description": "Deploy campaigns; verify delivery pacing and spend for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Launch",
+          "description": "Deploy campaigns; verify delivery pacing and spend for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Optimize (A/B)",
+          "description": "A/B test creatives/audiences; iterate weekly for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Optimize (A/B)",
+          "description": "A/B test creatives/audiences; iterate weekly for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Optimize (A/B)",
+          "description": "A/B test creatives/audiences; iterate weekly for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Optimize (A/B)",
+          "description": "A/B test creatives/audiences; iterate weekly for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Retargeting",
+          "description": "Build audiences; sequence messaging by funnel stage for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Retargeting",
+          "description": "Build audiences; sequence messaging by funnel stage for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Retargeting",
+          "description": "Build audiences; sequence messaging by funnel stage for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Retargeting",
+          "description": "Build audiences; sequence messaging by funnel stage for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 CRO / Landing Tests",
+          "description": "Run CRO tests; implement winners; maintain log for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 CRO / Landing Tests",
+          "description": "Run CRO tests; implement winners; maintain log for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 CRO / Landing Tests",
+          "description": "Run CRO tests; implement winners; maintain log for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 CRO / Landing Tests",
+          "description": "Run CRO tests; implement winners; maintain log for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Creative Split Tester \u2014 Post-Mortem Report",
+          "description": "Analyze ROI; document learnings; update playbooks for Creative Split Tester.",
+          "sla_hours": 4,
+          "kpis": "CTR delta; CPA delta; experiment velocity",
+          "billing_unit": "per 5-variant test",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Bestever; Playzo; Native Ad Rules",
+          "automations": "Auto-launch variants; pause losers; log results",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Retargeting Specialist \u2014 Post-Mortem Report",
+          "description": "Analyze ROI; document learnings; update playbooks for Retargeting Specialist.",
+          "sla_hours": 8,
+          "kpis": "Retarget CVR; ROAS; freq. cap compliance",
+          "billing_unit": "per campaign setup",
+          "base_rate": 1500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Pabbly; Activepieces; Ad Platforms",
+          "automations": "Auto-sync audiences; frequency capping rules",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Funnel Specialist \u2014 Post-Mortem Report",
+          "description": "Analyze ROI; document learnings; update playbooks for Funnel Specialist.",
+          "sla_hours": 8,
+          "kpis": "LP CVR; pixel health; funnel completion %",
+          "billing_unit": "per funnel build",
+          "base_rate": 3000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "ProductDyno; SuiteDash; Smart Spreadsheets",
+          "automations": "Auto-QA checklist; pixel & UTM verification",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "CRO Specialist \u2014 Post-Mortem Report",
+          "description": "Analyze ROI; document learnings; update playbooks for CRO Specialist.",
+          "sla_hours": 8,
+          "kpis": "Uplift %; test velocity; win rate %",
+          "billing_unit": "per month retainer + success bonus",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "TruConversion; Smart Spreadsheets; Google Optimize (alt)",
+          "automations": "Auto-publish winners after significance",
+          "approver_role": "Marketing Lead"
+        }
+      ]
+    },
+    {
+      "name": "Strategy & Ops Pipeline",
+      "stages": [
+        {
+          "name": "Annual / Quarterly Planning",
+          "wip_limit": 0,
+          "precedence_index": 1
+        },
+        {
+          "name": "OKR Cascade",
+          "wip_limit": 0,
+          "precedence_index": 2
+        },
+        {
+          "name": "Resourcing & Budget",
+          "wip_limit": 0,
+          "precedence_index": 3
+        },
+        {
+          "name": "Execution Sync",
+          "wip_limit": 0,
+          "precedence_index": 4
+        },
+        {
+          "name": "SOP Review",
+          "wip_limit": 0,
+          "precedence_index": 5
+        },
+        {
+          "name": "Risk & Compliance",
+          "wip_limit": 0,
+          "precedence_index": 6
+        },
+        {
+          "name": "KPI Dashboard",
+          "wip_limit": 0,
+          "precedence_index": 7
+        },
+        {
+          "name": "Retrospective",
+          "wip_limit": 0,
+          "precedence_index": 8
+        }
+      ],
+      "task_templates": [
+        {
+          "title": "Content Calendar Specialist \u2014 Annual / Quarterly Planning",
+          "description": "Consolidate goals and initiatives; roadmap for Content Calendar Specialist contributions.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 Annual / Quarterly Planning",
+          "description": "Consolidate goals and initiatives; roadmap for QA Specialist contributions.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 Annual / Quarterly Planning",
+          "description": "Consolidate goals and initiatives; roadmap for Analytics Dashboard Builder contributions.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 OKR Cascade",
+          "description": "Break down company OKRs into team-level KR for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 OKR Cascade",
+          "description": "Break down company OKRs into team-level KR for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 OKR Cascade",
+          "description": "Break down company OKRs into team-level KR for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 Resourcing & Budget",
+          "description": "Allocate headcount/budget; confirm availability for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 Resourcing & Budget",
+          "description": "Allocate headcount/budget; confirm availability for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 Resourcing & Budget",
+          "description": "Allocate headcount/budget; confirm availability for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 Execution Sync",
+          "description": "Weekly status sync; unblockers reviewed; update risks for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 Execution Sync",
+          "description": "Weekly status sync; unblockers reviewed; update risks for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 Execution Sync",
+          "description": "Weekly status sync; unblockers reviewed; update risks for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 SOP Review",
+          "description": "Audit processes; update/checklists; train team for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 SOP Review",
+          "description": "Audit processes; update/checklists; train team for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 SOP Review",
+          "description": "Audit processes; update/checklists; train team for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 Risk & Compliance",
+          "description": "Review risks and mitigations; compliance attestations for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 Risk & Compliance",
+          "description": "Review risks and mitigations; compliance attestations for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 Risk & Compliance",
+          "description": "Review risks and mitigations; compliance attestations for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 KPI Dashboard",
+          "description": "Update dashboards; validate data; circulate to leaders for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 KPI Dashboard",
+          "description": "Update dashboards; validate data; circulate to leaders for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 KPI Dashboard",
+          "description": "Update dashboards; validate data; circulate to leaders for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Content Calendar Specialist \u2014 Retrospective",
+          "description": "Conduct retro; capture wins, issues, and actions for Content Calendar Specialist.",
+          "sla_hours": 4,
+          "kpis": "Schedule adherence %; content gap fill %",
+          "billing_unit": "per quarter plan",
+          "base_rate": 500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollup dashboards",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "QA Specialist \u2014 Retrospective",
+          "description": "Conduct retro; capture wins, issues, and actions for QA Specialist.",
+          "sla_hours": 4,
+          "kpis": "Error rate post-publish; % blocked pre-publish",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Approvals; Checklists",
+          "automations": "Auto-block publish if checks fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder \u2014 Retrospective",
+          "description": "Conduct retro; capture wins, issues, and actions for Analytics Dashboard Builder.",
+          "sla_hours": 8,
+          "kpis": "Report timeliness; data accuracy %",
+          "billing_unit": "per dashboard",
+          "base_rate": 2000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Boost.space; Smart Spreadsheets; Data Studio",
+          "automations": "Auto-refresh; email PDF weekly",
+          "approver_role": "Ops Lead"
+        }
+      ]
+    },
+    {
+      "name": "Business Support Pipeline",
+      "stages": [
+        {
+          "name": "Request / Intake",
+          "wip_limit": 0,
+          "precedence_index": 1
+        },
+        {
+          "name": "Triage & Assignment",
+          "wip_limit": 0,
+          "precedence_index": 2
+        },
+        {
+          "name": "Processing",
+          "wip_limit": 0,
+          "precedence_index": 3
+        },
+        {
+          "name": "Approval / Sign-off",
+          "wip_limit": 0,
+          "precedence_index": 4
+        },
+        {
+          "name": "Settlement / Closure",
+          "wip_limit": 0,
+          "precedence_index": 5
+        },
+        {
+          "name": "Audit & Archive",
+          "wip_limit": 0,
+          "precedence_index": 6
+        }
+      ],
+      "task_templates": [
+        {
+          "title": "Finance Manager \u2014 Request / Intake",
+          "description": "Log request; triage priority and owner for Finance Manager.",
+          "sla_hours": 4,
+          "kpis": "Budget variance %; month-end close time",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Accounting Suite; Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations; alerts on variance",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "HR / Recruiter \u2014 Request / Intake",
+          "description": "Log request; triage priority and owner for HR / Recruiter.",
+          "sla_hours": 4,
+          "kpis": "Time-to-hire; offer acceptance %; 90-day retention %",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash HR; TidyCal",
+          "automations": "Auto-stage-change comms; calendar invites",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Contracts Specialist \u2014 Request / Intake",
+          "description": "Log request; triage priority and owner for Contracts Specialist.",
+          "sla_hours": 4,
+          "kpis": "Cycle time; error-free rate; on-time renewals %",
+          "billing_unit": "per hour (client-facing)",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Contracts / eSign",
+          "automations": "Auto-reminders for renewals; eSign routing",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Finance Manager \u2014 Triage & Assignment",
+          "description": "Assign to specialist; set SLA and due date for Finance Manager.",
+          "sla_hours": 4,
+          "kpis": "Budget variance %; month-end close time",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Accounting Suite; Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations; alerts on variance",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "HR / Recruiter \u2014 Triage & Assignment",
+          "description": "Assign to specialist; set SLA and due date for HR / Recruiter.",
+          "sla_hours": 4,
+          "kpis": "Time-to-hire; offer acceptance %; 90-day retention %",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash HR; TidyCal",
+          "automations": "Auto-stage-change comms; calendar invites",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Contracts Specialist \u2014 Triage & Assignment",
+          "description": "Assign to specialist; set SLA and due date for Contracts Specialist.",
+          "sla_hours": 4,
+          "kpis": "Cycle time; error-free rate; on-time renewals %",
+          "billing_unit": "per hour (client-facing)",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Contracts / eSign",
+          "automations": "Auto-reminders for renewals; eSign routing",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Finance Manager \u2014 Processing",
+          "description": "Execute the work; communicate status; document for Finance Manager.",
+          "sla_hours": 4,
+          "kpis": "Budget variance %; month-end close time",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Accounting Suite; Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations; alerts on variance",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "HR / Recruiter \u2014 Processing",
+          "description": "Execute the work; communicate status; document for HR / Recruiter.",
+          "sla_hours": 4,
+          "kpis": "Time-to-hire; offer acceptance %; 90-day retention %",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash HR; TidyCal",
+          "automations": "Auto-stage-change comms; calendar invites",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Contracts Specialist \u2014 Processing",
+          "description": "Execute the work; communicate status; document for Contracts Specialist.",
+          "sla_hours": 4,
+          "kpis": "Cycle time; error-free rate; on-time renewals %",
+          "billing_unit": "per hour (client-facing)",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Contracts / eSign",
+          "automations": "Auto-reminders for renewals; eSign routing",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Finance Manager \u2014 Approval / Sign-off",
+          "description": "Route to approver; e-sign if required; record decision for Finance Manager.",
+          "sla_hours": 4,
+          "kpis": "Budget variance %; month-end close time",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Accounting Suite; Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations; alerts on variance",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "HR / Recruiter \u2014 Approval / Sign-off",
+          "description": "Route to approver; e-sign if required; record decision for HR / Recruiter.",
+          "sla_hours": 4,
+          "kpis": "Time-to-hire; offer acceptance %; 90-day retention %",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash HR; TidyCal",
+          "automations": "Auto-stage-change comms; calendar invites",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Contracts Specialist \u2014 Approval / Sign-off",
+          "description": "Route to approver; e-sign if required; record decision for Contracts Specialist.",
+          "sla_hours": 4,
+          "kpis": "Cycle time; error-free rate; on-time renewals %",
+          "billing_unit": "per hour (client-facing)",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Contracts / eSign",
+          "automations": "Auto-reminders for renewals; eSign routing",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Finance Manager \u2014 Settlement / Closure",
+          "description": "Complete payment/closure steps; archive artifacts for Finance Manager.",
+          "sla_hours": 4,
+          "kpis": "Budget variance %; month-end close time",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Accounting Suite; Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations; alerts on variance",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "HR / Recruiter \u2014 Settlement / Closure",
+          "description": "Complete payment/closure steps; archive artifacts for HR / Recruiter.",
+          "sla_hours": 4,
+          "kpis": "Time-to-hire; offer acceptance %; 90-day retention %",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash HR; TidyCal",
+          "automations": "Auto-stage-change comms; calendar invites",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Contracts Specialist \u2014 Settlement / Closure",
+          "description": "Complete payment/closure steps; archive artifacts for Contracts Specialist.",
+          "sla_hours": 4,
+          "kpis": "Cycle time; error-free rate; on-time renewals %",
+          "billing_unit": "per hour (client-facing)",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Contracts / eSign",
+          "automations": "Auto-reminders for renewals; eSign routing",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Finance Manager \u2014 Audit & Archive",
+          "description": "Reconcile records; secure storage; retention tagged for Finance Manager.",
+          "sla_hours": 4,
+          "kpis": "Budget variance %; month-end close time",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Accounting Suite; Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations; alerts on variance",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "HR / Recruiter \u2014 Audit & Archive",
+          "description": "Reconcile records; secure storage; retention tagged for HR / Recruiter.",
+          "sla_hours": 4,
+          "kpis": "Time-to-hire; offer acceptance %; 90-day retention %",
+          "billing_unit": "internal overhead",
+          "base_rate": 0,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash HR; TidyCal",
+          "automations": "Auto-stage-change comms; calendar invites",
+          "approver_role": "CFO/Legal"
+        },
+        {
+          "title": "Contracts Specialist \u2014 Audit & Archive",
+          "description": "Reconcile records; secure storage; retention tagged for Contracts Specialist.",
+          "sla_hours": 4,
+          "kpis": "Cycle time; error-free rate; on-time renewals %",
+          "billing_unit": "per hour (client-facing)",
+          "base_rate": 150,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash Contracts / eSign",
+          "automations": "Auto-reminders for renewals; eSign routing",
+          "approver_role": "CFO/Legal"
+        }
+      ]
+    },
+    {
+      "name": "Advanced / Experimental Pipeline",
+      "stages": [
+        {
+          "name": "Idea Intake",
+          "wip_limit": 0,
+          "precedence_index": 1
+        },
+        {
+          "name": "Prioritize & Scope",
+          "wip_limit": 0,
+          "precedence_index": 2
+        },
+        {
+          "name": "Pilot Build",
+          "wip_limit": 0,
+          "precedence_index": 3
+        },
+        {
+          "name": "Beta Test",
+          "wip_limit": 0,
+          "precedence_index": 4
+        },
+        {
+          "name": "Evaluate (KPI)",
+          "wip_limit": 0,
+          "precedence_index": 5
+        },
+        {
+          "name": "Scale / Kill",
+          "wip_limit": 0,
+          "precedence_index": 6
+        },
+        {
+          "name": "Handover to Ops",
+          "wip_limit": 0,
+          "precedence_index": 7
+        }
+      ],
+      "task_templates": [
+        {
+          "title": "AI Prompt Librarian \u2014 Idea Intake",
+          "description": "Collect ideas; define hypotheses and success metrics for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Idea Intake",
+          "description": "Collect ideas; define hypotheses and success metrics for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Idea Intake",
+          "description": "Collect ideas; define hypotheses and success metrics for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Idea Intake",
+          "description": "Collect ideas; define hypotheses and success metrics for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Prompt Librarian \u2014 Prioritize & Scope",
+          "description": "Score ideas; draft pilot scope, timeline, budget for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Prioritize & Scope",
+          "description": "Score ideas; draft pilot scope, timeline, budget for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Prioritize & Scope",
+          "description": "Score ideas; draft pilot scope, timeline, budget for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Prioritize & Scope",
+          "description": "Score ideas; draft pilot scope, timeline, budget for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Prompt Librarian \u2014 Pilot Build",
+          "description": "Develop MVP; integrate tooling; test for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Pilot Build",
+          "description": "Develop MVP; integrate tooling; test for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Pilot Build",
+          "description": "Develop MVP; integrate tooling; test for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Pilot Build",
+          "description": "Develop MVP; integrate tooling; test for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Prompt Librarian \u2014 Beta Test",
+          "description": "Run controlled beta; gather feedback/data for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Beta Test",
+          "description": "Run controlled beta; gather feedback/data for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Beta Test",
+          "description": "Run controlled beta; gather feedback/data for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Beta Test",
+          "description": "Run controlled beta; gather feedback/data for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Prompt Librarian \u2014 Evaluate (KPI)",
+          "description": "Compare results vs targets; recommend scale/kill for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Evaluate (KPI)",
+          "description": "Compare results vs targets; recommend scale/kill for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Evaluate (KPI)",
+          "description": "Compare results vs targets; recommend scale/kill for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Evaluate (KPI)",
+          "description": "Compare results vs targets; recommend scale/kill for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Prompt Librarian \u2014 Scale / Kill",
+          "description": "Execute decision; plan scale or sunset for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Scale / Kill",
+          "description": "Execute decision; plan scale or sunset for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Scale / Kill",
+          "description": "Execute decision; plan scale or sunset for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Scale / Kill",
+          "description": "Execute decision; plan scale or sunset for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Prompt Librarian \u2014 Handover to Ops",
+          "description": "Transfer to Ops; SOPs/training; monitoring for AI Prompt Librarian.",
+          "sla_hours": 8,
+          "kpis": "Prompt reuse %; library growth; satisfaction score",
+          "billing_unit": "per prompt pack",
+          "base_rate": 1000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts; usage analytics",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "AI Workflow Engineer \u2014 Handover to Ops",
+          "description": "Transfer to Ops; SOPs/training; monitoring for AI Workflow Engineer.",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced %; automation uptime %",
+          "billing_unit": "per automation project",
+          "base_rate": 3500,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Activepieces; KonnectzIT; Albato",
+          "automations": "Auto-monitor flow health; retries with alerts",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager \u2014 Handover to Ops",
+          "description": "Transfer to Ops; SOPs/training; monitoring for Influencer Manager.",
+          "sla_hours": 4,
+          "kpis": "# deals; campaign ROI; on-time deliverables %",
+          "billing_unit": "% of managed spend",
+          "base_rate": 0.18,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-remind deliverables; payout tracker",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Gamification Specialist \u2014 Handover to Ops",
+          "description": "Transfer to Ops; SOPs/training; monitoring for Gamification Specialist.",
+          "sla_hours": 8,
+          "kpis": "Engagement lift %; repeat participation %",
+          "billing_unit": "per campaign",
+          "base_rate": 5000,
+          "quoted_formula": "Quoted = Base Rate \u00d7 Value Multiplier \u00d7 (Rush 1.25\u00d7 if <48h)",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points; leaderboard updates",
+          "approver_role": "Ops Lead"
+        }
+      ]
+    }
+  ]
+}

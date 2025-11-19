@@ -1,0 +1,16 @@
+Day,Date,Task,Owner,Dependencies,Requirements,Deliverable/Goal
+1,2025-09-08,Kickoff call with estate attorney to outline trust and FLP setup,You + Estate Attorney,,Attorney engagement letter; availability for kickoff call,Clear roadmap for trust and FLP drafting
+2,2025-09-09,Attorney drafts irrevocable trust document with dynasty provisions,Estate Attorney,Day 1 kickoff call,"Attorney notes; jurisdiction decision (NV, SD, etc.)",First draft of irrevocable trust prepared
+3,2025-09-10,Review trust draft and provide comments,You,Day 2 draft prepared,Draft trust document from attorney,Feedback returned to attorney
+4,2025-09-11,Attorney incorporates feedback and finalizes trust,Estate Attorney,Day 3 feedback provided,Reviewed draft with comments,Irrevocable trust finalized and ready for execution
+5,2025-09-12,Execute irrevocable trust; notarization and witness signatures,You + Attorney,Day 4 finalized trust document,"Notary, witnesses, final trust document",Trust officially executed and legally valid
+6,2025-09-13,Attorney drafts Family Limited Partnership (FLP) agreement,Estate Attorney,Day 1 kickoff call,"Outline of partners, ownership splits, GP/LP roles",Draft FLP agreement prepared
+7,2025-09-14,Review FLP agreement draft,You,Day 6 draft FLP agreement,Draft FLP agreement from attorney,Feedback returned to attorney
+8,2025-09-15,Attorney incorporates feedback and finalizes FLP agreement,Estate Attorney,Day 7 feedback provided,Reviewed draft with comments,Final FLP agreement ready for execution
+9,2025-09-16,Execute FLP agreement with partners; notarization,You + Attorney + Partners,Day 8 final FLP agreement,"Partners present, notary, final FLP agreement",FLP legally executed
+10,2025-09-17,Form Parent Holding Company LLC (WY/DE),Corporate Attorney / Filing Service,Day 5 trust executed,"Articles of Organization, registered agent service",HoldCo LLC legally formed
+11,2025-09-18,Apply for EIN for Parent HoldCo and Trust,You / CPA,Day 10 HoldCo formed,"IRS Form SS-4, trust executed documents",EINs obtained for HoldCo and Trust
+12,2025-09-19,Form Management Company LLC (elect S-Corp status),Corporate Attorney / CPA,Day 10 HoldCo formed,"Articles of Organization, registered agent, Form 2553",MgmtCo legally formed and S-Corp election filed
+13,2025-09-20,"Open bank accounts for Trust, FLP, HoldCo, and MgmtCo",You / Bank Officer,"Day 5 trust executed, Day 9 FLP executed, Day 10 HoldCo formed","Entity documents, EINs, resolutions",Bank accounts opened for each entity
+14,2025-09-21,Form Real Estate Holding LLC and Asset Holding LLC,Corporate Attorney / Filing Service,Day 10 HoldCo formed,"Articles of Organization, registered agent service",REI LLC and AssetCo legally formed
+15,2025-09-22,Kickoff compliance calendar setup and document repository,You / CPA / Attorney,All prior entity formations completed,"Compliance calendar template, cloud storage setup",Compliance framework initiated

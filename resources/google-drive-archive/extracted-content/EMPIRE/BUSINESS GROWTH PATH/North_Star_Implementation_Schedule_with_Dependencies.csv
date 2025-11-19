@@ -1,0 +1,11 @@
+Task,Start,End,Description,Dependencies
+Phase 1: Entity & Trust Formation,2025-09-08,2025-09-23,"Engage attorneys, draft irrevocable trust and FLP, form holding company, management company, real estate holding entities, and open bank accounts.",
+Phase 2: Ownership Assignments & Asset Transfers,2025-09-23,2025-10-08,"Assign FLP and trust ownership, transfer IP and equipment, execute IP licenses and equipment leases.",Phase 1: Entity & Trust Formation
+Phase 3: Intercompany Agreements & Chart of Accounts,2025-10-08,2025-10-23,"Execute MSAs, cost-sharing, and intercompany loan agreements; update chart of accounts and accounting systems.",Phase 2: Ownership Assignments & Asset Transfers
+Phase 4: Retirement & Philanthropy Setup,2025-10-23,2025-11-07,"Fund Solo 401(k), set up plan-owned LLC, ILIT policy, file Form 1023, adopt nonprofit bylaws, seed initial contributions.",Phase 3: Intercompany Agreements & Chart of Accounts
+Phase 5: Governance Review & Compliance Calendar,2025-11-07,2025-12-07,"Adopt operating agreements, elect managers, approve transfer pricing policies, establish compliance calendar.",Phase 4: Retirement & Philanthropy Setup
+Phase 6: SuiteDash Onboarding & Data Migration,2025-12-08,2025-12-27,"Conduct due diligence, plan and execute data migration, set up portals, RACI roles, automations, and project templates.",Phase 5: Governance Review & Compliance Calendar
+Phase 7: Neat Circle Service Package Integration,2025-12-28,2026-01-16,"Implement Neat Circle service packages for customer support, marketing, business systems, and growth systems.",Phase 6: SuiteDash Onboarding & Data Migration
+Phase 8: Launch ToriMedia Campaigns,2026-01-17,2026-02-05,"Create brand assets, content calendars, influencer and paid media campaigns; link metrics back to SuiteDash.",Phase 7: Neat Circle Service Package Integration
+Phase 9: Harmonise Operations & Pricing,2026-02-06,2026-03-07,"Standardise service offerings and pricing, finalise leasebacks, train staff using SuiteDash guides, adjust projections.",Phase 8: Launch ToriMedia Campaigns
+Phase 10: Scale & Governance,2026-03-08,2026-09-08,"Acquire two businesses per quarter, onboard them into SuiteDash, deploy Neat Circle and ToriMedia, establish quarterly board meetings.",Phase 9: Harmonise Operations & Pricing

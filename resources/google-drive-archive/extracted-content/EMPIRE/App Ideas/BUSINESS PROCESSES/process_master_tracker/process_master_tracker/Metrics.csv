@@ -1,0 +1,195 @@
+MetricID,ProcessID,Metric_Name,Definition,Formula,Target,Threshold,Review_Frequency,Data_Source,Owner
+MET-001,PROC-001,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-001-Q,PROC-001,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-002,PROC-002,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-002-Q,PROC-002,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-003,PROC-003,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-003-Q,PROC-003,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-004,PROC-004,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-004-Q,PROC-004,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-005,PROC-005,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-005-Q,PROC-005,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-006,PROC-006,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-006-Q,PROC-006,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-007,PROC-007,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-007-Q,PROC-007,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-008,PROC-008,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-008-Q,PROC-008,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-009,PROC-009,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-009-Q,PROC-009,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-010,PROC-010,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-010-Q,PROC-010,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-011,PROC-011,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-011-Q,PROC-011,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-012,PROC-012,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-012-Q,PROC-012,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-013,PROC-013,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-013-Q,PROC-013,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-014,PROC-014,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-014-Q,PROC-014,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-015,PROC-015,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-015-Q,PROC-015,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-016,PROC-016,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-016-Q,PROC-016,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-017,PROC-017,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-017-Q,PROC-017,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-018,PROC-018,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-018-Q,PROC-018,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-019,PROC-019,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-019-Q,PROC-019,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-020,PROC-020,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-020-Q,PROC-020,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-021,PROC-021,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-021-Q,PROC-021,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-022,PROC-022,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-022-Q,PROC-022,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-023,PROC-023,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-023-Q,PROC-023,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-024,PROC-024,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-024-Q,PROC-024,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-025,PROC-025,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-025-Q,PROC-025,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-026,PROC-026,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-026-Q,PROC-026,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-027,PROC-027,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-027-Q,PROC-027,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-028,PROC-028,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-028-Q,PROC-028,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-029,PROC-029,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-029-Q,PROC-029,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-030,PROC-030,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-030-Q,PROC-030,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-031,PROC-031,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-031-Q,PROC-031,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-032,PROC-032,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-032-Q,PROC-032,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-033,PROC-033,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-033-Q,PROC-033,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-034,PROC-034,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-034-Q,PROC-034,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-035,PROC-035,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-035-Q,PROC-035,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-036,PROC-036,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-036-Q,PROC-036,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-037,PROC-037,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-037-Q,PROC-037,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-038,PROC-038,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-038-Q,PROC-038,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-039,PROC-039,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-039-Q,PROC-039,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-040,PROC-040,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-040-Q,PROC-040,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-041,PROC-041,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-041-Q,PROC-041,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-042,PROC-042,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-042-Q,PROC-042,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-043,PROC-043,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-043-Q,PROC-043,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-044,PROC-044,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-044-Q,PROC-044,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-045,PROC-045,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-045-Q,PROC-045,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-046,PROC-046,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-046-Q,PROC-046,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-047,PROC-047,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-047-Q,PROC-047,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-048,PROC-048,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-048-Q,PROC-048,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-049,PROC-049,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-049-Q,PROC-049,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-050,PROC-050,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-050-Q,PROC-050,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-051,PROC-051,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-051-Q,PROC-051,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-052,PROC-052,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-052-Q,PROC-052,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-053,PROC-053,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-053-Q,PROC-053,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-054,PROC-054,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-054-Q,PROC-054,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-055,PROC-055,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-055-Q,PROC-055,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-056,PROC-056,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-056-Q,PROC-056,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-057,PROC-057,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-057-Q,PROC-057,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-058,PROC-058,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-058-Q,PROC-058,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-059,PROC-059,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-059-Q,PROC-059,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-060,PROC-060,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-060-Q,PROC-060,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-061,PROC-061,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-061-Q,PROC-061,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-062,PROC-062,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-062-Q,PROC-062,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-063,PROC-063,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-063-Q,PROC-063,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-064,PROC-064,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-064-Q,PROC-064,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-065,PROC-065,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-065-Q,PROC-065,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-066,PROC-066,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-066-Q,PROC-066,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-067,PROC-067,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-067-Q,PROC-067,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-068,PROC-068,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-068-Q,PROC-068,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-069,PROC-069,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-069-Q,PROC-069,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-070,PROC-070,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-070-Q,PROC-070,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-071,PROC-071,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-071-Q,PROC-071,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-072,PROC-072,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-072-Q,PROC-072,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-073,PROC-073,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-073-Q,PROC-073,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-074,PROC-074,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-074-Q,PROC-074,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-075,PROC-075,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-075-Q,PROC-075,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-076,PROC-076,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-076-Q,PROC-076,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-077,PROC-077,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-077-Q,PROC-077,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-078,PROC-078,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-078-Q,PROC-078,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-079,PROC-079,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-079-Q,PROC-079,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-080,PROC-080,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-080-Q,PROC-080,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-081,PROC-081,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-081-Q,PROC-081,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-082,PROC-082,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-082-Q,PROC-082,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-083,PROC-083,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-083-Q,PROC-083,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-084,PROC-084,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-084-Q,PROC-084,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-085,PROC-085,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-085-Q,PROC-085,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-086,PROC-086,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-086-Q,PROC-086,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-087,PROC-087,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-087-Q,PROC-087,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-088,PROC-088,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-088-Q,PROC-088,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-089,PROC-089,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-089-Q,PROC-089,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-090,PROC-090,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-090-Q,PROC-090,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-091,PROC-091,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-091-Q,PROC-091,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-092,PROC-092,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-092-Q,PROC-092,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-093,PROC-093,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-093-Q,PROC-093,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-094,PROC-094,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-094-Q,PROC-094,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-095,PROC-095,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-095-Q,PROC-095,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-096,PROC-096,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-096-Q,PROC-096,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead
+MET-097,PROC-097,Primary Cycle Time,Elapsed time from start to end,EndTime - StartTime,Reduce by 20%,Alert if > target + 20%,Monthly,System Logs/PM Tool,Data/Analytics Lead
+MET-097-Q,PROC-097,Quality/Defect Rate,% of items requiring rework,Defects / Total Items,< 2%,> 5%,Monthly,QA Checklist,Operations Lead

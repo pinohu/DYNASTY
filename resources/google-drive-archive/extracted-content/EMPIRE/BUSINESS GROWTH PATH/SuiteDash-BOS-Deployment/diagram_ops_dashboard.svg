@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" font-family="Inter, Arial, sans-serif">
+<style>
+    .lane { fill:#f5f7fb; stroke:#c9d2e5; stroke-width:1; }
+    .box { fill:#ffffff; stroke:#334155; stroke-width:1; rx:6; ry:6; }
+    .title { font-weight:bold; fill:#0f172a; font-size:16px; }
+    .text { fill:#0f172a; font-size:12px; }
+    .caption { fill:#475569; font-size:11px; }
+    .arrow { stroke:#334155; stroke-width:1.5; marker-end:url(#arrow); fill:none; }
+</style>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+    <polygon points="0 0, 10 3.5, 0 7" fill="#334155"/>
+  </marker>
+</defs>
+<text x="20" y="30" class="title">Ops Dashboard Mockup</text>
+<rect x="20" y="60" width="300" height="120" class="box"/>
+<text x="30" y="85" class="text">On-time %</text>
+<text x="30" y="115" class="caption">…sample chart placeholder…</text>
+<rect x="340" y="60" width="300" height="120" class="box"/>
+<text x="350" y="85" class="text">WIP (Active Tasks)</text>
+<text x="350" y="115" class="caption">…sample chart placeholder…</text>
+<rect x="660" y="60" width="300" height="120" class="box"/>
+<text x="670" y="85" class="text">Utilization %</text>
+<text x="670" y="115" class="caption">…sample chart placeholder…</text>
+<rect x="20" y="200" width="460" height="180" class="box"/>
+<text x="30" y="225" class="text">SLA Met % (Support)</text>
+<text x="30" y="255" class="caption">…sample chart placeholder…</text>
+<rect x="500" y="200" width="460" height="180" class="box"/>
+<text x="510" y="225" class="text">Defect Trend / Rework Rate</text>
+<text x="510" y="255" class="caption">…sample chart placeholder…</text>

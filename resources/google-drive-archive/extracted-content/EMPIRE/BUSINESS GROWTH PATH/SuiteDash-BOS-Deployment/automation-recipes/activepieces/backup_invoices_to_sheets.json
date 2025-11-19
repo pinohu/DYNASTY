@@ -1,0 +1,19 @@
+{
+  "name": "Backup Invoices to Sheets",
+  "trigger": {
+    "type": "CRON",
+    "expression": "0 2 * * 1"
+  },
+  "steps": [
+    {
+      "type": "HTTP_GET",
+      "url": "{{SUITEDASH_API_BASE}}/invoices?date=today-7d..today"
+    },
+    {
+      "type": "GOOGLE_SHEETS_APPEND",
+      "spreadsheetId": "{{SHEET_ID}}",
+      "range": "Invoices!A:Z",
+      "rows": "{{payload.rows}}"
+    }
+  ]
+}

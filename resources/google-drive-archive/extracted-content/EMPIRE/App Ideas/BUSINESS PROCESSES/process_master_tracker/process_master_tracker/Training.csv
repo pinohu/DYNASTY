@@ -1,0 +1,98 @@
+TrainingID,ProcessID,Title,Audience,Modality,Duration,Materials_Link,Assessment_Criteria
+TRN-001,PROC-001,Training: Annual Strategic Planning,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-002,PROC-002,Training: Quarterly OKRs & Review,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-003,PROC-003,Training: Market Research & Niche Validation,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-004,PROC-004,Training: Product/Service Portfolio Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-005,PROC-005,Training: Pricing Strategy & Packaging,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-006,PROC-006,Training: Partner/Channel Strategy,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-007,PROC-007,Training: Brand Governance & Messaging,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-008,PROC-008,Training: SEO Content Lifecycle,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-009,PROC-009,Training: Content Repurposing & Syndication,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-010,PROC-010,Training: Social Media Calendar & Community,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-011,PROC-011,Training: Email List Building & Nurture,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-012,PROC-012,Training: Paid Ads Campaign Lifecycle,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-013,PROC-013,Training: Influencer/UGC Program,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-014,PROC-014,Training: PR & Thought Leadership,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-015,PROC-015,Training: Affiliate/Referral Program,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-016,PROC-016,Training: Web Analytics & CRO Loop,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-017,PROC-017,Training: Lead Intake & Qualification,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-018,PROC-018,Training: Discovery Call Workflow,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-019,PROC-019,Training: Solutioning/Demo Workflow,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-020,PROC-020,Training: Proposal & SOW Creation,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-021,PROC-021,Training: Contracting & eSignature,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-022,PROC-022,Training: Deal Desk & Discounting,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-023,PROC-023,Training: Pipeline Hygiene & Forecasting,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-024,PROC-024,Training: Onboarding Handoff (Sales→Delivery),All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-025,PROC-025,Training: Welcome & Kickoff,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-026,PROC-026,Training: Requirements Gathering,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-027,PROC-027,Training: Implementation/Setup,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-028,PROC-028,Training: Training & Enablement,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-029,PROC-029,Training: Go-Live/Launch Readiness,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-030,PROC-030,Training: Hypercare (30/60/90),All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-031,PROC-031,Training: Onboarding Closeout & Feedback,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-032,PROC-032,Training: Project Intake & Planning,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-033,PROC-033,Training: Work Execution & QA,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-034,PROC-034,Training: Change Request Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-035,PROC-035,Training: Deliverable Packaging & Handover,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-036,PROC-036,Training: Issue/Incident Response,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-037,PROC-037,Training: Maintenance & Service Reviews,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-038,PROC-038,Training: Product Sourcing/Vetting,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-039,PROC-039,Training: Inventory Planning & Reorder,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-040,PROC-040,Training: Listing Creation & QA,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-041,PROC-041,Training: Order Fulfillment & Shipping,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-042,PROC-042,Training: Returns & Exchanges,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-043,PROC-043,Training: Supplier Performance Review,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-044,PROC-044,Training: Roadmap & Backlog Grooming,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-045,PROC-045,Training: Sprint Planning & Standups,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-046,PROC-046,Training: Code Review & QA,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-047,PROC-047,Training: Release/Deployment Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-048,PROC-048,Training: Security Patch & Vulnerability Mgmt,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-049,PROC-049,Training: Uptime/Monitoring/Incident Mgmt,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-050,PROC-050,Training: Change Log & Communications,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-051,PROC-051,Training: Helpdesk/Ticket Triage,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-052,PROC-052,Training: Escalation & RCA,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-053,PROC-053,Training: Renewals & Expansion,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-054,PROC-054,Training: Health Scoring & QBRs,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-055,PROC-055,Training: Community/Forum Moderation,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-056,PROC-056,Training: Knowledge Base Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-057,PROC-057,Training: Budgeting & Forecasting,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-058,PROC-058,Training: Invoicing & Collections,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-059,PROC-059,Training: AP/Expense Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-060,PROC-060,Training: Payroll & Contractor Payments,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-061,PROC-061,Training: Month-End Close & Reporting,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-062,PROC-062,Training: Tax Compliance & Filings,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-063,PROC-063,Training: Procurement & Vendor Mgmt,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-064,PROC-064,Training: Workforce Planning & Reqs,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-065,PROC-065,Training: Recruiting & Interviewing,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-066,PROC-066,Training: New Hire Onboarding (People),All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-067,PROC-067,Training: Compensation & Benefits Admin,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-068,PROC-068,Training: Performance Reviews & PIPs,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-069,PROC-069,Training: L&D / Training Programs,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-070,PROC-070,Training: Offboarding & Knowledge Transfer,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-071,PROC-071,Training: Policy Management & Training,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-072,PROC-072,Training: Data Privacy & Access Control,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-073,PROC-073,"Training: Regulatory Compliance (e.g., HIPAA)",All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-074,PROC-074,Training: Contract Lifecycle Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-075,PROC-075,Training: Risk Assessment & Mitigation,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-076,PROC-076,Training: Business Continuity/DR,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-077,PROC-077,Training: Internal Audit & CAPA,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-078,PROC-078,Training: Integration Design & Orchestration,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-079,PROC-079,Training: ETL/ELT Data Pipelines,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-080,PROC-080,Training: KPI Definition & Dashboards,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-081,PROC-081,Training: Automation Opportunity Intake,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-082,PROC-082,Training: Bot/Script Maintenance,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-083,PROC-083,Training: Data Backup & Restore Tests,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-084,PROC-084,Training: Property Acquisition & Due Diligence,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-085,PROC-085,Training: Tenant Onboarding & Lease Mgmt,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-086,PROC-086,Training: Maintenance Work Orders,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-087,PROC-087,Training: Construction Job Estimating & Bids,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-088,PROC-088,Training: Site Safety & Compliance,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-089,PROC-089,Training: Coaching Program Curriculum & Sessions,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-090,PROC-090,Training: KDP Title Ideation & Launch,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-091,PROC-091,Training: KDP Royalty Tracking & Optimization,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-092,PROC-092,Training: Category/Location Taxonomy Updates,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-093,PROC-093,Training: Member Verification & QA,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-094,PROC-094,Training: Listing Approval & Publishing,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-095,PROC-095,Training: Lead Distribution & Routing,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-096,PROC-096,Training: Coupon/Deal Management,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%
+TRN-097,PROC-097,Training: Churn Prevention & Win-Back,All executors,Video + Live Q&A,45–60 min,./Training/materials.md,Quiz score ≥ 80%

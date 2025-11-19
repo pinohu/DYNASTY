@@ -1,0 +1,25 @@
+{
+  "_note": "Boost.space (Make) pseudo-config; map to modules in UI",
+  "trigger": "SuiteDash - Project status changed to Completed",
+  "modules": [
+    {
+      "type": "ActiveCampaign - Trigger Automation",
+      "config": {
+        "automationId": "{{SURVEY_AUTOMATION_ID}}",
+        "contactId": "{{clientId}}"
+      }
+    },
+    {
+      "type": "AITable - Update",
+      "config": {
+        "table": "Feedback",
+        "fields": {
+          "Client ID": "{{clientId}}",
+          "NPS": null,
+          "Comment": ""
+        }
+      }
+    }
+  ],
+  "result": "Survey initiated and placeholder feedback record created"
+}

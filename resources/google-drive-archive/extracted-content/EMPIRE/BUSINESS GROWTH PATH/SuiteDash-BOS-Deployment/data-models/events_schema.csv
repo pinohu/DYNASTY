@@ -1,0 +1,7 @@
+Event,Source,Payload Fields,Description
+LeadCaptured,SuiteDash/Website,clientId|name|email|serviceType|budgetRange,New inquiry received
+LeadEnriched,SalesPanel,clientId|score|company|industry,Lead enrichment
+InvoiceCreated,SuiteDash,invoiceId|clientId|amount|dueDate,Invoice issued
+PaymentReceived,SuiteDash,invoiceId|clientId|amount|date,Payment success
+ProjectMilestone,Blue,projectId|milestone|completedAt,Task or milestone completion
+SurveySubmitted,ActiveCampaign,clientId|rating|comment,Post-service feedback

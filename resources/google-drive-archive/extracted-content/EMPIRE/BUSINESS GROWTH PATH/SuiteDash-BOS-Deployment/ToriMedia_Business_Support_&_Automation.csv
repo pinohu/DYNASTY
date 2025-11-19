@@ -1,0 +1,26 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+Business Support & Automation,Contracts,"Digital contract creation, signing, and storage.","Agencies, Freelancers, Businesses","1. SuiteDash Dynamic Docs setup for contracts.
+2. Client fills form; auto-generate contract.
+3. Send for e-sign via portal.
+4. Automate signed doc storage in client folder.
+5. Trigger invoice post-signature.","SuiteDash Dynamic Docs/Portal, Make (doc backup), ActiveCampaign (confirmation emails)"
+Business Support & Automation,Prompt Library,Curated prompt libraries for AI-powered workflows.,"Agencies, Teams, Creators","1. Form intake: desired categories/use-cases.
+2. Auto-create project library with categorized prompts.
+3. Upload files in portal knowledge base.
+4. Automate tagging and search indexing.
+5. Periodic updates pushed to clients.","SuiteDash Wiki/Portal, Make (updates push)"
+Business Support & Automation,AI Automation,Implement AI-driven automations for repetitive tasks.,"Businesses, Agencies, Operations Managers","1. Identify tasks for automation with client.
+2. Design workflow in SuiteDash or Make.
+3. Integrate AI APIs via Make (OpenAI, etc.).
+4. Log outputs in SuiteDash tasks.
+5. Review & refine quarterly.","SuiteDash Automations, Make/n8n, AI APIs"
+Business Support & Automation,Influencer Management,Manage influencer collaborations and reporting.,"Agencies, Brands, Marketers","1. Form intake: influencer list and goals.
+2. Project board with each influencer as task.
+3. Track deliverables and due dates.
+4. Portal reporting for client visibility.
+5. Automated reminders for influencer deadlines.","SuiteDash Projects/Portal, Make (social sync), ActiveCampaign"
+Business Support & Automation,Gamification,"Gamify engagement with rewards, points, and leaderboards.","Communities, Brands, Educators","1. Define gamification rules with client.
+2. Custom objects in SuiteDash for points tracking.
+3. Automate point allocation via triggers (form submissions, tasks).
+4. Portal displays leaderboard widget.
+5. Automate rewards distribution via email.","SuiteDash Portal/Custom Objects, Make, ActiveCampaign"

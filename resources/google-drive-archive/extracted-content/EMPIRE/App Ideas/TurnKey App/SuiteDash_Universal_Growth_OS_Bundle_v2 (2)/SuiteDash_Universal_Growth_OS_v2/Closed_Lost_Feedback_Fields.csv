@@ -1,0 +1,5 @@
+field_name,type,options
+Lost Reason,Dropdown,Price|Timing|Trust|Authority/Approval|Competing Priority|Other
+Primary Objection (Text),Text,
+What would have changed your mind?,Long Text,
+Permission to follow up later?,Dropdown,Yes|No|Later

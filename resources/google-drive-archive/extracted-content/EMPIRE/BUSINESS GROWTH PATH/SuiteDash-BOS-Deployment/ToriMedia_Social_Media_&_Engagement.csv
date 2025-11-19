@@ -1,0 +1,21 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+Social Media & Engagement,Hashtag Research,Optimized hashtags for increasing reach on social platforms.,"Influencers, Brands, Social Media Managers","1. Form captures niche, content type, and competitors.
+2. Task checklist: competitor analysis, trend scan, generate hashtag set.
+3. Deliver via portal as downloadable document.
+4. Tag project ‘Hashtag Research’ for reporting.
+5. Optionally, schedule content with hashtags using external scheduler.","SuiteDash Forms/Tasks/Portal, Make (trend scraping APIs), ActiveCampaign (social campaigns)"
+Social Media & Engagement,Content Scheduling,Plan and schedule content calendars across multiple platforms.,"Brands, Agencies, Influencers","1. Collect platform credentials/preferences securely.
+2. Build content calendar in SuiteDash project tasks.
+3. Automate posting via Make integration with platforms.
+4. Use client portal to preview scheduled posts.
+5. Auto-generate monthly analytics report.","SuiteDash Projects/Portal, Make (social posting), ActiveCampaign (email content sync)"
+Social Media & Engagement,Community Management,"Engage with followers, moderate groups, and respond to inquiries.","Influencers, Small Businesses, Communities","1. Set up SuiteDash support desk for community inquiries.
+2. Automate notifications for messages needing replies.
+3. Track response SLAs in SuiteDash tasks.
+4. Weekly summary sent to client via portal.
+5. Escalate unresolved issues automatically.","SuiteDash Tickets/Tasks, Make (chatbot integration), ActiveCampaign (community emails)"
+Social Media & Engagement,Direct Messaging,Personalized DM campaigns for outreach and relationship building.,"Influencers, Marketers, Sales Teams","1. SuiteDash intake form captures target audience/offer.
+2. Automate DM lists using Make from social platforms.
+3. Track sent/response in SuiteDash CRM custom pipeline.
+4. Escalate warm leads to sales pipeline stage.
+5. Provide weekly DM outcome reports in portal.","SuiteDash CRM/Portal, Make (social DMs APIs), ActiveCampaign (follow-up nurture)"

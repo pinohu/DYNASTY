@@ -1,0 +1,14 @@
+{
+  "widget": "Onboarding Progress",
+  "version": "1.0",
+  "datasource": "GraphQL",
+  "fields": [
+    "percentComplete",
+    "nextMilestone",
+    "nextVisitDate"
+  ],
+  "embed": {
+    "suiteDashPortal": true
+  },
+  "refreshSeconds": 900
+}

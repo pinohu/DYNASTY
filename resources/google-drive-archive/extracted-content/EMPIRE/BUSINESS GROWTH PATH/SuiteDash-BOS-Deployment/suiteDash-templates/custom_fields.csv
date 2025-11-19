@@ -1,0 +1,6 @@
+Field Name,Type,Choices,Required,Description
+Service Type,Dropdown,Roofing|Kitchen Remodel|Bathroom Remodel|HVAC|Flooring,TRUE,Primary service requested
+Budget Range,Dropdown,<10k|10-25k|25-50k|50k+,FALSE,Estimated customer budget
+Property Address,Text,,TRUE,Job site address
+Preferred Start Date,Date,,FALSE,Desired project start date
+Lead Source,Dropdown,Website|Referral|Ad|Other,FALSE,How they found us

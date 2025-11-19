@@ -1,0 +1,6 @@
+Name,Trigger App,Trigger Event,Action App,Action,Field Mapping,Automation Tool
+Content Approved -> Auto-Publish,SuiteDash,Task Approved,WordPress,Publish Post & Notify Editor,"Title, Body, Tags, Featured Image URL, Author",Activepieces/Pabbly
+New Video in Drive -> Create Edit Task,Google Drive,File Created in /Video Raw,PM Platform,"Create Task, Attach File, Assign Video Editor",File URL -> Attachment; File Name -> Task Title,Activepieces/Pabbly
+Form Lead -> CRM + DM Assignment,GoZen Forms,New Submission,SalesNexus + PM,"Create Lead, Assign DM Specialist, Start Nurture","Name, Email, Source, Campaign, Message",Activepieces/Pabbly
+Ad Loser -> Auto Pause,Ad Platform,Metric Below Threshold (CTR/CPA),Ad Platform + Slack/Email,Pause Ad; Notify Growth Lead; Log Result,"Ad ID, Campaign ID, Metric Values, Reason",Native Rules + Activepieces
+Weekly KPI Snapshot,Scheduler,Friday 5:00 PM,Boost.space + Email,Export Dashboards to PDF; Email Execs,"Report Links, Date Range, Recipients",Pabbly/Activepieces

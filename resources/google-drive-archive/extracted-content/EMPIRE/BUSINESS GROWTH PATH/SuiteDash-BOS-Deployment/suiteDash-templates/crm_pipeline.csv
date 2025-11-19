@@ -1,0 +1,7 @@
+Stage Name,Probability,Description
+Lead,10,Initial contact
+Qualified,30,Lead confirmed interest
+Proposal Sent,50,Estimate/quote delivered
+Contract Signed,70,Client committed
+Active Project,90,Work ongoing
+Completed,100,Project finished

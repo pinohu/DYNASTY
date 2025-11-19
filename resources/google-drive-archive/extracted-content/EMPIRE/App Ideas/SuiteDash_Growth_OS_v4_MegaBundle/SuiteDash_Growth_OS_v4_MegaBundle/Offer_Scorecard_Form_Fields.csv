@@ -1,0 +1,6 @@
+Field,Type,Options/Weight
+Dream Outcome Strength,Dropdown,1|2|3|4|5 (x3)
+Likelihood to Win,Dropdown,1|2|3|4|5 (x3)
+Time Delay,Dropdown,"1|2|3|4|5 (x2, invert)"
+Effort & Sacrifice,Dropdown,"1|2|3|4|5 (x2, invert)"
+Notes,Long Text,

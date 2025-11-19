@@ -1,0 +1,13 @@
+RoleID,Role,Responsibilities
+ROLE-001,Executive Sponsor,"Sets strategy, removes blockers"
+ROLE-002,Operations Lead,Owns core processes & delivery
+ROLE-003,Sales Lead,Owns pipeline & closing
+ROLE-004,Marketing Lead,"Owns content, SEO, campaigns"
+ROLE-005,Finance Lead,"Owns budgeting, invoicing, compliance"
+ROLE-006,Customer Success Lead,Owns onboarding & retention
+ROLE-007,Support Lead,Owns helpdesk & escalations
+ROLE-008,Product/Engineering Lead,"Owns roadmap, releases, QA"
+ROLE-009,Compliance Officer,Owns policies & audits
+ROLE-010,Automation Architect,Owns integrations & RPA
+ROLE-011,Data/Analytics Lead,Owns KPIs & dashboards
+ROLE-012,HR/People Ops,"Owns hiring, onboarding, reviews"

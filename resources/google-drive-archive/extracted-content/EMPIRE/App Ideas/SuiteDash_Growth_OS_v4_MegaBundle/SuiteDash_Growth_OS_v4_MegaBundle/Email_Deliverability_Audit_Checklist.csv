@@ -1,0 +1,9 @@
+Item,Status,Notes
+SPF present & valid,,
+DKIM keys live,,
+DMARC policy set,,
+Domain verified in SuiteDash,,
+Warm-up schedule active,,
+Bounce list reviewed weekly,,
+Complaint rate <0.1%,,
+DMARC report reviewed monthly,,

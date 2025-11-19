@@ -1,0 +1,6 @@
+Name,Trigger,Action,Automation Tool
+Content Approved -> Auto-Publish,SuiteDash Task Approved,WordPress Post Publish,Activepieces/Pabbly
+New Video in Drive -> Create Edit Task,Google Drive File Created,Create Task in PM; Notify Editor,Activepieces/Pabbly
+Form Lead -> CRM + DM Assignment,GoZen Form Submission,Create Lead in SalesNexus; Assign DM Specialist,Activepieces/Pabbly
+Ad Loser -> Auto Pause,Ad Metric Falls Below Threshold,Pause Ad in Platform; Notify Growth Lead,Activepieces/Native Rules
+Weekly KPI Snapshot,Every Friday 5pm,Export Dashboards; Email Execs,Boost.space + Email via Pabbly

@@ -1,0 +1,27 @@
+# Client Overview - Unified GraphQL
+query ClientOverview($clientId: ID!) {
+  suiteDashClient(id: $clientId) {
+    id
+    name
+    email
+    invoices { id status amount dueDate }
+    projects { id name status percentComplete }
+  }
+  salesNexusClient(id: $clientId) {
+    id
+    lastContacted
+    dealStage
+    tags
+  }
+  blueProjects(clientId: $clientId) {
+    id
+    name
+    progress
+    nextVisitDate
+  }
+  aitableSummary(clientId: $clientId) {
+    ltv
+    lastInvoiceAmount
+    npsScore
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Invoice Reminder",
+  "trigger": {
+    "type": "CRON",
+    "expression": "0 10 * * *"
+  },
+  "steps": [
+    {
+      "type": "HTTP_GET",
+      "url": "{{SUITEDASH_API_BASE}}/invoices?status=overdue"
+    },
+    {
+      "type": "FOR_EACH",
+      "items": "$.data",
+      "step": {
+        "type": "EMAIL_SEND",
+        "to": "{{item.clientEmail}}",
+        "subject": "Invoice Overdue",
+        "body": "Please pay invoice {{item.number}}."
+      }
+    }
+  ]
+}

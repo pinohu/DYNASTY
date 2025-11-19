@@ -1,0 +1,57 @@
+{
+  "app": "Referral Tracker",
+  "version": "1.0",
+  "datasources": [
+    "GraphQL"
+  ],
+  "entities": {
+    "Client": {
+      "fields": [
+        "id",
+        "name",
+        "email",
+        "referralCode",
+        "referralCount"
+      ]
+    },
+    "Referral": {
+      "fields": [
+        "id",
+        "clientId",
+        "referredEmail",
+        "status",
+        "rewardIssued"
+      ]
+    }
+  },
+  "ui": {
+    "widgets": [
+      {
+        "name": "ReferralSummary",
+        "data": "Client.referralCount"
+      },
+      {
+        "name": "InviteForm",
+        "action": "createReferral"
+      },
+      {
+        "name": "ReferralTable",
+        "data": "Referral[*]"
+      }
+    ]
+  },
+  "actions": {
+    "createReferral": {
+      "type": "mutation",
+      "endpoint": "GraphQL",
+      "input": [
+        "clientId",
+        "referredEmail"
+      ]
+    }
+  },
+  "integration": {
+    "suiteDashPortalEmbed": true,
+    "activeCampaignOnNewReferral": true
+  }
+}

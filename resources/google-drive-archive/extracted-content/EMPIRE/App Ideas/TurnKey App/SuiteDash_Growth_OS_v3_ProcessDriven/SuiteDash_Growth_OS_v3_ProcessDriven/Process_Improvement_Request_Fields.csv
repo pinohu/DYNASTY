@@ -1,0 +1,7 @@
+field_name,type,options
+Process Affected,Text,
+Observed Problem / Friction,Long Text,
+Proposed Change,Long Text,
+Impact (Time/Quality/Risk),Dropdown,Low|Medium|High
+Urgency,Dropdown,Low|Medium|High
+Attachment / Example URL,Text,

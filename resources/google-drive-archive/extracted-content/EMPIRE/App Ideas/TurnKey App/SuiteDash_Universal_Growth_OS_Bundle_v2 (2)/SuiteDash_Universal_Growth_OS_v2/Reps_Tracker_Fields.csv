@@ -1,0 +1,7 @@
+field_name,type,options
+Week Starting (Date),Date,
+Offers Drafted,Number,
+Outreach Attempts,Number,
+Long-Form Content Shipped,Number,
+Proof Assets Captured,Number,
+Notes,Long Text,

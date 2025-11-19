@@ -1,0 +1,22 @@
+Field Name,Description,Field Type,Usage,Options
+Dream_Outcome_Score,Rate the prospect's desired outcome appeal (1-10 scale),Number,CRM Targets,Min:1|Max:10|Default:5
+Likelihood_Score,Prospect's belief in achieving outcome (1-10 scale),Number,CRM Targets,Min:1|Max:10|Default:5
+Time_Delay_Days,Expected days to achieve desired outcome,Number,CRM Targets,Min:1|Max:365|Default:90
+Effort_Score,Required effort from prospect (1-10 scale),Number,CRM Targets,Min:1|Max:10|Default:5
+Calculated_Value,Auto-calculated value score using Hormozi equation,Number,CRM Targets,Min:0|Max:100|Default:0
+Primary_Pain_Point,Main problem identified in CLOSER Clarify stage,Multi-line Text Area,CRM Targets,
+Problem_Label,Labeled problem from CLOSER Label stage,Single-line Text Area,CRM Targets,
+Previous_Solutions_Tried,Past attempts documented in Overview stage,Multi-line Text Area,CRM Targets,
+Demo_Delivered,Confirmation that demo/presentation was given,Checkbox,CRM Targets,
+Objections_Handled,Record of objections raised and responses given,Multi-line Text Area,CRM Targets,
+Lead_Score,Composite lead score (0-100),Number,CRM Targets,Min:0|Max:100|Default:0
+Company_Size,Number of employees at prospect's company,Dropdown,CRM Targets,1-10 employees|11-50 employees|51-200 employees|201-1000 employees|1000+ employees
+Budget_Authority,Prospect's budget decision-making authority,Dropdown,CRM Targets,Decision Maker|Strong Influence|Some Influence|No Authority
+Lead_Source_Primary,Primary source where lead originated,Dropdown,CRM Targets,Website Form|Social Media|Email Campaign|Referral|Paid Advertising|Content Marketing|Webinar|Trade Show|Cold Outreach|Other
+Engagement_Level,Contact's engagement with marketing content,Dropdown,CRM Targets,High Engagement|Medium Engagement|Low Engagement|No Engagement
+Customer_LTV,Calculated or estimated customer lifetime value,Number,CRM Targets,Min:0|Default:0
+Purchase_Frequency,Expected purchases per year,Number,CRM Targets,Min:0|Max:12|Default:1
+Average_Transaction_Value,Average value per transaction,Number,CRM Targets,Min:0|Default:0
+Customer_CAC,Cost to acquire this customer,Number,CRM Targets,Min:0|Default:0
+Profit_Margin_Percent,Expected profit margin percentage,Number,CRM Targets,Min:0|Max:100|Default:20
+

@@ -1,0 +1,8 @@
+field_name,type,options
+Offer Name,Text,
+Core Mechanism,Text,
+Fast Win (≤72h),Text,
+Guarantee Type,Dropdown,Performance|Conditional|Satisfaction
+Price / Term,Text,
+Capacity Slot,Date,
+Proof Required,Checkbox,Yes

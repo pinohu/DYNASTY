@@ -1,0 +1,8 @@
+field_name,type,options
+Quarter,Dropdown,Q1|Q2|Q3|Q4
+Stage This Quarter,Dropdown,Improvise|Monetize|Advertise|Stabilize|Prioritize|Productize|Optimize|Categorize|Specialize|Capitalize
+Biggest Bottleneck,Long Text,
+Skills to Build,Long Text,
+Delegations to Make,Long Text,
+Financial Targets,Long Text,
+Scorecard (1–10) Focus/Execution,Number,

@@ -1,0 +1,36 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+Marketing & Funnels,Split Testing,"A/B testing for creatives, ads, or landing pages.","Marketers, Agencies, E-commerce","1. Form intake: what asset to test and KPIs.
+2. Set up SuiteDash project with tasks for version A & B.
+3. Integrate tracking pixels via Make.
+4. Collect performance results in SuiteDash dashboard.
+5. Report best performer in portal + recommend rollout.","SuiteDash Projects/Dashboards, Make (tracking pixels), ActiveCampaign (A/B emails)"
+Marketing & Funnels,Retargeting,Run retargeting campaigns to re-engage audiences.,"Marketers, Agencies, E-commerce","1. Form intake for campaign goals and audiences.
+2. Auto-create project with ad creative tasks.
+3. Use Make to sync SuiteDash contacts into ad platforms.
+4. Monitor conversion events; report in dashboard.
+5. Portal summary for client ROI reporting.","SuiteDash CRM/Portal, Make (FB/Google Ads sync), ActiveCampaign"
+Marketing & Funnels,Funnel Building,"Create end-to-end funnels (opt-in, nurture, conversion).","Agencies, Startups, Course Creators","1. Capture funnel goals and audience via form.
+2. Build funnel assets: landing page, email sequence, upsells.
+3. Tasks auto-assigned: design, copy, integration.
+4. Track funnel performance in dashboard.
+5. Portal houses funnel assets + client review access.","SuiteDash Projects/Tasks/Portal, ActiveCampaign, Make (landing pages sync)"
+Marketing & Funnels,Conversion Optimization,Audit and optimize conversion touchpoints to boost sales.,"Agencies, Marketers, E-commerce","1. Form collects analytics access and goals.
+2. Tasks for heatmap analysis, UX audit, CRO tweaks.
+3. Report issues and wins in portal.
+4. Implement changes; track new KPIs.
+5. Automated follow-up to review results after 30 days.","SuiteDash Projects/Portal, TruConversion (heatmaps), Make (analytics sync)"
+Marketing & Funnels,Content Calendar,Strategic content calendar aligned with marketing goals.,"Agencies, Marketers, Creators","1. SuiteDash form captures objectives and themes.
+2. Project task board: each task = content piece.
+3. Auto-generate monthly board; assign writers/designers.
+4. Use portal calendar for client visibility.
+5. Automated reminders for deadlines.","SuiteDash Projects/Calendar, Make (calendar sync), ActiveCampaign"
+Marketing & Funnels,QA,Quality assurance for campaigns and content before launch.,"Agencies, Marketing Teams, E-commerce","1. Intake checklist of QA parameters.
+2. Tasks created: review design, copy, links.
+3. Automated testing tasks (forms, emails).
+4. Final QA report uploaded to portal.
+5. Block launch until QA task complete.","SuiteDash Tasks/Portal, Make (automation testing)"
+Marketing & Funnels,Analytics Dashboard,Centralized dashboard for KPIs across campaigns.,"Business Owners, Agencies, Marketers","1. Identify KPIs and data sources with client.
+2. Integrate sources via Make into SuiteDash custom objects.
+3. Design dashboard widgets in SuiteDash portal.
+4. Automate nightly updates of data.
+5. Portal view shared with client.","SuiteDash Dashboards, Make/AITable, Google Analytics/FB Ads"

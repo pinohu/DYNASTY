@@ -1,0 +1,17 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+"Top‑level grouping (Customer & Support, Marketing & Sales, Business Systems, Industry Solutions, Growth Systems).",The specific service offering name.,Short value proposition and scope of the service.,Primary buyer/user segments this service targets.,Exact step‑by‑step instructions to configure the service inside SuiteDash.,External tools/platforms used and how they connect (BOS bundle).
+Industry Solutions,Construction Management Solution,"End‑to‑end project templates, document control, and milestone alerts.","Construction Executives, GCs, Owners","1. Create project templates with phased tasks.
+2. Set folder structures (blueprints, permits).
+3. Grant client/sub access via circles; restrict views.
+4. Automate phase completions & deadline reminders.
+5. Embed inspection scheduling & daily site reports.","SuiteDash Projects/Files/Portal, Make (weather/API), Calendars, QBO (job costing)"
+Industry Solutions,Manufacturing Optimization Solution,"Production scheduling, QC checkpoints, and WIP dashboards.","Manufacturing Leaders, Plant Managers","1. Map order→production→QC→shipping to tasks/projects.
+2. Auto‑create QC tasks; capture pass/fail & notes.
+3. Sync inventory/POS via Make; trigger POs.
+4. Build production KPIs dashboard; track OTD%.
+5. Schedule preventive maintenance as recurring tasks.","SuiteDash Projects/Tasks, Inventory/ERP via Make, Google Sheets/Looker"
+Industry Solutions,Franchise Management Solution,"Multi‑location portal, reporting, training, and support hub.","Franchisors, Regional Managers, Franchisees","1. Model franchises as Companies/Circles; limit data scope.
+2. Build franchise portal: resources, forum, support.
+3. Automate weekly/monthly KPI submissions via forms.
+4. Roll‑up dashboards for HQ; local dashboards for units.
+5. Assign LMS curricula; track compliance & expirations.","SuiteDash Companies/Circles/LMS/Tickets, Make (POS/analytics), ActiveCampaign (broadcasts)"

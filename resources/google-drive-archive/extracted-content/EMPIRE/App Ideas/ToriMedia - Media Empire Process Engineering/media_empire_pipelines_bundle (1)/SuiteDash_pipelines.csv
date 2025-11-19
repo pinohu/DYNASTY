@@ -1,0 +1,184 @@
+Platform,Department,Pipeline,Stage,Task Template,SLA (Hours),KPIs,Primary Tools,Automations,Approver
+SuiteDash,Creative & Content,Creative & Content Pipeline,Intake & Brief,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Intake & Brief,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Intake & Brief,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Intake & Brief,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Intake & Brief,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Ideation & Research,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Ideation & Research,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Ideation & Research,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Ideation & Research,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Ideation & Research,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Draft / Production,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Draft / Production,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Draft / Production,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Draft / Production,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Draft / Production,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Edit / Review,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Edit / Review,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Edit / Review,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Edit / Review,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Edit / Review,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Design & Multimedia,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Design & Multimedia,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Design & Multimedia,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Design & Multimedia,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Design & Multimedia,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,QA / Compliance,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,QA / Compliance,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,QA / Compliance,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,QA / Compliance,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,QA / Compliance,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Publish,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Publish,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Publish,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Publish,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Publish,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Promotion / Syndication,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Promotion / Syndication,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Promotion / Syndication,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Promotion / Syndication,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Promotion / Syndication,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Performance Review,Thumbnail Designer,8,"CTR, Revisions/asset, On-time %",Publit.io; Bestever; SUPERMACHINE,Auto-notify Editor on upload; Auto-publish on approval,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Performance Review,Video Editor (Short),10,"Avg watch %, Completion rate, Time to edit",Phygital+; Unmixr AI,Auto-ingest from Drive; Auto-caption,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Performance Review,Copywriter,6,"CTR uplift, Conversions, QA errors",Katteb; WordHero; Writeseed,Auto-assign editor; Grammar QA,Marketing Lead
+SuiteDash,Creative & Content,Creative & Content Pipeline,Performance Review,Scriptwriter,8,"Approval rate 1st pass, Turnaround",KWHero; Nichesss,Auto-outline generator; Versioning,Creative Director
+SuiteDash,Creative & Content,Creative & Content Pipeline,Performance Review,Illustrator,6,"Saves/Shares, Turnaround",SUPERMACHINE; Phygital+,Auto-export variants,Creative Director
+SuiteDash,Social & Community,Social & Community Pipeline,Calendar Planning,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Calendar Planning,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Calendar Planning,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Calendar Planning,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,Asset Prep,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Asset Prep,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Asset Prep,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Asset Prep,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,Approval,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Approval,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Approval,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Approval,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,Scheduling,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Scheduling,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Scheduling,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Scheduling,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,Live / Engage,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Live / Engage,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Live / Engage,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Live / Engage,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,Moderation & Escalation,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Moderation & Escalation,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Moderation & Escalation,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Moderation & Escalation,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,UGC Curation,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,UGC Curation,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,UGC Curation,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,UGC Curation,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Social & Community,Social & Community Pipeline,Weekly Reporting,Hashtag Researcher,2,"Reach lift, CTR change",WriterZen; Yazo; Squirrly SEO,Weekly auto-report,Social Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Weekly Reporting,Content Scheduler,2,"On-time %, Posting errors",Pabbly; Activepieces,Auto-schedule by best-time model,Marketing Lead
+SuiteDash,Social & Community,Social & Community Pipeline,Weekly Reporting,Community Manager,3,"Resp. time, Engagement/user",SuiteDash; SalesNexus,Auto-escalate to support,Head of Community
+SuiteDash,Social & Community,Social & Community Pipeline,Weekly Reporting,DM Specialist,3,"Qualified leads, Resp. time",SalesNexus; WhatsApp CRM,Auto-create CRM lead,Sales Manager
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Campaign Brief,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Campaign Brief,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Campaign Brief,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Campaign Brief,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Audience & Offers,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Audience & Offers,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Audience & Offers,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Audience & Offers,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Creative Build,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Creative Build,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Creative Build,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Creative Build,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Tracking & Pixels,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Tracking & Pixels,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Tracking & Pixels,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Tracking & Pixels,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Launch,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Launch,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Launch,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Launch,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Optimize (A/B),Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Optimize (A/B),Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Optimize (A/B),Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Optimize (A/B),CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Retargeting,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Retargeting,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Retargeting,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Retargeting,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,CRO / Landing Tests,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,CRO / Landing Tests,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,CRO / Landing Tests,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,CRO / Landing Tests,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Post-Mortem Report,Creative Split Tester,4,"CTR delta, CPA delta",Bestever; Playzo,Auto-launch variant; Auto-pause losers,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Post-Mortem Report,Retargeting Specialist,3,"Retarget CVR, ROAS",Pabbly; Activepieces; SalesNexus,Auto-sync audiences,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Post-Mortem Report,Funnel Specialist,6,"LP CVR, Pixel health",ProductDyno; SuiteDash,Auto-QA checklist,Growth Lead
+SuiteDash,Advertising & Growth,Advertising & Growth Pipeline,Post-Mortem Report,CRO Specialist,6,"Test velocity, Uplift %",TruConversion; Smart Spreadsheets,Auto-publish winners,Growth Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Annual / Quarterly Planning,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Annual / Quarterly Planning,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Annual / Quarterly Planning,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,OKR Cascade,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,OKR Cascade,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,OKR Cascade,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Resourcing & Budget,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Resourcing & Budget,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Resourcing & Budget,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Execution Sync,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Execution Sync,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Execution Sync,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,SOP Review,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,SOP Review,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,SOP Review,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Risk & Compliance,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Risk & Compliance,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Risk & Compliance,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,KPI Dashboard,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,KPI Dashboard,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,KPI Dashboard,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Retrospective,Content Calendar Specialist,3,Schedule adherence,AITable.ai; Lunacal; SuiteDash,Auto-reminders; rollups,CMO
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Retrospective,QA Specialist,2,Error rate post-publish,SuiteDash,Auto-block publish on fail,Ops Lead
+SuiteDash,Strategy & Ops,Strategy & Ops Pipeline,Retrospective,Analytics Dashboard Builder,6,"Report timeliness, Data accuracy",Boost.space; Smart Spreadsheets,Auto-refresh & email PDF,COO
+SuiteDash,Business Support,Business Support Pipeline,Request / Intake,Finance Manager,8,"Budget variance, Close time",Pabbly; Smart Spreadsheets,Auto-reconciliations,CFO
+SuiteDash,Business Support,Business Support Pipeline,Request / Intake,HR / Recruiter,6,"Time-to-hire, Offer accept %",SuiteDash HR,Auto-stage change comms,COO
+SuiteDash,Business Support,Business Support Pipeline,Request / Intake,Contracts Specialist,3,"Cycle time, Errors",SuiteDash,Auto-reminders for renewals,Legal
+SuiteDash,Business Support,Business Support Pipeline,Triage & Assignment,Finance Manager,8,"Budget variance, Close time",Pabbly; Smart Spreadsheets,Auto-reconciliations,CFO
+SuiteDash,Business Support,Business Support Pipeline,Triage & Assignment,HR / Recruiter,6,"Time-to-hire, Offer accept %",SuiteDash HR,Auto-stage change comms,COO
+SuiteDash,Business Support,Business Support Pipeline,Triage & Assignment,Contracts Specialist,3,"Cycle time, Errors",SuiteDash,Auto-reminders for renewals,Legal
+SuiteDash,Business Support,Business Support Pipeline,Processing,Finance Manager,8,"Budget variance, Close time",Pabbly; Smart Spreadsheets,Auto-reconciliations,CFO
+SuiteDash,Business Support,Business Support Pipeline,Processing,HR / Recruiter,6,"Time-to-hire, Offer accept %",SuiteDash HR,Auto-stage change comms,COO
+SuiteDash,Business Support,Business Support Pipeline,Processing,Contracts Specialist,3,"Cycle time, Errors",SuiteDash,Auto-reminders for renewals,Legal
+SuiteDash,Business Support,Business Support Pipeline,Approval / Sign-off,Finance Manager,8,"Budget variance, Close time",Pabbly; Smart Spreadsheets,Auto-reconciliations,CFO
+SuiteDash,Business Support,Business Support Pipeline,Approval / Sign-off,HR / Recruiter,6,"Time-to-hire, Offer accept %",SuiteDash HR,Auto-stage change comms,COO
+SuiteDash,Business Support,Business Support Pipeline,Approval / Sign-off,Contracts Specialist,3,"Cycle time, Errors",SuiteDash,Auto-reminders for renewals,Legal
+SuiteDash,Business Support,Business Support Pipeline,Settlement / Closure,Finance Manager,8,"Budget variance, Close time",Pabbly; Smart Spreadsheets,Auto-reconciliations,CFO
+SuiteDash,Business Support,Business Support Pipeline,Settlement / Closure,HR / Recruiter,6,"Time-to-hire, Offer accept %",SuiteDash HR,Auto-stage change comms,COO
+SuiteDash,Business Support,Business Support Pipeline,Settlement / Closure,Contracts Specialist,3,"Cycle time, Errors",SuiteDash,Auto-reminders for renewals,Legal
+SuiteDash,Business Support,Business Support Pipeline,Audit & Archive,Finance Manager,8,"Budget variance, Close time",Pabbly; Smart Spreadsheets,Auto-reconciliations,CFO
+SuiteDash,Business Support,Business Support Pipeline,Audit & Archive,HR / Recruiter,6,"Time-to-hire, Offer accept %",SuiteDash HR,Auto-stage change comms,COO
+SuiteDash,Business Support,Business Support Pipeline,Audit & Archive,Contracts Specialist,3,"Cycle time, Errors",SuiteDash,Auto-reminders for renewals,Legal
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Idea Intake,AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Idea Intake,AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Idea Intake,Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Idea Intake,Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Prioritize & Scope,AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Prioritize & Scope,AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Prioritize & Scope,Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Prioritize & Scope,Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Pilot Build,AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Pilot Build,AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Pilot Build,Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Pilot Build,Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Beta Test,AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Beta Test,AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Beta Test,Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Beta Test,Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Evaluate (KPI),AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Evaluate (KPI),AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Evaluate (KPI),Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Evaluate (KPI),Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Scale / Kill,AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Scale / Kill,AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Scale / Kill,Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Scale / Kill,Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Handover to Ops,AI Prompt Librarian,3,"Reuse %, Library growth",KWHero; Nichesss; WordHero,Auto-tag prompts,AI Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Handover to Ops,AI Workflow Engineer,8,Manual time reduced,Activepieces; KonnectzIT,Auto-monitor flows,Ops Lead
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Handover to Ops,Influencer Manager,6,"#Deals, ROI",SuiteDash CRM; SwipeOne,Auto-track deliverables,Marketing Director
+SuiteDash,Advanced / Experimental,Advanced / Experimental Pipeline,Handover to Ops,Gamification Specialist,6,Engagement lift,Playzo; ProductDyno; GoZen Forms,Auto-award points,Head of Community

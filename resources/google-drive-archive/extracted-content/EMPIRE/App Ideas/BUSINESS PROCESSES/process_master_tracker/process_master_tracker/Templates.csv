@@ -1,0 +1,195 @@
+TemplateID,ProcessID,Type,Name,Description,File_Link
+TEMP-001,PROC-001,Email,Annual Strategic Planning – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-001-C,PROC-001,Checklist,Annual Strategic Planning – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-002,PROC-002,Email,Quarterly OKRs & Review – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-002-C,PROC-002,Checklist,Quarterly OKRs & Review – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-003,PROC-003,Email,Market Research & Niche Validation – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-003-C,PROC-003,Checklist,Market Research & Niche Validation – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-004,PROC-004,Email,Product/Service Portfolio Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-004-C,PROC-004,Checklist,Product/Service Portfolio Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-005,PROC-005,Email,Pricing Strategy & Packaging – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-005-C,PROC-005,Checklist,Pricing Strategy & Packaging – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-006,PROC-006,Email,Partner/Channel Strategy – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-006-C,PROC-006,Checklist,Partner/Channel Strategy – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-007,PROC-007,Email,Brand Governance & Messaging – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-007-C,PROC-007,Checklist,Brand Governance & Messaging – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-008,PROC-008,Email,SEO Content Lifecycle – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-008-C,PROC-008,Checklist,SEO Content Lifecycle – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-009,PROC-009,Email,Content Repurposing & Syndication – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-009-C,PROC-009,Checklist,Content Repurposing & Syndication – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-010,PROC-010,Email,Social Media Calendar & Community – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-010-C,PROC-010,Checklist,Social Media Calendar & Community – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-011,PROC-011,Email,Email List Building & Nurture – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-011-C,PROC-011,Checklist,Email List Building & Nurture – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-012,PROC-012,Email,Paid Ads Campaign Lifecycle – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-012-C,PROC-012,Checklist,Paid Ads Campaign Lifecycle – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-013,PROC-013,Email,Influencer/UGC Program – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-013-C,PROC-013,Checklist,Influencer/UGC Program – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-014,PROC-014,Email,PR & Thought Leadership – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-014-C,PROC-014,Checklist,PR & Thought Leadership – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-015,PROC-015,Email,Affiliate/Referral Program – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-015-C,PROC-015,Checklist,Affiliate/Referral Program – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-016,PROC-016,Email,Web Analytics & CRO Loop – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-016-C,PROC-016,Checklist,Web Analytics & CRO Loop – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-017,PROC-017,Email,Lead Intake & Qualification – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-017-C,PROC-017,Checklist,Lead Intake & Qualification – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-018,PROC-018,Email,Discovery Call Workflow – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-018-C,PROC-018,Checklist,Discovery Call Workflow – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-019,PROC-019,Email,Solutioning/Demo Workflow – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-019-C,PROC-019,Checklist,Solutioning/Demo Workflow – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-020,PROC-020,Email,Proposal & SOW Creation – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-020-C,PROC-020,Checklist,Proposal & SOW Creation – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-021,PROC-021,Email,Contracting & eSignature – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-021-C,PROC-021,Checklist,Contracting & eSignature – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-022,PROC-022,Email,Deal Desk & Discounting – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-022-C,PROC-022,Checklist,Deal Desk & Discounting – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-023,PROC-023,Email,Pipeline Hygiene & Forecasting – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-023-C,PROC-023,Checklist,Pipeline Hygiene & Forecasting – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-024,PROC-024,Email,Onboarding Handoff (Sales→Delivery) – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-024-C,PROC-024,Checklist,Onboarding Handoff (Sales→Delivery) – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-025,PROC-025,Email,Welcome & Kickoff – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-025-C,PROC-025,Checklist,Welcome & Kickoff – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-026,PROC-026,Email,Requirements Gathering – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-026-C,PROC-026,Checklist,Requirements Gathering – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-027,PROC-027,Email,Implementation/Setup – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-027-C,PROC-027,Checklist,Implementation/Setup – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-028,PROC-028,Email,Training & Enablement – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-028-C,PROC-028,Checklist,Training & Enablement – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-029,PROC-029,Email,Go-Live/Launch Readiness – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-029-C,PROC-029,Checklist,Go-Live/Launch Readiness – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-030,PROC-030,Email,Hypercare (30/60/90) – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-030-C,PROC-030,Checklist,Hypercare (30/60/90) – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-031,PROC-031,Email,Onboarding Closeout & Feedback – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-031-C,PROC-031,Checklist,Onboarding Closeout & Feedback – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-032,PROC-032,Email,Project Intake & Planning – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-032-C,PROC-032,Checklist,Project Intake & Planning – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-033,PROC-033,Email,Work Execution & QA – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-033-C,PROC-033,Checklist,Work Execution & QA – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-034,PROC-034,Email,Change Request Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-034-C,PROC-034,Checklist,Change Request Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-035,PROC-035,Email,Deliverable Packaging & Handover – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-035-C,PROC-035,Checklist,Deliverable Packaging & Handover – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-036,PROC-036,Email,Issue/Incident Response – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-036-C,PROC-036,Checklist,Issue/Incident Response – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-037,PROC-037,Email,Maintenance & Service Reviews – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-037-C,PROC-037,Checklist,Maintenance & Service Reviews – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-038,PROC-038,Email,Product Sourcing/Vetting – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-038-C,PROC-038,Checklist,Product Sourcing/Vetting – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-039,PROC-039,Email,Inventory Planning & Reorder – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-039-C,PROC-039,Checklist,Inventory Planning & Reorder – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-040,PROC-040,Email,Listing Creation & QA – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-040-C,PROC-040,Checklist,Listing Creation & QA – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-041,PROC-041,Email,Order Fulfillment & Shipping – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-041-C,PROC-041,Checklist,Order Fulfillment & Shipping – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-042,PROC-042,Email,Returns & Exchanges – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-042-C,PROC-042,Checklist,Returns & Exchanges – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-043,PROC-043,Email,Supplier Performance Review – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-043-C,PROC-043,Checklist,Supplier Performance Review – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-044,PROC-044,Email,Roadmap & Backlog Grooming – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-044-C,PROC-044,Checklist,Roadmap & Backlog Grooming – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-045,PROC-045,Email,Sprint Planning & Standups – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-045-C,PROC-045,Checklist,Sprint Planning & Standups – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-046,PROC-046,Email,Code Review & QA – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-046-C,PROC-046,Checklist,Code Review & QA – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-047,PROC-047,Email,Release/Deployment Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-047-C,PROC-047,Checklist,Release/Deployment Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-048,PROC-048,Email,Security Patch & Vulnerability Mgmt – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-048-C,PROC-048,Checklist,Security Patch & Vulnerability Mgmt – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-049,PROC-049,Email,Uptime/Monitoring/Incident Mgmt – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-049-C,PROC-049,Checklist,Uptime/Monitoring/Incident Mgmt – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-050,PROC-050,Email,Change Log & Communications – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-050-C,PROC-050,Checklist,Change Log & Communications – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-051,PROC-051,Email,Helpdesk/Ticket Triage – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-051-C,PROC-051,Checklist,Helpdesk/Ticket Triage – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-052,PROC-052,Email,Escalation & RCA – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-052-C,PROC-052,Checklist,Escalation & RCA – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-053,PROC-053,Email,Renewals & Expansion – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-053-C,PROC-053,Checklist,Renewals & Expansion – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-054,PROC-054,Email,Health Scoring & QBRs – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-054-C,PROC-054,Checklist,Health Scoring & QBRs – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-055,PROC-055,Email,Community/Forum Moderation – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-055-C,PROC-055,Checklist,Community/Forum Moderation – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-056,PROC-056,Email,Knowledge Base Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-056-C,PROC-056,Checklist,Knowledge Base Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-057,PROC-057,Email,Budgeting & Forecasting – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-057-C,PROC-057,Checklist,Budgeting & Forecasting – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-058,PROC-058,Email,Invoicing & Collections – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-058-C,PROC-058,Checklist,Invoicing & Collections – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-059,PROC-059,Email,AP/Expense Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-059-C,PROC-059,Checklist,AP/Expense Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-060,PROC-060,Email,Payroll & Contractor Payments – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-060-C,PROC-060,Checklist,Payroll & Contractor Payments – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-061,PROC-061,Email,Month-End Close & Reporting – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-061-C,PROC-061,Checklist,Month-End Close & Reporting – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-062,PROC-062,Email,Tax Compliance & Filings – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-062-C,PROC-062,Checklist,Tax Compliance & Filings – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-063,PROC-063,Email,Procurement & Vendor Mgmt – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-063-C,PROC-063,Checklist,Procurement & Vendor Mgmt – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-064,PROC-064,Email,Workforce Planning & Reqs – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-064-C,PROC-064,Checklist,Workforce Planning & Reqs – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-065,PROC-065,Email,Recruiting & Interviewing – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-065-C,PROC-065,Checklist,Recruiting & Interviewing – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-066,PROC-066,Email,New Hire Onboarding (People) – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-066-C,PROC-066,Checklist,New Hire Onboarding (People) – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-067,PROC-067,Email,Compensation & Benefits Admin – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-067-C,PROC-067,Checklist,Compensation & Benefits Admin – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-068,PROC-068,Email,Performance Reviews & PIPs – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-068-C,PROC-068,Checklist,Performance Reviews & PIPs – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-069,PROC-069,Email,L&D / Training Programs – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-069-C,PROC-069,Checklist,L&D / Training Programs – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-070,PROC-070,Email,Offboarding & Knowledge Transfer – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-070-C,PROC-070,Checklist,Offboarding & Knowledge Transfer – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-071,PROC-071,Email,Policy Management & Training – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-071-C,PROC-071,Checklist,Policy Management & Training – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-072,PROC-072,Email,Data Privacy & Access Control – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-072-C,PROC-072,Checklist,Data Privacy & Access Control – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-073,PROC-073,Email,"Regulatory Compliance (e.g., HIPAA) – Email Template",Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-073-C,PROC-073,Checklist,"Regulatory Compliance (e.g., HIPAA) – Checklist",Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-074,PROC-074,Email,Contract Lifecycle Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-074-C,PROC-074,Checklist,Contract Lifecycle Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-075,PROC-075,Email,Risk Assessment & Mitigation – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-075-C,PROC-075,Checklist,Risk Assessment & Mitigation – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-076,PROC-076,Email,Business Continuity/DR – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-076-C,PROC-076,Checklist,Business Continuity/DR – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-077,PROC-077,Email,Internal Audit & CAPA – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-077-C,PROC-077,Checklist,Internal Audit & CAPA – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-078,PROC-078,Email,Integration Design & Orchestration – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-078-C,PROC-078,Checklist,Integration Design & Orchestration – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-079,PROC-079,Email,ETL/ELT Data Pipelines – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-079-C,PROC-079,Checklist,ETL/ELT Data Pipelines – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-080,PROC-080,Email,KPI Definition & Dashboards – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-080-C,PROC-080,Checklist,KPI Definition & Dashboards – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-081,PROC-081,Email,Automation Opportunity Intake – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-081-C,PROC-081,Checklist,Automation Opportunity Intake – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-082,PROC-082,Email,Bot/Script Maintenance – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-082-C,PROC-082,Checklist,Bot/Script Maintenance – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-083,PROC-083,Email,Data Backup & Restore Tests – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-083-C,PROC-083,Checklist,Data Backup & Restore Tests – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-084,PROC-084,Email,Property Acquisition & Due Diligence – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-084-C,PROC-084,Checklist,Property Acquisition & Due Diligence – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-085,PROC-085,Email,Tenant Onboarding & Lease Mgmt – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-085-C,PROC-085,Checklist,Tenant Onboarding & Lease Mgmt – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-086,PROC-086,Email,Maintenance Work Orders – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-086-C,PROC-086,Checklist,Maintenance Work Orders – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-087,PROC-087,Email,Construction Job Estimating & Bids – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-087-C,PROC-087,Checklist,Construction Job Estimating & Bids – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-088,PROC-088,Email,Site Safety & Compliance – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-088-C,PROC-088,Checklist,Site Safety & Compliance – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-089,PROC-089,Email,Coaching Program Curriculum & Sessions – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-089-C,PROC-089,Checklist,Coaching Program Curriculum & Sessions – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-090,PROC-090,Email,KDP Title Ideation & Launch – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-090-C,PROC-090,Checklist,KDP Title Ideation & Launch – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-091,PROC-091,Email,KDP Royalty Tracking & Optimization – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-091-C,PROC-091,Checklist,KDP Royalty Tracking & Optimization – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-092,PROC-092,Email,Category/Location Taxonomy Updates – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-092-C,PROC-092,Checklist,Category/Location Taxonomy Updates – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-093,PROC-093,Email,Member Verification & QA – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-093-C,PROC-093,Checklist,Member Verification & QA – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-094,PROC-094,Email,Listing Approval & Publishing – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-094-C,PROC-094,Checklist,Listing Approval & Publishing – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-095,PROC-095,Email,Lead Distribution & Routing – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-095-C,PROC-095,Checklist,Lead Distribution & Routing – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-096,PROC-096,Email,Coupon/Deal Management – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-096-C,PROC-096,Checklist,Coupon/Deal Management – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md
+TEMP-097,PROC-097,Email,Churn Prevention & Win-Back – Email Template,Reusable email skeleton for this process,./Templates/email_template.md
+TEMP-097-C,PROC-097,Checklist,Churn Prevention & Win-Back – Checklist,Checklist to ensure completeness,./Templates/checklist_template.md

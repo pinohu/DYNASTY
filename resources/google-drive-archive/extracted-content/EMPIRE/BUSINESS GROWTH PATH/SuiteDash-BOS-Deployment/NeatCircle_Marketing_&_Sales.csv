@@ -1,0 +1,17 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+"Top‑level grouping (Customer & Support, Marketing & Sales, Business Systems, Industry Solutions, Growth Systems).",The specific service offering name.,Short value proposition and scope of the service.,Primary buyer/user segments this service targets.,Exact step‑by‑step instructions to configure the service inside SuiteDash.,External tools/platforms used and how they connect (BOS bundle).
+Marketing & Sales,CRM + Sales Automation,"Kanban pipeline with stage-based tasks, reminders, and revenue forecasting.","Business Owners, Sales Managers, Agencies, Real Estate","1. Define Pipelines and Deal Stages in CRM.
+2. Create stage-change automations (tasks, emails, assignments).
+3. Set lead routing rules (owner, territory, round robin).
+4. Build proposal & e‑signature templates; link to pipeline.
+5. Enable dashboards for value/probability forecasting.","SuiteDash CRM/Deals, Make (webhooks), ActiveCampaign (nurture), AITable (reporting)"
+Marketing & Sales,Email Marketing,Newsletters and drip sequences for prospects and customers.,"Marketing Teams, Business Owners, E‑commerce, IT Providers","1. Create Audiences/segments from CRM contacts.
+2. Configure SMTP/sender identity and templates.
+3. Build campaigns and drip automations; map triggers.
+4. Integrate ActiveCampaign for advanced flows.
+5. Track opens/clicks and iterate content.","SuiteDash Marketing, ActiveCampaign, Acumbamail/SalesNexus (optional)"
+Marketing & Sales,Lead Generation Automation,Capture leads via forms/landing pages and auto‑nurture to opportunity.,"Marketing, Agencies, Professional Services, Real Estate","1. Publish Kickoff Forms; embed on website/LPs.
+2. Auto‑acknowledge with email; create CRM Deal.
+3. Notify sales; assign follow‑up task within 24h.
+4. Start drip sequence; apply source/UTM tags.
+5. Escalate dormant leads with timed reminders.","SuiteDash Forms/CRM, Make (FB/Google Lead Ads sync), ActiveCampaign, TruConversion/SalesPanel (scoring)"

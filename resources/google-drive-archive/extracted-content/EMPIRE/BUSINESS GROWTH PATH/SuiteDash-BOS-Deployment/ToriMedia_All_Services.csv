@@ -1,0 +1,121 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+Content Creation,Thumbnail Design,Scroll-stopping YouTube thumbnails optimized for CTR and delivered quickly.,"Content Creators, YouTubers, Agencies","1. Create SuiteDash intake form for video URL, brand guidelines, and style preferences.
+2. Generate client portal folder for thumbnail variants.
+3. Use task templates: Designer assigned → Review → Deliver final.
+4. Set automation: when client submits intake, auto-create project and assign designer.
+5. Deliver 3 variants in portal; collect feedback with portal comments or form.","SuiteDash Portal/Forms/Projects, Make (notify team), ActiveCampaign (feedback follow-ups)"
+Content Creation,Video Editing,"Professional editing of raw footage into engaging videos with captions, music, and transitions.","YouTubers, Brands, Marketing Teams","1. Create SuiteDash Kickoff Form for upload links and editing style requirements.
+2. Automate folder creation: Raw Footage, Drafts, Finals.
+3. Assign video editor task checklist (cutting, color correction, captioning).
+4. Embed proofing workflow: upload draft in portal, request timestamped feedback.
+5. Final approved file uploaded; invoice auto-triggered.","SuiteDash Files/Tasks/Portal, Make (file management), Anytime (scheduling reviews)"
+Content Creation,Copywriting,"Compelling ad, blog, and website copywriting services with strong calls to action.","Entrepreneurs, Agencies, Marketing Managers","1. Use SuiteDash form to capture brand voice, target audience, and campaign goals.
+2. Auto-create task for copywriter with checklist (research, draft, edit, approve).
+3. Portal review page: client views drafts, comments inline.
+4. Version control: upload updated drafts, track approvals.
+5. Final approval triggers automated delivery email + invoice.","SuiteDash Projects/Files/Portal, ActiveCampaign (test campaigns), Make (Google Docs sync)"
+Content Creation,Scriptwriting,"High-converting scripts for videos, ads, and explainer content.","YouTubers, Course Creators, Businesses","1. Kickoff Form: capture topic, length, tone, and reference material.
+2. Auto-create writer task in CRM pipeline ‘Scriptwriting’.
+3. Draft shared in portal for client feedback.
+4. Client comments consolidated; update script versions.
+5. Deliver final script in portal; track with CRM status change.","SuiteDash CRM/Portal, ActiveCampaign (script drip content), Make (doc collaboration)"
+Content Creation,Illustration,"Custom illustrations for branding, social media, and product marketing.","Brands, Agencies, Marketers","1. SuiteDash intake form: style references, deliverable type.
+2. Project auto-created; tasks assigned to illustrator.
+3. Review stage built into portal with preview uploads.
+4. Feedback loop automated via notifications.
+5. Deliver final files in various formats through portal.","SuiteDash Projects/Files, Make (file conversion), ActiveCampaign (showcase email)"
+Social Media & Engagement,Hashtag Research,Optimized hashtags for increasing reach on social platforms.,"Influencers, Brands, Social Media Managers","1. Form captures niche, content type, and competitors.
+2. Task checklist: competitor analysis, trend scan, generate hashtag set.
+3. Deliver via portal as downloadable document.
+4. Tag project ‘Hashtag Research’ for reporting.
+5. Optionally, schedule content with hashtags using external scheduler.","SuiteDash Forms/Tasks/Portal, Make (trend scraping APIs), ActiveCampaign (social campaigns)"
+Social Media & Engagement,Content Scheduling,Plan and schedule content calendars across multiple platforms.,"Brands, Agencies, Influencers","1. Collect platform credentials/preferences securely.
+2. Build content calendar in SuiteDash project tasks.
+3. Automate posting via Make integration with platforms.
+4. Use client portal to preview scheduled posts.
+5. Auto-generate monthly analytics report.","SuiteDash Projects/Portal, Make (social posting), ActiveCampaign (email content sync)"
+Social Media & Engagement,Community Management,"Engage with followers, moderate groups, and respond to inquiries.","Influencers, Small Businesses, Communities","1. Set up SuiteDash support desk for community inquiries.
+2. Automate notifications for messages needing replies.
+3. Track response SLAs in SuiteDash tasks.
+4. Weekly summary sent to client via portal.
+5. Escalate unresolved issues automatically.","SuiteDash Tickets/Tasks, Make (chatbot integration), ActiveCampaign (community emails)"
+Social Media & Engagement,Direct Messaging,Personalized DM campaigns for outreach and relationship building.,"Influencers, Marketers, Sales Teams","1. SuiteDash intake form captures target audience/offer.
+2. Automate DM lists using Make from social platforms.
+3. Track sent/response in SuiteDash CRM custom pipeline.
+4. Escalate warm leads to sales pipeline stage.
+5. Provide weekly DM outcome reports in portal.","SuiteDash CRM/Portal, Make (social DMs APIs), ActiveCampaign (follow-up nurture)"
+Marketing & Funnels,Split Testing,"A/B testing for creatives, ads, or landing pages.","Marketers, Agencies, E-commerce","1. Form intake: what asset to test and KPIs.
+2. Set up SuiteDash project with tasks for version A & B.
+3. Integrate tracking pixels via Make.
+4. Collect performance results in SuiteDash dashboard.
+5. Report best performer in portal + recommend rollout.","SuiteDash Projects/Dashboards, Make (tracking pixels), ActiveCampaign (A/B emails)"
+Marketing & Funnels,Retargeting,Run retargeting campaigns to re-engage audiences.,"Marketers, Agencies, E-commerce","1. Form intake for campaign goals and audiences.
+2. Auto-create project with ad creative tasks.
+3. Use Make to sync SuiteDash contacts into ad platforms.
+4. Monitor conversion events; report in dashboard.
+5. Portal summary for client ROI reporting.","SuiteDash CRM/Portal, Make (FB/Google Ads sync), ActiveCampaign"
+Marketing & Funnels,Funnel Building,"Create end-to-end funnels (opt-in, nurture, conversion).","Agencies, Startups, Course Creators","1. Capture funnel goals and audience via form.
+2. Build funnel assets: landing page, email sequence, upsells.
+3. Tasks auto-assigned: design, copy, integration.
+4. Track funnel performance in dashboard.
+5. Portal houses funnel assets + client review access.","SuiteDash Projects/Tasks/Portal, ActiveCampaign, Make (landing pages sync)"
+Marketing & Funnels,Conversion Optimization,Audit and optimize conversion touchpoints to boost sales.,"Agencies, Marketers, E-commerce","1. Form collects analytics access and goals.
+2. Tasks for heatmap analysis, UX audit, CRO tweaks.
+3. Report issues and wins in portal.
+4. Implement changes; track new KPIs.
+5. Automated follow-up to review results after 30 days.","SuiteDash Projects/Portal, TruConversion (heatmaps), Make (analytics sync)"
+Marketing & Funnels,Content Calendar,Strategic content calendar aligned with marketing goals.,"Agencies, Marketers, Creators","1. SuiteDash form captures objectives and themes.
+2. Project task board: each task = content piece.
+3. Auto-generate monthly board; assign writers/designers.
+4. Use portal calendar for client visibility.
+5. Automated reminders for deadlines.","SuiteDash Projects/Calendar, Make (calendar sync), ActiveCampaign"
+Marketing & Funnels,QA,Quality assurance for campaigns and content before launch.,"Agencies, Marketing Teams, E-commerce","1. Intake checklist of QA parameters.
+2. Tasks created: review design, copy, links.
+3. Automated testing tasks (forms, emails).
+4. Final QA report uploaded to portal.
+5. Block launch until QA task complete.","SuiteDash Tasks/Portal, Make (automation testing)"
+Marketing & Funnels,Analytics Dashboard,Centralized dashboard for KPIs across campaigns.,"Business Owners, Agencies, Marketers","1. Identify KPIs and data sources with client.
+2. Integrate sources via Make into SuiteDash custom objects.
+3. Design dashboard widgets in SuiteDash portal.
+4. Automate nightly updates of data.
+5. Portal view shared with client.","SuiteDash Dashboards, Make/AITable, Google Analytics/FB Ads"
+Business Support & Automation,Contracts,"Digital contract creation, signing, and storage.","Agencies, Freelancers, Businesses","1. SuiteDash Dynamic Docs setup for contracts.
+2. Client fills form; auto-generate contract.
+3. Send for e-sign via portal.
+4. Automate signed doc storage in client folder.
+5. Trigger invoice post-signature.","SuiteDash Dynamic Docs/Portal, Make (doc backup), ActiveCampaign (confirmation emails)"
+Business Support & Automation,Prompt Library,Curated prompt libraries for AI-powered workflows.,"Agencies, Teams, Creators","1. Form intake: desired categories/use-cases.
+2. Auto-create project library with categorized prompts.
+3. Upload files in portal knowledge base.
+4. Automate tagging and search indexing.
+5. Periodic updates pushed to clients.","SuiteDash Wiki/Portal, Make (updates push)"
+Business Support & Automation,AI Automation,Implement AI-driven automations for repetitive tasks.,"Businesses, Agencies, Operations Managers","1. Identify tasks for automation with client.
+2. Design workflow in SuiteDash or Make.
+3. Integrate AI APIs via Make (OpenAI, etc.).
+4. Log outputs in SuiteDash tasks.
+5. Review & refine quarterly.","SuiteDash Automations, Make/n8n, AI APIs"
+Business Support & Automation,Influencer Management,Manage influencer collaborations and reporting.,"Agencies, Brands, Marketers","1. Form intake: influencer list and goals.
+2. Project board with each influencer as task.
+3. Track deliverables and due dates.
+4. Portal reporting for client visibility.
+5. Automated reminders for influencer deadlines.","SuiteDash Projects/Portal, Make (social sync), ActiveCampaign"
+Business Support & Automation,Gamification,"Gamify engagement with rewards, points, and leaderboards.","Communities, Brands, Educators","1. Define gamification rules with client.
+2. Custom objects in SuiteDash for points tracking.
+3. Automate point allocation via triggers (form submissions, tasks).
+4. Portal displays leaderboard widget.
+5. Automate rewards distribution via email.","SuiteDash Portal/Custom Objects, Make, ActiveCampaign"
+Growth & Optimization,Landing Page Design,Conversion-focused landing pages optimized for campaigns.,"Marketers, Brands, Agencies","1. Form captures campaign goal and assets.
+2. Auto-create project for design tasks.
+3. Portal for client review of mockups.
+4. Publish and test page; integrate tracking.
+5. Final approval triggers campaign launch tasks.","SuiteDash Projects/Portal, Make (page builder sync), ActiveCampaign"
+Growth & Optimization,Tracking & Pixels Setup,Setup of tracking codes and pixels across platforms.,"Marketers, Agencies, Businesses","1. Form collects site/platform details.
+2. Task checklist for code placement.
+3. Make sync to deploy pixels in CMS.
+4. Verify data in SuiteDash dashboard.
+5. Portal confirmation report shared.","SuiteDash Projects/Dashboards, Make (deploy pixels), Google/FB Ads"
+Growth & Optimization,UGC Curation,Collect and manage user-generated content campaigns.,"Brands, Agencies, Communities","1. Create SuiteDash form for UGC submissions.
+2. Auto-create task to review each submission.
+3. Approved UGC stored in portal folder.
+4. Automated notifications to clients of new content.
+5. Monthly UGC report delivered.","SuiteDash Forms/Files/Portal, Make (content moderation AI), ActiveCampaign"

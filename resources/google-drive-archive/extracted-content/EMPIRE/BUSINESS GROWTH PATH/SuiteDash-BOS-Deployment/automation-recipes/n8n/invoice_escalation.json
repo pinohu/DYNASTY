@@ -1,0 +1,74 @@
+{
+  "name": "Invoice Escalation",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "invoice-escalation",
+        "options": {}
+      },
+      "id": "1",
+      "name": "Webhook - Overdue Invoice",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        200,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "{{N8N_BASE}}/send-sms",
+        "options": {}
+      },
+      "id": "2",
+      "name": "HTTP - Escalation SMS",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "{{SUITEDASH_API_BASE}}/tasks",
+        "options": {}
+      },
+      "id": "3",
+      "name": "HTTP - Create SuiteDash Task",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        700,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook - Overdue Invoice": {
+      "main": [
+        [
+          {
+            "node": "HTTP - Escalation SMS",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP - Escalation SMS": {
+      "main": [
+        [
+          {
+            "node": "HTTP - Create SuiteDash Task",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "staticData": null
+}

@@ -1,0 +1,14 @@
+# Revenue Dashboard
+query RevenueDashboard($from: String!, $to: String!) {
+  invoices(dateFrom: $from, dateTo: $to) {
+    totalAmount
+    paidAmount
+    overdueAmount
+    count
+  }
+  pipeline {
+    stage
+    value
+    count
+  }
+}

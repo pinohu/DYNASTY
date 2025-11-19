@@ -1,0 +1,17 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+"Top‑level grouping (Customer & Support, Marketing & Sales, Business Systems, Industry Solutions, Growth Systems).",The specific service offering name.,Short value proposition and scope of the service.,Primary buyer/user segments this service targets.,Exact step‑by‑step instructions to configure the service inside SuiteDash.,External tools/platforms used and how they connect (BOS bundle).
+Customer & Support,Client Portal Automation,"Branded secure portal for clients to access projects, files, invoices, and support.","Business Owners, Operations Managers, Professional Services, Consultants","1. Enable Secure Client Portal and apply branding.
+2. Create Circles/roles; assign access permissions per client.
+3. Set up File/Folder Templates and auto-generate per client.
+4. Build onboarding Flow + welcome email automation.
+5. Enable Support Tickets inside the portal; configure notifications.","SuiteDash (Portal, Files, Tickets), Make (optional webhooks), Email (SuiteDash/SMTP)"
+Customer & Support,AI Customer Support,"Embed an AI chatbot to answer FAQs, escalate to tickets, and capture leads 24/7.","IT Service Providers, Customer Support Teams, E‑commerce, SaaS","1. Compile FAQs in Wiki/KB for AI source of truth.
+2. Embed AI chat widget in portal pages.
+3. Configure fallback: AI posts to SuiteDash via Email-to-Ticket.
+4. Set Make webhook to tag/route escalations to teams.
+5. Review transcripts weekly; update KB.","AI Chatbot (vendor of choice), SuiteDash Tickets (Email‑to‑Ticket), Make (router), ActiveCampaign (tagging)"
+Customer & Support,Appointment Scheduling,Self-serve appointment booking with reminders and calendar sync.,"Sales Teams, Consultants, Healthcare Teams, Home Services","1. Create Appointment Types (duration, buffers, location).
+2. Set staff availability schedules per type.
+3. Publish booking form (Kickoff Form) and portal widget.
+4. Enable confirmations and reminders; test workflows.
+5. Sync calendars via iCal or Make to Google/Outlook.","SuiteDash Appointments, Google/Outlook Calendar, Make/Zapier (sync)"

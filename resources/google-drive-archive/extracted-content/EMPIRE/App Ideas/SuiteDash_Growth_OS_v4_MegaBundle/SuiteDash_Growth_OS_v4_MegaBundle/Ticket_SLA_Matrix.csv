@@ -1,0 +1,5 @@
+Priority,First Response SLA,Resolution SLA
+Urgent,2 hours,4 hours
+High,4 hours,1 business day
+Normal,8 hours,2 business days
+Low,1 business day,5 business days

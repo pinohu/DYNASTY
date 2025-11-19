@@ -1,0 +1,26 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+Content Creation,Thumbnail Design,Scroll-stopping YouTube thumbnails optimized for CTR and delivered quickly.,"Content Creators, YouTubers, Agencies","1. Create SuiteDash intake form for video URL, brand guidelines, and style preferences.
+2. Generate client portal folder for thumbnail variants.
+3. Use task templates: Designer assigned → Review → Deliver final.
+4. Set automation: when client submits intake, auto-create project and assign designer.
+5. Deliver 3 variants in portal; collect feedback with portal comments or form.","SuiteDash Portal/Forms/Projects, Make (notify team), ActiveCampaign (feedback follow-ups)"
+Content Creation,Video Editing,"Professional editing of raw footage into engaging videos with captions, music, and transitions.","YouTubers, Brands, Marketing Teams","1. Create SuiteDash Kickoff Form for upload links and editing style requirements.
+2. Automate folder creation: Raw Footage, Drafts, Finals.
+3. Assign video editor task checklist (cutting, color correction, captioning).
+4. Embed proofing workflow: upload draft in portal, request timestamped feedback.
+5. Final approved file uploaded; invoice auto-triggered.","SuiteDash Files/Tasks/Portal, Make (file management), Anytime (scheduling reviews)"
+Content Creation,Copywriting,"Compelling ad, blog, and website copywriting services with strong calls to action.","Entrepreneurs, Agencies, Marketing Managers","1. Use SuiteDash form to capture brand voice, target audience, and campaign goals.
+2. Auto-create task for copywriter with checklist (research, draft, edit, approve).
+3. Portal review page: client views drafts, comments inline.
+4. Version control: upload updated drafts, track approvals.
+5. Final approval triggers automated delivery email + invoice.","SuiteDash Projects/Files/Portal, ActiveCampaign (test campaigns), Make (Google Docs sync)"
+Content Creation,Scriptwriting,"High-converting scripts for videos, ads, and explainer content.","YouTubers, Course Creators, Businesses","1. Kickoff Form: capture topic, length, tone, and reference material.
+2. Auto-create writer task in CRM pipeline ‘Scriptwriting’.
+3. Draft shared in portal for client feedback.
+4. Client comments consolidated; update script versions.
+5. Deliver final script in portal; track with CRM status change.","SuiteDash CRM/Portal, ActiveCampaign (script drip content), Make (doc collaboration)"
+Content Creation,Illustration,"Custom illustrations for branding, social media, and product marketing.","Brands, Agencies, Marketers","1. SuiteDash intake form: style references, deliverable type.
+2. Project auto-created; tasks assigned to illustrator.
+3. Review stage built into portal with preview uploads.
+4. Feedback loop automated via notifications.
+5. Deliver final files in various formats through portal.","SuiteDash Projects/Files, Make (file conversion), ActiveCampaign (showcase email)"

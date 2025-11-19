@@ -1,0 +1,650 @@
+[
+  {
+    "service": "Thumbnail Design",
+    "deliverables": [
+      {
+        "item": "3 CTR-optimized thumbnail variants",
+        "value": 600
+      },
+      {
+        "item": "A/B CTR testing report",
+        "value": 300
+      },
+      {
+        "item": "Priority 72-hour delivery",
+        "value": 150
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Performance insights included",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free redesign until CTR improves",
+    "offer_price": 297,
+    "total_value": 1250,
+    "scarcity": "Only limited thumbnail design slots available per month to maintain quality."
+  },
+  {
+    "service": "Video Editing",
+    "deliverables": [
+      {
+        "item": "Edited short-form video (9\u201360s)",
+        "value": 500
+      },
+      {
+        "item": "Captions + sound design",
+        "value": 250
+      },
+      {
+        "item": "3 viral hook options",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Retention optimization report",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free re-edit if retention doesn\u2019t improve",
+    "offer_price": 397,
+    "total_value": 1250,
+    "scarcity": "Only limited video editing slots available per month to maintain quality."
+  },
+  {
+    "service": "Copywriting",
+    "deliverables": [
+      {
+        "item": "Copy pack of 5\u201310 tested variants",
+        "value": 700
+      },
+      {
+        "item": "Tailored to campaign goals",
+        "value": 400
+      },
+      {
+        "item": "A/B testing recommendations",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Unlimited revisions until performance improves",
+        "value": 250
+      }
+    ],
+    "guarantee": "Free rewrites until CTR/conversions improve",
+    "offer_price": 497,
+    "total_value": 1650,
+    "scarcity": "Only limited copywriting slots available per month to maintain quality."
+  },
+  {
+    "service": "Scriptwriting",
+    "deliverables": [
+      {
+        "item": "Complete script (1\u20133 minutes)",
+        "value": 400
+      },
+      {
+        "item": "3 alternate hooks",
+        "value": 250
+      },
+      {
+        "item": "CTA recommendations",
+        "value": 200
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Voiceover direction",
+        "value": 150
+      }
+    ],
+    "guarantee": "Unlimited revisions until approval",
+    "offer_price": 297,
+    "total_value": 1000,
+    "scarcity": "Only limited scriptwriting slots available per month to maintain quality."
+  },
+  {
+    "service": "Illustration",
+    "deliverables": [
+      {
+        "item": "One high-resolution illustration",
+        "value": 500
+      },
+      {
+        "item": "3 resized social/ad variants",
+        "value": 250
+      },
+      {
+        "item": "Source files included",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Brand style sheet",
+        "value": 200
+      }
+    ],
+    "guarantee": "Unlimited revisions until brand alignment",
+    "offer_price": 597,
+    "total_value": 1250,
+    "scarcity": "Only limited illustration slots available per month to maintain quality."
+  },
+  {
+    "service": "Hashtag Research",
+    "deliverables": [
+      {
+        "item": "Weekly report with 15\u201330 hashtags",
+        "value": 200
+      },
+      {
+        "item": "Grouped by intent & priority",
+        "value": 150
+      },
+      {
+        "item": "Optimization tips",
+        "value": 150
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Content calendar alignment",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free replacement sets if no performance uplift",
+    "offer_price": 197,
+    "total_value": 700,
+    "scarcity": "Only limited hashtag research slots available per month to maintain quality."
+  },
+  {
+    "service": "Content Scheduling",
+    "deliverables": [
+      {
+        "item": "Weekly content calendar",
+        "value": 300
+      },
+      {
+        "item": "Posts scheduled across chosen platforms",
+        "value": 400
+      },
+      {
+        "item": "Optimized posting times",
+        "value": 200
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Weekly performance summary",
+        "value": 200
+      }
+    ],
+    "guarantee": "Refund if a scheduled post fails",
+    "offer_price": 297,
+    "total_value": 1100,
+    "scarcity": "Only limited content scheduling slots available per month to maintain quality."
+  },
+  {
+    "service": "Community Management",
+    "deliverables": [
+      {
+        "item": "Daily monitoring & moderation",
+        "value": 500
+      },
+      {
+        "item": "Engagement responses",
+        "value": 300
+      },
+      {
+        "item": "Weekly engagement report",
+        "value": 250
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Sensitive case playbooks",
+        "value": 200
+      }
+    ],
+    "guarantee": "Extended service free until engagement improves",
+    "offer_price": 597,
+    "total_value": 1250,
+    "scarcity": "Only limited community management slots available per month to maintain quality."
+  },
+  {
+    "service": "Direct Messaging",
+    "deliverables": [
+      {
+        "item": "Real-time DM monitoring & qualification",
+        "value": 600
+      },
+      {
+        "item": "Customized scripts",
+        "value": 300
+      },
+      {
+        "item": "Call booking & CRM updates",
+        "value": 400
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Lead source tagging",
+        "value": 200
+      }
+    ],
+    "guarantee": "Extended free until leads are generated",
+    "offer_price": 697,
+    "total_value": 1500,
+    "scarcity": "Only limited direct messaging slots available per month to maintain quality."
+  },
+  {
+    "service": "Split Testing",
+    "deliverables": [
+      {
+        "item": "A/B testing up to 5 creatives",
+        "value": 400
+      },
+      {
+        "item": "Experiment design & setup",
+        "value": 300
+      },
+      {
+        "item": "Winner implementation guide",
+        "value": 250
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Statistical significance reporting",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free additional test if no winner",
+    "offer_price": 397,
+    "total_value": 1150,
+    "scarcity": "Only limited split testing slots available per month to maintain quality."
+  },
+  {
+    "service": "Retargeting",
+    "deliverables": [
+      {
+        "item": "Audience segmentation",
+        "value": 500
+      },
+      {
+        "item": "Full retargeting build",
+        "value": 700
+      },
+      {
+        "item": "Sequenced messaging setup",
+        "value": 400
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Frequency cap recommendations",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free re-optimization until ROAS improves",
+    "offer_price": 997,
+    "total_value": 1800,
+    "scarcity": "Only limited retargeting slots available per month to maintain quality."
+  },
+  {
+    "service": "Funnel Building",
+    "deliverables": [
+      {
+        "item": "Landing page & thank-you page",
+        "value": 1000
+      },
+      {
+        "item": "Email sequence (3\u20137 emails)",
+        "value": 700
+      },
+      {
+        "item": "Tracking & attribution",
+        "value": 400
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Optimization support",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free optimization if funnel underperforms",
+    "offer_price": 1497,
+    "total_value": 2400,
+    "scarcity": "Only limited funnel building slots available per month to maintain quality."
+  },
+  {
+    "service": "Conversion Optimization",
+    "deliverables": [
+      {
+        "item": "3 CRO tests per month",
+        "value": 1000
+      },
+      {
+        "item": "Experiment backlog",
+        "value": 400
+      },
+      {
+        "item": "Winner implementation",
+        "value": 500
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Weekly reporting",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free service extension until uplift achieved",
+    "offer_price": 1197,
+    "total_value": 2200,
+    "scarcity": "Only limited conversion optimization slots available per month to maintain quality."
+  },
+  {
+    "service": "Content Calendar",
+    "deliverables": [
+      {
+        "item": "90-day content calendar",
+        "value": 500
+      },
+      {
+        "item": "Optimization for best posting times",
+        "value": 200
+      },
+      {
+        "item": "Thematic planning",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Weekly reminders",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free rebuild if not usable",
+    "offer_price": 397,
+    "total_value": 1200,
+    "scarcity": "Only limited content calendar slots available per month to maintain quality."
+  },
+  {
+    "service": "QA",
+    "deliverables": [
+      {
+        "item": "QA checklist with pass/fail records",
+        "value": 300
+      },
+      {
+        "item": "Accessibility & compliance checks",
+        "value": 400
+      },
+      {
+        "item": "Final approval before publishing",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Pre-publish blockers",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free recheck + extended coverage if errors slip",
+    "offer_price": 297,
+    "total_value": 1200,
+    "scarcity": "Only limited qa slots available per month to maintain quality."
+  },
+  {
+    "service": "Analytics Dashboard",
+    "deliverables": [
+      {
+        "item": "Custom analytics dashboard",
+        "value": 1200
+      },
+      {
+        "item": "Data dictionary",
+        "value": 400
+      },
+      {
+        "item": "Training session",
+        "value": 500
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Auto-refresh scheduling",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free rebuild if dashboard isn\u2019t actionable",
+    "offer_price": 1497,
+    "total_value": 2400,
+    "scarcity": "Only limited analytics dashboard slots available per month to maintain quality."
+  },
+  {
+    "service": "Contracts",
+    "deliverables": [
+      {
+        "item": "Contract drafting or review",
+        "value": 700
+      },
+      {
+        "item": "Compliance notes",
+        "value": 400
+      },
+      {
+        "item": "Renewal reminders",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "eSign setup",
+        "value": 200
+      }
+    ],
+    "guarantee": "Unlimited revisions until approval",
+    "offer_price": 597,
+    "total_value": 1600,
+    "scarcity": "Only limited contracts slots available per month to maintain quality."
+  },
+  {
+    "service": "Prompt Library",
+    "deliverables": [
+      {
+        "item": "Curated prompt pack (20\u201350)",
+        "value": 400
+      },
+      {
+        "item": "Usage guide",
+        "value": 200
+      },
+      {
+        "item": "Best practices",
+        "value": 200
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Periodic updates",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free replacements if no output improvement",
+    "offer_price": 297,
+    "total_value": 1000,
+    "scarcity": "Only limited prompt library slots available per month to maintain quality."
+  },
+  {
+    "service": "AI Automation",
+    "deliverables": [
+      {
+        "item": "End-to-end automation project",
+        "value": 1500
+      },
+      {
+        "item": "SOP documentation",
+        "value": 500
+      },
+      {
+        "item": "Monitoring setup",
+        "value": 400
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Team training",
+        "value": 400
+      }
+    ],
+    "guarantee": "Free rebuild if no time saved",
+    "offer_price": 1997,
+    "total_value": 2800,
+    "scarcity": "Only limited ai automation slots available per month to maintain quality."
+  },
+  {
+    "service": "Influencer Management",
+    "deliverables": [
+      {
+        "item": "Influencer sourcing & vetting",
+        "value": 1000
+      },
+      {
+        "item": "Contracts & deliverable tracking",
+        "value": 700
+      },
+      {
+        "item": "ROI reporting dashboard",
+        "value": 600
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Rate negotiation",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free replacements if influencers underdeliver",
+    "offer_price": 1497,
+    "total_value": 2600,
+    "scarcity": "Only limited influencer management slots available per month to maintain quality."
+  },
+  {
+    "service": "Gamification",
+    "deliverables": [
+      {
+        "item": "Gamification campaign build",
+        "value": 1000
+      },
+      {
+        "item": "Leaderboard setup",
+        "value": 500
+      },
+      {
+        "item": "Automation integrations",
+        "value": 400
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Engagement playbook",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free rework if no uplift",
+    "offer_price": 1297,
+    "total_value": 2200,
+    "scarcity": "Only limited gamification slots available per month to maintain quality."
+  },
+  {
+    "service": "Landing Page Design",
+    "deliverables": [
+      {
+        "item": "Conversion-focused landing page",
+        "value": 1000
+      },
+      {
+        "item": "Copywriting & design included",
+        "value": 800
+      },
+      {
+        "item": "Mobile optimization",
+        "value": 400
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "Heatmap & scroll tracking setup",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free rework if underperforming",
+    "offer_price": 1497,
+    "total_value": 2500,
+    "scarcity": "Only limited landing page design slots available per month to maintain quality."
+  },
+  {
+    "service": "Tracking & Pixels Setup",
+    "deliverables": [
+      {
+        "item": "Pixel setup (Meta, Google, TikTok)",
+        "value": 600
+      },
+      {
+        "item": "UTM standards + templates",
+        "value": 400
+      },
+      {
+        "item": "Event/conversion setup",
+        "value": 500
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "QA validation checklist",
+        "value": 300
+      }
+    ],
+    "guarantee": "Free fixes until validated",
+    "offer_price": 997,
+    "total_value": 1800,
+    "scarcity": "Only limited tracking & pixels setup slots available per month to maintain quality."
+  },
+  {
+    "service": "UGC Curation",
+    "deliverables": [
+      {
+        "item": "Curated UGC shortlist",
+        "value": 500
+      },
+      {
+        "item": "Permissions & rights management",
+        "value": 400
+      },
+      {
+        "item": "Scheduling & crediting plan",
+        "value": 300
+      }
+    ],
+    "bonuses": [
+      {
+        "item": "UGC outreach scripts",
+        "value": 200
+      }
+    ],
+    "guarantee": "Free refresh if no performance uplift",
+    "offer_price": 497,
+    "total_value": 1400,
+    "scarcity": "Only limited ugc curation slots available per month to maintain quality."
+  }
+]

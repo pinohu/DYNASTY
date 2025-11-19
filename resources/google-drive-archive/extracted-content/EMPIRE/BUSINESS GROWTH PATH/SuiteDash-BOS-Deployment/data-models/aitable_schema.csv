@@ -1,0 +1,20 @@
+Table,Field,Type,Notes
+Contacts,Client ID,Text,Primary key
+Contacts,Name,Text,
+Contacts,Email,Email,
+Contacts,Phone,Text,
+Contacts,Lead Source,Single Select,
+Contacts,Tags,Multi Select,
+Projects,Project ID,Text,Primary key
+Projects,Client ID,Text,FK to Contacts
+Projects,Name,Text,
+Projects,Status,Single Select,Not Started|Active|On Hold|Completed
+Projects,Service Type,Single Select,
+Invoices,Invoice ID,Text,Primary key
+Invoices,Client ID,Text,FK to Contacts
+Invoices,Amount,Number,
+Invoices,Status,Single Select,Draft|Sent|Paid|Overdue
+Invoices,Due Date,Date,
+Feedback,Client ID,Text,FK to Contacts
+Feedback,NPS,Number,0–10
+Feedback,Comment,Long Text,

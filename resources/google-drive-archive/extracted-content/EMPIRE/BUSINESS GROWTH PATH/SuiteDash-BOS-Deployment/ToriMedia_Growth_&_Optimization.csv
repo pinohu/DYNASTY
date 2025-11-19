@@ -1,0 +1,16 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+Growth & Optimization,Landing Page Design,Conversion-focused landing pages optimized for campaigns.,"Marketers, Brands, Agencies","1. Form captures campaign goal and assets.
+2. Auto-create project for design tasks.
+3. Portal for client review of mockups.
+4. Publish and test page; integrate tracking.
+5. Final approval triggers campaign launch tasks.","SuiteDash Projects/Portal, Make (page builder sync), ActiveCampaign"
+Growth & Optimization,Tracking & Pixels Setup,Setup of tracking codes and pixels across platforms.,"Marketers, Agencies, Businesses","1. Form collects site/platform details.
+2. Task checklist for code placement.
+3. Make sync to deploy pixels in CMS.
+4. Verify data in SuiteDash dashboard.
+5. Portal confirmation report shared.","SuiteDash Projects/Dashboards, Make (deploy pixels), Google/FB Ads"
+Growth & Optimization,UGC Curation,Collect and manage user-generated content campaigns.,"Brands, Agencies, Communities","1. Create SuiteDash form for UGC submissions.
+2. Auto-create task to review each submission.
+3. Approved UGC stored in portal folder.
+4. Automated notifications to clients of new content.
+5. Monthly UGC report delivered.","SuiteDash Forms/Files/Portal, Make (content moderation AI), ActiveCampaign"

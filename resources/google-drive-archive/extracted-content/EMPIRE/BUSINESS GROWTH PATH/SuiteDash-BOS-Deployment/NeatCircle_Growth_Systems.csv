@@ -1,0 +1,17 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+"Top‑level grouping (Customer & Support, Marketing & Sales, Business Systems, Industry Solutions, Growth Systems).",The specific service offering name.,Short value proposition and scope of the service.,Primary buyer/user segments this service targets.,Exact step‑by‑step instructions to configure the service inside SuiteDash.,External tools/platforms used and how they connect (BOS bundle).
+Growth Systems,Growth Pipeline System,Unified funnel from awareness → referral with automated handoffs.,"Owners, Sales & Marketing, Startups","1. Map funnel stages to CRM/segments.
+2. Implement multi‑channel lead capture & tagging.
+3. Automate nurturing and MQL→SQL transitions.
+4. Trigger onboarding on ‘Won’ deals; upsell sequences.
+5. Referral capture & attribution; KPI dashboard.","SuiteDash CRM/Marketing/Portal, ActiveCampaign, Make, Analytics/GA/Looker"
+Growth Systems,Business Operating System (BOS),Company‑wide SuiteDash implementation as single source of truth.,"CEOs, Ops Leaders, IT","1. Configure core modules (CRM, Projects, Billing, Portal).
+2. Model org structure with roles/circles/workspaces.
+3. Migrate data; standardize templates & SOPs.
+4. Cross‑dept automations for handoffs.
+5. Train teams; iterate quarterly.","SuiteDash (all modules), Make/n8n, ActiveCampaign/QBO, Files (Drive/Dropbox)"
+Growth Systems,Quick‑Start Business Solutions,"Rapid ‘mini‑BOS’: CRM, Portal, and basic billing in days.","New Businesses, Small Teams, Pilots","1. Requirements blitz; prioritize must‑haves.
+2. Spin up simplified CRM pipeline & tasks.
+3. Brand client portal; publish core pages.
+4. Enable invoicing & payment gateway.
+5. Record a 1‑hour team onboarding video.","SuiteDash CRM/Portal/Billing, Stripe/PayPal, Email, Make (light)"

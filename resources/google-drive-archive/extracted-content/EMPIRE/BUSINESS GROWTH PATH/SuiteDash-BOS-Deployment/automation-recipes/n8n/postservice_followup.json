@@ -1,0 +1,74 @@
+{
+  "name": "Post-Service Follow-up",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "project-completed",
+        "options": {}
+      },
+      "id": "1",
+      "name": "Webhook - Project Completed",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        200,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "{{ACTIVECAMPAIGN_BASE}}/api/survey",
+        "options": {}
+      },
+      "id": "2",
+      "name": "HTTP - Trigger Survey",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "{{GRAPHQL_GATEWAY}}/mutations/logFeedback",
+        "options": {}
+      },
+      "id": "3",
+      "name": "HTTP - Log to GraphQL",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        700,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook - Project Completed": {
+      "main": [
+        [
+          {
+            "node": "HTTP - Trigger Survey",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP - Trigger Survey": {
+      "main": [
+        [
+          {
+            "node": "HTTP - Log to GraphQL",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "staticData": null
+}

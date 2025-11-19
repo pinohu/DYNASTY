@@ -1,0 +1,74 @@
+{
+  "name": "SuiteDash <> SalesNexus Sync",
+  "nodes": [
+    {
+      "parameters": {
+        "path": "new-contact",
+        "options": {}
+      },
+      "id": "1",
+      "name": "Webhook - New Contact",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        200,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "{{SALESNEXUS_API_BASE}}/contacts",
+        "options": {}
+      },
+      "id": "2",
+      "name": "HTTP - Push to SalesNexus",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "{{SUITEDASH_API_BASE}}/contacts/{{contactId}}",
+        "options": {}
+      },
+      "id": "3",
+      "name": "HTTP - Update SuiteDash",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        700,
+        300
+      ]
+    }
+  ],
+  "connections": {
+    "Webhook - New Contact": {
+      "main": [
+        [
+          {
+            "node": "HTTP - Push to SalesNexus",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP - Push to SalesNexus": {
+      "main": [
+        [
+          {
+            "node": "HTTP - Update SuiteDash",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {},
+  "staticData": null
+}

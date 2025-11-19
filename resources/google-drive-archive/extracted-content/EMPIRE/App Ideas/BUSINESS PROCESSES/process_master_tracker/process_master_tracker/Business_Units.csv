@@ -1,0 +1,32 @@
+BusinessID,BusinessID_Name,Category,Domain_or_Handle,Lifecycle_Stage,Owner
+BU-001,Pest Factor,Directory + Services,pestfactor.com,Live/Building,User
+BU-002,Distressed Lands Directory,Directory (Brilliant Directories),distressedlands.directory,Configuring,User
+BU-003,ImmigrationSmarts – Main,Directory + Content,immigrationsmarts.com,Building,User
+BU-004,ImmigrationSmarts – US,Directory + Content,us.immigrationsmart.com,Planning,User
+BU-005,ImmigrationSmarts – Canada,Directory + Content,ca.immigrationsmart.com,Planning,User
+BU-006,ImmigrationSmarts – UK,Directory + Content,uk.immigrationsmart.com,Planning,User
+BU-007,ImmigrationSmarts – Pro Directory,Directory,find.immigrationsmart.com,Planning,User
+BU-008,Distressed Lands – Admin Portal,Directory (Brilliant Directories),admin.managemydirectory.com,Configuring,User
+BU-009,TradeEase CRM,SaaS (SuiteDash Micro-SaaS),portal.mydeputy.com,Building,User
+BU-010,AI ∞ OS,SaaS / Agentic Platform,n/a,Designing,User
+BU-011,RevClear,SaaS (Healthcare Billing),n/a,Designing,User
+BU-012,CareCircle,SaaS (Health Community),n/a,Designing,User
+BU-013,Daily Affiliate Niche Generator,SaaS,n/a,MVP,User
+BU-014,CurvifyMe,Ecommerce (Corsets),curvifyme.ca,Rebuilding,User
+BU-015,Corset – Postpartum,Ecommerce (Corsets),n/a,Planning,User
+BU-016,Corset – Orthopedic,Ecommerce (Corsets),n/a,Planning,User
+BU-017,Corset – Luxury Bridal,Ecommerce (Corsets),n/a,Planning,User
+BU-018,Corset – Fitness Waist,Ecommerce (Corsets),n/a,Planning,User
+BU-019,Corset – Medical Support,Ecommerce (Corsets),n/a,Planning,User
+BU-020,KDP – Mindful Moments Journal,Publishing (KDP),amazon.com/kdp,Building,User
+BU-021,KDP – Low/No Content Catalog,Publishing (KDP),amazon.com/kdp,Rolling,User
+BU-022,Lodging Connections,Real Estate Services,lodgingconnections.com,Live,User
+BU-023,Hom-Erie-Co,Real Estate (Sustainable Smart Properties),hom-erie-co.com,Building,User
+BU-024,MP-Erie-Co,Engineering Consulting,mp-erie-co.com,Building,User
+BU-025,Mason-Erie,Construction (Hempcrete),mason-erie.com,Building,User
+BU-026,Mat-Erie,Materials/Bio (Biodegradable),mat-erie.com,R&D,User
+BU-027,Air-Till-Erie,Sports Coaching,air-till-erie.com,Building,User
+BU-028,MoveWise Global Planner,PWA (Relocation Planning),n/a,MVP,User
+BU-029,AppSumo Tool Implementation Services,Services/Agency,n/a,Live,User
+BU-030,White-label AppMySite,Services/SaaS,n/a,Building,User
+BU-031,Directory Template (x100),Directory – Template,multi,Template,User

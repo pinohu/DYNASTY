@@ -1,0 +1,992 @@
+Category,Service,Description,Target Audiences,SuiteDash Workflow Steps,Integrations/Tools
+"Top‑level grouping (Customer & Support, Marketing & Sales, Business Systems, Industry Solutions, Growth Systems).",The specific service offering name.,Short value proposition and scope of the service.,Primary buyer/user segments this service targets.,Exact step‑by‑step instructions to configure the service inside SuiteDash.,External tools/platforms used and how they connect (BOS bundle).
+Customer & Support,Client Portal Automation,"Branded secure portal for clients to access projects, files, invoices, and support.","Business Owners, Operations Managers, Professional Services, Consultants","1. Enable Secure Client Portal and apply branding.
+2. Create Circles/roles; assign access permissions per client.
+3. Set up File/Folder Templates and auto-generate per client.
+4. Build onboarding Flow + welcome email automation.
+5. Enable Support Tickets inside the portal; configure notifications.","SuiteDash (Portal, Files, Tickets), Make (optional webhooks), Email (SuiteDash/SMTP)"
+Customer & Support,AI Customer Support,"Embed an AI chatbot to answer FAQs, escalate to tickets, and capture leads 24/7.","IT Service Providers, Customer Support Teams, E‑commerce, SaaS","1. Compile FAQs in Wiki/KB for AI source of truth.
+2. Embed AI chat widget in portal pages.
+3. Configure fallback: AI posts to SuiteDash via Email-to-Ticket.
+4. Set Make webhook to tag/route escalations to teams.
+5. Review transcripts weekly; update KB.","AI Chatbot (vendor of choice), SuiteDash Tickets (Email‑to‑Ticket), Make (router), ActiveCampaign (tagging)"
+Customer & Support,Appointment Scheduling,Self-serve appointment booking with reminders and calendar sync.,"Sales Teams, Consultants, Healthcare Teams, Home Services","1. Create Appointment Types (duration, buffers, location).
+2. Set staff availability schedules per type.
+3. Publish booking form (Kickoff Form) and portal widget.
+4. Enable confirmations and reminders; test workflows.
+5. Sync calendars via iCal or Make to Google/Outlook.","SuiteDash Appointments, Google/Outlook Calendar, Make/Zapier (sync)"
+Marketing & Sales,CRM + Sales Automation,"Kanban pipeline with stage-based tasks, reminders, and revenue forecasting.","Business Owners, Sales Managers, Agencies, Real Estate","1. Define Pipelines and Deal Stages in CRM.
+2. Create stage-change automations (tasks, emails, assignments).
+3. Set lead routing rules (owner, territory, round robin).
+4. Build proposal & e‑signature templates; link to pipeline.
+5. Enable dashboards for value/probability forecasting.","SuiteDash CRM/Deals, Make (webhooks), ActiveCampaign (nurture), AITable (reporting)"
+Marketing & Sales,Email Marketing,Newsletters and drip sequences for prospects and customers.,"Marketing Teams, Business Owners, E‑commerce, IT Providers","1. Create Audiences/segments from CRM contacts.
+2. Configure SMTP/sender identity and templates.
+3. Build campaigns and drip automations; map triggers.
+4. Integrate ActiveCampaign for advanced flows.
+5. Track opens/clicks and iterate content.","SuiteDash Marketing, ActiveCampaign, Acumbamail/SalesNexus (optional)"
+Marketing & Sales,Lead Generation Automation,Capture leads via forms/landing pages and auto‑nurture to opportunity.,"Marketing, Agencies, Professional Services, Real Estate","1. Publish Kickoff Forms; embed on website/LPs.
+2. Auto‑acknowledge with email; create CRM Deal.
+3. Notify sales; assign follow‑up task within 24h.
+4. Start drip sequence; apply source/UTM tags.
+5. Escalate dormant leads with timed reminders.","SuiteDash Forms/CRM, Make (FB/Google Lead Ads sync), ActiveCampaign, TruConversion/SalesPanel (scoring)"
+Business Systems,Process Automation,No‑code trigger→action rules to eliminate repetitive tasks and handoffs.,"Operations Managers, Project Managers, Compliance","1. Document process; define triggers, actions, delays.
+2. Implement automations (e.g., invoice paid → status change).
+3. Create task templates & checklists; assign owners.
+4. Use Flows for guided, multi‑step procedures.
+5. Log automation outcomes; refine exceptions.","SuiteDash Automations/Flows, Make/n8n/ActivePieces, GraphQL/NoCode‑X (advanced)"
+Business Systems,Training Platform Creation (LMS),"Courses, lessons, and quizzes for staff/clients with auto‑enrollment.","HR, Operations, Healthcare Teams, Franchises","1. Enable LMS; create Courses/Modules/Lessons.
+2. Upload media; add quizzes/certificates.
+3. Auto‑enroll via triggers (new staff, deal won, purchase).
+4. Set reminders and completion actions.
+5. Track progress; report by team/franchise.","SuiteDash LMS, Make (enrollment API), Email (SuiteDash/AC)"
+Business Systems,Financial Dashboard Automation,KPIs and trend widgets fed from invoices and external systems.,"Owners, Finance, Operations, Manufacturing","1. Define metrics (MRR, AR, on‑time delivery).
+2. Wire data sources (SuiteDash, QBO, Sheets).
+3. Build dashboard widgets & charts in portal.
+4. Schedule nightly data refresh via Make.
+5. Set threshold alerts (overdue, targets met).","SuiteDash Invoices/Dashboards, QuickBooks/Xero, Google Sheets, Make/AITable"
+Business Systems,System Integration,"APIs + automation to sync SuiteDash with accounting, email, POS, etc.","IT Service Providers, Ops/IT, Multi‑tool orgs","1. Inventory apps; define data flows & field mapping.
+2. Create Make/n8n workflows; secure credentials.
+3. Configure SuiteDash webhooks/API triggers.
+4. Test end‑to‑end with seed records; add retries.
+5. Document runs; set error notifications.","Make/n8n/ActivePieces, SuiteDash API/Webhooks, ActiveCampaign/QBO/Shopify"
+Growth Systems,Growth Pipeline System,Unified funnel from awareness → referral with automated handoffs.,"Owners, Sales & Marketing, Startups","1. Map funnel stages to CRM/segments.
+2. Implement multi‑channel lead capture & tagging.
+3. Automate nurturing and MQL→SQL transitions.
+4. Trigger onboarding on ‘Won’ deals; upsell sequences.
+5. Referral capture & attribution; KPI dashboard.","SuiteDash CRM/Marketing/Portal, ActiveCampaign, Make, Analytics/GA/Looker"
+Growth Systems,Business Operating System (BOS),Company‑wide SuiteDash implementation as single source of truth.,"CEOs, Ops Leaders, IT","1. Configure core modules (CRM, Projects, Billing, Portal).
+2. Model org structure with roles/circles/workspaces.
+3. Migrate data; standardize templates & SOPs.
+4. Cross‑dept automations for handoffs.
+5. Train teams; iterate quarterly.","SuiteDash (all modules), Make/n8n, ActiveCampaign/QBO, Files (Drive/Dropbox)"
+Growth Systems,Quick‑Start Business Solutions,"Rapid ‘mini‑BOS’: CRM, Portal, and basic billing in days.","New Businesses, Small Teams, Pilots","1. Requirements blitz; prioritize must‑haves.
+2. Spin up simplified CRM pipeline & tasks.
+3. Brand client portal; publish core pages.
+4. Enable invoicing & payment gateway.
+5. Record a 1‑hour team onboarding video.","SuiteDash CRM/Portal/Billing, Stripe/PayPal, Email, Make (light)"
+Industry Solutions,Construction Management Solution,"End‑to‑end project templates, document control, and milestone alerts.","Construction Executives, GCs, Owners","1. Create project templates with phased tasks.
+2. Set folder structures (blueprints, permits).
+3. Grant client/sub access via circles; restrict views.
+4. Automate phase completions & deadline reminders.
+5. Embed inspection scheduling & daily site reports.","SuiteDash Projects/Files/Portal, Make (weather/API), Calendars, QBO (job costing)"
+Industry Solutions,Manufacturing Optimization Solution,"Production scheduling, QC checkpoints, and WIP dashboards.","Manufacturing Leaders, Plant Managers","1. Map order→production→QC→shipping to tasks/projects.
+2. Auto‑create QC tasks; capture pass/fail & notes.
+3. Sync inventory/POS via Make; trigger POs.
+4. Build production KPIs dashboard; track OTD%.
+5. Schedule preventive maintenance as recurring tasks.","SuiteDash Projects/Tasks, Inventory/ERP via Make, Google Sheets/Looker"
+Industry Solutions,Franchise Management Solution,"Multi‑location portal, reporting, training, and support hub.","Franchisors, Regional Managers, Franchisees","1. Model franchises as Companies/Circles; limit data scope.
+2. Build franchise portal: resources, forum, support.
+3. Automate weekly/monthly KPI submissions via forms.
+4. Roll‑up dashboards for HQ; local dashboards for units.
+5. Assign LMS curricula; track compliance & expirations.","SuiteDash Companies/Circles/LMS/Tickets, Make (POS/analytics), ActiveCampaign (broadcasts)"
+Business Systems,// ✅ CORRECT APPROACH:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,// ❌ VIOLATIONS FOUND:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,/automation - Full automation solutions page,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,/automation/ai-agents - AI agents detailed page,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,1. Design System Violations (Critical),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,11:00 AM on Jul 24,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,11:02 AM on Jul 24,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,11:21 PM on Jul 29,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,11:47 AM on Jul 23,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,11:52 AM on Jul 23,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,12:06 PM on Jul 23,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,12:25 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,12:26 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,12:34 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,12:52 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,12:54 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,1:02 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,1:11 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,1:25 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,1:54 AM on Sep 01,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,2. Console Logging in Production (Medium),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,3. Performance Optimization Opportunities,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,4. External Link Security,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,8:23 AM on Jul 25,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,8:29 AM on Jul 25,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Accessibility Enhancements - Improve ARIA labels and focus management,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Add React.memo to large page components,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Add link to talent pool page,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Add performance optimizations for scale,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Add security headers to external links,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Add talent pool page,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Add useMemo/useCallback for expensive calculations,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Added all new service category routes to AppRoutes.tsx,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Advanced error boundaries with retry logic and error categorization,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Advanced lazy loading with preloading and error handling,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,All service category links now properly resolve,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Architecture & Organization:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Architecture (100%),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Ask Lovable...,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Audience hub routes working ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Blog category routes functional ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Bundle Optimization - Improve tree shaking and exports,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Bundle analysis - Some components are quite large,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Bundle optimization with granular code splitting and tree shaking,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Chat,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Checked,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Clean up console logs for production readiness,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,ClientLogos: Wrapped with React.memo,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Code,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Code Quality (100%),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Code Quality:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Code Splitting - Add more granular lazy loading,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Components: 120+ with consistent patterns,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Comprehensive topic coverage ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Critical Issues Found:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Customer Management & Support services,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Design System Coverage: 85% (needs improvement),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Edit,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Edited,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Enhanced SEO utilities with comprehensive structured data,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Enhanced monitoring hooks with development/production modes,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"EnhancedForm.tsx, ErrorBoundary.tsx, LiveChatWidget.tsx",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Error Boundaries - Add more granular error handling,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Error logging without proper error boundaries,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,External API calls need validation,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"FAQ.tsx: External links already have proper rel=""noopener noreferrer""",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Fix all of the observed issues,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Fix design system violations for brand consistency,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Fix observed issues,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Fixed orphaned links by creating missing pages:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,For Business Owners,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,For Construction Executives,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,For Healthcare Teams,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,For IT Service Providers,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,For Manufacturing Leaders,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,For Operations Managers,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Form submission logs,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Found external links without security measures:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Generate and use a PNG/JPG file,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Grade: B+ (85/100),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"Healthcare, Professional Services, E-commerce, Manufacturing category pages",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Healthcare/Professional/RealEstate/Restaurant pages: Replaced bg-white with semantic bg-card,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,I do not see the changes made,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,I want 100/100,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Image optimization - Ensure all images use lazy loading,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Implement key optimization for map operations,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"Import Statements: 1,061",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Inconsistent resource links: Some link to /guides vs /resources/guides,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Large page components lack memoization,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Let me fix the remaining syntax errors:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Lovable,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Marketing & Sales services,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Memory leak prevention with proper cleanup and abort controllers,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Missing React.memo for Heavy Components:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Modular performance utilities for reusable optimizations,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,NewsletterThankYou.tsx: Social links already secured,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Next Steps:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,No useMemo/useCallback usage found for expensive operations,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Operations & Process Optimization,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Optimized callbacks with custom hooks for better performance,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Performance Excellence (100%),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Performance Monitoring - Enhance metrics collection,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"Performance Optimizations - Add more React.memo, useMemo, useCallback",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Performance monitoring logs,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Please provide either:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Please review the Solutions pages for,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Preview,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Preview Latest,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Pricing.tsx: Updated success indicators to use design system colors,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Priority 1 (High Impact),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Priority 2 (Performance),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Priority 3 (Enhancement),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Professional error handling with severity detection,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Professional route organization ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Progressive Enhancement - Add service worker optimizations,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Progressive enhancement with Web Vitals optimization,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"Quick Deploy, Standard, Complex, and Sequential implementation pages",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Read,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Recommendation: Add memoization for heavy components:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Recommendation: Replace with semantic tokens from index.css:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Recommendation: Wrap in development checks:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Remove production console logs - Wrap in development checks,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Required Skills	Certification Needed	Hourly Rate	Capacity (Projects/Month),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Resource Links Standardized: Consistent /resources/guides and /resources/tools throughout,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Resource links standardized ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Restore,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Routes: 100+ well-organized routes,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,SEO Enhancements - Add more structured data,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,SEO Implementation: 95% (excellent),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,SEO-optimized structure ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,ServicesSection: Added React.memo and useMemo for services array,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Show all,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"Social media links lack rel=""noopener noreferrer""",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Technology Infrastructure,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,TestimonialCarousel: Wrapped with React.memo,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 10 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 12 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 15 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 39 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 6 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 7 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 8 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Thought for 9 seconds,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Topic hub routes implemented ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Total Files: 179 TypeScript/React files,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Type Safety: 100% (excellent),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Type-safe error boundaries with advanced recovery mechanisms,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Update Solutions pages,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Updated Grade: A- (92/100),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Your codebase is now production-ready with:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,Zero orphaned links ✅,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,export default React.memo(ComponentName);,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,"usePerformanceMonitor.ts, Assessment.tsx, Contact.tsx",Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,⚠️ AREAS FOR IMPROVEMENT,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ All Critical Issues Resolved:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Better performance with React optimizations,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Brand consistency through proper design system usage,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Clean TypeScript implementation with no any types found,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Clean import structure across 1061+ imports,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Clean production builds without debug logging,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Consistent component patterns throughout 120+ files,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Consistent export patterns (120 default exports),Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Console Logging Issues FIXED,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Design System Violations FIXED,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Enhanced security for external links,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Excellent SEO implementation with structured data,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ External Link Security FIXED,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ No TODO/FIXME comments found - clean codebase,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Performance Optimizations ADDED,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Performance optimization with lazy loading and code splitting,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Proper error boundaries and accessibility features,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,✅ Well-structured folder hierarchy with clear separation of concerns,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🌟 Website Status:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🎉 Major Improvements Confirmed:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🎯 Final Optimizations Implemented:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🎯 OVERALL ASSESSMENT,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🎯 RESULTS,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🎯 STRENGTHS & POSITIVE FINDINGS,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,📊 METRICS & STATISTICS,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🔧 RECOMMENDED FIXES,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🔧 Remaining Critical Issues Found:,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"
+Business Systems,🚀 ALL CRITICAL ISSUES FIXED,Service item referenced in Lovable prompts; details to be customized.,"Owners, Operations","1. Define requirements in SuiteDash.
+2. Create forms/pipelines/templates.
+3. Add automations & notifications.
+4. Integrate required tools.
+5. Test & document.","SuiteDash Core, Make/ActivePieces, ActiveCampaign"

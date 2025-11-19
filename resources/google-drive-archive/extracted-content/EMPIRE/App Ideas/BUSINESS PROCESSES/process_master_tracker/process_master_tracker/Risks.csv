@@ -1,0 +1,195 @@
+RiskID,ProcessID,Description,Likelihood,Impact,Mitigation,Contingency
+RISK-001,PROC-001,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-001-2,PROC-001,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-002,PROC-002,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-002-2,PROC-002,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-003,PROC-003,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-003-2,PROC-003,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-004,PROC-004,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-004-2,PROC-004,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-005,PROC-005,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-005-2,PROC-005,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-006,PROC-006,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-006-2,PROC-006,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-007,PROC-007,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-007-2,PROC-007,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-008,PROC-008,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-008-2,PROC-008,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-009,PROC-009,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-009-2,PROC-009,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-010,PROC-010,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-010-2,PROC-010,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-011,PROC-011,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-011-2,PROC-011,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-012,PROC-012,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-012-2,PROC-012,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-013,PROC-013,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-013-2,PROC-013,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-014,PROC-014,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-014-2,PROC-014,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-015,PROC-015,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-015-2,PROC-015,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-016,PROC-016,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-016-2,PROC-016,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-017,PROC-017,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-017-2,PROC-017,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-018,PROC-018,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-018-2,PROC-018,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-019,PROC-019,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-019-2,PROC-019,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-020,PROC-020,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-020-2,PROC-020,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-021,PROC-021,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-021-2,PROC-021,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-022,PROC-022,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-022-2,PROC-022,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-023,PROC-023,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-023-2,PROC-023,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-024,PROC-024,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-024-2,PROC-024,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-025,PROC-025,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-025-2,PROC-025,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-026,PROC-026,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-026-2,PROC-026,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-027,PROC-027,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-027-2,PROC-027,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-028,PROC-028,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-028-2,PROC-028,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-029,PROC-029,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-029-2,PROC-029,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-030,PROC-030,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-030-2,PROC-030,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-031,PROC-031,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-031-2,PROC-031,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-032,PROC-032,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-032-2,PROC-032,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-033,PROC-033,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-033-2,PROC-033,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-034,PROC-034,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-034-2,PROC-034,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-035,PROC-035,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-035-2,PROC-035,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-036,PROC-036,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-036-2,PROC-036,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-037,PROC-037,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-037-2,PROC-037,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-038,PROC-038,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-038-2,PROC-038,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-039,PROC-039,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-039-2,PROC-039,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-040,PROC-040,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-040-2,PROC-040,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-041,PROC-041,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-041-2,PROC-041,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-042,PROC-042,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-042-2,PROC-042,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-043,PROC-043,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-043-2,PROC-043,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-044,PROC-044,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-044-2,PROC-044,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-045,PROC-045,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-045-2,PROC-045,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-046,PROC-046,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-046-2,PROC-046,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-047,PROC-047,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-047-2,PROC-047,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-048,PROC-048,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-048-2,PROC-048,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-049,PROC-049,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-049-2,PROC-049,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-050,PROC-050,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-050-2,PROC-050,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-051,PROC-051,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-051-2,PROC-051,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-052,PROC-052,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-052-2,PROC-052,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-053,PROC-053,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-053-2,PROC-053,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-054,PROC-054,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-054-2,PROC-054,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-055,PROC-055,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-055-2,PROC-055,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-056,PROC-056,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-056-2,PROC-056,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-057,PROC-057,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-057-2,PROC-057,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-058,PROC-058,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-058-2,PROC-058,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-059,PROC-059,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-059-2,PROC-059,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-060,PROC-060,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-060-2,PROC-060,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-061,PROC-061,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-061-2,PROC-061,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-062,PROC-062,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-062-2,PROC-062,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-063,PROC-063,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-063-2,PROC-063,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-064,PROC-064,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-064-2,PROC-064,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-065,PROC-065,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-065-2,PROC-065,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-066,PROC-066,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-066-2,PROC-066,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-067,PROC-067,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-067-2,PROC-067,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-068,PROC-068,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-068-2,PROC-068,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-069,PROC-069,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-069-2,PROC-069,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-070,PROC-070,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-070-2,PROC-070,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-071,PROC-071,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-071-2,PROC-071,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-072,PROC-072,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-072-2,PROC-072,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-073,PROC-073,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-073-2,PROC-073,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-074,PROC-074,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-074-2,PROC-074,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-075,PROC-075,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-075-2,PROC-075,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-076,PROC-076,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-076-2,PROC-076,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-077,PROC-077,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-077-2,PROC-077,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-078,PROC-078,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-078-2,PROC-078,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-079,PROC-079,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-079-2,PROC-079,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-080,PROC-080,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-080-2,PROC-080,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-081,PROC-081,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-081-2,PROC-081,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-082,PROC-082,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-082-2,PROC-082,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-083,PROC-083,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-083-2,PROC-083,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-084,PROC-084,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-084-2,PROC-084,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-085,PROC-085,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-085-2,PROC-085,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-086,PROC-086,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-086-2,PROC-086,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-087,PROC-087,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-087-2,PROC-087,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-088,PROC-088,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-088-2,PROC-088,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-089,PROC-089,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-089-2,PROC-089,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-090,PROC-090,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-090-2,PROC-090,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-091,PROC-091,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-091-2,PROC-091,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-092,PROC-092,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-092-2,PROC-092,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-093,PROC-093,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-093-2,PROC-093,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-094,PROC-094,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-094-2,PROC-094,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-095,PROC-095,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-095-2,PROC-095,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-096,PROC-096,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-096-2,PROC-096,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly
+RISK-097,PROC-097,Knowledge concentration in one person,Medium,High,Cross-train & document SOP,Backup assignee and review schedule
+RISK-097-2,PROC-097,Data integrity failure,Low,High,Validation checks & backups,Restore drills quarterly

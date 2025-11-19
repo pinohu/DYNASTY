@@ -1,0 +1,38 @@
+%% Client Lifecycle Sequence
+sequenceDiagram
+    participant Lead as Lead
+    participant Tru as TruConversion
+    participant Sales as SalesPanel
+    participant Boost as Boost.space/Make
+    participant SD as SuiteDash
+    participant AC as ActiveCampaign/Acumbamail
+    participant SN as SalesNexus
+    participant Blue as Blue (PM)
+    participant N8N as n8n
+    participant AP as ActivePieces
+    participant AI as AITable
+    participant Publy as Publy
+
+    Lead->>Tru: Visits form/landing page
+    Lead->>Sales: Enrichment & intent
+    Tru-->>Boost: Session data
+    Sales-->>Boost: Score + firmographics
+    Boost->>SD: Create/Update contact
+    Boost->>AI: Log lead
+    Boost->>AC: Enroll nurture
+    Boost->>SN: Parallel outbound track
+
+    SD->>Lead: Portal invite (on convert)
+    SD->>Blue: Create project (template)
+    Blue->>N8N: Assign team, set SLAs
+    N8N->>SD: Status updates/notes
+    Blue->>SD: Milestone → Invoice
+    SD->>Lead: Send invoice
+    AP->>Lead: Payment reminders
+    SD->>AI: Log payment
+    SD->>AC: Thank-you sequence
+
+    Blue->>SD: Project completed
+    SD->>AC: Survey + referral
+    AC->>AI: Log feedback
+    SD->>Publy: Publish deliverables

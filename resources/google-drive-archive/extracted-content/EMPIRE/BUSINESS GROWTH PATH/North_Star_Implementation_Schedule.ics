@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//North Star Implementation Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:fcdcc547-f444-4390-b15b-0c03b7208739@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20250908
+DTEND;VALUE=DATE:20250923
+SUMMARY:Phase 1: Day 0-15 – Entity & Trust Formation
+DESCRIPTION:Engage estate attorney to draft irrevocable trust and FLP\, selecting a favorable jurisdiction (NV\, SD\, DE).
+File articles for parent holding (PNR Holdings LLC)\, create management company (CXI LLC) with S‑corp election\, form real estate holding company (Obuke LLC)\, IP Company\, Equipment Company and Investment LLC.
+Obtain EINs and open separate bank accounts.
+Prerequisites: None\; this is the kickoff.
+END:VEVENT
+BEGIN:VEVENT
+UID:b29d443d-ead5-4c62-b849-7417e291846c@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20251008
+SUMMARY:Phase 1: Day 15-30 – Ownership Assignment & Asset Transfers
+DESCRIPTION:Assign ownership interests: FLP becomes member of PNR Holdings and CXI LLC\; children’s trusts hold LP interests.
+Transfer domains\, trademarks\, and code into the IP Company and sign IP licenses to each subsidiary.
+Transfer cameras\, vehicles and diagnostic tools into Equipment Company and sign equipment leases back to management and service subsidiaries.
+Prerequisite: Completion of entity formation (Day 0‑15).
+END:VEVENT
+BEGIN:VEVENT
+UID:6396d31a-9afb-48d3-89f5-3fee2a51a6b1@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20251008
+DTEND;VALUE=DATE:20251023
+SUMMARY:Phase 1: Day 30-45 – Intercompany Agreements & Chart of Accounts
+DESCRIPTION:Draft and execute Master Services Agreement between CXI LLC (management company) and each subsidiary.
+Draft and execute Cost‑Sharing Agreement and Intercompany Loan Agreements as needed.
+Update chart of accounts and accounting software to reflect each entity separately.
+Prerequisite: Asset transfers and ownership assignments (Day 15‑30).
+END:VEVENT
+BEGIN:VEVENT
+UID:b447901a-192b-4315-b7c5-7ca26cc59c29@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20251023
+DTEND;VALUE=DATE:20251107
+SUMMARY:Phase 1: Day 45-60 – Retirement & Philanthropy Setup
+DESCRIPTION:Fund Solo 401(k) and create plan‑owned WY LLC for checkbook control\; roll over existing retirement balances.
+Purchase permanent life insurance policy via ILIT and make premium payments from trust gifts.
+File IRS Form 1023 to establish the 501(c)(3) foundation (Origin Eyes)\, adopt bylaws and seed it.
+Prerequisite: Intercompany agreements executed (Day 30‑45).
+END:VEVENT
+BEGIN:VEVENT
+UID:c10a23a7-35c1-4ca5-8812-ca2e74361b09@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251207
+SUMMARY:Phase 1: Day 60-90 – Governance Review & Compliance Calendar
+DESCRIPTION:Hold organizational meetings for each LLC\; adopt operating agreements\; document capital contributions and elect managers.
+Adopt board resolution approving intercompany agreements and transfer pricing policies.
+Perform readiness audit: ensure each entity has appropriate insurance (general liability\, professional\, cyber\, property\, umbrella).
+Establish compliance calendar tracking annual reports\, franchise taxes\, payroll filings\, trust accountings\, Form 5500 for Solo 401(k) and Form 990 for the foundation.
+Prerequisite: Retirement and philanthropy setup completed (Day 45‑60).
+END:VEVENT
+BEGIN:VEVENT
+UID:87bf14d2-6835-40af-8231-9a3129322b38@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20251208
+DTEND;VALUE=DATE:20251228
+SUMMARY:Phase 2: Day 91-110 – SuiteDash Onboarding & Data Migration
+DESCRIPTION:For each acquired or internal business: perform due diligence on data and systems.
+Prepare migration plan to map existing records into SuiteDash CRM\, Projects\, Tickets\, Billing and Files modules.
+Create master data dictionary using Appendix F\; assign RACI (Responsible\, Accountable\, Consulted\, Informed) roles.
+Set up SuiteDash portals\, configure custom fields and import contacts.
+Configure automation triggers and create project templates for Lead‑to‑Client\, Onboarding\, Delivery\, Support Escalation\, Offboarding\, Governance & QA.
+Prerequisite: Governance review & compliance calendar established (Day 60‑90).
+END:VEVENT
+BEGIN:VEVENT
+UID:86065502-409f-462f-86cc-8f021bcba1f2@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20251228
+DTEND;VALUE=DATE:20260117
+SUMMARY:Phase 2: Day 111-130 – Neat Circle Service Package Integration
+DESCRIPTION:Review Neat Circle scope document\; select service packages (customer support\, marketing & sales\, business systems\, growth systems\, industry solutions) applicable to each business.
+Implement each package within SuiteDash according to the implementation notes\; document which fields drive automations.
+Ensure all required data is captured for processes and reporting.
+Prerequisite: SuiteDash portals configured and data migrated (Day 91‑110).
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2344da-719b-4497-9824-d7b0ec212e75@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260206
+SUMMARY:Phase 2: Day 131-150 – Launch ToriMedia Campaigns
+DESCRIPTION:Using the ToriMedia service portfolio\, develop brand assets and content calendars (thumbnail design\, video editing\, copywriting\, scriptwriting\, illustration).
+Implement social media and community management (hashtag research\, scheduling\, community engagement\, direct messaging).
+Launch influencer and user engagement strategies (influencer management\, UGC curation\, gamification).
+Deploy paid media campaigns (funnels\, email sequences\, conversion optimisation).
+Link each campaign to metrics in SuiteDash (leads generated\, conversion rates) and feed results back into dashboards.
+Prerequisite: Neat Circle packages integrated (Day 111‑130).
+END:VEVENT
+BEGIN:VEVENT
+UID:8f0fe214-7f82-4a4e-8bad-c502a0941b5b@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260308
+SUMMARY:Phase 2: Day 151-180 – Harmonise Operations & Pricing
+DESCRIPTION:Conduct services inventory across acquisitions\; compare offerings\, pricing\, margins and contract terms.
+Standardise pricing and packages via the management company\; update MSAs with new rates and service levels.
+Finalise leasebacks between PropCos and OpCos at market rates\; verify depreciation qualification.
+Conduct staff training on SuiteDash using click‑path guides\; reinforce RACI roles and SLA targets.
+Review and adjust financial projections based on early results\; prepare for Phase 3 scaling.
+Prerequisite: ToriMedia campaigns launched and metrics collected (Day 131‑150).
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5b2248-2016-4ac6-8cf4-2a03160e9aac@northstar.example
+DTSTAMP:20250907T164543Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260407
+SUMMARY:Phase 3: Day 181+ – Scale & Governance
+DESCRIPTION:Begin acquisition engine: Identify and pursue two resilient “boring businesses” per quarter (HVAC\, laundromats\, car washes) using OpCo/PropCo model\; finance through SBA loans\, seller financing and retained earnings.
+Immediately onboard each new business into SuiteDash\; integrate Neat Circle packages\; apply ToriMedia branding.
+Launch vertical SaaS solutions derived from internal automation (e.g. property maintenance CRM).
+Deepen philanthropy: increase contributions to Origin Eyes\; plan scholarship programs\; evaluate charitable remainder trusts.
+Establish quarterly governance cadence: hold board meetings\, review financial statements\, KPIs\, risk registers and tax compliance\; update RACI matrices and data dictionaries.
+Prerequisite: Harmonisation of operations and pricing completed (Day 151‑180).
+END:VEVENT
+END:VCALENDAR

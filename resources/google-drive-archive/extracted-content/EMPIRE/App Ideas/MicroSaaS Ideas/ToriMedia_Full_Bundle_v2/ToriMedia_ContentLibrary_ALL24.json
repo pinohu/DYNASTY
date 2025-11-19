@@ -1,0 +1,1247 @@
+[
+  {
+    "service": "Thumbnail Design",
+    "slug": "/services/thumbnail-design",
+    "hero": {
+      "headline": "Thumbnails that make people stop scrolling and click.",
+      "subhead": "Custom YouTube, TikTok, and social thumbnails designed for higher CTR \u2014 without clickbait.",
+      "cta_form_id": "TM-Thumbnail-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "3 unique thumbnail variants per order",
+        "A/B CTR testing report",
+        "Priority 72-hour delivery"
+      ],
+      "bonuses": [
+        "Performance insights included"
+      ],
+      "guarantee": "If CTR doesn\u2019t improve, free redesign until it does."
+    },
+    "process": [
+      "Submit intake form with details",
+      "Approve design concepts",
+      "Delivery of 3 optimized thumbnails",
+      "Review & testing results shared"
+    ],
+    "proof": {
+      "metrics": "Average 22\u201337% CTR uplift",
+      "testimonial": "ToriMedia thumbnails doubled my video engagement in 2 weeks."
+    },
+    "cta": {
+      "headline": "Ready for higher clicks?",
+      "cta_form_id": "TM-Thumbnail-Intake"
+    },
+    "seo": {
+      "title": "YouTube Thumbnail Design Services | ToriMedia",
+      "meta_description": "Get CTR-optimized custom thumbnails designed by ToriMedia. Delivered in 72 hours with CTR testing included.",
+      "faqs": [
+        {
+          "q": "How fast do I get my thumbnails?",
+          "a": "Within 72 hours."
+        },
+        {
+          "q": "Do you test thumbnails?",
+          "a": "Yes, each order includes an A/B testing report."
+        },
+        {
+          "q": "What if my CTR doesn\u2019t improve?",
+          "a": "We redesign for free until it does."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Video Editing",
+    "slug": "/services/video-editing",
+    "hero": {
+      "headline": "Scroll-stopping videos that keep people watching.",
+      "subhead": "Short-form video edits for TikTok, Reels, and YouTube Shorts that maximize retention and engagement.",
+      "cta_form_id": "TM-Video-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "One edited short-form video (9\u201360 seconds)",
+        "Captions and sound design included",
+        "3 viral hook options"
+      ],
+      "bonuses": [
+        "Retention optimization report"
+      ],
+      "guarantee": "If retention does not improve, we re-edit at no extra cost."
+    },
+    "process": [
+      "Submit intake form with raw footage",
+      "Approve hooks and editing direction",
+      "Delivery of final edited video",
+      "Review retention metrics and adjust"
+    ],
+    "proof": {
+      "metrics": "Average retention improved by 28%",
+      "testimonial": "ToriMedia\u2019s edits took our TikTok engagement from flat to viral."
+    },
+    "cta": {
+      "headline": "Ready to go viral?",
+      "cta_form_id": "TM-Video-Intake"
+    },
+    "seo": {
+      "title": "Video Editing Services for TikTok, Reels, Shorts | ToriMedia",
+      "meta_description": "Get scroll-stopping video edits delivered in 4 days. Proven retention lifts, viral hook options, captions included.",
+      "faqs": [
+        {
+          "q": "Which platforms are supported?",
+          "a": "TikTok, Reels, Shorts."
+        },
+        {
+          "q": "How do I send footage?",
+          "a": "Upload via intake form."
+        },
+        {
+          "q": "What\u2019s included?",
+          "a": "Editing, captions, sound, viral hooks."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Copywriting",
+    "slug": "/services/copywriting",
+    "hero": {
+      "headline": "Words that sell without hype.",
+      "subhead": "High-converting copy for ads, funnels, and campaigns \u2014 written for truth and results, not fluff.",
+      "cta_form_id": "TM-Copywriting-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Copy pack of 5\u201310 variants",
+        "Tailored to campaign goals",
+        "A/B testing recommendations"
+      ],
+      "bonuses": [
+        "Revisions included"
+      ],
+      "guarantee": "If copy does not improve CTR/conversions, we rewrite at no extra cost."
+    },
+    "process": [
+      "Submit intake form with campaign info",
+      "Receive draft copy in 72 hours",
+      "Review and approve",
+      "Deploy with A/B recommendations"
+    ],
+    "proof": {
+      "metrics": "Average ad CTR uplift of 21%",
+      "testimonial": "ToriMedia\u2019s copy turned our ads profitable in 3 weeks."
+    },
+    "cta": {
+      "headline": "Ready to increase your conversions?",
+      "cta_form_id": "TM-Copywriting-Intake"
+    },
+    "seo": {
+      "title": "Ad & Campaign Copywriting Services | ToriMedia",
+      "meta_description": "Get high-converting, data-backed copy for ads, funnels, and campaigns. Delivered in 72 hours with testing included.",
+      "faqs": [
+        {
+          "q": "What\u2019s included in a copy pack?",
+          "a": "5\u201310 tested variants."
+        },
+        {
+          "q": "How long for delivery?",
+          "a": "72 hours."
+        },
+        {
+          "q": "Do you offer rewrites?",
+          "a": "Yes, until results improve."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Scriptwriting",
+    "slug": "/services/scriptwriting",
+    "hero": {
+      "headline": "Scripts that make your audience watch until the end.",
+      "subhead": "Professional short-form and ad scripts designed to hook, hold, and convert viewers.",
+      "cta_form_id": "TM-Scriptwriting-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "One complete script (1\u20133 minutes)",
+        "3 alternate hooks",
+        "CTA recommendations"
+      ],
+      "bonuses": [
+        "Voiceover direction"
+      ],
+      "guarantee": "Unlimited revisions until approval."
+    },
+    "process": [
+      "Submit intake form with goals and audience details",
+      "Receive draft script in 72 hours",
+      "Approve or request revisions",
+      "Deploy script with recommended CTAs"
+    ],
+    "proof": {
+      "metrics": "Average watch-through rate increase of 19\u201332%",
+      "testimonial": "ToriMedia scripts gave us viral content that finally converted."
+    },
+    "cta": {
+      "headline": "Ready for scripts that sell?",
+      "cta_form_id": "TM-Scriptwriting-Intake"
+    },
+    "seo": {
+      "title": "Video & Ad Scriptwriting Services | ToriMedia",
+      "meta_description": "Professional video and ad scriptwriting delivered in 3 days. Proven hooks, voiceover notes, and CTAs included.",
+      "faqs": [
+        {
+          "q": "How long is each script?",
+          "a": "1\u20133 minutes."
+        },
+        {
+          "q": "Are revisions included?",
+          "a": "Yes, unlimited until approval."
+        },
+        {
+          "q": "Do you provide hooks?",
+          "a": "Yes, every script includes 3 alternate hooks."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Illustration",
+    "slug": "/services/illustration",
+    "hero": {
+      "headline": "Custom illustrations that make your brand unforgettable.",
+      "subhead": "Unique visuals designed for ads, social, and campaigns \u2014 no stock art, no cookie-cutter templates.",
+      "cta_form_id": "TM-Illustration-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "One high-resolution illustration (PNG/SVG/Source)",
+        "3 resized social/ad variants"
+      ],
+      "bonuses": [
+        "Style sheet included"
+      ],
+      "guarantee": "Unlimited revisions until brand alignment."
+    },
+    "process": [
+      "Submit intake form with creative brief",
+      "Receive draft concepts for approval",
+      "Delivery of final illustration + 3 variants",
+      "Review and brand alignment confirmed"
+    ],
+    "proof": {
+      "metrics": "Custom illustrations average 25\u201340% higher engagement over stock visuals",
+      "testimonial": "Our campaigns finally stood out thanks to ToriMedia\u2019s illustrations."
+    },
+    "cta": {
+      "headline": "Ready to stand out with original artwork?",
+      "cta_form_id": "TM-Illustration-Intake"
+    },
+    "seo": {
+      "title": "Custom Illustration Services | ToriMedia",
+      "meta_description": "Unique brand illustrations delivered in 5 days. Includes source files, resized variants, and unlimited revisions.",
+      "faqs": [
+        {
+          "q": "Do I get source files?",
+          "a": "Yes, SVG/PSD included."
+        },
+        {
+          "q": "Are revisions free?",
+          "a": "Yes, unlimited until approved."
+        },
+        {
+          "q": "Can I request multiple sizes?",
+          "a": "Yes, 3 social-ready variants are included."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Hashtag Research",
+    "slug": "/services/hashtag-research",
+    "hero": {
+      "headline": "Hashtags that put your content in front of the right audience.",
+      "subhead": "Data-driven research reports that increase reach and discoverability across TikTok, Instagram, and YouTube.",
+      "cta_form_id": "TM-Hashtag-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Weekly research report with 15\u201330 hashtags",
+        "Grouped by intent and priority",
+        "Optimization tips"
+      ],
+      "bonuses": [
+        "Content calendar alignment"
+      ],
+      "guarantee": "If sets don\u2019t outperform current ones, we replace with new sets free."
+    },
+    "process": [
+      "Submit intake form with niche and goals",
+      "Receive hashtag report in 48 hours",
+      "Deploy hashtags in your campaigns",
+      "Review reach metrics weekly"
+    ],
+    "proof": {
+      "metrics": "Average 18\u201329% increase in organic reach",
+      "testimonial": "ToriMedia\u2019s hashtag research expanded our audience without spending on ads."
+    },
+    "cta": {
+      "headline": "Ready to grow your reach organically?",
+      "cta_form_id": "TM-Hashtag-Intake"
+    },
+    "seo": {
+      "title": "Hashtag Research Services for TikTok, Instagram, YouTube | ToriMedia",
+      "meta_description": "Get weekly hashtag research reports delivered in 48 hours. Proven to increase reach and discoverability.",
+      "faqs": [
+        {
+          "q": "Which platforms are covered?",
+          "a": "TikTok, Instagram, YouTube."
+        },
+        {
+          "q": "How many hashtags are included?",
+          "a": "15\u201330 per report."
+        },
+        {
+          "q": "How fast do I get results?",
+          "a": "Reports delivered in 48 hours."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Content Scheduling",
+    "slug": "/services/content-scheduling",
+    "hero": {
+      "headline": "Never miss a post again.",
+      "subhead": "Done-for-you content scheduling that ensures your posts go live at the right time, every time.",
+      "cta_form_id": "TM-Scheduling-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Weekly content calendar",
+        "Scheduled posts across chosen platforms",
+        "Optimization by best posting times"
+      ],
+      "bonuses": [
+        "Weekly performance summary"
+      ],
+      "guarantee": "If a scheduled post misses its time slot, we refund that week\u2019s service."
+    },
+    "process": [
+      "Submit intake form with assets and captions",
+      "Posts are scheduled across your platforms",
+      "Weekly confirmation sent",
+      "Performance report delivered"
+    ],
+    "proof": {
+      "metrics": "Clients report 100% consistency and 12\u201320% engagement lifts",
+      "testimonial": "ToriMedia scheduling removed all stress \u2014 our content is always live on time."
+    },
+    "cta": {
+      "headline": "Ready to stay consistent without lifting a finger?",
+      "cta_form_id": "TM-Scheduling-Intake"
+    },
+    "seo": {
+      "title": "Content Scheduling Services | ToriMedia",
+      "meta_description": "Automated weekly content scheduling for TikTok, Instagram, YouTube, and more. Guaranteed consistency.",
+      "faqs": [
+        {
+          "q": "Which platforms do you support?",
+          "a": "TikTok, Instagram, YouTube, LinkedIn, and more."
+        },
+        {
+          "q": "How often do you schedule posts?",
+          "a": "Weekly, every Monday."
+        },
+        {
+          "q": "What if a post fails to publish?",
+          "a": "We guarantee a refund for that week."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Community Management",
+    "slug": "/services/community-management",
+    "hero": {
+      "headline": "Build a community that actually engages.",
+      "subhead": "Professional community management that keeps your audience active, loyal, and connected to your brand.",
+      "cta_form_id": "TM-Community-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Daily monitoring and moderation",
+        "Engagement responses and escalations",
+        "Weekly engagement report"
+      ],
+      "bonuses": [
+        "Sensitive case playbooks"
+      ],
+      "guarantee": "If average engagement doesn\u2019t improve within 30 days, we extend service free until it does."
+    },
+    "process": [
+      "Submit intake form with platform access",
+      "Daily engagement and moderation begins",
+      "Weekly reports delivered",
+      "Strategy adjusted based on results"
+    ],
+    "proof": {
+      "metrics": "Clients see up to 40% improvement in engagement rate",
+      "testimonial": "ToriMedia turned our dead Facebook group into a real community."
+    },
+    "cta": {
+      "headline": "Ready to grow a loyal community?",
+      "cta_form_id": "TM-Community-Intake"
+    },
+    "seo": {
+      "title": "Community Management Services | ToriMedia",
+      "meta_description": "Daily professional community management that builds loyalty, improves retention, and boosts engagement.",
+      "faqs": [
+        {
+          "q": "Which platforms do you manage?",
+          "a": "Facebook, LinkedIn, Discord, Slack, Reddit, and more."
+        },
+        {
+          "q": "Do you handle crises?",
+          "a": "Yes, we have escalation protocols."
+        },
+        {
+          "q": "How do you report results?",
+          "a": "Weekly engagement reports with metrics."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Direct Messaging",
+    "slug": "/services/direct-messaging",
+    "hero": {
+      "headline": "Turn your DMs into revenue.",
+      "subhead": "Dedicated DM specialists who qualify leads, respond fast, and book sales calls directly from your inbox.",
+      "cta_form_id": "TM-DM-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Real-time DM monitoring and qualification",
+        "Customized scripts",
+        "Calendar booking and CRM updates"
+      ],
+      "bonuses": [
+        "Lead source tagging"
+      ],
+      "guarantee": "If no leads are generated in the first month, we work free until they are."
+    },
+    "process": [
+      "Submit intake form with offer details",
+      "Scripts customized and approved",
+      "DM management begins",
+      "Leads booked into your calendar"
+    ],
+    "proof": {
+      "metrics": "Average 15\u201325% increase in booked sales calls",
+      "testimonial": "ToriMedia\u2019s DM team booked 12 calls in 2 weeks from our Instagram DMs."
+    },
+    "cta": {
+      "headline": "Ready to convert your inbox into sales?",
+      "cta_form_id": "TM-DM-Intake"
+    },
+    "seo": {
+      "title": "Direct Messaging Lead Generation Services | ToriMedia",
+      "meta_description": "Real-time DM specialists who qualify leads and book sales calls. Proven scripts included.",
+      "faqs": [
+        {
+          "q": "Which platforms do you manage DMs on?",
+          "a": "Instagram, Facebook, LinkedIn, TikTok."
+        },
+        {
+          "q": "How fast are replies?",
+          "a": "Within 1 hour."
+        },
+        {
+          "q": "Do you use scripts?",
+          "a": "Yes, customized scripts for your offer."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Split Testing",
+    "slug": "/services/split-testing",
+    "hero": {
+      "headline": "Find the creative that actually converts.",
+      "subhead": "Professional split testing of ad creatives, thumbnails, and landing pages to maximize ROI.",
+      "cta_form_id": "TM-Split-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "A/B testing of up to 5 creatives per batch",
+        "Test design and configuration",
+        "Winner implementation guide"
+      ],
+      "bonuses": [
+        "Statistical significance reporting"
+      ],
+      "guarantee": "If no statistically significant winner is found, we run another test free."
+    },
+    "process": [
+      "Submit intake form with creative assets",
+      "Test launched across chosen platform",
+      "Results analyzed within 7 days",
+      "Winner delivered with report"
+    ],
+    "proof": {
+      "metrics": "Clients report 18\u201334% lower CPA after split testing",
+      "testimonial": "We finally stopped guessing \u2014 ToriMedia found the ad creative that scaled."
+    },
+    "cta": {
+      "headline": "Ready to eliminate guesswork?",
+      "cta_form_id": "TM-Split-Intake"
+    },
+    "seo": {
+      "title": "Creative Split Testing Services | ToriMedia",
+      "meta_description": "Run professional A/B tests for your creatives. Eliminate wasted spend and scale proven winners.",
+      "faqs": [
+        {
+          "q": "What can you split test?",
+          "a": "Ads, thumbnails, landing pages."
+        },
+        {
+          "q": "How many creatives per batch?",
+          "a": "Up to 5."
+        },
+        {
+          "q": "How long for results?",
+          "a": "7 days or less."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Retargeting",
+    "slug": "/services/retargeting",
+    "hero": {
+      "headline": "Retargeting that recaptures lost revenue.",
+      "subhead": "Strategic retargeting campaigns that bring back visitors and convert them into paying customers.",
+      "cta_form_id": "TM-Retargeting-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Full retargeting campaign build (audiences + ads)",
+        "Sequenced messaging by funnel stage",
+        "Tracking and attribution setup"
+      ],
+      "bonuses": [
+        "Frequency cap recommendations"
+      ],
+      "guarantee": "If ROAS doesn\u2019t improve, we re-optimize campaigns free."
+    },
+    "process": [
+      "Submit intake form with access details",
+      "Retargeting audiences built",
+      "Campaigns launched within 5 days",
+      "Results reviewed weekly"
+    ],
+    "proof": {
+      "metrics": "Clients see an average 28\u201347% increase in conversions from retargeting",
+      "testimonial": "ToriMedia\u2019s retargeting brought back 1 in 4 visitors who left our site."
+    },
+    "cta": {
+      "headline": "Ready to recapture lost revenue?",
+      "cta_form_id": "TM-Retargeting-Intake"
+    },
+    "seo": {
+      "title": "Retargeting Services for Ads & Funnels | ToriMedia",
+      "meta_description": "Launch retargeting campaigns in 5 days. Proven to recapture lost visitors and increase conversions.",
+      "faqs": [
+        {
+          "q": "Which platforms do you retarget on?",
+          "a": "Facebook, Instagram, YouTube, LinkedIn."
+        },
+        {
+          "q": "How fast can you launch?",
+          "a": "Within 5 days."
+        },
+        {
+          "q": "Do you provide reporting?",
+          "a": "Yes, weekly reports included."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Funnel Building",
+    "slug": "/services/funnel-building",
+    "hero": {
+      "headline": "Funnels that turn clicks into customers.",
+      "subhead": "Custom-built funnels designed to convert traffic into paying clients with clarity and speed.",
+      "cta_form_id": "TM-Funnel-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Landing page + thank-you page",
+        "Email sequence (3\u20137 emails)",
+        "Pixel + UTM tracking"
+      ],
+      "bonuses": [
+        "Optimization support"
+      ],
+      "guarantee": "If your funnel doesn\u2019t outperform your current one, we re-optimize free."
+    },
+    "process": [
+      "Submit intake form with offer details",
+      "Funnel strategy session",
+      "Funnel built and launched in 10 business days",
+      "Optimization support included"
+    ],
+    "proof": {
+      "metrics": "Clients report 22\u201338% lift in conversions after new funnel builds",
+      "testimonial": "ToriMedia delivered a funnel that finally turned our ads profitable."
+    },
+    "cta": {
+      "headline": "Ready to scale with a proven funnel?",
+      "cta_form_id": "TM-Funnel-Intake"
+    },
+    "seo": {
+      "title": "Funnel Building Services | ToriMedia",
+      "meta_description": "Custom-built high-converting funnels delivered in 10 days. Includes tracking, emails, and optimization.",
+      "faqs": [
+        {
+          "q": "What\u2019s included in a funnel build?",
+          "a": "Landing page, thank-you page, email sequence, tracking."
+        },
+        {
+          "q": "How long does it take?",
+          "a": "10 business days."
+        },
+        {
+          "q": "Do you handle optimization?",
+          "a": "Yes, optimization support is included."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Conversion Optimization",
+    "slug": "/services/conversion-optimization",
+    "hero": {
+      "headline": "Turn more visitors into customers.",
+      "subhead": "Professional CRO services that identify leaks, test solutions, and guarantee uplift in conversions.",
+      "cta_form_id": "TM-CRO-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Minimum 3 live CRO experiments per month",
+        "Experiment backlog and prioritization",
+        "Winner implementation"
+      ],
+      "bonuses": [
+        "Weekly reporting"
+      ],
+      "guarantee": "If no uplift is achieved, service is extended free until results."
+    },
+    "process": [
+      "Submit intake form with site access",
+      "CRO audit performed",
+      "Tests launched within 7 days",
+      "Winner implemented automatically"
+    ],
+    "proof": {
+      "metrics": "Clients average 12\u201327% uplift in conversion rates",
+      "testimonial": "Our landing pages finally worked \u2014 ToriMedia doubled our opt-ins."
+    },
+    "cta": {
+      "headline": "Ready to increase your conversions?",
+      "cta_form_id": "TM-CRO-Intake"
+    },
+    "seo": {
+      "title": "Conversion Rate Optimization (CRO) Services | ToriMedia",
+      "meta_description": "Increase conversions with data-backed CRO testing. First tests live in 7 days, guaranteed uplift or free extension.",
+      "faqs": [
+        {
+          "q": "How many tests per month?",
+          "a": "Minimum 3."
+        },
+        {
+          "q": "How do you measure results?",
+          "a": "Statistical significance in uplift."
+        },
+        {
+          "q": "What if no uplift is achieved?",
+          "a": "We extend service until results."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Content Calendar",
+    "slug": "/services/content-calendar",
+    "hero": {
+      "headline": "A content calendar that keeps you consistent.",
+      "subhead": "90-day content planning that aligns your campaigns with clarity and precision.",
+      "cta_form_id": "TM-Calendar-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "90-day content calendar with themes, owners, due dates",
+        "Optimization for best posting times"
+      ],
+      "bonuses": [
+        "Weekly reminders + updates"
+      ],
+      "guarantee": "If calendar isn\u2019t usable, we rebuild free until it works for your brand."
+    },
+    "process": [
+      "Submit intake form with goals and niche",
+      "Calendar drafted in 5 business days",
+      "Review and approval",
+      "Weekly reminders and updates"
+    ],
+    "proof": {
+      "metrics": "Clients report 100% posting consistency and 2\u20133x engagement growth",
+      "testimonial": "We finally had clarity \u2014 ToriMedia\u2019s calendar made our team unstoppable."
+    },
+    "cta": {
+      "headline": "Ready to stay consistent with zero stress?",
+      "cta_form_id": "TM-Calendar-Intake"
+    },
+    "seo": {
+      "title": "Content Calendar Services | ToriMedia",
+      "meta_description": "Get a 90-day content calendar with topics, due dates, and optimization. Delivered in 5 days.",
+      "faqs": [
+        {
+          "q": "How long is the calendar?",
+          "a": "90 days."
+        },
+        {
+          "q": "Do you optimize for posting times?",
+          "a": "Yes."
+        },
+        {
+          "q": "Can I request changes?",
+          "a": "Yes, unlimited revisions until approval."
+        }
+      ]
+    }
+  },
+  {
+    "service": "QA",
+    "slug": "/services/qa",
+    "hero": {
+      "headline": "Quality assurance that prevents costly mistakes.",
+      "subhead": "Professional QA checks that ensure your content and campaigns meet brand, legal, and accessibility standards.",
+      "cta_form_id": "TM-QA-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "QA checklist completion with pass/fail records",
+        "Compliance notes for accessibility and legal checks"
+      ],
+      "bonuses": [
+        "Pre-publish blockers"
+      ],
+      "guarantee": "If errors slip through, we recheck at no cost and extend coverage."
+    },
+    "process": [
+      "Submit intake form with content assets",
+      "QA performed within 24 hours",
+      "Pass/fail record delivered",
+      "Final approval before publishing"
+    ],
+    "proof": {
+      "metrics": "Error rates dropped to nearly 0% after QA process",
+      "testimonial": "ToriMedia caught mistakes that saved us thousands in lost credibility."
+    },
+    "cta": {
+      "headline": "Ready to publish with confidence?",
+      "cta_form_id": "TM-QA-Intake"
+    },
+    "seo": {
+      "title": "Content Quality Assurance Services | ToriMedia",
+      "meta_description": "Professional QA services to ensure error-free, compliant publishing. Delivered in 24 hours.",
+      "faqs": [
+        {
+          "q": "How fast is QA?",
+          "a": "24 hours or less."
+        },
+        {
+          "q": "Do you check accessibility?",
+          "a": "Yes, WCAG guidelines included."
+        },
+        {
+          "q": "What if an error slips through?",
+          "a": "Free recheck + extended coverage."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Analytics Dashboard",
+    "slug": "/services/analytics-dashboard",
+    "hero": {
+      "headline": "Dashboards that turn data into decisions.",
+      "subhead": "Custom analytics dashboards that track the metrics that actually matter.",
+      "cta_form_id": "TM-Analytics-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "One custom analytics dashboard with key KPIs",
+        "Data dictionary",
+        "Training session"
+      ],
+      "bonuses": [
+        "Auto-refresh scheduling"
+      ],
+      "guarantee": "If the dashboard isn\u2019t actionable, we rebuild free."
+    },
+    "process": [
+      "Submit intake form with KPIs needed",
+      "Dashboard designed and built in 7 days",
+      "Live handoff and training",
+      "Ongoing refresh and reporting"
+    ],
+    "proof": {
+      "metrics": "Clients reduced reporting time by 80%",
+      "testimonial": "ToriMedia dashboards gave us clarity to scale faster."
+    },
+    "cta": {
+      "headline": "Ready to see your metrics clearly?",
+      "cta_form_id": "TM-Analytics-Intake"
+    },
+    "seo": {
+      "title": "Analytics Dashboard Services | ToriMedia",
+      "meta_description": "Custom analytics dashboards delivered in 7 days. Includes KPIs, training, and data dictionary.",
+      "faqs": [
+        {
+          "q": "How long does it take?",
+          "a": "7 business days."
+        },
+        {
+          "q": "Do you include training?",
+          "a": "Yes."
+        },
+        {
+          "q": "Can dashboards update automatically?",
+          "a": "Yes, auto-refresh is included."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Contracts",
+    "slug": "/services/contracts",
+    "hero": {
+      "headline": "Contracts that protect your business.",
+      "subhead": "Professional drafting and review services to ensure clarity, compliance, and enforceability.",
+      "cta_form_id": "TM-Contracts-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "One professionally drafted or reviewed contract",
+        "Compliance notes",
+        "Renewal reminders"
+      ],
+      "bonuses": [
+        "eSign setup"
+      ],
+      "guarantee": "Unlimited revisions until approval."
+    },
+    "process": [
+      "Submit intake form with contract details",
+      "Contract drafted or reviewed in 72 hours",
+      "Delivery with compliance notes",
+      "Renewal reminders set in SuiteDash"
+    ],
+    "proof": {
+      "metrics": "Clients report reduced disputes and 100% on-time renewals",
+      "testimonial": "ToriMedia gave us contracts that protected us from costly mistakes."
+    },
+    "cta": {
+      "headline": "Ready for contracts that protect and deliver?",
+      "cta_form_id": "TM-Contracts-Intake"
+    },
+    "seo": {
+      "title": "Contract Drafting & Review Services | ToriMedia",
+      "meta_description": "Get professional contract drafting or review in 72 hours. Includes compliance notes and renewal reminders.",
+      "faqs": [
+        {
+          "q": "How long does a contract take?",
+          "a": "72 hours."
+        },
+        {
+          "q": "Do you include renewal tracking?",
+          "a": "Yes."
+        },
+        {
+          "q": "Do you provide revisions?",
+          "a": "Yes, until approval."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Prompt Library",
+    "slug": "/services/prompt-library",
+    "hero": {
+      "headline": "AI prompts that get results every time.",
+      "subhead": "Curated prompt libraries built to save time, reduce errors, and unlock AI\u2019s full potential.",
+      "cta_form_id": "TM-Prompt-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Curated prompt pack (20\u201350 prompts)",
+        "Usage guide",
+        "Best practices"
+      ],
+      "bonuses": [
+        "Periodic updates"
+      ],
+      "guarantee": "If prompts don\u2019t improve output quality, we replace them free."
+    },
+    "process": [
+      "Submit intake form with use case",
+      "Prompt library curated in 3 days",
+      "Delivery with guide",
+      "Follow-up support included"
+    ],
+    "proof": {
+      "metrics": "Clients saved up to 70% of time using AI prompts",
+      "testimonial": "ToriMedia\u2019s prompt packs made AI actually useful for our business."
+    },
+    "cta": {
+      "headline": "Ready to unlock AI\u2019s full potential?",
+      "cta_form_id": "TM-Prompt-Intake"
+    },
+    "seo": {
+      "title": "AI Prompt Library Services | ToriMedia",
+      "meta_description": "Curated AI prompt packs delivered in 3 days. Includes guide and best practices.",
+      "faqs": [
+        {
+          "q": "How many prompts are included?",
+          "a": "20\u201350."
+        },
+        {
+          "q": "Are prompts tested?",
+          "a": "Yes, across industries."
+        },
+        {
+          "q": "Do you provide updates?",
+          "a": "Yes, periodic updates available."
+        }
+      ]
+    }
+  },
+  {
+    "service": "AI Automation",
+    "slug": "/services/ai-automation",
+    "hero": {
+      "headline": "Automations that save hours and scale your business.",
+      "subhead": "AI-powered workflows that cut costs, reduce manual work, and accelerate growth.",
+      "cta_form_id": "TM-AI-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "End-to-end automation project",
+        "SOP documentation",
+        "Monitoring setup"
+      ],
+      "bonuses": [
+        "Training for your team"
+      ],
+      "guarantee": "If automation doesn\u2019t reduce manual work, we rebuild free."
+    },
+    "process": [
+      "Submit intake form with process details",
+      "Workflow mapped and approved",
+      "Automation built in 10 days",
+      "Training and monitoring included"
+    ],
+    "proof": {
+      "metrics": "Clients report 30\u201360% time saved per process",
+      "testimonial": "ToriMedia automation cut our admin hours in half."
+    },
+    "cta": {
+      "headline": "Ready to save hours every week?",
+      "cta_form_id": "TM-AI-Intake"
+    },
+    "seo": {
+      "title": "AI Workflow Automation Services | ToriMedia",
+      "meta_description": "AI-powered automation projects delivered in 10 days. Includes SOP, training, and monitoring.",
+      "faqs": [
+        {
+          "q": "What tools do you use?",
+          "a": "Activepieces, KonnectzIT, SuiteDash, Zapier."
+        },
+        {
+          "q": "How long does it take?",
+          "a": "10 business days."
+        },
+        {
+          "q": "Do you include training?",
+          "a": "Yes, with SOP and monitoring."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Influencer Management",
+    "slug": "/services/influencer-management",
+    "hero": {
+      "headline": "Influencer partnerships that actually deliver ROI.",
+      "subhead": "Full-service influencer campaign management, from outreach to reporting.",
+      "cta_form_id": "TM-Influencer-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Influencer sourcing and vetting",
+        "Contracts and deliverable tracking",
+        "ROI reporting dashboard"
+      ],
+      "bonuses": [
+        "Rate negotiation"
+      ],
+      "guarantee": "If influencers don\u2019t deliver as agreed, we secure replacements free."
+    },
+    "process": [
+      "Submit intake form with campaign goals",
+      "Influencers sourced and approved",
+      "Campaign launched in 14 days",
+      "ROI reported in dashboard"
+    ],
+    "proof": {
+      "metrics": "Clients see average 3\u20137x ROI on influencer campaigns",
+      "testimonial": "ToriMedia managed everything \u2014 we just saw the sales roll in."
+    },
+    "cta": {
+      "headline": "Ready to scale with influencers?",
+      "cta_form_id": "TM-Influencer-Intake"
+    },
+    "seo": {
+      "title": "Influencer Management Services | ToriMedia",
+      "meta_description": "Launch influencer campaigns in 14 days with full-service management and ROI tracking.",
+      "faqs": [
+        {
+          "q": "How do you source influencers?",
+          "a": "Based on niche, reach, and ROI potential."
+        },
+        {
+          "q": "How long until launch?",
+          "a": "14 days."
+        },
+        {
+          "q": "Do you track ROI?",
+          "a": "Yes, in a reporting dashboard."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Gamification",
+    "slug": "/services/gamification",
+    "hero": {
+      "headline": "Gamify your brand to drive engagement.",
+      "subhead": "Custom gamification campaigns that increase interaction, loyalty, and sales.",
+      "cta_form_id": "TM-Gamification-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Complete gamification campaign (scoring system, rewards, rules)",
+        "Leaderboard setup",
+        "Automation integrations"
+      ],
+      "bonuses": [
+        "Engagement playbook"
+      ],
+      "guarantee": "If engagement doesn\u2019t increase, we rework campaigns free."
+    },
+    "process": [
+      "Submit intake form with goals",
+      "Campaign mapped and approved",
+      "Build and launch in 14 business days",
+      "Results tracked and shared"
+    ],
+    "proof": {
+      "metrics": "Clients report 25\u201350% higher engagement",
+      "testimonial": "Our customers loved the gamified campaign \u2014 engagement skyrocketed."
+    },
+    "cta": {
+      "headline": "Ready to boost engagement with gamification?",
+      "cta_form_id": "TM-Gamification-Intake"
+    },
+    "seo": {
+      "title": "Gamification Marketing Services | ToriMedia",
+      "meta_description": "Custom gamification campaigns delivered in 14 days. Includes rewards, leaderboards, and automation.",
+      "faqs": [
+        {
+          "q": "What\u2019s included in gamification campaigns?",
+          "a": "Scoring, rewards, leaderboards."
+        },
+        {
+          "q": "How long does it take?",
+          "a": "14 business days."
+        },
+        {
+          "q": "What if it doesn\u2019t improve engagement?",
+          "a": "We rework campaigns free."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Landing Page Design",
+    "slug": "/services/landing-page-design",
+    "hero": {
+      "headline": "Landing pages that convert on the first visit.",
+      "subhead": "High-converting designs built on proven frameworks for speed, clarity, and results.",
+      "cta_form_id": "TM-LP-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "One conversion-focused landing page",
+        "Copy, design, and build included",
+        "Mobile optimization + page speed tuning"
+      ],
+      "bonuses": [
+        "Heatmap & scroll-depth setup"
+      ],
+      "guarantee": "If the new page doesn\u2019t outperform your current one, we rework free."
+    },
+    "process": [
+      "Submit intake form with offer and assets",
+      "Wireframe and copy approved",
+      "Design and build completed",
+      "Launch with tracking enabled"
+    ],
+    "proof": {
+      "metrics": "Clients see 18\u201335% lift in on-page conversion rates",
+      "testimonial": "Our CAC dropped immediately after ToriMedia rebuilt our landing page."
+    },
+    "cta": {
+      "headline": "Ready to upgrade your landing page?",
+      "cta_form_id": "TM-LP-Intake"
+    },
+    "seo": {
+      "title": "Landing Page Design Services | ToriMedia",
+      "meta_description": "Conversion-focused landing pages with copy, design, and build. Speed-optimized with tracking and heatmaps.",
+      "faqs": [
+        {
+          "q": "Do you provide copy and design?",
+          "a": "Yes, included."
+        },
+        {
+          "q": "Is mobile optimization included?",
+          "a": "Yes, by default."
+        },
+        {
+          "q": "Do you install tracking?",
+          "a": "Yes, analytics and heatmaps."
+        }
+      ]
+    }
+  },
+  {
+    "service": "Tracking & Pixels Setup",
+    "slug": "/services/tracking-pixels",
+    "hero": {
+      "headline": "Tracking that makes every decision data-driven.",
+      "subhead": "Clean analytics, pixel installs, and event tracking so your data actually tells the truth.",
+      "cta_form_id": "TM-Tracking-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Pixel setup (Meta/Google/LinkedIn/TikTok)",
+        "UTM standards and templates",
+        "Key events and conversions configured"
+      ],
+      "bonuses": [
+        "QA validation checklist"
+      ],
+      "guarantee": "If tracking is inaccurate, we fix it free until validated."
+    },
+    "process": [
+      "Submit intake with platform access",
+      "Audit existing setup",
+      "Install pixels and events",
+      "Validate with test conversions"
+    ],
+    "proof": {
+      "metrics": "Attribution accuracy improved to 95%+ across clients",
+      "testimonial": "For the first time, our ad data matched our CRM \u2014 thanks to ToriMedia."
+    },
+    "cta": {
+      "headline": "Ready for trustworthy data?",
+      "cta_form_id": "TM-Tracking-Intake"
+    },
+    "seo": {
+      "title": "Tracking & Pixel Setup Services | ToriMedia",
+      "meta_description": "Accurate analytics with pixel installs, events, and UTM standards so your data finally matches reality.",
+      "faqs": [
+        {
+          "q": "Which platforms are supported?",
+          "a": "Meta, Google, LinkedIn, TikTok, and more."
+        },
+        {
+          "q": "Do you fix broken tracking?",
+          "a": "Yes, we audit and repair."
+        },
+        {
+          "q": "Do you create UTM standards?",
+          "a": "Yes, templates provided."
+        }
+      ]
+    }
+  },
+  {
+    "service": "UGC Curation",
+    "slug": "/services/ugc-curation",
+    "hero": {
+      "headline": "UGC that feels real \u2014 because it is.",
+      "subhead": "Curate, permission, and schedule the best user-generated content to amplify your brand authentically.",
+      "cta_form_id": "TM-UGC-Intake"
+    },
+    "value_stack": {
+      "deliverables": [
+        "Curated UGC shortlist",
+        "Permissions and rights management",
+        "Scheduling and crediting plan"
+      ],
+      "bonuses": [
+        "UGC outreach scripts"
+      ],
+      "guarantee": "If curated UGC doesn\u2019t outperform your average post, we refresh the set free."
+    },
+    "process": [
+      "Submit intake form with brand guidelines",
+      "UGC sources identified and vetted",
+      "Permissions secured and posts scheduled",
+      "Performance monitored and iterated"
+    ],
+    "proof": {
+      "metrics": "UGC posts average 20\u201345% higher engagement vs brand-only posts",
+      "testimonial": "Our best-performing content now comes from our customers \u2014 curated by ToriMedia."
+    },
+    "cta": {
+      "headline": "Ready to scale with authentic UGC?",
+      "cta_form_id": "TM-UGC-Intake"
+    },
+    "seo": {
+      "title": "UGC Curation Services | ToriMedia",
+      "meta_description": "Curate and permission real user-generated content that outperforms brand posts. Includes scheduling and outreach scripts.",
+      "faqs": [
+        {
+          "q": "Do you secure permissions?",
+          "a": "Yes, rights management included."
+        },
+        {
+          "q": "Do you handle scheduling?",
+          "a": "Yes, across major platforms."
+        },
+        {
+          "q": "Can you provide outreach scripts?",
+          "a": "Yes, included."
+        }
+      ]
+    }
+  }
+]

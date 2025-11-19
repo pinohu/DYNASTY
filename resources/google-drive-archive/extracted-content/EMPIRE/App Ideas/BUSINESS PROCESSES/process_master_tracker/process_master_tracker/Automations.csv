@@ -1,0 +1,195 @@
+AutomationID,ProcessID,Description,Trigger,Action,Category,Tooling_Example,Status
+AUTO-001,PROC-001,Automate notifications for Annual Strategic Planning,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-001-2,PROC-001,Auto-update dashboard for Annual Strategic Planning,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-002,PROC-002,Automate notifications for Quarterly OKRs & Review,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-002-2,PROC-002,Auto-update dashboard for Quarterly OKRs & Review,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-003,PROC-003,Automate notifications for Market Research & Niche Validation,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-003-2,PROC-003,Auto-update dashboard for Market Research & Niche Validation,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-004,PROC-004,Automate notifications for Product/Service Portfolio Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-004-2,PROC-004,Auto-update dashboard for Product/Service Portfolio Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-005,PROC-005,Automate notifications for Pricing Strategy & Packaging,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-005-2,PROC-005,Auto-update dashboard for Pricing Strategy & Packaging,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-006,PROC-006,Automate notifications for Partner/Channel Strategy,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-006-2,PROC-006,Auto-update dashboard for Partner/Channel Strategy,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-007,PROC-007,Automate notifications for Brand Governance & Messaging,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-007-2,PROC-007,Auto-update dashboard for Brand Governance & Messaging,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-008,PROC-008,Automate notifications for SEO Content Lifecycle,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-008-2,PROC-008,Auto-update dashboard for SEO Content Lifecycle,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-009,PROC-009,Automate notifications for Content Repurposing & Syndication,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-009-2,PROC-009,Auto-update dashboard for Content Repurposing & Syndication,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-010,PROC-010,Automate notifications for Social Media Calendar & Community,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-010-2,PROC-010,Auto-update dashboard for Social Media Calendar & Community,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-011,PROC-011,Automate notifications for Email List Building & Nurture,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-011-2,PROC-011,Auto-update dashboard for Email List Building & Nurture,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-012,PROC-012,Automate notifications for Paid Ads Campaign Lifecycle,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-012-2,PROC-012,Auto-update dashboard for Paid Ads Campaign Lifecycle,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-013,PROC-013,Automate notifications for Influencer/UGC Program,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-013-2,PROC-013,Auto-update dashboard for Influencer/UGC Program,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-014,PROC-014,Automate notifications for PR & Thought Leadership,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-014-2,PROC-014,Auto-update dashboard for PR & Thought Leadership,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-015,PROC-015,Automate notifications for Affiliate/Referral Program,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-015-2,PROC-015,Auto-update dashboard for Affiliate/Referral Program,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-016,PROC-016,Automate notifications for Web Analytics & CRO Loop,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-016-2,PROC-016,Auto-update dashboard for Web Analytics & CRO Loop,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-017,PROC-017,Automate notifications for Lead Intake & Qualification,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-017-2,PROC-017,Auto-update dashboard for Lead Intake & Qualification,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-018,PROC-018,Automate notifications for Discovery Call Workflow,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-018-2,PROC-018,Auto-update dashboard for Discovery Call Workflow,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-019,PROC-019,Automate notifications for Solutioning/Demo Workflow,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-019-2,PROC-019,Auto-update dashboard for Solutioning/Demo Workflow,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-020,PROC-020,Automate notifications for Proposal & SOW Creation,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-020-2,PROC-020,Auto-update dashboard for Proposal & SOW Creation,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-021,PROC-021,Automate notifications for Contracting & eSignature,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-021-2,PROC-021,Auto-update dashboard for Contracting & eSignature,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-022,PROC-022,Automate notifications for Deal Desk & Discounting,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-022-2,PROC-022,Auto-update dashboard for Deal Desk & Discounting,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-023,PROC-023,Automate notifications for Pipeline Hygiene & Forecasting,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-023-2,PROC-023,Auto-update dashboard for Pipeline Hygiene & Forecasting,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-024,PROC-024,Automate notifications for Onboarding Handoff (Sales→Delivery),Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-024-2,PROC-024,Auto-update dashboard for Onboarding Handoff (Sales→Delivery),Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-025,PROC-025,Automate notifications for Welcome & Kickoff,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-025-2,PROC-025,Auto-update dashboard for Welcome & Kickoff,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-026,PROC-026,Automate notifications for Requirements Gathering,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-026-2,PROC-026,Auto-update dashboard for Requirements Gathering,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-027,PROC-027,Automate notifications for Implementation/Setup,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-027-2,PROC-027,Auto-update dashboard for Implementation/Setup,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-028,PROC-028,Automate notifications for Training & Enablement,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-028-2,PROC-028,Auto-update dashboard for Training & Enablement,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-029,PROC-029,Automate notifications for Go-Live/Launch Readiness,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-029-2,PROC-029,Auto-update dashboard for Go-Live/Launch Readiness,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-030,PROC-030,Automate notifications for Hypercare (30/60/90),Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-030-2,PROC-030,Auto-update dashboard for Hypercare (30/60/90),Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-031,PROC-031,Automate notifications for Onboarding Closeout & Feedback,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-031-2,PROC-031,Auto-update dashboard for Onboarding Closeout & Feedback,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-032,PROC-032,Automate notifications for Project Intake & Planning,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-032-2,PROC-032,Auto-update dashboard for Project Intake & Planning,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-033,PROC-033,Automate notifications for Work Execution & QA,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-033-2,PROC-033,Auto-update dashboard for Work Execution & QA,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-034,PROC-034,Automate notifications for Change Request Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-034-2,PROC-034,Auto-update dashboard for Change Request Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-035,PROC-035,Automate notifications for Deliverable Packaging & Handover,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-035-2,PROC-035,Auto-update dashboard for Deliverable Packaging & Handover,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-036,PROC-036,Automate notifications for Issue/Incident Response,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-036-2,PROC-036,Auto-update dashboard for Issue/Incident Response,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-037,PROC-037,Automate notifications for Maintenance & Service Reviews,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-037-2,PROC-037,Auto-update dashboard for Maintenance & Service Reviews,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-038,PROC-038,Automate notifications for Product Sourcing/Vetting,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-038-2,PROC-038,Auto-update dashboard for Product Sourcing/Vetting,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-039,PROC-039,Automate notifications for Inventory Planning & Reorder,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-039-2,PROC-039,Auto-update dashboard for Inventory Planning & Reorder,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-040,PROC-040,Automate notifications for Listing Creation & QA,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-040-2,PROC-040,Auto-update dashboard for Listing Creation & QA,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-041,PROC-041,Automate notifications for Order Fulfillment & Shipping,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-041-2,PROC-041,Auto-update dashboard for Order Fulfillment & Shipping,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-042,PROC-042,Automate notifications for Returns & Exchanges,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-042-2,PROC-042,Auto-update dashboard for Returns & Exchanges,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-043,PROC-043,Automate notifications for Supplier Performance Review,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-043-2,PROC-043,Auto-update dashboard for Supplier Performance Review,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-044,PROC-044,Automate notifications for Roadmap & Backlog Grooming,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-044-2,PROC-044,Auto-update dashboard for Roadmap & Backlog Grooming,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-045,PROC-045,Automate notifications for Sprint Planning & Standups,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-045-2,PROC-045,Auto-update dashboard for Sprint Planning & Standups,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-046,PROC-046,Automate notifications for Code Review & QA,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-046-2,PROC-046,Auto-update dashboard for Code Review & QA,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-047,PROC-047,Automate notifications for Release/Deployment Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-047-2,PROC-047,Auto-update dashboard for Release/Deployment Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-048,PROC-048,Automate notifications for Security Patch & Vulnerability Mgmt,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-048-2,PROC-048,Auto-update dashboard for Security Patch & Vulnerability Mgmt,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-049,PROC-049,Automate notifications for Uptime/Monitoring/Incident Mgmt,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-049-2,PROC-049,Auto-update dashboard for Uptime/Monitoring/Incident Mgmt,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-050,PROC-050,Automate notifications for Change Log & Communications,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-050-2,PROC-050,Auto-update dashboard for Change Log & Communications,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-051,PROC-051,Automate notifications for Helpdesk/Ticket Triage,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-051-2,PROC-051,Auto-update dashboard for Helpdesk/Ticket Triage,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-052,PROC-052,Automate notifications for Escalation & RCA,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-052-2,PROC-052,Auto-update dashboard for Escalation & RCA,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-053,PROC-053,Automate notifications for Renewals & Expansion,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-053-2,PROC-053,Auto-update dashboard for Renewals & Expansion,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-054,PROC-054,Automate notifications for Health Scoring & QBRs,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-054-2,PROC-054,Auto-update dashboard for Health Scoring & QBRs,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-055,PROC-055,Automate notifications for Community/Forum Moderation,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-055-2,PROC-055,Auto-update dashboard for Community/Forum Moderation,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-056,PROC-056,Automate notifications for Knowledge Base Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-056-2,PROC-056,Auto-update dashboard for Knowledge Base Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-057,PROC-057,Automate notifications for Budgeting & Forecasting,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-057-2,PROC-057,Auto-update dashboard for Budgeting & Forecasting,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-058,PROC-058,Automate notifications for Invoicing & Collections,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-058-2,PROC-058,Auto-update dashboard for Invoicing & Collections,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-059,PROC-059,Automate notifications for AP/Expense Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-059-2,PROC-059,Auto-update dashboard for AP/Expense Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-060,PROC-060,Automate notifications for Payroll & Contractor Payments,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-060-2,PROC-060,Auto-update dashboard for Payroll & Contractor Payments,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-061,PROC-061,Automate notifications for Month-End Close & Reporting,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-061-2,PROC-061,Auto-update dashboard for Month-End Close & Reporting,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-062,PROC-062,Automate notifications for Tax Compliance & Filings,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-062-2,PROC-062,Auto-update dashboard for Tax Compliance & Filings,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-063,PROC-063,Automate notifications for Procurement & Vendor Mgmt,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-063-2,PROC-063,Auto-update dashboard for Procurement & Vendor Mgmt,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-064,PROC-064,Automate notifications for Workforce Planning & Reqs,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-064-2,PROC-064,Auto-update dashboard for Workforce Planning & Reqs,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-065,PROC-065,Automate notifications for Recruiting & Interviewing,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-065-2,PROC-065,Auto-update dashboard for Recruiting & Interviewing,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-066,PROC-066,Automate notifications for New Hire Onboarding (People),Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-066-2,PROC-066,Auto-update dashboard for New Hire Onboarding (People),Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-067,PROC-067,Automate notifications for Compensation & Benefits Admin,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-067-2,PROC-067,Auto-update dashboard for Compensation & Benefits Admin,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-068,PROC-068,Automate notifications for Performance Reviews & PIPs,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-068-2,PROC-068,Auto-update dashboard for Performance Reviews & PIPs,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-069,PROC-069,Automate notifications for L&D / Training Programs,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-069-2,PROC-069,Auto-update dashboard for L&D / Training Programs,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-070,PROC-070,Automate notifications for Offboarding & Knowledge Transfer,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-070-2,PROC-070,Auto-update dashboard for Offboarding & Knowledge Transfer,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-071,PROC-071,Automate notifications for Policy Management & Training,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-071-2,PROC-071,Auto-update dashboard for Policy Management & Training,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-072,PROC-072,Automate notifications for Data Privacy & Access Control,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-072-2,PROC-072,Auto-update dashboard for Data Privacy & Access Control,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-073,PROC-073,"Automate notifications for Regulatory Compliance (e.g., HIPAA)",Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-073-2,PROC-073,"Auto-update dashboard for Regulatory Compliance (e.g., HIPAA)",Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-074,PROC-074,Automate notifications for Contract Lifecycle Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-074-2,PROC-074,Auto-update dashboard for Contract Lifecycle Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-075,PROC-075,Automate notifications for Risk Assessment & Mitigation,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-075-2,PROC-075,Auto-update dashboard for Risk Assessment & Mitigation,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-076,PROC-076,Automate notifications for Business Continuity/DR,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-076-2,PROC-076,Auto-update dashboard for Business Continuity/DR,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-077,PROC-077,Automate notifications for Internal Audit & CAPA,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-077-2,PROC-077,Auto-update dashboard for Internal Audit & CAPA,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-078,PROC-078,Automate notifications for Integration Design & Orchestration,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-078-2,PROC-078,Auto-update dashboard for Integration Design & Orchestration,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-079,PROC-079,Automate notifications for ETL/ELT Data Pipelines,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-079-2,PROC-079,Auto-update dashboard for ETL/ELT Data Pipelines,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-080,PROC-080,Automate notifications for KPI Definition & Dashboards,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-080-2,PROC-080,Auto-update dashboard for KPI Definition & Dashboards,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-081,PROC-081,Automate notifications for Automation Opportunity Intake,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-081-2,PROC-081,Auto-update dashboard for Automation Opportunity Intake,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-082,PROC-082,Automate notifications for Bot/Script Maintenance,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-082-2,PROC-082,Auto-update dashboard for Bot/Script Maintenance,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-083,PROC-083,Automate notifications for Data Backup & Restore Tests,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-083-2,PROC-083,Auto-update dashboard for Data Backup & Restore Tests,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-084,PROC-084,Automate notifications for Property Acquisition & Due Diligence,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-084-2,PROC-084,Auto-update dashboard for Property Acquisition & Due Diligence,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-085,PROC-085,Automate notifications for Tenant Onboarding & Lease Mgmt,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-085-2,PROC-085,Auto-update dashboard for Tenant Onboarding & Lease Mgmt,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-086,PROC-086,Automate notifications for Maintenance Work Orders,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-086-2,PROC-086,Auto-update dashboard for Maintenance Work Orders,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-087,PROC-087,Automate notifications for Construction Job Estimating & Bids,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-087-2,PROC-087,Auto-update dashboard for Construction Job Estimating & Bids,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-088,PROC-088,Automate notifications for Site Safety & Compliance,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-088-2,PROC-088,Auto-update dashboard for Site Safety & Compliance,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-089,PROC-089,Automate notifications for Coaching Program Curriculum & Sessions,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-089-2,PROC-089,Auto-update dashboard for Coaching Program Curriculum & Sessions,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-090,PROC-090,Automate notifications for KDP Title Ideation & Launch,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-090-2,PROC-090,Auto-update dashboard for KDP Title Ideation & Launch,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-091,PROC-091,Automate notifications for KDP Royalty Tracking & Optimization,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-091-2,PROC-091,Auto-update dashboard for KDP Royalty Tracking & Optimization,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-092,PROC-092,Automate notifications for Category/Location Taxonomy Updates,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-092-2,PROC-092,Auto-update dashboard for Category/Location Taxonomy Updates,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-093,PROC-093,Automate notifications for Member Verification & QA,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-093-2,PROC-093,Auto-update dashboard for Member Verification & QA,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-094,PROC-094,Automate notifications for Listing Approval & Publishing,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-094-2,PROC-094,Auto-update dashboard for Listing Approval & Publishing,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-095,PROC-095,Automate notifications for Lead Distribution & Routing,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-095-2,PROC-095,Auto-update dashboard for Lead Distribution & Routing,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-096,PROC-096,Automate notifications for Coupon/Deal Management,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-096-2,PROC-096,Auto-update dashboard for Coupon/Deal Management,Data availability,Append metrics row,Analytics,ETL/Script,Planned
+AUTO-097,PROC-097,Automate notifications for Churn Prevention & Win-Back,Status change or schedule,Send Slack/Email/Task,Notification,Zapier/Make/RPA,Planned
+AUTO-097-2,PROC-097,Auto-update dashboard for Churn Prevention & Win-Back,Data availability,Append metrics row,Analytics,ETL/Script,Planned

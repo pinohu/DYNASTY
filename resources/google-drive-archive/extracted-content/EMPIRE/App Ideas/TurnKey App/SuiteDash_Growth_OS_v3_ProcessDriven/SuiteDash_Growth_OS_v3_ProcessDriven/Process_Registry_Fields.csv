@@ -1,0 +1,17 @@
+field_name,type,options
+Process Name,Text,
+Area / Department,Dropdown,Marketing|Sales|Operations|Service Delivery|Finance|HR|IT|Admin|Other
+Process Owner,Text,
+Trigger (When to start),Text,
+Inputs (from),Text,
+Outputs (to),Text,
+SOP URL,Text,
+Frequency / Cadence,Dropdown,On Demand|Daily|Weekly|Biweekly|Monthly|Quarterly|Annually
+SLA / Due (hours/days),Text,
+Tools Used,Text,
+Automation Links,Text,
+Version,Text,
+Last Reviewed,Date,
+Status / Health,Dropdown,Draft|Active|Needs Update|Deprecated
+RACI (R/A/C/I),Text,
+KPIs / Success Metric,Text,

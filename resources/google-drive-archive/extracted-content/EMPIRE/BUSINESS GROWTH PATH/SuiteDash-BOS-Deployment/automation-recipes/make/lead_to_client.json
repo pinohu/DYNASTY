@@ -1,0 +1,39 @@
+{
+  "_note": "Boost.space (Make) pseudo-config; map to modules in UI",
+  "trigger": "HTTP webhook - New Lead",
+  "modules": [
+    {
+      "type": "SalesPanel - Enrich Lead",
+      "config": {
+        "apiKey": "{{SALESPANEL_API_KEY}}",
+        "email": "{{lead.email}}"
+      }
+    },
+    {
+      "type": "SuiteDash - Create/Update Contact",
+      "config": {
+        "apiBase": "{{SUITEDASH_API_BASE}}",
+        "apiKey": "{{SUITEDASH_API_KEY}}",
+        "data": "{{lead+enrichment}}"
+      }
+    },
+    {
+      "type": "AITable - Upsert",
+      "config": {
+        "base": "{{AITable_BASE}}",
+        "table": "Contacts",
+        "record": "{{lead}}"
+      }
+    },
+    {
+      "type": "ActiveCampaign - Add to List",
+      "config": {
+        "apiBase": "{{ACTIVECAMPAIGN_BASE}}",
+        "apiKey": "{{ACTIVECAMPAIGN_API_KEY}}",
+        "listId": "{{LIST_ID}}",
+        "contact": "{{lead}}"
+      }
+    }
+  ],
+  "result": "Lead captured, enriched, synced, and nurtured"
+}

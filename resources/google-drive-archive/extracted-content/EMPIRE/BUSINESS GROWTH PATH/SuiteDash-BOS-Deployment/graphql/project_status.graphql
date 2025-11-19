@@ -1,0 +1,16 @@
+# Project Status Feed
+query ProjectStatus($projectId: ID!) {
+  suiteDashProject(id: $projectId) {
+    id
+    name
+    status
+    milestones { name completedAt }
+  }
+  blueTasks(projectId: $projectId) {
+    id
+    title
+    status
+    assignee
+    dueDate
+  }
+}

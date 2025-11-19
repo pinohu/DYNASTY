@@ -1,0 +1,4 @@
+field_name,type,options
+Marketing Opt-in,Dropdown,Yes|No
+Testimonial Permission,Dropdown,Yes|No
+Data Retention Class,Dropdown,6m|12m|18m|36m|Indef (client)

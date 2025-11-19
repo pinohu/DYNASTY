@@ -1,0 +1,418 @@
+{
+  "pipelines": [
+    {
+      "name": "Creative & Content Pipeline",
+      "stages": [
+        {
+          "name": "Intake & Brief",
+          "wip_limit": 0
+        },
+        {
+          "name": "Ideation & Research",
+          "wip_limit": 0
+        },
+        {
+          "name": "Draft / Production",
+          "wip_limit": 0
+        },
+        {
+          "name": "Edit / Review",
+          "wip_limit": 0
+        },
+        {
+          "name": "Design & Multimedia",
+          "wip_limit": 0
+        },
+        {
+          "name": "QA / Compliance",
+          "wip_limit": 0
+        },
+        {
+          "name": "Publish",
+          "wip_limit": 0
+        },
+        {
+          "name": "Promotion / Syndication",
+          "wip_limit": 0
+        },
+        {
+          "name": "Performance Review",
+          "wip_limit": 0
+        }
+      ],
+      "default_task_templates": [
+        {
+          "title": "Thumbnail Designer",
+          "sla_hours": 8,
+          "kpis": "CTR, Revisions/asset, On-time %",
+          "tools": "Publit.io; Bestever; SUPERMACHINE",
+          "automations": "Auto-notify Editor on upload; Auto-publish on approval",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Video Editor (Short)",
+          "sla_hours": 10,
+          "kpis": "Avg watch %, Completion rate, Time to edit",
+          "tools": "Phygital+; Unmixr AI",
+          "automations": "Auto-ingest from Drive; Auto-caption",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Copywriter",
+          "sla_hours": 6,
+          "kpis": "CTR uplift, Conversions, QA errors",
+          "tools": "Katteb; WordHero; Writeseed",
+          "automations": "Auto-assign editor; Grammar QA",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Scriptwriter",
+          "sla_hours": 8,
+          "kpis": "Approval rate 1st pass, Turnaround",
+          "tools": "KWHero; Nichesss",
+          "automations": "Auto-outline generator; Versioning",
+          "approver_role": "Creative Director"
+        },
+        {
+          "title": "Illustrator",
+          "sla_hours": 6,
+          "kpis": "Saves/Shares, Turnaround",
+          "tools": "SUPERMACHINE; Phygital+",
+          "automations": "Auto-export variants",
+          "approver_role": "Creative Director"
+        }
+      ]
+    },
+    {
+      "name": "Social & Community Pipeline",
+      "stages": [
+        {
+          "name": "Calendar Planning",
+          "wip_limit": 0
+        },
+        {
+          "name": "Asset Prep",
+          "wip_limit": 0
+        },
+        {
+          "name": "Approval",
+          "wip_limit": 0
+        },
+        {
+          "name": "Scheduling",
+          "wip_limit": 0
+        },
+        {
+          "name": "Live / Engage",
+          "wip_limit": 0
+        },
+        {
+          "name": "Moderation & Escalation",
+          "wip_limit": 0
+        },
+        {
+          "name": "UGC Curation",
+          "wip_limit": 0
+        },
+        {
+          "name": "Weekly Reporting",
+          "wip_limit": 0
+        }
+      ],
+      "default_task_templates": [
+        {
+          "title": "Hashtag Researcher",
+          "sla_hours": 2,
+          "kpis": "Reach lift, CTR change",
+          "tools": "WriterZen; Yazo; Squirrly SEO",
+          "automations": "Weekly auto-report",
+          "approver_role": "Social Lead"
+        },
+        {
+          "title": "Content Scheduler",
+          "sla_hours": 2,
+          "kpis": "On-time %, Posting errors",
+          "tools": "Pabbly; Activepieces",
+          "automations": "Auto-schedule by best-time model",
+          "approver_role": "Marketing Lead"
+        },
+        {
+          "title": "Community Manager",
+          "sla_hours": 3,
+          "kpis": "Resp. time, Engagement/user",
+          "tools": "SuiteDash; SalesNexus",
+          "automations": "Auto-escalate to support",
+          "approver_role": "Head of Community"
+        },
+        {
+          "title": "DM Specialist",
+          "sla_hours": 3,
+          "kpis": "Qualified leads, Resp. time",
+          "tools": "SalesNexus; WhatsApp CRM",
+          "automations": "Auto-create CRM lead",
+          "approver_role": "Sales Manager"
+        }
+      ]
+    },
+    {
+      "name": "Advertising & Growth Pipeline",
+      "stages": [
+        {
+          "name": "Campaign Brief",
+          "wip_limit": 0
+        },
+        {
+          "name": "Audience & Offers",
+          "wip_limit": 0
+        },
+        {
+          "name": "Creative Build",
+          "wip_limit": 0
+        },
+        {
+          "name": "Tracking & Pixels",
+          "wip_limit": 0
+        },
+        {
+          "name": "Launch",
+          "wip_limit": 0
+        },
+        {
+          "name": "Optimize (A/B)",
+          "wip_limit": 0
+        },
+        {
+          "name": "Retargeting",
+          "wip_limit": 0
+        },
+        {
+          "name": "CRO / Landing Tests",
+          "wip_limit": 0
+        },
+        {
+          "name": "Post-Mortem Report",
+          "wip_limit": 0
+        }
+      ],
+      "default_task_templates": [
+        {
+          "title": "Creative Split Tester",
+          "sla_hours": 4,
+          "kpis": "CTR delta, CPA delta",
+          "tools": "Bestever; Playzo",
+          "automations": "Auto-launch variant; Auto-pause losers",
+          "approver_role": "Growth Lead"
+        },
+        {
+          "title": "Retargeting Specialist",
+          "sla_hours": 3,
+          "kpis": "Retarget CVR, ROAS",
+          "tools": "Pabbly; Activepieces; SalesNexus",
+          "automations": "Auto-sync audiences",
+          "approver_role": "Growth Lead"
+        },
+        {
+          "title": "Funnel Specialist",
+          "sla_hours": 6,
+          "kpis": "LP CVR, Pixel health",
+          "tools": "ProductDyno; SuiteDash",
+          "automations": "Auto-QA checklist",
+          "approver_role": "Growth Lead"
+        },
+        {
+          "title": "CRO Specialist",
+          "sla_hours": 6,
+          "kpis": "Test velocity, Uplift %",
+          "tools": "TruConversion; Smart Spreadsheets",
+          "automations": "Auto-publish winners",
+          "approver_role": "Growth Lead"
+        }
+      ]
+    },
+    {
+      "name": "Strategy & Ops Pipeline",
+      "stages": [
+        {
+          "name": "Annual / Quarterly Planning",
+          "wip_limit": 0
+        },
+        {
+          "name": "OKR Cascade",
+          "wip_limit": 0
+        },
+        {
+          "name": "Resourcing & Budget",
+          "wip_limit": 0
+        },
+        {
+          "name": "Execution Sync",
+          "wip_limit": 0
+        },
+        {
+          "name": "SOP Review",
+          "wip_limit": 0
+        },
+        {
+          "name": "Risk & Compliance",
+          "wip_limit": 0
+        },
+        {
+          "name": "KPI Dashboard",
+          "wip_limit": 0
+        },
+        {
+          "name": "Retrospective",
+          "wip_limit": 0
+        }
+      ],
+      "default_task_templates": [
+        {
+          "title": "Content Calendar Specialist",
+          "sla_hours": 3,
+          "kpis": "Schedule adherence",
+          "tools": "AITable.ai; Lunacal; SuiteDash",
+          "automations": "Auto-reminders; rollups",
+          "approver_role": "CMO"
+        },
+        {
+          "title": "QA Specialist",
+          "sla_hours": 2,
+          "kpis": "Error rate post-publish",
+          "tools": "SuiteDash",
+          "automations": "Auto-block publish on fail",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Analytics Dashboard Builder",
+          "sla_hours": 6,
+          "kpis": "Report timeliness, Data accuracy",
+          "tools": "Boost.space; Smart Spreadsheets",
+          "automations": "Auto-refresh & email PDF",
+          "approver_role": "COO"
+        }
+      ]
+    },
+    {
+      "name": "Business Support Pipeline",
+      "stages": [
+        {
+          "name": "Request / Intake",
+          "wip_limit": 0
+        },
+        {
+          "name": "Triage & Assignment",
+          "wip_limit": 0
+        },
+        {
+          "name": "Processing",
+          "wip_limit": 0
+        },
+        {
+          "name": "Approval / Sign-off",
+          "wip_limit": 0
+        },
+        {
+          "name": "Settlement / Closure",
+          "wip_limit": 0
+        },
+        {
+          "name": "Audit & Archive",
+          "wip_limit": 0
+        }
+      ],
+      "default_task_templates": [
+        {
+          "title": "Finance Manager",
+          "sla_hours": 8,
+          "kpis": "Budget variance, Close time",
+          "tools": "Pabbly; Smart Spreadsheets",
+          "automations": "Auto-reconciliations",
+          "approver_role": "CFO"
+        },
+        {
+          "title": "HR / Recruiter",
+          "sla_hours": 6,
+          "kpis": "Time-to-hire, Offer accept %",
+          "tools": "SuiteDash HR",
+          "automations": "Auto-stage change comms",
+          "approver_role": "COO"
+        },
+        {
+          "title": "Contracts Specialist",
+          "sla_hours": 3,
+          "kpis": "Cycle time, Errors",
+          "tools": "SuiteDash",
+          "automations": "Auto-reminders for renewals",
+          "approver_role": "Legal"
+        }
+      ]
+    },
+    {
+      "name": "Advanced / Experimental Pipeline",
+      "stages": [
+        {
+          "name": "Idea Intake",
+          "wip_limit": 0
+        },
+        {
+          "name": "Prioritize & Scope",
+          "wip_limit": 0
+        },
+        {
+          "name": "Pilot Build",
+          "wip_limit": 0
+        },
+        {
+          "name": "Beta Test",
+          "wip_limit": 0
+        },
+        {
+          "name": "Evaluate (KPI)",
+          "wip_limit": 0
+        },
+        {
+          "name": "Scale / Kill",
+          "wip_limit": 0
+        },
+        {
+          "name": "Handover to Ops",
+          "wip_limit": 0
+        }
+      ],
+      "default_task_templates": [
+        {
+          "title": "AI Prompt Librarian",
+          "sla_hours": 3,
+          "kpis": "Reuse %, Library growth",
+          "tools": "KWHero; Nichesss; WordHero",
+          "automations": "Auto-tag prompts",
+          "approver_role": "AI Lead"
+        },
+        {
+          "title": "AI Workflow Engineer",
+          "sla_hours": 8,
+          "kpis": "Manual time reduced",
+          "tools": "Activepieces; KonnectzIT",
+          "automations": "Auto-monitor flows",
+          "approver_role": "Ops Lead"
+        },
+        {
+          "title": "Influencer Manager",
+          "sla_hours": 6,
+          "kpis": "#Deals, ROI",
+          "tools": "SuiteDash CRM; SwipeOne",
+          "automations": "Auto-track deliverables",
+          "approver_role": "Marketing Director"
+        },
+        {
+          "title": "Gamification Specialist",
+          "sla_hours": 6,
+          "kpis": "Engagement lift",
+          "tools": "Playzo; ProductDyno; GoZen Forms",
+          "automations": "Auto-award points",
+          "approver_role": "Head of Community"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Pipeline Name,Stage Name,Probability,Entry Criteria,Exit Criteria,Required Fields,Average Duration
+CLOSER Sales Framework,CLARIFY,10%,Prospect shows interest/books call,Problem identified and documented,Primary_Pain_Point|Desired_Outcome,1-3 days
+CLOSER Sales Framework,LABEL,20%,Problem documented and acknowledged,Prospect admits problem exists,Problem_Label|Impact_Level,1-2 days
+CLOSER Sales Framework,OVERVIEW,35%,Problem acknowledged by prospect,Past attempts documented,Previous_Solutions_Tried|Failure_Reasons,2-4 days
+CLOSER Sales Framework,SELL,50%,Pain cycle complete,Demo/presentation delivered,Demo_Date|Stakeholders_Present,3-7 days
+CLOSER Sales Framework,EXPLAIN,70%,Proposal sent,Objections addressed,Objections_Raised|Responses_Given,5-10 days
+CLOSER Sales Framework,REINFORCE,90%,Ready to close,Contract signed or lost,Decision_Factors|Close_Date,2-5 days
+
