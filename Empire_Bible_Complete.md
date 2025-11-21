@@ -1,4 +1,4 @@
-﻿# THE OHU-PNR DYNASTY EMPIRE BIBLE
+﻿# THE LEGACY CODEX
 ## Complete 360Â° Master Blueprint & Implementation Manual
 ### The Definitive Guide to Building, Operating, and Perpetuating a Multi-Generational $10M+ Business Empire
 
@@ -176,20 +176,20 @@ This master document represents the complete compilation of all 54 chapters of t
 
 ### The Soul of the Empire
 
-Volume I: Foundation & Philosophy is the philosophical bedrock upon which the entire Ohu-PNR Dynasty Empire is built. While subsequent volumes detail the legal structures, revenue engines, technology systems, and operational procedures, this volume establishes the *why*â€”the vision, values, and strategic architecture that guide every decision across 365 years.
+Volume I: Foundation & Philosophy is the philosophical bedrock upon which the entire The Legacy Codex is built. While subsequent volumes detail the legal structures, revenue engines, technology systems, and operational procedures, this volume establishes the *why*â€”the vision, values, and strategic architecture that guide every decision across 365 years.
 
 Without this foundation, the empire would be a collection of businesses without purpose, assets without meaning, and wealth without legacy. With it, every entity, every transaction, and every decision becomes part of a coherent, multi-generational strategy.
 
 ### The 365-Year Vision
 
-The Ohu-PNR Dynasty Empire is not a business venture with an exit strategy. It is a **perpetual institution** designed to:
+The Legacy Codex is not a business venture with an exit strategy. It is a **perpetual institution** designed to:
 
 1. **Generate Wealth**: Build a $10M+ annual revenue empire through diversified business operations
 2. **Preserve Wealth**: Protect assets across generations through Dynasty Trust structures
 3. **Transmit Values**: Ensure future generations understand and embody the principles that built the empire
 4. **Create Impact**: Serve communities and causes through business operations and philanthropy
 
-This vision extends beyond the lifetime of founders Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, serving their children (Ivan, Jeremy, Kikachukwu, Chimenime) and generations beyond.
+This vision extends beyond the lifetime of founders [Primary Principal Name] and [Secondary Principal Name], serving their children ([Beneficiary Names]) and generations beyond.
 
 ### Volume Structure
 
@@ -217,12 +217,12 @@ This volume is organized into a single comprehensive book:
 
 ### How to Use This Volume
 
-**For Founders (Ikechukwu & Judith)**:
+**For Founders ([Primary Principal Name] & [Secondary Principal Name])**:
 - Use Chapter 1 to align all decisions with the 365-year vision
 - Use Chapter 2 to make strategic resource allocation decisions
 - Use Chapter 3 to guide family development and succession planning
 
-**For Next Generation (Ivan, Jeremy, Kikachukwu, Chimenime)**:
+**For Next Generation ([Beneficiary Names])**:
 - Study Chapter 1 to understand the vision and values
 - Learn Chapter 2 to understand strategic decision-making
 - Follow Chapter 3 to develop according to the legacy framework
@@ -276,7 +276,7 @@ If the family legacy framework is absent, the empire will not survive generation
   - Section 2.4: Growth vs. Preservation Balance
 
 - **Chapter 3**: Family Legacy Framework
-  - Section 3.1: The Ohu Family Mission
+  - Section 3.1: The [Your Family] Mission
   - Section 3.2: Values Transmission System
   - Section 3.3: Succession Philosophy
   - Section 3.4: Wealth Psychology Training
@@ -330,7 +330,7 @@ After completing Volume I:
 
 ## Introduction
 
-Welcome to the **Ohu-PNR Dynasty Empire Bible**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
+Welcome to the **The Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
 
 In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Dynasty**. A dynasty is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
 
@@ -350,7 +350,7 @@ These questions are not rhetorical exercises. They are the decision-making frame
 
 ### The Philosophy of "Forever"
 
-The Ohu-PNR Dynasty is founded on the **365-Year Vision**. This number is not arbitrary. It represents a commitment that extends beyond the lifespan of any single individual, spanning roughly 12 to 15 generations. It aligns with the maximum perpetuity periods allowed by the most favorable trust jurisdictions (such as South Dakota), signaling our intent to create wealth that is **perpetual**.
+The Legacy Codex is founded on the **365-Year Vision**. This number is not arbitrary. It represents a commitment that extends beyond the lifespan of any single individual, spanning roughly 12 to 15 generations. It aligns with the maximum perpetuity periods allowed by the most favorable trust jurisdictions (such as South Dakota), signaling our intent to create wealth that is **perpetual**.
 
 **Why 365 Years?**
 
@@ -362,7 +362,7 @@ The number 365 represents:
 
 Our vision is to create a self-sustaining ecosystem of businesses, assets, and investments that provides:
 
-1. **Financial Sovereignty** for every generation of the Ohu family. This means that no descendant should ever be forced into employment out of financial necessity. They may choose to work, but they work from a position of strength, not desperation.
+1. **Financial Sovereignty** for every generation of [Your Family]. This means that no descendant should ever be forced into employment out of financial necessity. They may choose to work, but they work from a position of strength, not desperation.
 
 2. **Impactful Service** to our community and the world through our enterprises. Our businessesâ€”from notary services to real estateâ€”solve real problems for real people. We measure our success not just in dollars, but in lives improved.
 
@@ -443,7 +443,7 @@ How do we measure success across 365 years? We use a multi-dimensional framework
 ### The Mandate
 
 **Our Mandate:**
-> *To cultivate a thriving, diversified, and resilient empire that empowers the Ohu family to pursue their highest callings, unencumbered by financial necessity, while adhering to the strictest standards of stewardship, integrity, and excellence.*
+> *To cultivate a thriving, diversified, and resilient empire that empowers [Your Family] to pursue their highest callings, unencumbered by financial necessity, while adhering to the strictest standards of stewardship, integrity, and excellence.*
 
 This mandate is not negotiable. It is the North Star that guides every decision, from the smallest operational choice to the largest strategic initiative.
 
@@ -599,7 +599,7 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 - We maintain separate public and private personas.
 - We protect family members' personal information rigorously.
 
-**Example**: Our real estate holdings are owned by LLCs, which are owned by trusts. Public records don't reveal the Ohu family connection. We build wealth quietly.
+**Example**: Our real estate holdings are owned by LLCs, which are owned by trusts. Public records don't reveal [Your Family] connection. We build wealth quietly.
 
 #### Pillar 12: Faith
 
@@ -685,7 +685,7 @@ Every major decision (capital allocation >$50,000, new business launch, major hi
 
 ## 1.3 Success Metrics & Definitions
 
-In the Ohu-PNR Dynasty, "Wealth" is a four-dimensional concept. We track our success across four capitals, because financial wealth without human, intellectual, and social capital is incomplete and unsustainable.
+In the Legacy Codex, "Wealth" is a four-dimensional concept. We track our success across four capitals, because financial wealth without human, intellectual, and social capital is incomplete and unsustainable.
 
 ### Defining "Wealth" in the Dynasty Context
 
@@ -890,7 +890,7 @@ We use a weighted scoring system to evaluate overall Empire health:
 
 ## 1.4 The Empire Constitution
 
-This Constitution serves as the supreme law of the Ohu-PNR Dynasty. It is divided into **Foundational Laws** (Immutable) and **Operational Guidelines** (Amendable). This Constitution takes precedence over all other documents, except where superseded by applicable law.
+This Constitution serves as the supreme law of the Legacy Codex. It is divided into **Foundational Laws** (Immutable) and **Operational Guidelines** (Amendable). This Constitution takes precedence over all other documents, except where superseded by applicable law.
 
 ### Article I: Foundational Laws (Immutable)
 
@@ -911,9 +911,9 @@ This Constitution serves as the supreme law of the Ohu-PNR Dynasty. It is divide
 
 #### Law 2: The Bloodline Protection
 
-**Text**: Beneficiaries are limited to the direct lineal descendants of Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, and their spouses (while married). Adopted children are included if legally adopted before age 18.
+**Text**: Beneficiaries are limited to the direct lineal descendants of [Primary Principal Name] and [Secondary Principal Name], and their spouses (while married). Adopted children are included if legally adopted before age 18.
 
-**Rationale**: This law ensures that the Empire remains within the Ohu bloodline and prevents dilution through non-family beneficiaries.
+**Rationale**: This law ensures that the Empire remains within the [family] bloodline and prevents dilution through non-family beneficiaries.
 
 **Enforcement**: The Trust Protector must approve any addition of beneficiaries. The Administrative Trustee must verify beneficiary eligibility before any distribution.
 
@@ -1164,7 +1164,7 @@ In extreme emergencies, Operational Guidelines may be temporarily suspended by:
 
 Strategic architecture is the bridge between vision and execution. While Chapter 1 established *why* we build the Empire and *what* values guide us, this chapter defines *how* we build it strategically.
 
-The Ohu-PNR Dynasty Empire operates across three time horizons simultaneously. We must generate cash flow today while accumulating assets for tomorrow, all while preserving the foundation for generations to come. This requires a sophisticated strategic framework that balances immediate needs with long-term preservation.
+The Legacy Codex operates across three time horizons simultaneously. We must generate cash flow today while accumulating assets for tomorrow, all while preserving the foundation for generations to come. This requires a sophisticated strategic framework that balances immediate needs with long-term preservation.
 
 This chapter provides the strategic decision-making frameworks that guide every major choice in the Empire:
 1. **The Three-Horizon Model** (Section 2.1): How we balance immediate, medium-term, and generational goals
@@ -2279,10 +2279,10 @@ When consolidating, use these strategies to strengthen the Empire:
 
 A business empire without a prepared family is a ticking time bomb. History is littered with dynasties that crumbled because the wealth grew faster than the family's ability to manage it. The Vanderbilts, the Rockefellers' early generations, and countless others serve as cautionary tales of wealth without wisdom.
 
-Chapter 3 establishes the **Human Operating System** of the Ohu-PNR Dynasty. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
+Chapter 3 establishes the **Human Operating System** of the Legacy Codex. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
 
 This chapter addresses four critical questions:
-1. **Who are we as a family?** (Section 3.1: The Ohu Family Mission)
+1. **Who are we as a family?** (Section 3.1: The [Your Family] Mission)
 2. **How do we transmit values?** (Section 3.2: Values Transmission System)
 3. **How do we ensure capable leadership?** (Section 3.3: Succession Philosophy)
 4. **How do we prevent wealth from corrupting?** (Section 3.4: Wealth Psychology Training)
@@ -2291,7 +2291,7 @@ These questions are not philosophical exercises. They are practical frameworks t
 
 ---
 
-## 3.1 The Ohu Family Mission
+## 3.1 The [Your Family] Mission
 
 ### The Collective Mission
 
@@ -2335,7 +2335,7 @@ This mission statement is not aspirational; it is descriptive of who we are and 
 
 While we share a collective mission, each family member has specific roles and responsibilities that contribute to the whole.
 
-#### The Principals: Ikechukwu & Judith Ohu
+#### The Principals: [Principal Names]
 
 **Role**: The Architects & Stewards
 
@@ -2382,7 +2382,7 @@ While we share a collective mission, each family member has specific roles and r
 - All four children demonstrate values alignment
 - Family unity maintained throughout building phase
 
-#### The Next Generation: Ivan, Jeremy, Kikachukwu, Chimenime
+#### The Next Generation: [Beneficiary Names]
 
 **Role**: The Apprentices & Future Builders
 
@@ -2395,7 +2395,7 @@ While we share a collective mission, each family member has specific roles and r
 
 **Individual Roles** (based on current understanding, subject to evolution):
 
-##### Ivan Osemeke (Eldest)
+##### [Beneficiary 1] (Eldest)
 
 **Role**: Standard-Bearer & Leadership Model
 
@@ -2407,7 +2407,7 @@ While we share a collective mission, each family member has specific roles and r
 - Support parents in family governance
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Gain outside work experience (2-3 years)
 - Develop specialized skills (e.g., real estate, technology, finance)
 - Participate in Family Council as observer, then voting member
@@ -2419,7 +2419,7 @@ While we share a collective mission, each family member has specific roles and r
 - Maintains positive influence on siblings
 - Develops marketable skills
 
-##### Jeremy Chiwuikem
+##### [Beneficiary 2]
 
 **Role**: Specialist & Unity Guardian
 
@@ -2431,7 +2431,7 @@ While we share a collective mission, each family member has specific roles and r
 - Build expertise in chosen field
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Identify and develop specialized skills (e.g., technology, marketing, operations)
 - Gain experience (inside or outside Empire)
 - Contribute to Empire growth through specialization
@@ -2443,7 +2443,7 @@ While we share a collective mission, each family member has specific roles and r
 - Maintains positive family relationships
 - Demonstrates commitment to family unity
 
-##### Kikachukwu Theodore
+##### [Beneficiary 3]
 
 **Role**: Innovator & Philanthropic Champion
 
@@ -2455,7 +2455,7 @@ While we share a collective mission, each family member has specific roles and r
 - Challenge status quo constructively
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Develop innovation and creative thinking skills
 - Participate in philanthropic activities
 - Identify new business opportunities
@@ -2467,7 +2467,7 @@ While we share a collective mission, each family member has specific roles and r
 - Contributes new ideas and perspectives
 - Maintains creative and innovative mindset
 
-##### Chimenime Xavier Ikechukwu Ohu
+##### Chimenime Xavier [Primary Principal]
 
 **Role**: Legacy Keeper & Stewardship Master
 
@@ -2479,7 +2479,7 @@ While we share a collective mission, each family member has specific roles and r
 - Maintain connection to family heritage
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Develop deep understanding of family values and history
 - Master stewardship principles
 - Participate in trust and governance activities
@@ -2502,7 +2502,7 @@ While we share a collective mission, each family member has specific roles and r
 #### Short-Term Goals (1-3 Years)
 
 1. **Family Unity**: Maintain strong, positive relationships among all family members
-2. **Education**: All children complete age-appropriate Ohu Business Academy curriculum
+2. **Education**: All children complete age-appropriate [Family] Business Academy curriculum
 3. **Values Alignment**: All family members demonstrate understanding and practice of 12 Pillars
 4. **Skill Development**: Each child develops at least one marketable skill
 5. **Empire Growth**: Support parents in building Empire to $10M+ revenue
@@ -2548,13 +2548,13 @@ Each family member should develop a personal legacy impact statement. This state
 
 **Example Legacy Impact Statement** (for illustration):
 
-> "I, Ikechukwu Ohu, want to be remembered as someone who built a business empire that provides financial freedom for my family while solving real problems for real people. I want to be remembered for my integrity, my commitment to excellence, and my dedication to family unity. I want my legacy to be an Empire that continues to grow and serve for 365 years, and children who are worthy stewards of that Empire."
+> "I, [Primary Principal], want to be remembered as someone who built a business empire that provides financial freedom for my family while solving real problems for real people. I want to be remembered for my integrity, my commitment to excellence, and my dedication to family unity. I want my legacy to be an Empire that continues to grow and serve for 365 years, and children who are worthy stewards of that Empire."
 
 ---
 
 ## 3.2 Values Transmission System
 
-We do not hope our children learn our values; we **train them**. The **Ohu Business Academy** is our internal curriculum that systematically transmits the 12 Pillars of Empire Building and financial literacy across age-appropriate stages.
+We do not hope our children learn our values; we **train them**. The **[Family] Business Academy** is our internal curriculum that systematically transmits the 12 Pillars of Empire Building and financial literacy across age-appropriate stages.
 
 ### Philosophy of Values Transmission
 
@@ -3031,7 +3031,7 @@ Succession is the most critical test of a dynasty. Will the Empire survive the t
 
 #### Ownership (Birthright)
 
-**Definition**: Every lineal descendant of Ikechukwu and Judith Ohu is a beneficiary of the Dynasty Trust.
+**Definition**: Every lineal descendant of [Principal Names] is a beneficiary of the Dynasty Trust.
 
 **Rights**:
 - Entitlement to share of trust income (distributions)
@@ -3498,7 +3498,7 @@ Wealth can be a tool for freedom or a catalyst for destruction. We actively trai
 
 ### Immediate Actions (Within 30 Days)
 
-- [ ] **Principals**: Schedule first "Ohu Business Academy" session with children
+- [ ] **Principals**: Schedule first "[Family] Business Academy" session with children
 - [ ] **Family Council**: Draft "Family Employment Policy" document
 - [ ] **Trustees**: Verify trust distribution language aligns with "Productive Citizen" standard
 - [ ] **All Family Members**: Complete legacy impact statement exercise
@@ -3506,7 +3506,7 @@ Wealth can be a tool for freedom or a catalyst for destruction. We actively trai
 
 ### Short-Term Actions (Within 90 Days)
 
-- [ ] **Education System**: Launch Ohu Business Academy Phase 1 (for children ages 5-10)
+- [ ] **Education System**: Launch [Family] Business Academy Phase 1 (for children ages 5-10)
 - [ ] **Micro-Businesses**: Help children ages 11+ launch micro-businesses
 - [ ] **Investment Accounts**: Set up custodial investment accounts for children ages 11+
 - [ ] **Service Requirements**: Establish annual service hour tracking system
@@ -3516,7 +3516,7 @@ Wealth can be a tool for freedom or a catalyst for destruction. We actively trai
 
 - [ ] **Weekly**: Family values discussions
 - [ ] **Monthly**: Service projects and gratitude practice
-- [ ] **Quarterly**: Ohu Business Academy progress reviews
+- [ ] **Quarterly**: [Family] Business Academy progress reviews
 - [ ] **Annually**: Comprehensive family legacy review
 - [ ] **As Needed**: Adjust education and training programs based on progress
 
@@ -3546,7 +3546,7 @@ The Family Legacy Framework is not a theoretical exercise; it is a living system
 - Work on family business projects
 - Support each other's goals
 
-**Monthly**: Ohu Business Academy progress review
+**Monthly**: [Family] Business Academy progress review
 - Assess children's progress
 - Adjust curriculum as needed
 - Celebrate achievements
@@ -3623,7 +3623,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 ### Immediate Actions (Within 30 Days)
 
-- [ ] **Principals**: Schedule first "Ohu Business Academy" session with children
+- [ ] **Principals**: Schedule first "[Family] Business Academy" session with children
 - [ ] **Family Council**: Draft "Family Employment Policy" document
 - [ ] **Trustees**: Verify trust distribution language aligns with "Productive Citizen" standard
 - [ ] **All Family Members**: Complete legacy impact statement exercise
@@ -3632,7 +3632,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 ### Short-Term Actions (Within 90 Days)
 
-- [ ] **Education System**: Launch Ohu Business Academy Phase 1 (for children ages 5-10)
+- [ ] **Education System**: Launch [Family] Business Academy Phase 1 (for children ages 5-10)
 - [ ] **Micro-Businesses**: Help children ages 11+ launch micro-businesses
 - [ ] **Investment Accounts**: Set up custodial investment accounts for children ages 11+
 - [ ] **Service Requirements**: Establish annual service hour tracking system
@@ -3643,7 +3643,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 - [ ] **Weekly**: Family values discussions
 - [ ] **Monthly**: Service projects and gratitude practice
-- [ ] **Quarterly**: Ohu Business Academy progress reviews
+- [ ] **Quarterly**: [Family] Business Academy progress reviews
 - [ ] **Quarterly**: Family Council meetings
 - [ ] **Annually**: Comprehensive family legacy review
 - [ ] **As Needed**: Adjust education and training programs based on progress
@@ -3676,9 +3676,9 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 ## Introduction
 
-The South Dakota Dynasty Trust represents the cornerstone of the Ohu-PNR Dynasty Empire's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
+The South Dakota Dynasty Trust represents the cornerstone of the The Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
-Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries Ivan Osemeke, Jeremy Chiwuikem, Kikachukwu Theodore, and Chimenime Xavier Ikechukwu Ohuâ€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
+Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like [Your Family]â€”[Primary Principal Name] and [Secondary Principal Name], with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Chimenime Xavier [Primary Principal]â€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
 This chapter will guide you through every aspect of the South Dakota Dynasty Trust, from understanding why South Dakota is the optimal jurisdiction, through the complete formation process, to detailed analysis of trust provisions and trustee architecture. By the end of this chapter, you will have the knowledge and tools necessary to implement this powerful wealth preservation structure.
 
@@ -3851,7 +3851,7 @@ Assume the Dynasty Trust owns PNR Holdings LLC, which generates $2 million in an
 
 **Example: $10 Million Estate Transfer**
 
-**Scenario**: Ikechukwu and Judith transfer $10 million to a South Dakota Dynasty Trust.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] transfer $10 million to a South Dakota Dynasty Trust.
 
 **Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
@@ -3890,7 +3890,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Example: Three-Generation Transfer**
 
-**Scenario**: Ikechukwu and Judith want to provide for their children and grandchildren.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] want to provide for their children and grandchildren.
 
 **Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
@@ -3914,7 +3914,7 @@ Assuming $20 million transfer with GST exemption allocation:
 
 #### Combined Tax Savings Example
 
-**Comprehensive Example: Ohu-PNR Dynasty Trust**
+**Comprehensive Example: Legacy Codex Trust**
 
 **Initial Transfer**: $10 million to South Dakota Dynasty Trust
 **Annual Growth**: 7% (conservative)
@@ -3995,12 +3995,12 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 **Example: Real Estate Privacy**
 
 **Without Trust**:
-- Property titled: "Ikechukwu P. N. Ohu and Judith H. Ohu"
+- Property titled: "[Principal Names]"
 - Public records search reveals ownership
 - Value and location publicly known
 
 **With Dynasty Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of the Ohu Dynasty Trust"
+- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -4053,7 +4053,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Beneficiary Lawsuit**
 
-**Scenario**: Jeremy Chiwuikem (beneficiary) faces a $500,000 judgment from a business dispute.
+**Scenario**: [Beneficiary 2] (beneficiary) faces a $500,000 judgment from a business dispute.
 
 **Without Charging Order Protection**:
 - Creditor could potentially access Jeremy's share of trust assets
@@ -4082,7 +4082,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Divorce Protection**
 
-**Scenario**: Kikachukwu Theodore (beneficiary) divorces. Spouse claims interest in trust.
+**Scenario**: [Beneficiary 3] (beneficiary) divorces. Spouse claims interest in trust.
 
 **Without Spendthrift Provisions**:
 - Spouse could potentially claim portion of trust interest
@@ -4830,9 +4830,9 @@ Initial capitalization sets the foundation for trust success. This section cover
 - Recommended: $5,000,000+
 - Purpose: Comprehensive trust with premium services
 
-**Ohu-PNR Dynasty Trust Recommendation**:
+**Legacy Codex Trust Recommendation**:
 
-Based on the Ohu-PNR Empire structure:
+Based on the [Your Organization] Empire structure:
 - **Initial Capitalization**: $1,000,000-$2,000,000
 - **Purpose**: Activate trust, transfer PNR Holdings LLC interest
 - **Future Funding**: Additional assets over time
@@ -4908,7 +4908,7 @@ Based on the Ohu-PNR Empire structure:
 - Maintain adequate personal reserves
 - Plan for ongoing needs
 
-**Recommended Timing for Ohu-PNR Dynasty Trust**:
+**Recommended Timing for Legacy Codex Trust**:
 
 **Phase 1 (Month 1)**:
 - Fund with $500,000-$1,000,000 cash
@@ -4948,7 +4948,7 @@ Certain provisions are required by law or are essential for trust effectiveness.
 
 **Example Language**:
 ```
-This trust shall be known as "The Ohu-PNR Dynasty Trust" 
+This trust shall be known as "The Legacy Codex Trust" 
 and shall be identified by Tax ID Number [EIN].
 ```
 
@@ -4960,8 +4960,8 @@ and shall be identified by Tax ID Number [EIN].
 
 **Example Language**:
 ```
-This trust is established by Ikechukwu Polycarp Nnamdi Ohu 
-and Judith Huchukwuyem Ohu, as Grantors.
+This trust is established by [Primary Principal Name] 
+and [Secondary Principal Name], as Grantors (with [Primary Principal Name] retaining sole administrative control).
 ```
 
 **Why Required**: Identifies who established the trust and has standing to challenge trust provisions.
@@ -4973,10 +4973,10 @@ and Judith Huchukwuyem Ohu, as Grantors.
 **Example Language**:
 ```
 The primary beneficiaries of this trust are:
-- Ivan Osemeke Ohu
-- Jeremy Chiwuikem Ohu
-- Kikachukwu Theodore Ohu
-- Chimenime Xavier Ikechukwu Ohu
+- [Beneficiary 1]
+- [Beneficiary 2]
+- [Beneficiary 3]
+- Chimenime Xavier [Primary Principal]
 
 Future beneficiaries include descendants of the primary 
 beneficiaries, per stirpes.
@@ -4992,8 +4992,8 @@ beneficiaries, per stirpes.
 ```
 The Administrative Trustee shall be South Dakota Trust Company.
 The Investment Trustee shall be [Investment Advisor Name].
-The Distribution Trustee shall be Ikechukwu Polycarp Nnamdi Ohu, 
-and upon his death or incapacity, Judith Huchukwuyem Ohu.
+The Distribution Trustee shall be [Primary Principal Name], 
+and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
 
 **Why Required**: Trustees must be clearly identified to administer the trust and have legal authority.
@@ -6105,7 +6105,7 @@ By understanding these concepts, you are prepared to form and administer a South
 
 Once your South Dakota Dynasty Trust is formed and funded, proper administration becomes critical to its success. This chapter provides a comprehensive manual for trust administration, covering annual requirements, distribution standards, investment policies, and trust protector operations.
 
-Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For the Ohu-PNR Dynasty Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
+Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For the Legacy Codex Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
 
 This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your dynasty trust operates effectively and achieves its long-term goals.
 
@@ -7016,7 +7016,7 @@ Many dynasty trusts include age-based distribution triggers that provide benefic
 - **Moderate**: 25% at 25, 50% at 30, 100% at 35
 - **Aggressive**: 33% at 25, 66% at 30, 100% at 35
 
-**Ohu-PNR Dynasty Trust Schedule**:
+**Legacy Codex Trust Schedule**:
 
 - **Age 25**: 25% distribution
 - **Age 30**: Additional 25% (50% total)
@@ -7331,7 +7331,7 @@ Asset allocation is the foundation of investment management. This section covers
 - **Alternatives**: 10-20%
 - **Cash**: 5-10%
 
-**Ohu-PNR Dynasty Trust Allocation** (Moderate-Aggressive):
+**Legacy Codex Trust Allocation** (Moderate-Aggressive):
 - **Stocks**: 60%
 - **Bonds**: 25%
 - **Real Estate**: 10%
@@ -7370,7 +7370,7 @@ Asset allocation is the foundation of investment management. This section covers
 - **Moderate Risk**: Balance preservation and growth
 - **High Risk**: Growth focus, long-term horizon
 
-**Ohu-PNR Dynasty Trust Risk Tolerance**: Moderate-High (perpetual trust, growth focus)
+**Legacy Codex Trust Risk Tolerance**: Moderate-High (perpetual trust, growth focus)
 
 #### Time Horizon Considerations
 
@@ -7424,7 +7424,7 @@ Rebalancing maintains target allocations and manages risk. This section covers w
 - **10% Drift**: Rebalance if allocation drifts 10%
 - **Time-Based**: Rebalance quarterly or annually
 
-**Ohu-PNR Dynasty Trust Rebalancing**: Quarterly review, rebalance if drift exceeds 5%
+**Legacy Codex Trust Rebalancing**: Quarterly review, rebalance if drift exceeds 5%
 
 #### Rebalancing Process
 
@@ -7507,7 +7507,7 @@ Prohibited investments protect trust assets from inappropriate risks. This secti
    - **Examples**: Prohibited party transactions
    - **Risk**: Legal risk
 
-**Ohu-PNR Dynasty Trust Prohibitions**:
+**Legacy Codex Trust Prohibitions**:
 
 - No speculative investments
 - No single stock >10% of portfolio
@@ -7554,7 +7554,7 @@ Performance benchmarks measure investment success. This section covers benchmark
    - Similar trusts
    - Industry benchmarks
 
-**Ohu-PNR Dynasty Trust Benchmarks**:
+**Legacy Codex Trust Benchmarks**:
 
 - **Stocks**: S&P 500
 - **Bonds**: Barclays Aggregate
@@ -7793,10 +7793,10 @@ Trust Protector succession ensures continuity of oversight. This section covers 
 - Provide for replacement
 - Ensure continuity
 
-**Ohu-PNR Dynasty Trust Succession**:
+**Legacy Codex Trust Succession**:
 
-- **Initial**: Ikechukwu Polycarp Nnamdi Ohu
-- **Successor**: Judith Huchukwuyem Ohu
+- **Initial**: [Primary Principal Name]
+- **Successor**: [Secondary Principal Name]
 - **Future**: Children (when appropriate)
 
 #### Selection Process
@@ -7959,7 +7959,7 @@ While the South Dakota Dynasty Trust serves as the foundation of your wealth pre
 
 Each of these trusts serves a specific purpose in your overall estate planning strategy. The ILIT removes life insurance from your estate, Children's Crummey Trusts facilitate annual exclusion gifting, CRTs provide charitable giving with income benefits, and GRATs transfer appreciating assets with minimal gift tax.
 
-For the Ohu-PNR Dynasty Empire, these subsidiary trusts work together with the Dynasty Trust to create a comprehensive wealth preservation and transfer strategy. Understanding how to form, fund, and administer each trust is essential for maximizing their benefits.
+For the The Legacy Codex, these subsidiary trusts work together with the Dynasty Trust to create a comprehensive wealth preservation and transfer strategy. Understanding how to form, fund, and administer each trust is essential for maximizing their benefits.
 
 ---
 
@@ -7987,7 +7987,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Estate tax risk
 - Beneficiary needs
 
-**Ohu-PNR ILIT**: Judith's $500,000 IUL policy should be held in an ILIT to remove it from estate.
+**[Your Organization] ILIT**: Judith's $500,000 IUL policy should be held in an ILIT to remove it from estate.
 
 **Step 2: Select Trustee**
 
@@ -8130,7 +8130,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Unified beneficiary structure
 - Tax efficiency
 
-**Ohu-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
+**[Your Organization] Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
 
 ### Crummey Power Mechanics
 
@@ -8169,7 +8169,7 @@ Crummey powers are essential for ILIT effectiveness. This section explains how C
 - **Married Couple**: $36,000 per person ($72,000 total for two beneficiaries)
 - **Four Children**: $72,000 total annual exclusion
 
-**Ohu-PNR ILIT Benefits**:
+**[Your Organization] ILIT Benefits**:
 
 - **Annual Exclusion**: $18,000 per child = $72,000 total
 - **Premium Coverage**: $72,000 covers substantial premiums
@@ -8317,7 +8317,7 @@ Premium payment strategies optimize tax benefits and ensure policy maintenance. 
 - **Death Benefits**: Income tax-free to beneficiaries
 - **Distributions**: May be taxable if from cash value
 
-**Ohu-PNR Tax Benefits**:
+**[Your Organization] Tax Benefits**:
 
 - **Estate Tax Savings**: $200,000 (40% of $500,000 policy)
 - **Annual Exclusion**: $72,000 per year
@@ -8370,7 +8370,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 
 **ILIT Use**: Excellent for ILITs, provides growth potential.
 
-**Ohu-PNR Policy**: Judith's $500,000 IUL policy is ideal for ILIT.
+**[Your Organization] Policy**: Judith's $500,000 IUL policy is ideal for ILIT.
 
 #### Selection Criteria
 
@@ -8382,7 +8382,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 - Premium affordability
 - Policy purpose
 
-**Ohu-PNR**: $500,000 provides substantial coverage for estate tax planning.
+**[Your Organization]**: $500,000 provides substantial coverage for estate tax planning.
 
 **2. Premium Affordability**
 
@@ -8392,7 +8392,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 - Long-term affordability
 - Policy sustainability
 
-**Ohu-PNR**: Premiums should be affordable within annual exclusion limits.
+**[Your Organization]**: Premiums should be affordable within annual exclusion limits.
 
 **3. Policy Performance**
 
@@ -8402,7 +8402,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 - Policy flexibility
 - Company strength
 
-**Ohu-PNR**: IUL provides growth potential with guarantees.
+**[Your Organization]**: IUL provides growth potential with guarantees.
 
 **4. Company Strength**
 
@@ -8424,7 +8424,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 4. **Strong Company**: Select financially strong company
 5. **Growth Potential**: Consider growth potential (IUL)
 
-**Ohu-PNR Recommendations**:
+**[Your Organization] Recommendations**:
 
 - **Current Policy**: Judith's $500,000 IUL is appropriate
 - **Additional Coverage**: Consider additional coverage if needed
@@ -8507,7 +8507,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Coordinated distributions
 - Unified beneficiary structure
 
-**Ohu-PNR Recommendation**: Distribute to Dynasty Trust for unified administration.
+**[Your Organization] Recommendation**: Distribute to Dynasty Trust for unified administration.
 
 #### Tax Considerations
 
@@ -8528,7 +8528,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - **Death Benefits**: Not subject to gift tax
 - **Distributions**: May be subject to gift tax if to non-beneficiaries
 
-**Ohu-PNR Tax Benefits**:
+**[Your Organization] Tax Benefits**:
 
 - **Estate Tax Savings**: $200,000 (40% of $500,000)
 - **Income Tax-Free**: Death benefits income tax-free
@@ -8546,10 +8546,10 @@ Each child should have their own Crummey Trust with terms customized to their ne
 
 #### Trust Terms for Each Child
 
-**Ivan Osemeke Ohu Trust**:
+**[Beneficiary 1] Trust**:
 
 **Trust Terms**:
-- **Beneficiary**: Ivan Osemeke Ohu
+- **Beneficiary**: [Beneficiary 1]
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
@@ -8561,10 +8561,10 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - Business development support
 - Achievement milestones
 
-**Jeremy Chiwuikem Ohu Trust**:
+**[Beneficiary 2] Trust**:
 
 **Trust Terms**:
-- **Beneficiary**: Jeremy Chiwuikem Ohu
+- **Beneficiary**: [Beneficiary 2]
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
@@ -8576,10 +8576,10 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - Career development support
 - Achievement milestones
 
-**Kikachukwu Theodore Ohu Trust**:
+**[Beneficiary 3] Trust**:
 
 **Trust Terms**:
-- **Beneficiary**: Kikachukwu Theodore Ohu
+- **Beneficiary**: [Beneficiary 3]
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
@@ -8591,10 +8591,10 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - Personal development support
 - Achievement milestones
 
-**Chimenime Xavier Ikechukwu Ohu Trust**:
+**Chimenime Xavier [Primary Principal] Trust**:
 
 **Trust Terms**:
-- **Beneficiary**: Chimenime Xavier Ikechukwu Ohu
+- **Beneficiary**: Chimenime Xavier [Primary Principal]
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
@@ -8659,11 +8659,11 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 - **Married Couple**: $36,000 per person ($72,000 total for two donors)
 - **Four Children**: $72,000 total annual exclusion
 
-**Ohu-PNR Annual Gifting**:
+**[Your Organization] Annual Gifting**:
 
 - **Per Child**: $18,000 per year
 - **Total Family**: $72,000 per year
-- **Gift Source**: Ikechukwu and Judith (each $18,000 per child)
+- **Gift Source**: [Primary Principal Name] and [Secondary Principal Name] (each $18,000 per child)
 
 **Gifting Strategy**:
 
@@ -8697,7 +8697,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 - May not reflect individual needs
 - May not optimize tax benefits
 
-**Ohu-PNR**: Use equal gifting ($18,000 per child).
+**[Your Organization]**: Use equal gifting ($18,000 per child).
 
 **Strategy 2: Needs-Based Gifting**
 
@@ -8745,7 +8745,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 - **Kiddie Tax**: May apply to unearned income
 - **Tax Planning**: Opportunities for tax planning
 
-**Ohu-PNR Tax Benefits**:
+**[Your Organization] Tax Benefits**:
 
 - **Annual Exclusion**: $72,000 per year
 - **Estate Tax Savings**: Removes $72,000+ from estate annually
@@ -8814,7 +8814,7 @@ Investment guidelines ensure trust assets are invested appropriately for childre
 - Liquidity
 - Complexity
 
-**Ohu-PNR Investment Strategy**:
+**[Your Organization] Investment Strategy**:
 
 - **Stocks**: 60%
 - **Bonds**: 25%
@@ -8862,7 +8862,7 @@ Investment guidelines ensure trust assets are invested appropriately for childre
 - Benchmark comparisons
 - Risk metrics
 
-**Ohu-PNR Performance Targets**:
+**[Your Organization] Performance Targets**:
 
 - **Target Return**: 7-10% annually
 - **Benchmark**: 60% S&P 500 + 25% Barclays Aggregate + 15% Alternatives
@@ -8965,7 +8965,7 @@ Merger into the Dynasty Trust provides unified administration and coordinated pl
 - **Trustee Discretion**: If trustee has discretion
 - **Beneficiary Request**: If beneficiary requests
 
-**Ohu-PNR Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
+**[Your Organization] Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
 
 **Merger Considerations**:
 
@@ -9025,7 +9025,7 @@ Merger into the Dynasty Trust provides unified administration and coordinated pl
 - **Estate Tax Benefits**: Continues estate tax benefits
 - **Tax Implications**: No negative estate tax implications
 
-**Ohu-PNR Tax Benefits**:
+**[Your Organization] Tax Benefits**:
 
 - **Seamless Merger**: No tax consequences
 - **Unified Administration**: Simplified administration
@@ -9228,7 +9228,7 @@ Income stream structuring determines how beneficiaries receive income from the C
 - Moderate term
 - Balanced needs
 
-**Ohu-PNR Recommendation**: Balance approach - 5% unitrust rate, 20-year term.
+**[Your Organization] Recommendation**: Balance approach - 5% unitrust rate, 20-year term.
 
 #### Tax Implications
 
@@ -9250,7 +9250,7 @@ Income stream structuring determines how beneficiaries receive income from the C
 - **Appreciated Assets**: Transfer appreciated assets
 - **Tax Benefits**: Significant tax benefits
 
-**Ohu-PNR Tax Benefits**:
+**[Your Organization] Tax Benefits**:
 
 - **Income Tax Deduction**: Immediate deduction
 - **Estate Tax Savings**: Removes assets from estate
@@ -9313,7 +9313,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
 - Less control
 - May have fees
 
-**Ohu-PNR Recommendation**: Origin Eyes 501(c)(3) as remainder beneficiary.
+**[Your Organization] Recommendation**: Origin Eyes 501(c)(3) as remainder beneficiary.
 
 #### Selection Criteria
 
@@ -9334,7 +9334,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
    - Ongoing requirements
    - Complexity
 
-**Ohu-PNR Selection**: Origin Eyes 501(c)(3) aligns with family values and provides maximum tax benefits.
+**[Your Organization] Selection**: Origin Eyes 501(c)(3) aligns with family values and provides maximum tax benefits.
 
 ### Investment Strategies
 
@@ -9360,7 +9360,7 @@ CRT investment strategies balance income generation with growth potential. This 
 - **Tax-Deferred Growth**: Consider tax-deferred growth
 - **Tax Planning**: Optimize tax efficiency
 
-**Ohu-PNR Investment Strategy**:
+**[Your Organization] Investment Strategy**:
 
 - **Stocks**: 50% (growth)
 - **Bonds**: 30% (income)
@@ -9390,7 +9390,7 @@ CRT investment strategies balance income generation with growth potential. This 
 - **Growth**: Moderate growth
 - **Risk-Adjusted Returns**: Competitive returns
 
-**Ohu-PNR Performance Targets**:
+**[Your Organization] Performance Targets**:
 
 - **Income**: 5%+ annually
 - **Growth**: 5-7% annually
@@ -9603,7 +9603,7 @@ Annuity payment calculations determine GRAT annuity payments. This section cover
 - More administration
 - Requires planning
 
-**Ohu-PNR Recommendation**: Use zeroed-out GRATs with 2-3 year terms, rolling as needed.
+**[Your Organization] Recommendation**: Use zeroed-out GRATs with 2-3 year terms, rolling as needed.
 
 ### Asset Selection Guide
 
@@ -9640,7 +9640,7 @@ Selecting the right assets for GRATs maximizes transfer benefits. This section c
 
 **Why**: Discounts reduce gift tax value.
 
-**Ohu-PNR Assets**: Business interests, real estate, investment assets.
+**[Your Organization] Assets**: Business interests, real estate, investment assets.
 
 #### Selection Criteria
 
@@ -9666,7 +9666,7 @@ Selecting the right assets for GRATs maximizes transfer benefits. This section c
    - Risk management possible
    - Risk tolerance appropriate
 
-**Ohu-PNR Selection**: Business interests with high growth potential and valuation discounts.
+**[Your Organization] Selection**: Business interests with high growth potential and valuation discounts.
 
 ### Rolling GRAT Strategies
 
@@ -9691,7 +9691,7 @@ Rolling GRATs create multiple GRATs over time, diversifying risk and maximizing 
    - Manage uncertainty
    - Provide flexibility
 
-**Ohu-PNR Use**: Use rolling GRATs for business interests and real estate with varying growth rates.
+**[Your Organization] Use**: Use rolling GRATs for business interests and real estate with varying growth rates.
 
 #### Implementation
 
@@ -9743,7 +9743,7 @@ Rolling GRATs create multiple GRATs over time, diversifying risk and maximizing 
    - Optimizes tax efficiency
    - Enhances planning
 
-**Ohu-PNR Benefits**:
+**[Your Organization] Benefits**:
 
 - **Risk Management**: Diversifies risk across assets
 - **Flexibility**: Provides planning flexibility
@@ -9796,7 +9796,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 
 Proper entity formation and ongoing compliance are fundamental to protecting your business assets and maintaining legal standing. This chapter provides a comprehensive guide to forming Wyoming entities, creating proper documentation, establishing inter-entity agreements, and maintaining compliance calendars.
 
-For the Ohu-PNR Dynasty Empire, proper entity structure provides asset protection, tax optimization, and operational flexibility. Understanding how to form entities correctly, document them properly, and maintain compliance ensures your business structure remains effective and protected.
+For the The Legacy Codex, proper entity structure provides asset protection, tax optimization, and operational flexibility. Understanding how to form entities correctly, document them properly, and maintain compliance ensures your business structure remains effective and protected.
 
 This chapter covers every aspect of entity formation and compliance, from initial formation through ongoing maintenance. By following this guide, you will ensure your entities are properly formed, documented, and maintained for long-term success.
 
@@ -9824,7 +9824,7 @@ Forming a Wyoming LLC requires careful attention to detail and proper execution 
 - Verify name availability
 - Reserve name if needed (optional)
 
-**Ohu-PNR Example**: "PNR Holdings LLC" - check availability, then proceed.
+**[Your Organization] Example**: "PNR Holdings LLC" - check availability, then proceed.
 
 **Step 2: Select Registered Agent**
 
@@ -9999,7 +9999,7 @@ Forming a Wyoming LLC requires careful attention to detail and proper execution 
 
 **Total Time**: 1-2 weeks for complete formation
 
-**Ohu-PNR Timeline**: Follow same timeline for all entities.
+**[Your Organization] Timeline**: Follow same timeline for all entities.
 
 ### Series LLC Implementation
 
@@ -10043,7 +10043,7 @@ Series LLCs provide superior asset protection by segregating assets into separat
 - Series 2 bankruptcy does not affect Series 1
 - Maximum asset protection
 
-**Ohu-PNR Use**: Obuke LLC uses Series LLC structure for real estate properties.
+**[Your Organization] Use**: Obuke LLC uses Series LLC structure for real estate properties.
 
 #### Formation Process
 
@@ -10075,7 +10075,7 @@ Series LLCs provide superior asset protection by segregating assets into separat
 - Maintain separate records
 - Maintain separate accounts
 
-**Ohu-PNR Process**: Obuke LLC formed as Series LLC, with Series 1-10 for individual properties.
+**[Your Organization] Process**: Obuke LLC formed as Series LLC, with Series 1-10 for individual properties.
 
 #### Series Structure
 
@@ -10096,7 +10096,7 @@ Obuke LLC (Parent)
 - **Series 3**: [Property Address/Description]
 - **Series 4-10**: Reserved for future properties
 
-**Ohu-PNR Structure**:
+**[Your Organization] Structure**:
 
 - **Obuke LLC**: Parent entity
 - **Series 1**: Rental Property ($285K value)
@@ -10119,7 +10119,7 @@ Obuke LLC (Parent)
 - Maximum asset protection
 - Clear separation
 
-**Ohu-PNR Example**: Obuke LLC Series structure provides maximum protection for real estate portfolio.
+**[Your Organization] Example**: Obuke LLC Series structure provides maximum protection for real estate portfolio.
 
 ### Registered Agent Selection
 
@@ -10189,7 +10189,7 @@ Registered agents are essential for LLC compliance and legal service. This secti
    - **Reputation**: Good
    - **Privacy**: Good
 
-**Ohu-PNR Recommendation**: Use Northwest Registered Agent for reliability and privacy.
+**[Your Organization] Recommendation**: Use Northwest Registered Agent for reliability and privacy.
 
 #### Requirements
 
@@ -10227,7 +10227,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - **Filing Fee**: $60 (as of 2024)
 - **Filing Deadline**: First day of anniversary month
 
-**Ohu-PNR Requirements**: File annual reports for all Wyoming entities by anniversary dates.
+**[Your Organization] Requirements**: File annual reports for all Wyoming entities by anniversary dates.
 
 #### Filing Deadlines
 
@@ -10242,7 +10242,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - **Anniversary Month**: January
 - **Filing Deadline**: January 1, 2025
 
-**Ohu-PNR Deadlines**: Track all entity anniversary dates and file by first day of anniversary month.
+**[Your Organization] Deadlines**: Track all entity anniversary dates and file by first day of anniversary month.
 
 #### Penalties
 
@@ -10259,7 +10259,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - Use compliance calendar
 - Work with registered agent
 
-**Ohu-PNR Strategy**: File all annual reports early to avoid penalties.
+**[Your Organization] Strategy**: File all annual reports early to avoid penalties.
 
 ### Foreign Qualification Process
 
@@ -10284,7 +10284,7 @@ Foreign qualification allows entities to operate in states other than formation 
    - Operating without qualification illegal
    - Penalties for non-qualification
 
-**Ohu-PNR Qualification**: Qualify in Pennsylvania for operating companies (Notroom Services, RegIntel Advisors, TaxEar Advisory).
+**[Your Organization] Qualification**: Qualify in Pennsylvania for operating companies (Notroom Services, RegIntel Advisors, TaxEar Advisory).
 
 #### Qualification Process
 
@@ -10335,7 +10335,7 @@ Foreign qualification allows entities to operate in states other than formation 
 - Comply with all requirements
 - Maintain good standing
 
-**Ohu-PNR Compliance**: Maintain qualification in Pennsylvania for operating companies, comply with all requirements.
+**[Your Organization] Compliance**: Maintain qualification in Pennsylvania for operating companies, comply with all requirements.
 
 ---
 
@@ -10619,7 +10619,7 @@ _________________________            _________________________
 
 #### Customization Guide
 
-**Customization for Ohu-PNR Entities**:
+**Customization for [Your Organization] Entities**:
 
 **PNR Holdings LLC**:
 - Member-Managed
@@ -10926,7 +10926,7 @@ Secretary
 **Example: PNR Holdings LLC Annual Meeting**
 
 **Date**: January 15, 2025
-**Attendees**: Ikechukwu Ohu (Manager), Judith Ohu (Member)
+**Attendees**: [Primary Principal] (Manager), [Secondary Principal] (Member)
 
 **Agenda**:
 1. Review 2024 operations
@@ -11007,12 +11007,12 @@ _________________________                 _________________________
 **Example: PNR Holdings LLC Banking Resolution**
 
 **Authorized Signers**:
-- Ikechukwu Ohu (Manager)
-- Judith Ohu (Manager)
+- [Primary Principal] (Manager)
+- [Secondary Principal] (Advisory Member)
 
 **Limitations**:
 - Single transaction limit: $50,000
-- Requires two signatures for transactions over $10,000
+- Primary Principal has sole signature authority for all transactions (no dual signature requirement for transactions $10,000
 
 **Bank**: [Bank Name]
 **Account Type**: Business checking
@@ -11139,7 +11139,7 @@ By: _________________________    By: _________________________
 
 **Typical Rates**: 5-15% of revenue
 
-**Ohu-PNR Rate**: 8-12% of revenue, depending on services provided.
+**[Your Organization] Rate**: 8-12% of revenue, depending on services provided.
 
 **Strategy 2: Cost-Plus**
 
@@ -11293,7 +11293,7 @@ By: _________________________    By: _________________________
 - Simple calculation
 - Scalable
 
-**Ohu-PNR Rate**: 8-10% of revenue for standard IP licenses.
+**[Your Organization] Rate**: 8-10% of revenue for standard IP licenses.
 
 **Structure 2: Fixed Fee**
 
@@ -11652,7 +11652,7 @@ Transfer pricing documentation ensures inter-entity transactions are priced at a
 
 **Use**: For integrated operations.
 
-**Ohu-PNR Method**: Use Cost-Plus for management services, CUP for IP licensing, market rates for other transactions.
+**[Your Organization] Method**: Use Cost-Plus for management services, CUP for IP licensing, market rates for other transactions.
 
 #### Compliance
 
@@ -11743,7 +11743,7 @@ Regular tasks maintain entity compliance and operational effectiveness. This sec
 - [ ] Financial reporting
 - [ ] Cash management
 
-**Ohu-PNR Monthly Tasks**: Complete all monthly compliance and operational tasks for all entities.
+**[Your Organization] Monthly Tasks**: Complete all monthly compliance and operational tasks for all entities.
 
 ### Quarterly Requirements
 
@@ -11783,7 +11783,7 @@ Quarterly requirements ensure ongoing compliance and performance monitoring. Thi
 - [ ] Tax documentation
 - [ ] Tax advisor consultation
 
-**Ohu-PNR Quarterly Tasks**: Complete all quarterly requirements for all entities, including estimated tax payments and compliance reviews.
+**[Your Organization] Quarterly Tasks**: Complete all quarterly requirements for all entities, including estimated tax payments and compliance reviews.
 
 #### Checklists
 
@@ -11845,7 +11845,7 @@ Annual filings maintain entity good standing and tax compliance. This section co
    - Review regulatory compliance
    - Address compliance issues
 
-**Ohu-PNR Annual Requirements**: Complete all annual requirements for all entities, trusts, and personal returns.
+**[Your Organization] Annual Requirements**: Complete all annual requirements for all entities, trusts, and personal returns.
 
 #### Filing Guide
 
@@ -11879,7 +11879,7 @@ Annual filings maintain entity good standing and tax compliance. This section co
 - Update compliance calendar
 - Plan for next year
 
-**Ohu-PNR Filing Guide**: Follow timeline for all entities, ensuring all filings completed on time.
+**[Your Organization] Filing Guide**: Follow timeline for all entities, ensuring all filings completed on time.
 
 ### Multi-Year Planning
 
@@ -11920,7 +11920,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Succession planning
    - Legacy planning
 
-**Ohu-PNR Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
+**[Your Organization] Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
 
 #### Strategic Considerations
 
@@ -11950,7 +11950,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Legacy planning
    - Dynasty planning
 
-**Ohu-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
+**[Your Organization] Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
 
 ---
 
@@ -11996,7 +11996,7 @@ By following this guide, you will ensure your entities are properly formed, docu
 
 ## Introduction
 
-The PNR Holdings Complex serves as the master treasury and capital allocation hub for the Ohu-PNR Dynasty Empire. This chapter provides comprehensive guidance on operating PNR Holdings LLC as the master operations center, CXI LLC as the S-Corporation management hub, Obuke LLC as the real estate empire, and ToriMedia as the IP fortress.
+The PNR Holdings Complex serves as the master treasury and capital allocation hub for the The Legacy Codex. This chapter provides comprehensive guidance on operating PNR Holdings LLC as the master operations center, CXI LLC as the S-Corporation management hub, Obuke LLC as the real estate empire, and ToriMedia as the IP fortress.
 
 Each entity in the complex serves a specific purpose: PNR Holdings manages treasury and capital allocation, CXI provides shared services and payroll optimization, Obuke holds and manages real estate assets, and ToriMedia protects and monetizes intellectual property. Understanding how to operate each entity effectively is essential for maximizing the empire's financial performance and tax efficiency.
 
@@ -12057,7 +12057,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - Plan for upcoming needs
 - Optimize cash allocation
 
-**Ohu-PNR Cash Management**: Centralize cash management through PNR Holdings LLC, maintaining adequate reserves for operations and opportunities.
+**[Your Organization] Cash Management**: Centralize cash management through PNR Holdings LLC, maintaining adequate reserves for operations and opportunities.
 
 #### Banking Structure
 
@@ -12085,7 +12085,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - Maintain FDIC coverage
 - Diversify bank relationships
 
-**Ohu-PNR Banking Structure**:
+**[Your Organization] Banking Structure**:
 - **PNR Holdings LLC**: Master treasury account
 - **CXI LLC**: Operating account for shared services
 - **Obuke LLC**: Real estate operating account
@@ -12125,7 +12125,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - **Medium-Term**: 3-12 months (moderate detail)
 - **Long-Term**: 1-5 years (strategic)
 
-**Ohu-PNR Forecasting**: Maintain rolling 12-month cash flow forecasts, updated monthly, with strategic 5-year forecasts.
+**[Your Organization] Forecasting**: Maintain rolling 12-month cash flow forecasts, updated monthly, with strategic 5-year forecasts.
 
 #### Treasury Controls
 
@@ -12155,7 +12155,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - Analyze trends
 - Investigate anomalies
 
-**Ohu-PNR Controls**: Implement comprehensive treasury controls with authorization limits, segregation of duties, and regular monitoring.
+**[Your Organization] Controls**: Implement comprehensive treasury controls with authorization limits, segregation of duties, and regular monitoring.
 
 ### Capital Allocation Process
 
@@ -12196,7 +12196,7 @@ Capital allocation determines how financial resources are deployed across the em
 3. **Priority 3**: Growth capital (pursue opportunities)
 4. **Priority 4**: Investment capital (long-term growth)
 
-**Ohu-PNR Framework**: Allocate capital based on priorities, ensuring operations first, then reserves, then growth, then investments.
+**[Your Organization] Framework**: Allocate capital based on priorities, ensuring operations first, then reserves, then growth, then investments.
 
 #### Decision Criteria
 
@@ -12243,7 +12243,7 @@ Capital allocation determines how financial resources are deployed across the em
 | Opportunity Cost | 10% | [Score] | [Weighted] |
 | **Total** | **100%** | | **[Total]** |
 
-**Ohu-PNR Criteria**: Use decision matrix for all capital allocation decisions, ensuring objective evaluation.
+**[Your Organization] Criteria**: Use decision matrix for all capital allocation decisions, ensuring objective evaluation.
 
 #### Approval Process
 
@@ -12293,7 +12293,7 @@ Capital allocation determines how financial resources are deployed across the em
    - Track performance
    - Report results
 
-**Ohu-PNR Process**: Follow approval process for all capital allocations, ensuring proper review and documentation.
+**[Your Organization] Process**: Follow approval process for all capital allocations, ensuring proper review and documentation.
 
 #### Monitoring
 
@@ -12323,7 +12323,7 @@ Capital allocation determines how financial resources are deployed across the em
 - Annual strategic reviews
 - Ad hoc reporting as needed
 
-**Ohu-PNR Monitoring**: Monitor all capital allocations monthly, with comprehensive quarterly reviews.
+**[Your Organization] Monitoring**: Monitor all capital allocations monthly, with comprehensive quarterly reviews.
 
 ### Investment Decision Framework
 
@@ -12383,7 +12383,7 @@ Investment decisions require systematic evaluation and disciplined execution. Th
 - Management resources
 - Operational impact
 
-**Ohu-PNR Criteria**: Establish clear investment criteria for each category, ensuring disciplined investment decisions.
+**[Your Organization] Criteria**: Establish clear investment criteria for each category, ensuring disciplined investment decisions.
 
 #### Evaluation Process
 
@@ -12427,7 +12427,7 @@ Investment decisions require systematic evaluation and disciplined execution. Th
 - Due diligence checklists
 - Decision matrices
 
-**Ohu-PNR Process**: Follow systematic evaluation process for all investments, ensuring thorough analysis and disciplined decisions.
+**[Your Organization] Process**: Follow systematic evaluation process for all investments, ensuring thorough analysis and disciplined decisions.
 
 #### Due Diligence
 
@@ -12474,7 +12474,7 @@ Investment decisions require systematic evaluation and disciplined execution. Th
 - [ ] Opportunities assessed
 - [ ] Decision made
 
-**Ohu-PNR Due Diligence**: Conduct comprehensive due diligence for all significant investments, ensuring thorough evaluation.
+**[Your Organization] Due Diligence**: Conduct comprehensive due diligence for all significant investments, ensuring thorough evaluation.
 
 ### Risk Management Protocols
 
@@ -12528,7 +12528,7 @@ Risk management protects the empire from potential losses and ensures long-term 
    - Assess potential impact
    - Identify triggers
 
-**Ohu-PNR Risk Identification**: Conduct comprehensive risk identification annually, with quarterly updates.
+**[Your Organization] Risk Identification**: Conduct comprehensive risk identification annually, with quarterly updates.
 
 #### Risk Assessment
 
@@ -12556,7 +12556,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 - **Medium Risk**: Score 8-14 (Requires monitoring)
 - **Low Risk**: Score 1-7 (Acceptable level)
 
-**Ohu-PNR Assessment**: Assess all identified risks using risk matrix, prioritizing high-risk items.
+**[Your Organization] Assessment**: Assess all identified risks using risk matrix, prioritizing high-risk items.
 
 #### Risk Mitigation
 
@@ -12593,7 +12593,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 - Monitor mitigation effectiveness
 - Update plans as needed
 
-**Ohu-PNR Mitigation**: Develop and implement mitigation plans for all high and medium risks.
+**[Your Organization] Mitigation**: Develop and implement mitigation plans for all high and medium risks.
 
 #### Risk Monitoring
 
@@ -12623,7 +12623,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 - Annual risk assessments
 - Ad hoc reporting
 
-**Ohu-PNR Monitoring**: Monitor risks regularly, with comprehensive quarterly and annual reviews.
+**[Your Organization] Monitoring**: Monitor risks regularly, with comprehensive quarterly and annual reviews.
 
 ### Performance Monitoring
 
@@ -12677,7 +12677,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Error rates
 - Compliance rates
 
-**Ohu-PNR KPIs**: Track comprehensive KPIs monthly, with quarterly and annual analysis.
+**[Your Organization] KPIs**: Track comprehensive KPIs monthly, with quarterly and annual analysis.
 
 #### Reporting Systems
 
@@ -12713,7 +12713,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Budget preparation
 - Goal setting
 
-**Ohu-PNR Reporting**: Implement comprehensive reporting system with daily, weekly, monthly, quarterly, and annual reports.
+**[Your Organization] Reporting**: Implement comprehensive reporting system with daily, weekly, monthly, quarterly, and annual reports.
 
 #### Analysis Procedures
 
@@ -12751,7 +12751,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Ratio analysis
 - Benchmarking
 
-**Ohu-PNR Analysis**: Conduct comprehensive analysis monthly, with detailed quarterly and annual analysis.
+**[Your Organization] Analysis**: Conduct comprehensive analysis monthly, with detailed quarterly and annual analysis.
 
 #### Improvement Processes
 
@@ -12781,7 +12781,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Implement additional changes
 - Maintain improvement culture
 
-**Ohu-PNR Improvement**: Maintain continuous improvement culture, identifying and implementing improvements regularly.
+**[Your Organization] Improvement**: Maintain continuous improvement culture, identifying and implementing improvements regularly.
 
 ---
 
@@ -12842,7 +12842,7 @@ S-Corporation election provides significant tax benefits by allowing pass-throug
 - File required returns
 - Monitor compliance
 
-**Ohu-PNR Process**: File S-election for CXI LLC within 75 days of formation, ensuring all requirements met.
+**[Your Organization] Process**: File S-election for CXI LLC within 75 days of formation, ensuring all requirements met.
 
 #### Maintenance Requirements
 
@@ -12880,7 +12880,7 @@ S-Corporation election provides significant tax benefits by allowing pass-throug
 - File returns timely
 - Maintain records
 
-**Ohu-PNR Maintenance**: Maintain S-election compliance through regular monitoring and timely filing.
+**[Your Organization] Maintenance**: Maintain S-election compliance through regular monitoring and timely filing.
 
 ### Reasonable Compensation Analysis
 
@@ -12934,7 +12934,7 @@ Reasonable compensation is critical for S-Corporations to avoid IRS challenges. 
 - Assess contribution
 - Evaluate results
 
-**Ohu-PNR Analysis**: Conduct comprehensive compensation analysis annually, documenting all factors and methods.
+**[Your Organization] Analysis**: Conduct comprehensive compensation analysis annually, documenting all factors and methods.
 
 #### Documentation
 
@@ -12971,7 +12971,7 @@ Reasonable compensation is critical for S-Corporations to avoid IRS challenges. 
 - Retain permanently
 - Review with advisors
 
-**Ohu-PNR Documentation**: Maintain comprehensive compensation documentation, updated annually.
+**[Your Organization] Documentation**: Maintain comprehensive compensation documentation, updated annually.
 
 #### Best Practices
 
@@ -13001,7 +13001,7 @@ Reasonable compensation is critical for S-Corporations to avoid IRS challenges. 
 - Get professional opinions
 - Update as needed
 
-**Ohu-PNR Best Practices**: Follow all best practices, setting reasonable compensation of $60,000-$80,000 annually, reviewed and documented annually.
+**[Your Organization] Best Practices**: Follow all best practices, setting reasonable compensation of $60,000-$80,000 annually, reviewed and documented annually.
 
 ### Shared Services Pricing
 
@@ -13025,7 +13025,7 @@ Shared services pricing determines how CXI LLC charges operating companies for s
 
 **Typical Rates**: 8-12% of revenue
 
-**Ohu-PNR Rate**: 8-12% of revenue, depending on services provided.
+**[Your Organization] Rate**: 8-12% of revenue, depending on services provided.
 
 **Method 2: Cost-Plus**
 
@@ -13097,7 +13097,7 @@ Shared services pricing determines how CXI LLC charges operating companies for s
 - Document changes
 - Communicate updates
 
-**Ohu-PNR Rates**: Set rates at 8-12% of revenue, reviewed annually, with market comparisons and cost analysis.
+**[Your Organization] Rates**: Set rates at 8-12% of revenue, reviewed annually, with market comparisons and cost analysis.
 
 #### Documentation
 
@@ -13134,7 +13134,7 @@ Shared services pricing determines how CXI LLC charges operating companies for s
 - Review annually
 - Comply with transfer pricing rules
 
-**Ohu-PNR Documentation**: Maintain comprehensive pricing documentation, including policies, agreements, and transfer pricing analysis.
+**[Your Organization] Documentation**: Maintain comprehensive pricing documentation, including policies, agreements, and transfer pricing analysis.
 
 ### Payroll Optimization
 
@@ -13168,7 +13168,7 @@ Payroll optimization maximizes tax efficiency while ensuring compliance. This se
 - No FICA tax
 - Tax-efficient
 
-**Ohu-PNR Structure**:
+**[Your Organization] Structure**:
 - **Salary**: $60,000-$80,000 (reasonable compensation)
 - **Benefits**: Health insurance, retirement contributions
 - **Distributions**: Remaining profits as distributions (no FICA)
@@ -13203,7 +13203,7 @@ Payroll optimization maximizes tax efficiency while ensuring compliance. This se
 - **Distributions**: $130,000 (No FICA)
 - **FICA Savings**: $9,945 (7.65% of $130,000)
 
-**Ohu-PNR Savings**: Annual FICA savings of $10,000-$15,000 through S-Corp structure.
+**[Your Organization] Savings**: Annual FICA savings of $10,000-$15,000 through S-Corp structure.
 
 #### Compliance
 
@@ -13234,7 +13234,7 @@ Payroll optimization maximizes tax efficiency while ensuring compliance. This se
 - Maintain records
 - Consult advisors
 
-**Ohu-PNR Compliance**: Maintain full payroll compliance through automated system and regular review.
+**[Your Organization] Compliance**: Maintain full payroll compliance through automated system and regular review.
 
 ### Distribution Strategies
 
@@ -13270,7 +13270,7 @@ Distribution strategies optimize tax efficiency while maintaining compliance. Th
 
 **Distribution Strategy**:
 
-**Ohu-PNR Strategy**:
+**[Your Organization] Strategy**:
 - **Salary**: $60,000-$80,000 (reasonable compensation)
 - **Distributions**: Remaining profits distributed quarterly
 - **Retention**: Retain capital for growth and reserves
@@ -13298,7 +13298,7 @@ Distribution strategies optimize tax efficiency while maintaining compliance. Th
 - Based on opportunities
 - With proper planning
 
-**Ohu-PNR Timing**: Quarterly distributions, with annual review and ad hoc distributions as needed.
+**[Your Organization] Timing**: Quarterly distributions, with annual review and ad hoc distributions as needed.
 
 #### Documentation
 
@@ -13329,7 +13329,7 @@ Distribution strategies optimize tax efficiency while maintaining compliance. Th
 - Review annually
 - Consult advisors
 
-**Ohu-PNR Documentation**: Maintain comprehensive distribution documentation, including resolutions, records, and tax documentation.
+**[Your Organization] Documentation**: Maintain comprehensive distribution documentation, including resolutions, records, and tax documentation.
 
 ---
 
@@ -13369,7 +13369,7 @@ Series LLC structure provides superior asset protection by segregating each prop
 - Maintain separate accounts
 - Ensure proper segregation
 
-**Ohu-PNR Structure**:
+**[Your Organization] Structure**:
 - **Obuke LLC**: Parent entity (Wyoming Series LLC)
 - **Series 1**: Rental Property ($285K value)
 - **Series 2**: New Property ($35K value)
@@ -13410,7 +13410,7 @@ Series LLC structure provides superior asset protection by segregating each prop
 - Review regularly
 - Consult advisors
 
-**Ohu-PNR Segregation**: Maintain complete asset segregation for each series, with separate books, accounts, and records.
+**[Your Organization] Segregation**: Maintain complete asset segregation for each series, with separate books, accounts, and records.
 
 ### Property Acquisition Process
 
@@ -13444,7 +13444,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 - Tenant quality acceptable
 - Management feasible
 
-**Ohu-PNR Criteria**: Focus on cash-flow positive properties with good locations and appreciation potential.
+**[Your Organization] Criteria**: Focus on cash-flow positive properties with good locations and appreciation potential.
 
 #### Due Diligence
 
@@ -13482,7 +13482,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 - [ ] All issues addressed
 - [ ] Decision made
 
-**Ohu-PNR Due Diligence**: Conduct comprehensive due diligence for all property acquisitions.
+**[Your Organization] Due Diligence**: Conduct comprehensive due diligence for all property acquisitions.
 
 #### Financing Strategies
 
@@ -13508,7 +13508,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 
 **Financing Strategy**:
 
-**Ohu-PNR Strategy**: Use combination of conventional financing, creative financing, and cash purchases, optimizing for each property.
+**[Your Organization] Strategy**: Use combination of conventional financing, creative financing, and cash purchases, optimizing for each property.
 
 #### Closing Process
 
@@ -13532,7 +13532,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 - Set up systems
 - Begin operations
 
-**Ohu-PNR Process**: Follow systematic closing process for all acquisitions.
+**[Your Organization] Process**: Follow systematic closing process for all acquisitions.
 
 ### Financing Strategies
 
@@ -13582,7 +13582,7 @@ Financing strategies optimize capital structure and tax efficiency. This section
 - More negotiation
 - Less standard
 
-**Ohu-PNR Strategy**: Use combination of all options, optimizing for each property and opportunity.
+**[Your Organization] Strategy**: Use combination of all options, optimizing for each property and opportunity.
 
 #### Structuring
 
@@ -13606,7 +13606,7 @@ Financing strategies optimize capital structure and tax efficiency. This section
 - Tax optimization
 - Compliance
 
-**Ohu-PNR Structure**: Optimize financing structure for each property, maximizing tax benefits and cash flow.
+**[Your Organization] Structure**: Optimize financing structure for each property, maximizing tax benefits and cash flow.
 
 #### Optimization
 
@@ -13630,7 +13630,7 @@ Financing strategies optimize capital structure and tax efficiency. This section
 - Maximize returns
 - Minimize payments
 
-**Ohu-PNR Optimization**: Optimize financing for maximum tax benefits and cash flow.
+**[Your Organization] Optimization**: Optimize financing for maximum tax benefits and cash flow.
 
 ### Management Systems
 
@@ -13664,7 +13664,7 @@ Management systems ensure efficient property operations and optimal performance.
 - Insurance compliance
 - Tax compliance
 
-**Ohu-PNR Management**: Implement comprehensive property management system for all properties.
+**[Your Organization] Management**: Implement comprehensive property management system for all properties.
 
 #### Tenant Relations
 
@@ -13688,7 +13688,7 @@ Management systems ensure efficient property operations and optimal performance.
 - Service requests
 - Relationship building
 
-**Ohu-PNR Relations**: Maintain professional tenant relations, ensuring quality tenants and positive relationships.
+**[Your Organization] Relations**: Maintain professional tenant relations, ensuring quality tenants and positive relationships.
 
 #### Maintenance
 
@@ -13712,7 +13712,7 @@ Management systems ensure efficient property operations and optimal performance.
 - ROI analysis
 - Strategic improvements
 
-**Ohu-PNR Maintenance**: Maintain properties in excellent condition, maximizing value and tenant satisfaction.
+**[Your Organization] Maintenance**: Maintain properties in excellent condition, maximizing value and tenant satisfaction.
 
 ### Exit Planning
 
@@ -13746,7 +13746,7 @@ Exit planning prepares for property disposition and maximizes returns. This sect
 - Cash flow focus
 - Strategic hold
 
-**Ohu-PNR Strategies**: Evaluate all exit strategies for each property, optimizing for tax efficiency and returns.
+**[Your Organization] Strategies**: Evaluate all exit strategies for each property, optimizing for tax efficiency and returns.
 
 #### Timing
 
@@ -13770,7 +13770,7 @@ Exit planning prepares for property disposition and maximizes returns. This sect
 - Debt reduction
 - Portfolio optimization
 
-**Ohu-PNR Timing**: Time exits strategically, optimizing for market conditions, tax efficiency, and financial needs.
+**[Your Organization] Timing**: Time exits strategically, optimizing for market conditions, tax efficiency, and financial needs.
 
 #### Execution
 
@@ -13794,7 +13794,7 @@ Exit planning prepares for property disposition and maximizes returns. This sect
 - Transfer completion
 - Post-closing
 
-**Ohu-PNR Execution**: Execute exits systematically, maximizing returns and tax efficiency.
+**[Your Organization] Execution**: Execute exits systematically, maximizing returns and tax efficiency.
 
 ---
 
@@ -13840,7 +13840,7 @@ IP inventory identifies all intellectual property assets, while valuation determ
 - Generic domains
 - Strategic domains
 
-**Ohu-PNR Inventory**:
+**[Your Organization] Inventory**:
 - **Trademarks**: Brand names, logos, service marks
 - **Copyrights**: Content, software, creative works
 - **Trade Secrets**: Processes, methods, information
@@ -13895,7 +13895,7 @@ IP inventory identifies all intellectual property assets, while valuation determ
 - Maintain records
 - Update as needed
 
-**Ohu-PNR Valuation**: Conduct comprehensive IP valuation annually, documenting all methods and results.
+**[Your Organization] Valuation**: Conduct comprehensive IP valuation annually, documenting all methods and results.
 
 ### Registration and Protection
 
@@ -13937,7 +13937,7 @@ IP registration and protection secure legal rights and prevent infringement. Thi
 - Maintain records
 - Update as needed
 
-**Ohu-PNR Registration**: Register all valuable IP, including trademarks, copyrights, and other protectable assets.
+**[Your Organization] Registration**: Register all valuable IP, including trademarks, copyrights, and other protectable assets.
 
 #### Protection Strategies
 
@@ -13961,7 +13961,7 @@ IP registration and protection secure legal rights and prevent infringement. Thi
 - Vendor agreements
 - Customer agreements
 
-**Ohu-PNR Protection**: Implement comprehensive IP protection, including legal, technical, and business measures.
+**[Your Organization] Protection**: Implement comprehensive IP protection, including legal, technical, and business measures.
 
 ### Licensing Rate Determination
 
@@ -14000,7 +14000,7 @@ Licensing rates determine IP monetization. This section covers rate setting, mar
 **Structure 1: Percentage of Revenue**
 - Rate: 6-12% of revenue
 - Advantages: Aligns with performance, scalable
-- Ohu-PNR Rate: 8-10% for standard licenses
+- [Your Organization] Rate: 8-10% for standard licenses
 
 **Structure 2: Fixed Fee**
 - Rate: Fixed monthly/annual fee
@@ -14012,7 +14012,7 @@ Licensing rates determine IP monetization. This section covers rate setting, mar
 - Advantages: Incentivizes growth, fair
 - Use: For growth-oriented licensees
 
-**Ohu-PNR Rates**: Use percentage of revenue (8-10%) for standard licenses, with fixed fees for specific IP.
+**[Your Organization] Rates**: Use percentage of revenue (8-10%) for standard licenses, with fixed fees for specific IP.
 
 #### Market Analysis
 
@@ -14036,7 +14036,7 @@ Licensing rates determine IP monetization. This section covers rate setting, mar
 - Competitive advantage
 - Market position
 
-**Ohu-PNR Analysis**: Conduct market analysis annually, comparing rates to industry standards and comparable licenses.
+**[Your Organization] Analysis**: Conduct market analysis annually, comparing rates to industry standards and comparable licenses.
 
 ### Enforcement Procedures
 
@@ -14064,7 +14064,7 @@ Enforcement protects IP rights and prevents infringement. This section covers mo
 - Review copyright registrations
 - Identify conflicts
 
-**Ohu-PNR Monitoring**: Conduct comprehensive IP monitoring, identifying and addressing infringement promptly.
+**[Your Organization] Monitoring**: Conduct comprehensive IP monitoring, identifying and addressing infringement promptly.
 
 #### Enforcement Actions
 
@@ -14088,7 +14088,7 @@ Enforcement protects IP rights and prevents infringement. This section covers mo
 - Pursue litigation
 - Seek remedies
 
-**Ohu-PNR Enforcement**: Enforce IP rights promptly, protecting valuable assets and maintaining rights.
+**[Your Organization] Enforcement**: Enforce IP rights promptly, protecting valuable assets and maintaining rights.
 
 ### International Considerations
 
@@ -14116,7 +14116,7 @@ International IP protection extends rights globally. This section covers interna
 - Comply with requirements
 - Maintain registrations
 
-**Ohu-PNR Strategy**: Register IP in key international markets, using treaties and local registration as appropriate.
+**[Your Organization] Strategy**: Register IP in key international markets, using treaties and local registration as appropriate.
 
 #### Protection Strategies
 
@@ -14140,7 +14140,7 @@ International IP protection extends rights globally. This section covers interna
 - Maintain compliance
 - Update as needed
 
-**Ohu-PNR Protection**: Implement comprehensive international IP protection, registering and enforcing in key markets.
+**[Your Organization] Protection**: Implement comprehensive international IP protection, registering and enforcing in key markets.
 
 ---
 
@@ -14191,7 +14191,7 @@ By following this guide, you will ensure optimal operation of your entity struct
 
 ## Introduction
 
-Operating companies are the revenue-generating engines of the Ohu-PNR Dynasty Empire. This chapter provides comprehensive playbooks for each operating company: RegIntel Advisors (consulting), Notroom Services (professional services), TaxEar Advisory (tax practice), and Directory Companies (digital assets).
+Operating companies are the revenue-generating engines of the The Legacy Codex. This chapter provides comprehensive playbooks for each operating company: RegIntel Advisors (consulting), Notroom Services (professional services), TaxEar Advisory (tax practice), and Directory Companies (digital assets).
 
 Each playbook covers service offerings, pricing strategies, client acquisition, service delivery, quality control, compliance requirements, and growth strategies. By following these playbooks, you will ensure consistent, high-quality service delivery while maximizing revenue and profitability.
 
@@ -14263,7 +14263,7 @@ Service offerings define what RegIntel Advisors provides to clients. This sectio
 
 **Value Proposition**: Provide expert engineering consulting leveraging Gannon credentials.
 
-**Ohu-PNR Services**: Offer all three service categories, targeting $300K+ annual revenue.
+**[Your Organization] Services**: Offer all three service categories, targeting $300K+ annual revenue.
 
 #### Service Packages
 
@@ -14311,7 +14311,7 @@ Service offerings define what RegIntel Advisors provides to clients. This sectio
 
 **Pricing**: $2,000-$5,000/month depending on hours
 
-**Ohu-PNR Packages**: Offer all packages, customizing for each client's needs.
+**[Your Organization] Packages**: Offer all packages, customizing for each client's needs.
 
 #### Service Customization
 
@@ -14341,7 +14341,7 @@ Service offerings define what RegIntel Advisors provides to clients. This sectio
 - Deliver results
 - Ensure satisfaction
 
-**Ohu-PNR Customization**: Customize all services to meet specific client needs and objectives.
+**[Your Organization] Customization**: Customize all services to meet specific client needs and objectives.
 
 ### Pricing Strategies
 
@@ -14369,7 +14369,7 @@ Pricing strategies determine how RegIntel Advisors charges for services. This se
 - Can limit revenue
 - Requires time tracking
 
-**Ohu-PNR Rates**: Use hourly rates of $150-$250/hour depending on service type and expertise.
+**[Your Organization] Rates**: Use hourly rates of $150-$250/hour depending on service type and expertise.
 
 **Model 2: Project-Based Pricing**
 
@@ -14391,7 +14391,7 @@ Pricing strategies determine how RegIntel Advisors charges for services. This se
 - Risk of scope creep
 - May require estimates
 
-**Ohu-PNR Projects**: Use project-based pricing for defined scope projects.
+**[Your Organization] Projects**: Use project-based pricing for defined scope projects.
 
 **Model 3: Retainer Pricing**
 
@@ -14413,7 +14413,7 @@ Pricing strategies determine how RegIntel Advisors charges for services. This se
 - May limit flexibility
 - Requires ongoing delivery
 
-**Ohu-PNR Retainers**: Offer retainer pricing for ongoing consulting relationships.
+**[Your Organization] Retainers**: Offer retainer pricing for ongoing consulting relationships.
 
 #### Rate Determination
 
@@ -14469,7 +14469,7 @@ Pricing strategies determine how RegIntel Advisors charges for services. This se
    - Factor in experience
    - Optimize pricing
 
-**Ohu-PNR Rates**: Set rates at $150-$250/hour, reviewed annually, adjusted based on market and value.
+**[Your Organization] Rates**: Set rates at $150-$250/hour, reviewed annually, adjusted based on market and value.
 
 #### Value-Based Pricing
 
@@ -14499,7 +14499,7 @@ Pricing strategies determine how RegIntel Advisors charges for services. This se
 - **UX Research**: Price based on conversion improvement, not testing hours
 - **Engineering Consulting**: Price based on cost savings, not review time
 
-**Ohu-PNR Value Pricing**: Use value-based pricing where possible, demonstrating ROI and results.
+**[Your Organization] Value Pricing**: Use value-based pricing where possible, demonstrating ROI and results.
 
 ### Client Acquisition
 
@@ -14525,7 +14525,7 @@ Client acquisition drives business growth. This section covers marketing strateg
 - Email marketing
 - Social media
 
-**Ohu-PNR Content**: Create regular content showcasing expertise and results.
+**[Your Organization] Content**: Create regular content showcasing expertise and results.
 
 **Strategy 2: Thought Leadership**
 
@@ -14538,7 +14538,7 @@ Client acquisition drives business growth. This section covers marketing strateg
 - Professional associations
 - Media appearances
 
-**Ohu-PNR Leadership**: Establish thought leadership in healthcare regulatory, UX research, and engineering consulting.
+**[Your Organization] Leadership**: Establish thought leadership in healthcare regulatory, UX research, and engineering consulting.
 
 **Strategy 3: Referral Programs**
 
@@ -14551,7 +14551,7 @@ Client acquisition drives business growth. This section covers marketing strateg
 - Professional referrals
 - Strategic partnerships
 
-**Ohu-PNR Referrals**: Implement referral programs to leverage existing relationships.
+**[Your Organization] Referrals**: Implement referral programs to leverage existing relationships.
 
 #### Lead Generation
 
@@ -14585,7 +14585,7 @@ Client acquisition drives business growth. This section covers marketing strateg
 - Meetups
 - Online communities
 
-**Ohu-PNR Leads**: Generate leads through multiple channels, focusing on inbound and referrals.
+**[Your Organization] Leads**: Generate leads through multiple channels, focusing on inbound and referrals.
 
 #### Sales Process
 
@@ -14621,7 +14621,7 @@ Client acquisition drives business growth. This section covers marketing strateg
 - Set expectations
 - Begin delivery
 
-**Ohu-PNR Sales**: Follow systematic sales process, focusing on value and relationship building.
+**[Your Organization] Sales**: Follow systematic sales process, focusing on value and relationship building.
 
 ### Service Delivery
 
@@ -14661,7 +14661,7 @@ Service delivery ensures client satisfaction and results. This section covers de
 - Gather feedback
 - Close project
 
-**Ohu-PNR Delivery**: Follow systematic delivery process, ensuring quality and client satisfaction.
+**[Your Organization] Delivery**: Follow systematic delivery process, ensuring quality and client satisfaction.
 
 #### Project Management
 
@@ -14691,7 +14691,7 @@ Service delivery ensures client satisfaction and results. This section covers de
 - Deliverables
 - Final reports
 
-**Ohu-PNR Management**: Use SuiteDash for project management, ensuring systematic delivery.
+**[Your Organization] Management**: Use SuiteDash for project management, ensuring systematic delivery.
 
 #### Communication
 
@@ -14715,7 +14715,7 @@ Service delivery ensures client satisfaction and results. This section covers de
 - Decisions
 - Deliverables
 
-**Ohu-PNR Communication**: Maintain regular communication, ensuring clients are informed and engaged.
+**[Your Organization] Communication**: Maintain regular communication, ensuring clients are informed and engaged.
 
 ### Quality Control
 
@@ -14749,7 +14749,7 @@ Quality control ensures consistent, high-quality service delivery. This section 
 - Client satisfaction
 - ROI delivered
 
-**Ohu-PNR Standards**: Maintain high quality standards across all services and deliverables.
+**[Your Organization] Standards**: Maintain high quality standards across all services and deliverables.
 
 #### Review Processes
 
@@ -14773,7 +14773,7 @@ Quality control ensures consistent, high-quality service delivery. This section 
 - Improvement opportunities
 - Best practices
 
-**Ohu-PNR Reviews**: Conduct comprehensive reviews at each stage, ensuring quality and improvement.
+**[Your Organization] Reviews**: Conduct comprehensive reviews at each stage, ensuring quality and improvement.
 
 ---
 
@@ -14813,7 +14813,7 @@ Notary operations require proper procedures, documentation, and compliance. This
 - Store documents
 - Retain records
 
-**Ohu-PNR Procedures**: Follow standard notary procedures, ensuring compliance and accuracy.
+**[Your Organization] Procedures**: Follow standard notary procedures, ensuring compliance and accuracy.
 
 #### Documentation Requirements
 
@@ -14837,7 +14837,7 @@ Notary operations require proper procedures, documentation, and compliance. This
 - Correct dates
 - Notary seal
 
-**Ohu-PNR Documentation**: Maintain complete documentation for all notarizations.
+**[Your Organization] Documentation**: Maintain complete documentation for all notarizations.
 
 #### Best Practices
 
@@ -14861,7 +14861,7 @@ Notary operations require proper procedures, documentation, and compliance. This
 - Prevent fraud
 - Maintain confidentiality
 
-**Ohu-PNR Practices**: Follow all best practices, ensuring professional, compliant, and secure service.
+**[Your Organization] Practices**: Follow all best practices, ensuring professional, compliant, and secure service.
 
 ### RON Implementation
 
@@ -14889,7 +14889,7 @@ Remote Online Notarization (RON) enables notarization via video conference. This
 - Procedure training
 - Compliance training
 
-**Ohu-PNR Setup**: Set up RON platform and technology, ensuring proper training and compliance.
+**[Your Organization] Setup**: Set up RON platform and technology, ensuring proper training and compliance.
 
 #### Technology Requirements
 
@@ -14913,7 +14913,7 @@ Remote Online Notarization (RON) enables notarization via video conference. This
 - Authentication
 - Access controls
 
-**Ohu-PNR Technology**: Ensure all technology requirements met, maintaining security and compliance.
+**[Your Organization] Technology**: Ensure all technology requirements met, maintaining security and compliance.
 
 #### RON Procedures
 
@@ -14937,7 +14937,7 @@ Remote Online Notarization (RON) enables notarization via video conference. This
 - Store records
 - Provide certificate
 
-**Ohu-PNR RON**: Follow RON procedures, ensuring compliance and quality service.
+**[Your Organization] RON**: Follow RON procedures, ensuring compliance and quality service.
 
 ### Transaction Coordination
 
@@ -14971,7 +14971,7 @@ Transaction coordination manages real estate transactions. This section covers c
 - Execute closing
 - Complete transaction
 
-**Ohu-PNR Coordination**: Follow systematic coordination process, ensuring smooth transactions.
+**[Your Organization] Coordination**: Follow systematic coordination process, ensuring smooth transactions.
 
 #### Documentation
 
@@ -14995,7 +14995,7 @@ Transaction coordination manages real estate transactions. This section covers c
 - Issue reports
 - Final reports
 
-**Ohu-PNR Documentation**: Maintain complete documentation for all transactions.
+**[Your Organization] Documentation**: Maintain complete documentation for all transactions.
 
 ### Marketing Strategies
 
@@ -15013,7 +15013,7 @@ Marketing drives client acquisition for Notroom Services. This section covers ma
 - Offer referrals
 - Maintain partnerships
 
-**Ohu-PNR Channel**: Focus on real estate professional partnerships.
+**[Your Organization] Channel**: Focus on real estate professional partnerships.
 
 **Channel 2: Online Marketing**
 
@@ -15025,7 +15025,7 @@ Marketing drives client acquisition for Notroom Services. This section covers ma
 - Online advertising
 - Directory listings
 
-**Ohu-PNR Online**: Implement comprehensive online marketing strategy.
+**[Your Organization] Online**: Implement comprehensive online marketing strategy.
 
 **Channel 3: Referral Programs**
 
@@ -15037,7 +15037,7 @@ Marketing drives client acquisition for Notroom Services. This section covers ma
 - Professional referrals
 - Network referrals
 
-**Ohu-PNR Referrals**: Implement referral programs to drive growth.
+**[Your Organization] Referrals**: Implement referral programs to drive growth.
 
 ### Compliance Requirements
 
@@ -15065,7 +15065,7 @@ Compliance ensures legal operation of Notroom Services. This section covers nota
 - Store securely
 - Comply with requirements
 
-**Ohu-PNR Compliance**: Maintain full notary compliance, ensuring legal operation.
+**[Your Organization] Compliance**: Maintain full notary compliance, ensuring legal operation.
 
 #### RON Compliance
 
@@ -15089,7 +15089,7 @@ Compliance ensures legal operation of Notroom Services. This section covers nota
 - Comply with requirements
 - Stay current
 
-**Ohu-PNR RON**: Maintain full RON compliance, ensuring legal and secure operation.
+**[Your Organization] RON**: Maintain full RON compliance, ensuring legal and secure operation.
 
 ---
 
@@ -15129,7 +15129,7 @@ Enrolled Agent (EA) credential enables unlimited IRS representation rights. This
 - Exam preparation
 - Test day readiness
 
-**Ohu-PNR Preparation**: Follow comprehensive exam preparation plan, ensuring success.
+**[Your Organization] Preparation**: Follow comprehensive exam preparation plan, ensuring success.
 
 #### Study Strategies
 
@@ -15153,7 +15153,7 @@ Enrolled Agent (EA) credential enables unlimited IRS representation rights. This
 - Exam conditions
 - Performance analysis
 
-**Ohu-PNR Study**: Use effective study strategies, maximizing exam success.
+**[Your Organization] Study**: Use effective study strategies, maximizing exam success.
 
 ### Practice Setup
 
@@ -15181,7 +15181,7 @@ Practice setup establishes the foundation for TaxEar Advisory. This section cove
 - Document management
 - Client portal
 
-**Ohu-PNR Setup**: Complete business setup, ensuring proper structure and systems.
+**[Your Organization] Setup**: Complete business setup, ensuring proper structure and systems.
 
 #### Systems
 
@@ -15205,7 +15205,7 @@ Practice setup establishes the foundation for TaxEar Advisory. This section cove
 - Secure storage
 - Access controls
 
-**Ohu-PNR Systems**: Implement comprehensive systems, ensuring efficient and secure operations.
+**[Your Organization] Systems**: Implement comprehensive systems, ensuring efficient and secure operations.
 
 ### Client Management
 
@@ -15233,7 +15233,7 @@ Client management ensures quality service and client satisfaction. This section 
 - File returns
 - Provide support
 
-**Ohu-PNR Onboarding**: Follow systematic onboarding process, ensuring quality service.
+**[Your Organization] Onboarding**: Follow systematic onboarding process, ensuring quality service.
 
 #### Communication
 
@@ -15257,7 +15257,7 @@ Client management ensures quality service and client satisfaction. This section 
 - Decisions
 - Deliverables
 
-**Ohu-PNR Communication**: Maintain regular communication, ensuring client engagement.
+**[Your Organization] Communication**: Maintain regular communication, ensuring client engagement.
 
 ### Tax Software Selection
 
@@ -15280,7 +15280,7 @@ Tax software is critical for efficient tax preparation. This section covers soft
 - Learning curve
 - Annual updates
 
-**Ohu-PNR Option**: Use professional tax software for comprehensive capabilities.
+**[Your Organization] Option**: Use professional tax software for comprehensive capabilities.
 
 **Option 2: Cloud-Based Software**
 
@@ -15297,7 +15297,7 @@ Tax software is critical for efficient tax preparation. This section covers soft
 - Data security concerns
 - Limited features
 
-**Ohu-PNR Cloud**: Consider cloud-based options for flexibility and cost.
+**[Your Organization] Cloud**: Consider cloud-based options for flexibility and cost.
 
 #### Selection Criteria
 
@@ -15327,7 +15327,7 @@ Tax software is critical for efficient tax preparation. This section covers soft
 - Accounting software
 - Other tools
 
-**Ohu-PNR Selection**: Evaluate software based on features, cost, support, and integration.
+**[Your Organization] Selection**: Evaluate software based on features, cost, support, and integration.
 
 ### Representation Procedures
 
@@ -15349,7 +15349,7 @@ IRS representation requires proper procedures and compliance. This section cover
 - No representation
 - Limited scope
 
-**Ohu-PNR Authorization**: Obtain proper authorization for all representation matters.
+**[Your Organization] Authorization**: Obtain proper authorization for all representation matters.
 
 #### Representation Procedures
 
@@ -15379,7 +15379,7 @@ IRS representation requires proper procedures and compliance. This section cover
 - Close case
 - Follow up
 
-**Ohu-PNR Representation**: Follow systematic representation procedures, ensuring effective advocacy.
+**[Your Organization] Representation**: Follow systematic representation procedures, ensuring effective advocacy.
 
 ---
 
@@ -15423,7 +15423,7 @@ Directory selection determines which directories to develop. This section covers
 
 **Criteria**: Select directories with manageable competition and differentiation opportunities.
 
-**Ohu-PNR Selection**: Select directories based on market demand, monetization potential, and competition.
+**[Your Organization] Selection**: Select directories based on market demand, monetization potential, and competition.
 
 #### Market Analysis
 
@@ -15447,7 +15447,7 @@ Directory selection determines which directories to develop. This section covers
 - Plan development
 - Begin execution
 
-**Ohu-PNR Analysis**: Conduct comprehensive market analysis for each directory opportunity.
+**[Your Organization] Analysis**: Conduct comprehensive market analysis for each directory opportunity.
 
 ### Development Process
 
@@ -15475,7 +15475,7 @@ Directory development requires systematic planning and execution. This section c
 - Design architecture
 - Plan integration
 
-**Ohu-PNR Planning**: Complete comprehensive planning before development begins.
+**[Your Organization] Planning**: Complete comprehensive planning before development begins.
 
 #### Design
 
@@ -15499,7 +15499,7 @@ Directory development requires systematic planning and execution. This section c
 - Listing display
 - Contact features
 
-**Ohu-PNR Design**: Create professional, user-friendly directory designs.
+**[Your Organization] Design**: Create professional, user-friendly directory designs.
 
 #### Development
 
@@ -15523,7 +15523,7 @@ Directory development requires systematic planning and execution. This section c
 - Check compatibility
 - Fix issues
 
-**Ohu-PNR Development**: Follow systematic development process, ensuring quality.
+**[Your Organization] Development**: Follow systematic development process, ensuring quality.
 
 ### Monetization Strategies
 
@@ -15540,7 +15540,7 @@ Monetization generates revenue from directories. This section covers revenue mod
 - Featured listing: $150-$300/month
 - Premium listing: $300-$500/month
 
-**Ohu-PNR Listings**: Offer tiered listing packages, maximizing revenue.
+**[Your Organization] Listings**: Offer tiered listing packages, maximizing revenue.
 
 **Model 2: Advertising**
 
@@ -15551,7 +15551,7 @@ Monetization generates revenue from directories. This section covers revenue mod
 - Sponsored listings: $100-$300/month
 - Featured placements: $300-$1,000/month
 
-**Ohu-PNR Advertising**: Offer multiple advertising options, maximizing revenue.
+**[Your Organization] Advertising**: Offer multiple advertising options, maximizing revenue.
 
 **Model 3: Lead Generation**
 
@@ -15562,7 +15562,7 @@ Monetization generates revenue from directories. This section covers revenue mod
 - Monthly packages: $500-$2,000
 - Performance-based: Variable
 
-**Ohu-PNR Leads**: Offer lead generation services, creating additional revenue.
+**[Your Organization] Leads**: Offer lead generation services, creating additional revenue.
 
 #### Pricing Strategies
 
@@ -15586,7 +15586,7 @@ Monetization generates revenue from directories. This section covers revenue mod
 - Test pricing
 - Adjust as needed
 
-**Ohu-PNR Pricing**: Set competitive pricing, optimizing for revenue and value.
+**[Your Organization] Pricing**: Set competitive pricing, optimizing for revenue and value.
 
 ### SEO Optimization
 
@@ -15614,7 +15614,7 @@ SEO optimization drives organic traffic to directories. This section covers on-p
 - Navigation
 - Usability
 
-**Ohu-PNR On-Page**: Optimize all on-page elements for SEO and user experience.
+**[Your Organization] On-Page**: Optimize all on-page elements for SEO and user experience.
 
 #### Off-Page SEO
 
@@ -15638,7 +15638,7 @@ SEO optimization drives organic traffic to directories. This section covers on-p
 - Local directories
 - Local content
 
-**Ohu-PNR Off-Page**: Implement comprehensive off-page SEO strategies.
+**[Your Organization] Off-Page**: Implement comprehensive off-page SEO strategies.
 
 ### Maintenance Protocols
 
@@ -15666,7 +15666,7 @@ Maintenance ensures directory quality and performance. This section covers conte
 - Content planning
 - Content execution
 
-**Ohu-PNR Updates**: Maintain regular content updates, ensuring quality and freshness.
+**[Your Organization] Updates**: Maintain regular content updates, ensuring quality and freshness.
 
 #### Technical Maintenance
 
@@ -15690,7 +15690,7 @@ Maintenance ensures directory quality and performance. This section covers conte
 - Access controls
 - Threat monitoring
 
-**Ohu-PNR Maintenance**: Maintain regular technical maintenance, ensuring performance and security.
+**[Your Organization] Maintenance**: Maintain regular technical maintenance, ensuring performance and security.
 
 #### Performance Monitoring
 
@@ -15714,7 +15714,7 @@ Maintenance ensures directory quality and performance. This section covers conte
 - Backlinks
 - Domain authority
 
-**Ohu-PNR Monitoring**: Monitor comprehensive metrics, tracking performance and optimizing results.
+**[Your Organization] Monitoring**: Monitor comprehensive metrics, tracking performance and optimizing results.
 
 ---
 
@@ -15768,7 +15768,7 @@ By following these playbooks, you will ensure consistent, high-quality service d
 
 ## Introduction
 
-Notary and Remote Online Notarization (RON) services represent the "immediate cash flow" engine of the Ohu-PNR Dynasty Empire. Unlike other business models that require long lead times, notary services can generate revenue within days of launch. This chapter provides a comprehensive blueprint for building a scalable, high-margin notary empire that leverages both traditional mobile services and cutting-edge RON technology.
+Notary and Remote Online Notarization (RON) services represent the "immediate cash flow" engine of the The Legacy Codex. Unlike other business models that require long lead times, notary services can generate revenue within days of launch. This chapter provides a comprehensive blueprint for building a scalable, high-margin notary empire that leverages both traditional mobile services and cutting-edge RON technology.
 
 For Notroom Services LLC, this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
 
@@ -16427,7 +16427,7 @@ Tax season (Feb-April) is hell. We want consistent revenue.
 
 ## Introduction
 
-The Directory Empire is the "Digital Real Estate" component of the Ohu-PNR Dynasty. Unlike service businesses that trade time for money, directories trade *traffic* and *connections* for money. They are scalable, automated, and high-margin assets that work while you sleep.
+The Directory Empire is the "Digital Real Estate" component of the Legacy Codex. Unlike service businesses that trade time for money, directories trade *traffic* and *connections* for money. They are scalable, automated, and high-margin assets that work while you sleep.
 
 Using the Brilliant Directories platform, you will build a portfolio of niche directories that serve specific industries or localities. These assets provide three forms of value:
 1.  **Cash Flow**: Membership fees and advertising revenue.
@@ -17348,7 +17348,7 @@ Real Estate Professional Status (REPS) is the "Holy Grail" of tax planning for h
 
 REPS changes the rules. If you qualify, your rental losses become "non-passive," meaning they can offset **unlimited** active income. Combined with Cost Segregation and Bonus Depreciation, this can result in paying **zero** federal income tax, even with a high six-figure or seven-figure income.
 
-For the Ohu-PNR Dynasty, achieving and maintaining REPS is a strategic imperative. This chapter details the strict requirements, documentation systems, and audit defense strategies needed to secure this powerful tax benefit.
+For the Legacy Codex, achieving and maintaining REPS is a strategic imperative. This chapter details the strict requirements, documentation systems, and audit defense strategies needed to secure this powerful tax benefit.
 
 ---
 
@@ -17817,7 +17817,7 @@ Property management is not a passive activity. It is active business management.
 
 ## Introduction
 
-In the Ohu-PNR Dynasty Empire, technology is not just a tool; it is the nervous system that connects every organ of the business. **SuiteDash** is the central brain of this system. It is the "All-in-One" platform that replaces a dozen disconnected tools (Salesforce, Dropbox, DocuSign, Trello, QuickBooks, Slack, etc.) with a single, integrated command center.
+In the The Legacy Codex, technology is not just a tool; it is the nervous system that connects every organ of the business. **SuiteDash** is the central brain of this system. It is the "All-in-One" platform that replaces a dozen disconnected tools (Salesforce, Dropbox, DocuSign, Trello, QuickBooks, Slack, etc.) with a single, integrated command center.
 
 For a multi-entity empire like yoursâ€”spanning Notary services, Real Estate, Tax Advisory, and Directoriesâ€”SuiteDash provides the "Single Source of Truth." It allows you to manage clients, projects, invoices, and files for *all* your companies in one place, while keeping them branded separately for the client.
 
@@ -17833,7 +17833,7 @@ Setting up SuiteDash correctly from Day 1 prevents "technical debt" later.
 
 **The "White Label" Foundation**:
 - **Custom Domain**: Map `portal.ohupnr.com` (or similar) to your SuiteDash instance. This builds brand authority.
-- **Branding**: Upload the "Ohu-PNR" master logo for the login screen, but configure "Circles" (see below) for entity-specific branding.
+- **Branding**: Upload the "[Your Organization]" master logo for the login screen, but configure "Circles" (see below) for entity-specific branding.
 - **Email Settings**: Configure SMTP (SendGrid/Postmark) so emails come from `@ohupnr.com` or specific entity domains, not `noreply@suitedash.com`.
 
 **The "Circles" Strategy (Crucial for Multi-Entity)**:
@@ -18017,7 +18017,7 @@ Money in, Money out.
 
 ## Chapter 19 Summary
 
-SuiteDash is the operating system of the Ohu-PNR Dynasty. It is not just software; it is the *structure* that allows you to scale without chaos. By centralizing CRM, Project Management, and Billing, you eliminate data silos and create a seamless experience for your clients and your team.
+SuiteDash is the operating system of the Legacy Codex. It is not just software; it is the *structure* that allows you to scale without chaos. By centralizing CRM, Project Management, and Billing, you eliminate data silos and create a seamless experience for your clients and your team.
 
 **Key Takeaways**:
 1.  **One Login**: Manage the entire empire from one screen.
@@ -18048,7 +18048,7 @@ SuiteDash is the operating system of the Ohu-PNR Dynasty. It is not just softwar
 
 If SuiteDash is the brain, **Automation** is the nervous system that fires the signals. Automation is the only way to scale a service business without scaling headcount linearly. It allows you to perform the work of 10 people with a team of 2.
 
-This chapter details the "No-Code" automation architecture for the Ohu-PNR Dynasty. We will use a combination of **KonnectzIT** (for cost-effective, high-volume tasks), **Activepieces** (for self-hosted reliability), and **Make.com** (for complex logic). By layering these tools, we create a redundant, powerful system that handles everything from lead intake to client onboarding.
+This chapter details the "No-Code" automation architecture for the Legacy Codex. We will use a combination of **KonnectzIT** (for cost-effective, high-volume tasks), **Activepieces** (for self-hosted reliability), and **Make.com** (for complex logic). By layering these tools, we create a redundant, powerful system that handles everything from lead intake to client onboarding.
 
 ---
 
@@ -18226,7 +18226,7 @@ Documentation is key. If you get hit by a bus, someone needs to know how the mac
 
 ## Chapter 20 Summary
 
-Automation is leverage. By building a robust architecture using KonnectzIT, Activepieces, and Make, you create a system that works 24/7/365 without complaint. This infrastructure allows the Ohu-PNR Dynasty to scale revenue without scaling chaos.
+Automation is leverage. By building a robust architecture using KonnectzIT, Activepieces, and Make, you create a system that works 24/7/365 without complaint. This infrastructure allows the Legacy Codex to scale revenue without scaling chaos.
 
 **Key Takeaways**:
 1.  **Right Tool for the Job**: Use KonnectzIT for simple/cheap tasks, Make for complex logic, Activepieces for backup.
@@ -18255,7 +18255,7 @@ Automation is leverage. By building a robust architecture using KonnectzIT, Acti
 
 ## Introduction
 
-Artificial Intelligence represents the next evolution of automationâ€”moving beyond rule-based workflows to intelligent systems that can understand context, make decisions, and adapt to changing conditions. For the Ohu-PNR Dynasty Empire, AI implementation transforms content creation from a time-consuming manual process into an automated system that scales infinitely, turns customer service into a 24/7 operation without proportional cost increases, and enables data-driven decision-making that optimizes operations continuously.
+Artificial Intelligence represents the next evolution of automationâ€”moving beyond rule-based workflows to intelligent systems that can understand context, make decisions, and adapt to changing conditions. For the The Legacy Codex, AI implementation transforms content creation from a time-consuming manual process into an automated system that scales infinitely, turns customer service into a 24/7 operation without proportional cost increases, and enables data-driven decision-making that optimizes operations continuously.
 
 This chapter provides a comprehensive guide to implementing AI across your entire business empire. You'll learn how to select the right AI tools for each use case, integrate ChatGPT and Claude APIs into your automation workflows, manage costs while maximizing value, develop content generation systems that produce high-quality output at scale, build customer service automation that handles routine inquiries while escalating complex issues appropriately, and implement operational AI that analyzes data, predicts outcomes, and optimizes processes.
 
@@ -19838,7 +19838,7 @@ Would you like to:
 
 ## Chapter Summary
 
-This chapter has provided a comprehensive guide to implementing AI across your Ohu-PNR Dynasty Empire. You've learned:
+This chapter has provided a comprehensive guide to implementing AI across your The Legacy Codex. You've learned:
 
 1. **AI Tool Selection & Setup:** Model selection, API integration, cost management, use case development, and ROI tracking
 2. **Content Generation Systems:** Blog post automation, social media content, email campaigns, video scripts, and SEO optimization
@@ -19866,7 +19866,7 @@ The next section of Volume IV will explore digital marketing systems, showing yo
 
 ## Introduction
 
-Organic marketing is the foundation of sustainable growth for the Ohu-PNR Dynasty Empireâ€”the systematic approach to attracting customers through valuable content, strategic SEO, engaged social media presence, and automated email nurturing. Unlike paid advertising that stops working when you stop paying, organic marketing builds assets that compound over time: ranking content that drives traffic for years, email lists that generate revenue on autopilot, and social media communities that amplify your message.
+Organic marketing is the foundation of sustainable growth for the The Legacy Codexâ€”the systematic approach to attracting customers through valuable content, strategic SEO, engaged social media presence, and automated email nurturing. Unlike paid advertising that stops working when you stop paying, organic marketing builds assets that compound over time: ranking content that drives traffic for years, email lists that generate revenue on autopilot, and social media communities that amplify your message.
 
 This chapter provides a comprehensive guide to mastering organic marketing across all your business entities. You'll learn how to dominate search results through strategic SEO, build a content marketing machine that produces valuable content at scale, create social media systems that engage audiences and drive traffic, and implement email marketing automation that nurtures leads into customers while building long-term relationships.
 
@@ -21316,7 +21316,7 @@ Thanks for your time!
 
 ## Chapter Summary
 
-This chapter has provided a comprehensive guide to mastering organic marketing for your Ohu-PNR Dynasty Empire. You've learned:
+This chapter has provided a comprehensive guide to mastering organic marketing for your The Legacy Codex. You've learned:
 
 1. **SEO Domination Strategy:** Keyword research, on-page optimization, link building, local SEO, and performance tracking
 2. **Content Marketing Machine:** Editorial calendars, content types, distribution channels, repurposing strategies, and performance metrics
@@ -21344,7 +21344,7 @@ The next chapter will explore paid advertising playbooks, showing you how to lev
 
 ## Introduction
 
-Paid advertising accelerates growth for the Ohu-PNR Dynasty Empire by putting your message in front of qualified prospects at the exact moment they're searching for your services. While organic marketing builds long-term assets, paid advertising generates immediate resultsâ€”driving traffic, leads, and revenue within days of campaign launch. When executed strategically, paid advertising complements organic efforts, filling gaps in your marketing funnel and scaling revenue faster than organic channels alone.
+Paid advertising accelerates growth for the The Legacy Codex by putting your message in front of qualified prospects at the exact moment they're searching for your services. While organic marketing builds long-term assets, paid advertising generates immediate resultsâ€”driving traffic, leads, and revenue within days of campaign launch. When executed strategically, paid advertising complements organic efforts, filling gaps in your marketing funnel and scaling revenue faster than organic channels alone.
 
 This chapter provides a comprehensive guide to mastering paid advertising across Google Ads, Facebook/Meta, LinkedIn, and other platforms. You'll learn how to structure accounts for maximum performance, create compelling ad copy that converts, design landing pages that turn clicks into customers, implement conversion tracking that measures true ROI, and optimize campaigns continuously to improve performance and reduce costs.
 
@@ -22570,7 +22570,7 @@ LTV = Average Order Value Ã— Purchase Frequency Ã— Customer Lifespan
 
 ## Chapter Summary
 
-This chapter has provided a comprehensive guide to mastering paid advertising for your Ohu-PNR Dynasty Empire. You've learned:
+This chapter has provided a comprehensive guide to mastering paid advertising for your The Legacy Codex. You've learned:
 
 1. **Google Ads Mastery:** Account structure, keyword strategies, ad copy optimization, landing pages, and conversion tracking
 2. **Facebook/Meta Advertising:** Audience targeting, creative strategies, campaign objectives, retargeting, and budget optimization
@@ -22598,7 +22598,7 @@ The final chapter of Volume IV will explore sales systems development, showing y
 
 ## Introduction
 
-Sales systems transform the Ohu-PNR Dynasty Empire from a collection of individual sales efforts into a predictable, scalable revenue engine. While marketing generates leads and awareness, sales systems convert those leads into customers through systematic processes, automated workflows, and proven methodologies. When sales systems are properly designed and implemented, they eliminate guesswork, reduce sales cycle length, increase close rates, and enable scaling without proportional increases in sales team size.
+Sales systems transform the The Legacy Codex from a collection of individual sales efforts into a predictable, scalable revenue engine. While marketing generates leads and awareness, sales systems convert those leads into customers through systematic processes, automated workflows, and proven methodologies. When sales systems are properly designed and implemented, they eliminate guesswork, reduce sales cycle length, increase close rates, and enable scaling without proportional increases in sales team size.
 
 This chapter provides a comprehensive guide to building complete sales systems across all your business entities. You'll learn how to architect sales processes that guide prospects from first contact through closed deal, automate sales tasks that free up time for high-value activities, build sales teams that consistently hit targets, and create customer success systems that maximize lifetime value while generating referrals.
 
@@ -24238,7 +24238,7 @@ With Volume IV complete, you now have a comprehensive framework for technology i
 
 ## Introduction
 
-The Ohu-PNR Dynasty Empire is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
+The Legacy Codex is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
 
 Virtual team building is not about finding "cheap labor." It's about accessing global talent pools, creating 24/5 operational coverage, and building a scalable workforce that grows with your empire. The systems in this chapter have been battle-tested across hundreds of virtual team members, refined through iteration, and integrated with the North Star Dashboard v3 and Empire Automation â€“ Financial Tracker to ensure every hire is tracked, measured, and optimized.
 
@@ -28476,7 +28476,7 @@ The next volume (Volume VI: Family Governance & Succession) will detail how to s
 
 Finance is the language of business. If you do not speak it fluently, you cannot rule your empire. Accounting is not just about taxes; it is about visibility, control, and decision-making. A robust accounting system tells you the truth about your business performance, allowing you to double down on what works and cut what doesn't.
 
-This chapter details the setup and operation of the financial nervous system of the Ohu-PNR Dynasty Empire. We utilize **QuickBooks Online (QBO)** as our core ledger, integrated with our operational tools for seamless data flow.
+This chapter details the setup and operation of the financial nervous system of the The Legacy Codex. We utilize **QuickBooks Online (QBO)** as our core ledger, integrated with our operational tools for seamless data flow.
 
 ---
 
@@ -28581,7 +28581,7 @@ Once closed, generate the "Monthly Board Package":
 
 Accounting looks backward; Financial Planning & Analysis (FP&A) looks forward. Accounting tells you what happened; FP&A tells you what *will* happen and how to change it.
 
-This chapter details the systems for budgeting, forecasting, and analyzing the financial health of the Ohu-PNR Dynasty Empire. It transforms raw data into strategic intelligence.
+This chapter details the systems for budgeting, forecasting, and analyzing the financial health of the The Legacy Codex. It transforms raw data into strategic intelligence.
 
 ---
 
@@ -28682,7 +28682,7 @@ Before spending money on a new project or acquisition, run the numbers.
 
 ## Introduction
 
-Tax is your single largest expense. In the Ohu-PNR Dynasty Empire, we view tax not as a mandatory obligation to be passively paid, but as a set of incentives to be actively managed. The government writes the tax code to encourage certain behaviors (hiring, investing, building housing). By aligning our activities with these incentives, we legally and ethically minimize our tax burden.
+Tax is your single largest expense. In the The Legacy Codex, we view tax not as a mandatory obligation to be passively paid, but as a set of incentives to be actively managed. The government writes the tax code to encourage certain behaviors (hiring, investing, building housing). By aligning our activities with these incentives, we legally and ethically minimize our tax burden.
 
 This chapter details the strategies for implementing the tax planning frameworks outlined in Volume II.
 
@@ -28766,7 +28766,7 @@ This chapter details the strategies for implementing the tax planning frameworks
 
 ## Introduction
 
-The Family Council serves as the constitutional body that governs the Ohu-PNR Dynasty Empireâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
+The Family Council serves as the constitutional body that governs the The Legacy Codexâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
 
 This chapter provides a complete operational framework for establishing and running a Family Council that will guide your dynasty for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
 
@@ -28799,11 +28799,11 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 
 #### Voting Members
 
-**Founding Members (Ikechukwu and Judith Ohu)**
-- Permanent voting members with equal voting power
+**Founding Members ([Principal Names])**
+- [Primary Principal Name] serves as Chair with final decision authority; [Secondary Principal Name] serves as Advisory Member
 - Cannot be removed except by mutual agreement or incapacity
 - Hold ultimate authority over all decisions until succession is complete
-- Serve as co-chairs of the Family Council
+- [Primary Principal Name] serves as sole Chair of the Family Council
 
 **Successor Members (Children at Age 18+)**
 - Automatic membership upon reaching age 18
@@ -28861,7 +28861,7 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 2. **Proxy Voting**: Allowed with written authorization, valid for one meeting only
 3. **Secret Ballots**: Used for sensitive matters (personnel, conflicts) at request of any member
 4. **Abstentions**: Count toward quorum but not toward majority calculations
-5. **Tie-Breaking**: In case of ties, founding members have final authority
+5. **Tie-Breaking**: In case of ties, [Primary Principal Name] has final authority
 
 ### Meeting Protocols
 
@@ -29074,7 +29074,7 @@ The agenda is the roadmap for productive meetings. Poor agendas lead to unfocuse
 
 #### The Role of the Facilitator
 
-The Family Council co-chairs (Ikechukwu and Judith) serve as primary facilitators, but facilitation can rotate or be assigned to a neutral party for sensitive discussions. Effective facilitation ensures:
+The Family Council [Primary Principal Name] serves as Chair with final authority, but facilitation can rotate or be assigned to a neutral party for sensitive discussions. Effective facilitation ensures:
 - All voices are heard
 - Discussions stay on topic
 - Decisions are reached efficiently
@@ -29380,7 +29380,7 @@ Respectfully submitted,
 
 #### Role-Specific Authority
 
-**Founding Members (Ikechukwu & Judith)**
+**Founding Members ([Primary Principal Name] & [Secondary Principal Name])**
 - Final authority on all decisions until succession
 - Can override any decision with mutual agreement
 - Emergency decision-making authority
@@ -29569,7 +29569,7 @@ An emergency is any situation that threatens:
 
 #### Emergency Decision Authority
 
-**Founding Members** (Ikechukwu & Judith)
+**Founding Members** ([Primary Principal Name] & [Secondary Principal Name])
 - Can make emergency decisions unilaterally if other unavailable
 - Must consult within 24 hours if possible
 - Document all emergency decisions
@@ -31532,7 +31532,7 @@ Succession planning is the process of transitioning leadership and ownership of 
 
 This chapter provides a comprehensive framework for planning and executing successful generational transitions. Succession planning is not a one-time eventâ€”it's an ongoing process that begins years before the actual transition and continues long after. It involves identifying and developing successors, planning ownership transfers, ensuring knowledge transfer, and preparing for both planned and emergency successions.
 
-Succession planning for the Ohu-PNR Dynasty Empire is particularly complex because it involves:
+Succession planning for the The Legacy Codex is particularly complex because it involves:
 - Multiple business entities across different industries
 - A sophisticated trust structure (South Dakota Dynasty Trust)
 - Four children (Ikechukwu, Jeremy, Kikachukwu, and Chimenime) with potentially different interests and capabilities
@@ -33009,7 +33009,7 @@ In the next chapter, we'll explore estate planning integrationâ€”how to coo
 
 ## Introduction
 
-Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Ohu-PNR Dynasty Empire, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
+Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the The Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
 This chapter integrates estate planning with the broader dynasty framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a dynasty requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 
@@ -35456,7 +35456,7 @@ In the final chapter, we'll explore philanthropy and legacyâ€”how to use yo
 
 ## Introduction
 
-Wealth is not merely about accumulationâ€”it's about impact, purpose, and legacy. For the Ohu-PNR Dynasty Empire, philanthropy is not an afterthought or a tax strategyâ€”it's a core component of your 365-year vision. True legacy extends far beyond financial assets; it encompasses the values you live, the impact you create, and the difference you make in the world.
+Wealth is not merely about accumulationâ€”it's about impact, purpose, and legacy. For the The Legacy Codex, philanthropy is not an afterthought or a tax strategyâ€”it's a core component of your 365-year vision. True legacy extends far beyond financial assets; it encompasses the values you live, the impact you create, and the difference you make in the world.
 
 This chapter provides a comprehensive framework for building a philanthropic legacy through the Origin Eyes 501(c)(3) foundation and other charitable initiatives. Philanthropy serves multiple purposes: it creates lasting impact in your community and beyond, provides tax benefits that preserve wealth, teaches your children the value of stewardship, and builds a legacy that extends across generations.
 
@@ -36704,7 +36704,7 @@ Cultural reinforcement ensures your values become deeply embedded in family cult
 
 ## Conclusion
 
-Philanthropy and legacy are not separate from your dynastyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. The Ohu-PNR Dynasty Empire's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
+Philanthropy and legacy are not separate from your dynastyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. The Legacy Codex's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
 
 Remember that building a philanthropic legacy is:
 - An ongoing journey, not a destination
@@ -48382,7 +48382,7 @@ The strength of the Dynasty Empire lies not just in its assets, but in the paper
 
 This chapter serves as the central repository and user guide for the Empire's legal infrastructure. It does not replace legal counsel; rather, it provides the standardized templates and key clause explanations that allow you to direct your counsel efficiently. By understanding these templates and their purposes, you can work with your attorneys more effectively, reduce legal costs, and ensure consistency across all your legal structures.
 
-**Critical Disclaimer**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. The Ohu-PNR Dynasty Empire assumes no liability for the use of these templates without proper legal review. Laws vary by state and change frequentlyâ€”what works in one jurisdiction may not work in another.
+**Critical Disclaimer**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. The Legacy Codex assumes no liability for the use of these templates without proper legal review. Laws vary by state and change frequentlyâ€”what works in one jurisdiction may not work in another.
 
 We cover the four pillars of legal documentation: **Trusts** (Wealth Preservation), **Entities** (Business Operations), **Real Estate** (Asset Holding), and **Contracts** (Revenue Generation). Each section provides detailed template explanations, customization instructions, implementation checklists, and best practices.
 
@@ -51307,7 +51307,7 @@ If Legal Documents are the code of the Empire, Financial Models are the dashboar
 
 We move beyond basic bookkeeping to **Financial Intelligence**: predictive models, capital allocation tools, and tax optimization calculators. These templates are designed to be used within the SuiteDash environment or as standalone Excel/Google Sheets tools.
 
-**Critical Disclaimer**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions. Financial models are based on assumptions and estimatesâ€”actual results may vary. The Ohu-PNR Dynasty Empire assumes no liability for financial decisions made using these templates without proper professional review.
+**Critical Disclaimer**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions. Financial models are based on assumptions and estimatesâ€”actual results may vary. The Legacy Codex assumes no liability for financial decisions made using these templates without proper professional review.
 
 ### How to Use This Chapter
 
@@ -52793,7 +52793,7 @@ While we may not seek formal certification immediately, we build our SOPs to ISO
 
 ## Introduction
 
-Chapter 52 provides a comprehensive troubleshooting guide for the most common problems facing the Ohu-PNR Dynasty Empire. This chapter categorizes problems by type, provides diagnostic frameworks, and offers proven solutions for each category. Every problem is an opportunity to strengthen the empireâ€”if addressed systematically and learned from completely.
+Chapter 52 provides a comprehensive troubleshooting guide for the most common problems facing the The Legacy Codex. This chapter categorizes problems by type, provides diagnostic frameworks, and offers proven solutions for each category. Every problem is an opportunity to strengthen the empireâ€”if addressed systematically and learned from completely.
 
 ### The Problem-Solving Framework
 
@@ -54331,7 +54331,7 @@ Common causes:
 
 ## Chapter 52 Summary
 
-Chapter 52 provides comprehensive frameworks for identifying, diagnosing, and solving the most common problems facing the Ohu-PNR Dynasty Empire. The chapter covers:
+Chapter 52 provides comprehensive frameworks for identifying, diagnosing, and solving the most common problems facing the The Legacy Codex. The chapter covers:
 
 - **Financial Challenges**: Cash flow, credit, collections, costs, revenue
 - **Operational Issues**: Quality, delivery, systems, processes, resources
@@ -54387,7 +54387,7 @@ Chapter 52 provides the foundation for effective problem-solving. Chapter 53 add
 
 ## Introduction
 
-Chapter 53 establishes comprehensive crisis management protocols for the Ohu-PNR Dynasty Empire. A crisis is any event that threatens the viability, reputation, or operations of the empire and requires immediate, coordinated response. This chapter provides systematic frameworks for preparing for crises, responding effectively, planning recovery, and learning from each crisis.
+Chapter 53 establishes comprehensive crisis management protocols for the The Legacy Codex. A crisis is any event that threatens the viability, reputation, or operations of the empire and requires immediate, coordinated response. This chapter provides systematic frameworks for preparing for crises, responding effectively, planning recovery, and learning from each crisis.
 
 ### Understanding Crises
 
@@ -55886,7 +55886,7 @@ Chapter 53 provides the framework for effective crisis management. Chapter 54 ad
 
 ## Introduction
 
-In the Ohu-PNR Dynasty Empire, "good enough" is the enemy of "great." The completion of a system or the launch of a business is not the finish lineâ€”it is the starting line for optimization. Continuous Optimization is the disciplined, relentless pursuit of incremental improvement. It is the application of the Japanese concept of *Kaizen* to every facet of the empire.
+In the The Legacy Codex, "good enough" is the enemy of "great." The completion of a system or the launch of a business is not the finish lineâ€”it is the starting line for optimization. Continuous Optimization is the disciplined, relentless pursuit of incremental improvement. It is the application of the Japanese concept of *Kaizen* to every facet of the empire.
 
 This chapter provides the framework for systematically elevating the performance of your businesses, systems, finances, and organization. It moves beyond troubleshooting (fixing what is broken) to optimization (perfecting what is working).
 
@@ -56067,7 +56067,7 @@ Let us begin.
 
 The greatest threat to a dynasty is not market competition, regulatory change, or economic downturnâ€”it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
 
-**Volume VI: Family Governance & Succession** provides the constitutional framework for the Ohu-PNR family. It transforms a group of related individuals into a disciplined, aligned, and high-performing governing body.
+**Volume VI: Family Governance & Succession** provides the constitutional framework for the [Your Organization] family. It transforms a group of related individuals into a disciplined, aligned, and high-performing governing body.
 
 This volume is divided into two essential books:
 
@@ -56077,7 +56077,7 @@ Here, we establish the "Family Council" (Chapter 31), the supreme decision-makin
 **Book 12: Wealth Preservation & Transfer**
 Governance without structure is toothless. This book integrates your estate plan (Chapter 34) with the dynasty trust, ensuring that legal mechanisms support family goals. We also cover risk management (Chapter 35) to protect against catastrophic loss, and philanthropic strategy (Chapter 36) to unite the family around a shared purpose beyond profit.
 
-By implementing the systems in this volume, you are building the "software" that runs on the "hardware" of your legal and financial structures. You are ensuring that the Ohu-PNR name stands for unity, integrity, and excellence for 365 years.
+By implementing the systems in this volume, you are building the "software" that runs on the "hardware" of your legal and financial structures. You are ensuring that the [Your Organization] name stands for unity, integrity, and excellence for 365 years.
 
 
 
@@ -56304,7 +56304,7 @@ Growth is a choice. You can grow slow, or you can grow fast. Volume VIII gives y
 
 ## Introduction
 
-Volume X represents the "immune system" and the "evolutionary engine" of the Ohu-PNR Dynasty Empire. While previous volumes focused on building, structuring, and operating the empire, this volume focuses on **protecting it from decay** and **propelling it toward perfection**.
+Volume X represents the "immune system" and the "evolutionary engine" of the The Legacy Codex. While previous volumes focused on building, structuring, and operating the empire, this volume focuses on **protecting it from decay** and **propelling it toward perfection**.
 
 No system is perfect. Entropy is the natural enemy of order. Without active troubleshooting and continuous optimization, even the most robust empires will eventually stagnate and decline. This volume provides the protocols to detect issues early, resolve conflicts decisively, and continuously upgrade every aspect of the operation.
 
@@ -56350,7 +56350,7 @@ The goal of this volume is not just resilience (bouncing back), but **anti-fragi
 
 ## Introduction
 
-This appendix provides high-level checklists for the recurring rhythms of the Ohu-PNR Dynasty Empire. These guides are designed to be printed or integrated into your project management software (ClickUp/SuiteDash) to ensure consistency and completeness in daily operations.
+This appendix provides high-level checklists for the recurring rhythms of the The Legacy Codex. These guides are designed to be printed or integrated into your project management software (ClickUp/SuiteDash) to ensure consistency and completeness in daily operations.
 
 ---
 
@@ -56464,7 +56464,7 @@ This appendix provides high-level checklists for the recurring rhythms of the Oh
 
 ## Introduction
 
-This appendix provides the logic and frameworks for the essential financial calculators used in the Ohu-PNR Dynasty Empire. While these are presented here as formulas and concepts, they should be implemented as spreadsheets (Excel/Google Sheets) or built into your SuiteDash portal for daily use.
+This appendix provides the logic and frameworks for the essential financial calculators used in the The Legacy Codex. While these are presented here as formulas and concepts, they should be implemented as spreadsheets (Excel/Google Sheets) or built into your SuiteDash portal for daily use.
 
 ---
 
@@ -57211,27 +57211,27 @@ This appendix serves as the master navigation tool for the Empire Bible. It maps
 ## Family Contacts
 
 ### Family Members
-- **Ikechukwu Polycarp Nnamdi Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Primary Principal Name]** [Volume I, Chapter 3, Section 3.1]
   - Role: Founder & CEO
   - Contact: [To be filled]
 
-- **Judith Huchukwuyem Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Secondary Principal Name]** [Volume I, Chapter 3, Section 3.1]
   - Role: Co-Founder & COO
   - Contact: [To be filled]
 
-- **Ivan Osemeke Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Beneficiary 1]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Jeremy Chiwuikem Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Beneficiary 2]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Kikachukwu Theodore Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Beneficiary 3]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Chimenime Xavier Ikechukwu Ohu** [Volume I, Chapter 3, Section 3.1]
+- **Chimenime Xavier [Primary Principal]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
@@ -57314,7 +57314,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 
 #### Chapter 3: Family Legacy Framework
 
-**Section 3.1: The Ohu Family Mission**
+**Section 3.1: The [Your Family] Mission**
 - **References to**: Chapter 1.1 (Vision statement), Chapter 1.2 (Core values), Chapter 1.3 (Success metrics), Chapter 2.1 (Horizon development)
 - **Referenced by**: Chapter 3.2, Chapter 3.3, Chapter 3.4, Volume VI Chapter 31
 
@@ -59070,7 +59070,7 @@ For questions or updates to indexes, refer to the Cross-Reference Agent document
   - Participation requirements
 
 - **Family Legacy** [Volume I, Chapter 3]
-  - Ohu Family Mission
+  - [Your Family] Mission
   - Individual role definitions
   - Collective goals framework
   - Legacy impact statements

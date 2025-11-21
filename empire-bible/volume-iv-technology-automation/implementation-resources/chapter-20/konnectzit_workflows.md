@@ -1,7 +1,7 @@
 # KonnectzIT Workflows
 
 ## Overview
-KonnectzIT is the primary automation hub for the Ohu-PNR Dynasty Empire. It handles real-time data synchronization between SuiteDash and external tools.
+KonnectzIT is the primary automation hub for the The Legacy Codex. It handles real-time data synchronization between SuiteDash and external tools.
 
 ## Setup Checklist
 - [ ] **Create Account**: Log in to KonnectzIT.

@@ -12,11 +12,11 @@ The name of the Company is **[LLC Name]**. The principal place of business is [A
 The Company may engage in any lawful business for which limited liability companies may be organized under the Act.
 
 ## 4. Member
-The sole Member of the Company is **[Member Name]** (e.g., The Ohu-PNR Dynasty Trust).
+The sole Member of the Company is **[Member Name]** (e.g., The Legacy Codex Trust).
 
 ## 5. Management
 The Company shall be **Manager-Managed**.
-*   **Manager**: The initial Manager of the Company shall be **[Manager Name]** (e.g., Ikechukwu Ohu).
+*   **Manager**: The initial Manager of the Company shall be **[Manager Name]** (e.g., [Primary Principal]).
 *   **Authority**: The Manager shall have full, exclusive, and complete authority, power, and discretion to manage, control, and make all decisions affecting the business and affairs of the Company.
 
 ## 6. Capital Contributions

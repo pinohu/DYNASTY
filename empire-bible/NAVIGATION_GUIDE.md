@@ -1,4 +1,4 @@
-# Ohu-PNR Dynasty Empire Bible: Complete Navigation Guide
+# The Legacy Codex: Complete Navigation Guide
 
 ## Purpose
 
@@ -6,9 +6,9 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 
 ---
 
-## 🎯 Navigation by Role
+## Navigation by Role
 
-### For the Founder (Ikechukwu Ohu)
+### For the Founder ([Primary Principal])
 **Start Here**:
 1. Volume I, Chapter 1: The Dynasty Manifesto
 2. Volume I, Chapter 2: Strategic Architecture
@@ -22,7 +22,7 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 - Volume III: Chapters 10-12 (Professional Services)
 - Volume VII: Chapter 37 (30-Day Quick Start)
 
-### For the Co-Founder (Judith Ohu)
+### For the Co-Founder ([Secondary Principal])
 **Start Here**:
 1. Volume I, Chapter 3: Family Legacy Framework
 2. Volume II, Chapter 5: Trust Administration Manual
@@ -35,7 +35,7 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 - Volume VI: All chapters (Family Governance)
 - Volume IX: Chapter 46 (Legal Documents)
 
-### For Children (Ivan, Jeremy, Kikachukwu, Chimenime)
+### For Children ([Beneficiary Names])
 **Start Here**:
 1. Volume VI, Chapter 32: Children's Business Education
 2. Volume I, Chapter 3: Family Legacy Framework
@@ -140,7 +140,7 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 
 ---
 
-## 📋 Navigation by Need
+## Navigation by Need
 
 ### "I need to form a trust"
 → Volume II, Chapter 4: South Dakota Dynasty Trust
@@ -188,7 +188,7 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 
 ---
 
-## 📚 Reading Paths
+## Reading Paths
 
 ### Path 1: Strategic Overview (2-3 days)
 1. Volume I: All chapters
@@ -210,7 +210,7 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 
 ---
 
-## 🎯 Quick Reference
+## Quick Reference
 
 ### Most Important Chapters
 1. **Volume I, Chapter 1**: The Dynasty Manifesto (Foundation)
@@ -232,7 +232,7 @@ This guide provides multiple pathways to navigate the Empire Bible based on your
 
 ---
 
-## 📖 How to Use This Bible
+## How to Use This Bible
 
 ### For Daily Operations
 - Use Volume V (Operations) for team and financial management

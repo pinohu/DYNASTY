@@ -2,7 +2,7 @@
 
 ## Volume Overview
 
-**Volume X: Troubleshooting & Optimization** provides comprehensive frameworks for identifying, addressing, and preventing problems across the Ohu-PNR Dynasty Empire. This volume transforms challenges into opportunities, crises into learning experiences, and continuous optimization into competitive advantage.
+**Volume X: Troubleshooting & Optimization** provides comprehensive frameworks for identifying, addressing, and preventing problems across the The Legacy Codex. This volume transforms challenges into opportunities, crises into learning experiences, and continuous optimization into competitive advantage.
 
 ## Completion Status
 

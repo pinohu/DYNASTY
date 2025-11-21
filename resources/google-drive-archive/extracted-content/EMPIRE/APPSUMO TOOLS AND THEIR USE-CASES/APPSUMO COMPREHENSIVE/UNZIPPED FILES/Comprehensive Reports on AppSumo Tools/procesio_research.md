@@ -66,7 +66,7 @@ Founder Marian_PROCESIO actively responds to feedback:
 - Plans template library improvements for second half of the year
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - Powerful but complex
+WARNING: **CAUTIOUSLY RECOMMENDED** - Powerful but complex
 
 **Why it has potential:**
 - **Enterprise-grade platform**: Used by major corporations like Engie and EoN

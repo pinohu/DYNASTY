@@ -2,7 +2,7 @@
 
 ## Overview
 
-Volume X provides comprehensive frameworks for identifying, addressing, and preventing problems across the Ohu-PNR Dynasty Empire. This volume transforms challenges into opportunities, crises into learning experiences, and continuous optimization into competitive advantage.
+Volume X provides comprehensive frameworks for identifying, addressing, and preventing problems across the The Legacy Codex. This volume transforms challenges into opportunities, crises into learning experiences, and continuous optimization into competitive advantage.
 
 Volume X serves as both the "immune system" (protecting from problems) and the "evolutionary engine" (driving continuous improvement) of the empire.
 

@@ -231,7 +231,7 @@ This template provides a comprehensive monthly Profit & Loss (P&L) statement for
 
 ---
 
-*This template is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible.*
+*This template is version 1.0 and was created for the The Legacy Codex.*
 ```
 
 ## Example

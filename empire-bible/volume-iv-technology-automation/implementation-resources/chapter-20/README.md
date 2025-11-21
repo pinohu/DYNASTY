@@ -1,6 +1,6 @@
 # Chapter 20 Implementation Resources
 
-This directory contains the implementation resources for **Chapter 20: Automation Architecture** of the Ohu-PNR Dynasty Empire Bible.
+This directory contains the implementation resources for **Chapter 20: Automation Architecture** of the The Legacy Codex.
 
 ## Contents
 

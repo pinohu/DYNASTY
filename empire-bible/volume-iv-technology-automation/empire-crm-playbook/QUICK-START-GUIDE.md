@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Quick Start (5 Minutes)
+## Quick Start (5 Minutes)
 
 ### Step 1: Choose Your Path (2 minutes)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 📚 Document Guide
+## Document Guide
 
 ### [00-EMPIRE-CRM-MASTER-INDEX.md](./00-EMPIRE-CRM-MASTER-INDEX.md)
 **Your navigation hub** - Start here to understand the system
@@ -40,7 +40,7 @@
 
 ---
 
-## 🎯 Common Scenarios
+## Common Scenarios
 
 ### "I need to set up a CRM from scratch"
 1. Read [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) Section 1
@@ -89,7 +89,7 @@
 
 ---
 
-## 📊 Key Metrics to Track
+## Key Metrics to Track
 
 ### Pipeline Health
 - Total pipeline value
@@ -106,7 +106,7 @@
 
 ---
 
-## 🔧 Platform-Specific Tips
+##  Platform-Specific Tips
 
 ### SuiteDash
 - Use built-in automation builder
@@ -130,7 +130,7 @@
 
 ---
 
-## 🎓 Learning Path
+##  Learning Path
 
 ### Beginner (Week 1)
 - Read [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) Sections 1-3
@@ -177,7 +177,7 @@ Before you start:
 
 ---
 
-## 📞 Need Help?
+## Need Help?
 
 1. **Check the playbook**: [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md)
 2. **Run the audit**: [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md)
@@ -186,7 +186,7 @@ Before you start:
 
 ---
 
-## 🎯 Your Next Action
+## Your Next Action
 
 **Right now, do this**:
 1. Open [00-EMPIRE-CRM-MASTER-INDEX.md](./00-EMPIRE-CRM-MASTER-INDEX.md)

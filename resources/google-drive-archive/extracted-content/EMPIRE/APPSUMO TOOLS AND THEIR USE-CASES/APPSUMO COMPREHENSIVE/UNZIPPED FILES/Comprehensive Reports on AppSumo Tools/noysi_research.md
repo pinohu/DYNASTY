@@ -36,7 +36,7 @@
 
 ### Critical Issues & Warnings
 
-⚠️ **CRITICAL COMPANY FAILURE - February 2025**
+WARNING: **CRITICAL COMPANY FAILURE - February 2025**
 AppSumo issued an official warning on February 13, 2025:
 - **NOYSI website is no longer live**
 - **Customers cannot access their accounts**

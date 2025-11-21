@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains all production-ready templates, forms, and fillable documents referenced throughout the Ohu-PNR Dynasty Empire Bible. The library includes over 1,000 templates organized by category.
+This directory contains all production-ready templates, forms, and fillable documents referenced throughout the The Legacy Codex. The library includes over 1,000 templates organized by category.
 
 ## Directory Structure
 

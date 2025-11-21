@@ -185,14 +185,14 @@
 - **Entrepreneurs**: Non-technical founders building digital products
 
 ### Current Recommendation
-**⚠️ NOT RECOMMENDED for new projects due to service discontinuation**
+**WARNING: NOT RECOMMENDED for new projects due to service discontinuation**
 - **Existing Users**: Should plan migration to alternative platforms
 - **Learning Purpose**: May be useful for learning no-code backend concepts
 - **Short-Term Projects**: Only for projects completing before May 15, 2025
 
 ## Integration into Business Stack
 
-### ⚠️ Migration Planning Required
+### WARNING: Migration Planning Required
 - **Current Users**: Need immediate migration planning to alternative platforms
 - **Data Export**: Export all data, APIs, and configurations before service ends
 - **Alternative Selection**: Choose suitable alternative platform for migration
@@ -206,7 +206,7 @@
 
 ## Lifetime Value Potential
 
-### ⚠️ Limited Value Due to Service Discontinuation
+### WARNING: Limited Value Due to Service Discontinuation
 - **Short-Term Use**: Limited value due to service ending May 15, 2025
 - **Learning Value**: May provide learning experience with no-code backend development
 - **Migration Costs**: Additional costs for migrating to alternative platforms

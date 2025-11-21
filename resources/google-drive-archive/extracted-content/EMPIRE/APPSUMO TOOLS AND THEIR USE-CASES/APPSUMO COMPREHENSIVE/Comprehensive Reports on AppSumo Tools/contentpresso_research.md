@@ -77,7 +77,7 @@
 - GDPR-compliant platform
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - While ContentPresso offers good value for AI image generation and social media templates, there are significant concerns about the Canva integration functionality. Recent user reports indicate major technical issues that prevent access to core features.
+WARNING: **CAUTIOUSLY RECOMMENDED** - While ContentPresso offers good value for AI image generation and social media templates, there are significant concerns about the Canva integration functionality. Recent user reports indicate major technical issues that prevent access to core features.
 
 **Pros:**
 - Comprehensive AI image generation with 20+ models

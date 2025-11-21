@@ -317,7 +317,7 @@ Creatify represents a powerful AI-driven solution for businesses requiring high-
 - Limited advanced video editing capabilities compared to professional software
 - Subscription costs can accumulate significantly over time
 
-**Recommendation:** ⚠️ **CONDITIONALLY RECOMMENDED** - Excellent platform capabilities but evaluate subscription costs carefully.
+**Recommendation:** WARNING: **CONDITIONALLY RECOMMENDED** - Excellent platform capabilities but evaluate subscription costs carefully.
 
 Creatify offers exceptional value for businesses focused on video advertising, particularly e-commerce companies and digital marketing agencies. The platform's AI automation capabilities and advertising optimization features provide significant competitive advantages for video marketing campaigns.
 

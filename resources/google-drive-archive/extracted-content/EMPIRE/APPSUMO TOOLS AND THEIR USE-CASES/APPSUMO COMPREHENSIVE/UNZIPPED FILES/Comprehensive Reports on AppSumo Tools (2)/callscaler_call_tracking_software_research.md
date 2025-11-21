@@ -239,10 +239,10 @@ The software provides auto-magical tracking of marketing campaigns driving calls
 ✅ **Cost Effectiveness**: Significant savings over subscription competitors  
 
 ### Considerations & Limitations
-⚠️ **Minute Limitations**: Monthly allocations may be insufficient for high-volume users  
-⚠️ **Scalability Costs**: Additional numbers and minutes incur extra charges  
-⚠️ **Feature Scope**: Focused on core features vs. extensive enterprise options  
-⚠️ **Sustainability Balance**: Founder acknowledges need to limit features for viability  
+WARNING: **Minute Limitations**: Monthly allocations may be insufficient for high-volume users  
+WARNING: **Scalability Costs**: Additional numbers and minutes incur extra charges  
+WARNING: **Feature Scope**: Focused on core features vs. extensive enterprise options  
+WARNING: **Sustainability Balance**: Founder acknowledges need to limit features for viability  
 
 ### Risk Mitigation
 - **60-Day Guarantee**: Full testing period to validate fit

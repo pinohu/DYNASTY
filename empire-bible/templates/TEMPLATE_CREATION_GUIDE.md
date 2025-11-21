@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide provides systematic instructions for creating the remaining 1,000+ templates for the Ohu-PNR Dynasty Empire Bible. Use this guide to ensure consistency, completeness, and quality across all templates.
+This guide provides systematic instructions for creating the remaining 1,000+ templates for the The Legacy Codex. Use this guide to ensure consistency, completeness, and quality across all templates.
 
 ## Template Creation Process
 
@@ -387,5 +387,5 @@ If stuck on a template:
 
 ---
 
-*This guide is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible.*
+*This guide is version 1.0 and was created for the The Legacy Codex.*
 

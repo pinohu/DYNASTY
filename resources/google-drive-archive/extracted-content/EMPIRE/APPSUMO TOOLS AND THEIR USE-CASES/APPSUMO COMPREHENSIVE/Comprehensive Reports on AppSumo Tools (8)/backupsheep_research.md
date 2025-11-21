@@ -3,7 +3,7 @@
 ## Executive Summary
 **BackupSheep** was a no-code backup automation tool designed to help users automate backups for cloud servers, databases, and file servers without writing code. Originally sold on AppSumo as a lifetime deal, the service operated from 2017 to 2023, serving over 6,500 users at its peak before shutting down due to unsustainable economics of the lifetime deal model.
 
-**Current Status**: ⚠️ **NOT RECOMMENDED** - **SERVICE PERMANENTLY SHUT DOWN IN 2023**
+**Current Status**: WARNING: **NOT RECOMMENDED** - **SERVICE PERMANENTLY SHUT DOWN IN 2023**
 **AppSumo Deal**: SOLD OUT - Service No Longer Operational
 **User Rating**: Mixed reviews due to service closure (77 total AppSumo reviews)
 
@@ -203,7 +203,7 @@ Based on verified user reviews and complaints:
 ### Industry Implications
 This case demonstrates the fundamental unsustainability of lifetime deals for infrastructure services. Storage, bandwidth, and server costs are ongoing operational expenses that cannot be covered by one-time payments, especially when the service provider only receives 30% of the deal revenue.
 
-### Final Assessment: ⚠️ **NOT RECOMMENDED - SERVICE SHUT DOWN**
+### Final Assessment: WARNING: **NOT RECOMMENDED - SERVICE SHUT DOWN**
 
 **Critical Warning**: BackupSheep permanently shut down in 2023 after taking users' money through AppSumo lifetime deals. The founder admits the AppSumo deal was a "poor decision" that led to the company's decline and closure. Users lost access to their backups and received inadequate compensation.
 

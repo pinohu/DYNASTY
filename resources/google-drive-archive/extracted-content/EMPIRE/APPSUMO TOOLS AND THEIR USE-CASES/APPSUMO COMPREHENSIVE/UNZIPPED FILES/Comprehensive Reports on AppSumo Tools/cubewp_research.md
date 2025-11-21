@@ -116,7 +116,7 @@
 - **Meta Box**: Custom fields and meta boxes plugin
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - While CubeWP offers comprehensive WordPress development features with excellent ratings, there are serious concerns about customer support quality that potential users should carefully consider.
+WARNING: **CAUTIOUSLY RECOMMENDED** - While CubeWP offers comprehensive WordPress development features with excellent ratings, there are serious concerns about customer support quality that potential users should carefully consider.
 
 **Pros:**
 - Comprehensive WordPress development framework

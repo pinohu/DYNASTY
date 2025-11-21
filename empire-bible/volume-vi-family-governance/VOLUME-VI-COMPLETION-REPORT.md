@@ -1,7 +1,7 @@
 # Volume VI: Family Governance & Succession - Completion Report
 
 ## Executive Summary
-Volume VI provides the "Constitution" for the Ohu-PNR Dynasty. It shifts focus from the business operations to the family unit itself, establishing the governance structures, educational systems, and succession protocols necessary to prevent the "shirtsleeves to shirtsleeves" phenomenon.
+Volume VI provides the "Constitution" for the Legacy Codex. It shifts focus from the business operations to the family unit itself, establishing the governance structures, educational systems, and succession protocols necessary to prevent the "shirtsleeves to shirtsleeves" phenomenon.
 
 **Status:** ✅ Complete
 **Total Chapters:** 6

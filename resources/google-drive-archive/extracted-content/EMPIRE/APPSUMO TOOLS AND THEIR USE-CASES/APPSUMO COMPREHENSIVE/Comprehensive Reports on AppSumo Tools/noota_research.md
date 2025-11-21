@@ -66,7 +66,7 @@
 - **Competition**: Users switching to alternatives like Fireflies
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - Mixed results
+WARNING: **CAUTIOUSLY RECOMMENDED** - Mixed results
 
 **Why it can be good:**
 - **Strong core functionality**: Excellent transcription accuracy and features

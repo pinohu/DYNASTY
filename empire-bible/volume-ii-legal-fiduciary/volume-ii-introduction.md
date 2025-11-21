@@ -4,7 +4,7 @@
 
 ### The Fortress of the Empire
 
-If Volume I: Foundation & Philosophy is the "soul" of the Ohu-PNR Dynasty Empire, Volume II: Legal & Fiduciary Structures is its "body"—the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
+If Volume I: Foundation & Philosophy is the "soul" of the The Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"—the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
 
 You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Dynasty Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
 

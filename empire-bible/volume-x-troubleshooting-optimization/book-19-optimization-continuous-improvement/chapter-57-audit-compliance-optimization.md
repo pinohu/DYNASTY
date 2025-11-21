@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Compliance is often viewed as a necessary evil—a cost center that drains resources without creating value. This chapter flips that paradigm. In the Ohu-PNR Dynasty Empire, compliance is not a burden; it is a **competitive advantage**. While competitors cut corners and face penalties, we operate with bulletproof compliance that protects assets, enables growth, and builds trust.
+Compliance is often viewed as a necessary evil—a cost center that drains resources without creating value. This chapter flips that paradigm. In the The Legacy Codex, compliance is not a burden; it is a **competitive advantage**. While competitors cut corners and face penalties, we operate with bulletproof compliance that protects assets, enables growth, and builds trust.
 
 This chapter provides the framework for transforming compliance from a reactive, manual, error-prone process into a proactive, automated, value-creating system. It builds on Chapter 51 (Compliance & Regulatory Guide) by focusing on *optimization*—making compliance faster, cheaper, more accurate, and more strategic.
 

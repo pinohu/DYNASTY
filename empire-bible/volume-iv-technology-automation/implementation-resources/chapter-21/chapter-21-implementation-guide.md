@@ -1,6 +1,6 @@
 # Chapter 21 Implementation Guide: AI Implementation Strategy
 
-**Objective**: Deploy an integrated AI intelligence layer across the Ohu-PNR Dynasty Empire to automate content, support, and operations.
+**Objective**: Deploy an integrated AI intelligence layer across the The Legacy Codex to automate content, support, and operations.
 **Timeline**: 4 Weeks (Phase 1-4)
 **Prerequisites**: OpenAI API Key, Anthropic API Key, Python Environment (optional for custom scripts).
 

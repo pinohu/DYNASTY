@@ -4,7 +4,7 @@
 
 Strategic architecture is the bridge between vision and execution. While Chapter 1 established *why* we build the Empire and *what* values guide us, this chapter defines *how* we build it strategically.
 
-The Ohu-PNR Dynasty Empire operates across three time horizons simultaneously. We must generate cash flow today while accumulating assets for tomorrow, all while preserving the foundation for generations to come. This requires a sophisticated strategic framework that balances immediate needs with long-term preservation.
+The Legacy Codex operates across three time horizons simultaneously. We must generate cash flow today while accumulating assets for tomorrow, all while preserving the foundation for generations to come. This requires a sophisticated strategic framework that balances immediate needs with long-term preservation.
 
 This chapter provides the strategic decision-making frameworks that guide every major choice in the Empire:
 1. **The Three-Horizon Model** (Section 2.1): How we balance immediate, medium-term, and generational goals

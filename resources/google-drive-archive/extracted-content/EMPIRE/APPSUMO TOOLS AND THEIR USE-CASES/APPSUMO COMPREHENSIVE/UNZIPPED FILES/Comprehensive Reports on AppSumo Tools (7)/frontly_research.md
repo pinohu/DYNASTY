@@ -273,7 +273,7 @@
 
 Frontly represents an innovative AI-powered no-code app builder that addresses the growing need for custom business applications without requiring coding skills. With 98 AppSumo reviews averaging 4.4/5 stars, it shows generally positive user satisfaction, though with notable concerns about platform stability and support quality.
 
-**Recommendation: ⚠️ CONDITIONALLY RECOMMENDED**
+**Recommendation: WARNING: CONDITIONALLY RECOMMENDED**
 
 While Frontly offers substantial value through its AI-powered app generation and comprehensive customization capabilities, the mixed reviews regarding platform stability, bugs, and customer support create significant concerns for business-critical applications. The platform shows great potential but appears to be in active development with some maturity issues.
 

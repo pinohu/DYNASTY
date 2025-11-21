@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Ohu-PNR Dynasty Empire, estate planning is not merely about avoiding taxes—it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
+Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the The Legacy Codex, estate planning is not merely about avoiding taxes—it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
 This chapter integrates estate planning with the broader dynasty framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a dynasty requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 

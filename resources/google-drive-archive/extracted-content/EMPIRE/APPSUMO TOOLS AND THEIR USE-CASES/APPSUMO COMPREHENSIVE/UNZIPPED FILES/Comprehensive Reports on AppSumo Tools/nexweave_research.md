@@ -42,7 +42,7 @@
 
 ### Critical Issues & Concerns
 
-⚠️ **MAJOR RED FLAGS - December 2024**
+WARNING: **MAJOR RED FLAGS - December 2024**
 - **Listed on Reddit "BAD AppSumo Partners" list** (December 23, 2024)
 - Grouped with other problematic companies like Airmeet, RankAtom, SendNow
 

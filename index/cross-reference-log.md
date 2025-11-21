@@ -68,7 +68,7 @@ This log tracks all cross-references found in the Empire Book chapters. It serve
 
 #### Chapter 3: Family Legacy Framework
 
-**Section 3.1: The Ohu Family Mission**
+**Section 3.1: The [Your Family] Mission**
 - [ ] Reference: Chapter 1.1 (Vision statement) - **Status**: Verified
 - [ ] Reference: Chapter 1.2 (Core values) - **Status**: Verified
 - [ ] Reference: Chapter 1.3 (Success metrics) - **Status**: Verified

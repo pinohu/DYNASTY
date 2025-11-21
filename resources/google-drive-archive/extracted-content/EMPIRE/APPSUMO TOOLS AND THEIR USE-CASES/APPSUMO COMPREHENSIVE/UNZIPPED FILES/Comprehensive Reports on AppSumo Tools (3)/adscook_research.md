@@ -7,7 +7,7 @@
 **AppSumo Deal:** SOLD OUT - Lifetime deal no longer available  
 **Core Purpose:** Facebook and Instagram ads management platform designed to help marketers and businesses launch, scale, and optimize social media advertising campaigns across multiple accounts with automated monitoring, A/B testing capabilities, and comprehensive analytics dashboard for improved campaign performance and ROI.
 
-⚠️ **CRITICAL WARNING: COMPANY APPEARS TO BE OUT OF BUSINESS** ⚠️
+WARNING: **CRITICAL WARNING: COMPANY APPEARS TO BE OUT OF BUSINESS** WARNING:
 
 ## 2. Primary Features & Capabilities
 
@@ -98,11 +98,11 @@
 ## 5. Limitations
 
 ### **Critical Business Concerns:**
-- **⚠️ COMPANY STATUS:** Multiple user reports indicate the company may be out of business
-- **⚠️ PLATFORM FUNCTIONALITY:** Recent reviews report platform not working properly
-- **⚠️ CUSTOMER SUPPORT:** Users report complete lack of customer support and unanswered emails
-- **⚠️ WEBSITE ACCESS:** Official website currently behind Cloudflare protection, suggesting technical issues
-- **⚠️ ROADMAP ABANDONMENT:** No updates to product roadmap in over 2 years according to user reports
+- **WARNING: COMPANY STATUS:** Multiple user reports indicate the company may be out of business
+- **WARNING: PLATFORM FUNCTIONALITY:** Recent reviews report platform not working properly
+- **WARNING: CUSTOMER SUPPORT:** Users report complete lack of customer support and unanswered emails
+- **WARNING: WEBSITE ACCESS:** Official website currently behind Cloudflare protection, suggesting technical issues
+- **WARNING: ROADMAP ABANDONMENT:** No updates to product roadmap in over 2 years according to user reports
 
 ### AppSumo Deal Constraints:
 - **Deal Unavailable:** Lifetime deal is sold out and no longer available
@@ -152,7 +152,7 @@
 
 ## 7. Ideal Users
 
-### **⚠️ IMPORTANT: NOT RECOMMENDED FOR ANY USERS DUE TO BUSINESS STATUS CONCERNS**
+### **WARNING: IMPORTANT: NOT RECOMMENDED FOR ANY USERS DUE TO BUSINESS STATUS CONCERNS**
 
 ### Historical Target Audience (When Operational):
 - **Digital Marketing Agencies:** Managing multiple client accounts with automation needs
@@ -248,11 +248,11 @@
 Adscook was historically positioned as a comprehensive Facebook and Instagram advertising management platform offering automation, A/B testing, and multi-account management capabilities. However, current evidence strongly suggests the company is out of business or experiencing severe operational difficulties.
 
 **Critical Concerns:**
-- **⚠️ BUSINESS FAILURE:** Multiple user reports indicate the company may be out of business
-- **⚠️ PLATFORM NON-FUNCTIONAL:** Recent reviews report the platform is not working properly
-- **⚠️ ZERO SUPPORT:** Complete absence of customer support and communication
-- **⚠️ WEBSITE ISSUES:** Official website currently inaccessible behind Cloudflare protection
-- **⚠️ ABANDONED DEVELOPMENT:** No product updates or roadmap progress in over 2 years
+- **WARNING: BUSINESS FAILURE:** Multiple user reports indicate the company may be out of business
+- **WARNING: PLATFORM NON-FUNCTIONAL:** Recent reviews report the platform is not working properly
+- **WARNING: ZERO SUPPORT:** Complete absence of customer support and communication
+- **WARNING: WEBSITE ISSUES:** Official website currently inaccessible behind Cloudflare protection
+- **WARNING: ABANDONED DEVELOPMENT:** No product updates or roadmap progress in over 2 years
 
 **Historical Strengths (When Operational):**
 - Comprehensive Facebook and Instagram advertising automation

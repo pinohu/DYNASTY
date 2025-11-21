@@ -109,7 +109,7 @@ Cheqbook is fast, easy accounting software with powerful automation and included
 ❌ **Small Business Focus**: May not suit larger enterprises  
 
 ## Recommendation
-**⚠️ CAUTIOUSLY RECOMMENDED** - Cheqbook offers good value as a lifetime accounting solution for small businesses, but potential buyers should be aware of reported reliability issues and UI concerns.
+**WARNING: CAUTIOUSLY RECOMMENDED** - Cheqbook offers good value as a lifetime accounting solution for small businesses, but potential buyers should be aware of reported reliability issues and UI concerns.
 
 ### Best For:
 - Small businesses seeking lifetime accounting software

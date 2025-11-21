@@ -6,7 +6,7 @@ Succession planning is the process of transitioning leadership and ownership of 
 
 This chapter provides a comprehensive framework for planning and executing successful generational transitions. Succession planning is not a one-time event—it's an ongoing process that begins years before the actual transition and continues long after. It involves identifying and developing successors, planning ownership transfers, ensuring knowledge transfer, and preparing for both planned and emergency successions.
 
-Succession planning for the Ohu-PNR Dynasty Empire is particularly complex because it involves:
+Succession planning for the The Legacy Codex is particularly complex because it involves:
 - Multiple business entities across different industries
 - A sophisticated trust structure (South Dakota Dynasty Trust)
 - Four children (Ikechukwu, Jeremy, Kikachukwu, and Chimenime) with potentially different interests and capabilities

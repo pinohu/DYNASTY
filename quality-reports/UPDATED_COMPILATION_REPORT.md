@@ -54,7 +54,7 @@
 - **Status**: ✅ Complete
 - **New**: Chapters 20-24 added
 
-### ⚠️ Volume V: Operations & Scaling - PARTIAL
+### WARNING: Volume V: Operations & Scaling - PARTIAL
 - **Chapters**: 3/6 (50%)
 - **Written**: Chapters 25-27
 - **Pending**: Chapters 28-30
@@ -74,12 +74,12 @@
 - **Status**: ✅ Complete
 - **New**: All chapters 43-45 added
 
-### ⚠️ Volume IX: Resources & References - PARTIAL
+### WARNING: Volume IX: Resources & References - PARTIAL
 - **Chapters**: 2/6 (33%)
 - **Written**: Chapters 46-47
 - **Pending**: Chapters 48-51
 
-### ⚠️ Volume X: Troubleshooting & Optimization - PARTIAL
+### WARNING: Volume X: Troubleshooting & Optimization - PARTIAL
 - **Chapters**: 1/3 (33%)
 - **Written**: Chapter 52
 - **Pending**: Chapters 53-54
@@ -144,9 +144,9 @@ Actually, looking at the list above, some may be duplicates or I miscounted. The
 
 ### Immediate Actions
 1. ✅ Recompilation complete - DONE
-2. ⚠️ Fix PowerShell compatibility (Join-String issue) - IN PROGRESS
-3. ⚠️ Verify all TOC links work
-4. ⚠️ Final quality review
+2. WARNING: Fix PowerShell compatibility (Join-String issue) - IN PROGRESS
+3. WARNING: Verify all TOC links work
+4. WARNING: Final quality review
 
 ### Short-Term Actions
 1. Complete remaining 6 chapters

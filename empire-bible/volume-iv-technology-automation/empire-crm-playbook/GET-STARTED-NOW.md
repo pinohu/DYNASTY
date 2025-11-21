@@ -22,7 +22,7 @@
 
 ---
 
-## 🎯 Step 2A: You Have a CRM (30 Minutes)
+## Step 2A: You Have a CRM (30 Minutes)
 
 ### Immediate Actions
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🚀 Step 2B: You Don't Have a CRM (30 Minutes)
+## Step 2B: You Don't Have a CRM (30 Minutes)
 
 ### Immediate Actions
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📖 Step 3: Read the Foundation (20 Minutes)
+## Step 3: Read the Foundation (20 Minutes)
 
 ### Essential Reading
 
@@ -133,7 +133,7 @@
 
 ---
 
-## 🎯 Your Next 3 Actions
+## Your Next 3 Actions
 
 ### Action 1: Today (30-60 minutes)
 - [ ] Complete audit OR set up CRM account
@@ -152,7 +152,7 @@
 
 ---
 
-## 📋 Quick Reference Checklist
+## Quick Reference Checklist
 
 ### Pre-Implementation
 - [ ] CRM account set up (or chosen)
@@ -195,7 +195,7 @@
 
 ---
 
-## 🎯 Success Indicators
+## Success Indicators
 
 After your first 60 minutes, you should have:
 
@@ -206,7 +206,7 @@ After your first 60 minutes, you should have:
 
 ---
 
-## 📞 Next Steps
+## Next Steps
 
 1. **Complete your 60-minute session** (above)
 2. **Choose your path** (A, B, or C)
@@ -215,7 +215,7 @@ After your first 60 minutes, you should have:
 
 ---
 
-## 💡 Pro Tips
+##  Pro Tips
 
 1. **Don't overthink it** - Start with basics, optimize later
 2. **One thing at a time** - Don't try to do everything at once
@@ -225,7 +225,7 @@ After your first 60 minutes, you should have:
 
 ---
 
-## 🚀 Ready to Start?
+## Ready to Start?
 
 **Your first action right now:**
 

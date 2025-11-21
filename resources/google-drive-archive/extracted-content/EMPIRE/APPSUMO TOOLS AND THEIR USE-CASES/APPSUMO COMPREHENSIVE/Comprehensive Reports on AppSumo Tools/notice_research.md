@@ -8,7 +8,7 @@
 - **Original Price**: Not specified
 - **AppSumo Price**: Was available before company failure
 
-## ⚠️ CRITICAL COMPANY FAILURE ALERT ⚠️
+## WARNING: CRITICAL COMPANY FAILURE ALERT WARNING:
 
 **Official AppSumo Notice (May 14, 2025):**
 "Notice will no longer be supporting Lifetime Access for AppSumo customers due to financial constraints. We're working to hold the Notice team accountable for the agreement they entered into with our customers. In the meantime, we've extended our We Got Your Back protection and are offering credits to all purchasers."

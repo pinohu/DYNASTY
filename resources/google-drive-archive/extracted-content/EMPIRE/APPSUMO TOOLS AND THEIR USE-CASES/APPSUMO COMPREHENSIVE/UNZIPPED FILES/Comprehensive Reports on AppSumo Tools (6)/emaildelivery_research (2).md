@@ -7,7 +7,7 @@
 **Website:** https://emaildelivery.com/
 **Summary:** EmailDelivery.com is a self-hosted email service provider (ESP) platform that allows users to run their own white-label email marketing system. It enables businesses to send unlimited emails using their own IP addresses with included Velocity MTA (Mail Transfer Agent), effectively replacing traditional ESPs like MailerLite, ConvertKit, or Mailchimp with a lifetime-owned solution.
 
-⚠️ **CRITICAL SUPPORT WARNING (February 2025):** AppSumo has issued an official notice stating that EmailDelivery has been unresponsive to customer support requests and they are "not confident in their ability to provide reliable support long term." AppSumo is offering their "We Got Your Back" guarantee to customers who contact support by April 11th, 2025.
+WARNING: **CRITICAL SUPPORT WARNING (February 2025):** AppSumo has issued an official notice stating that EmailDelivery has been unresponsive to customer support requests and they are "not confident in their ability to provide reliable support long term." AppSumo is offering their "We Got Your Back" guarantee to customers who contact support by April 11th, 2025.
 
 ## 2. Primary Features & Capabilities
 
@@ -90,7 +90,7 @@ Build and nurture email lists without monthly subscription costs. Create sophist
 ## 5. Limitations
 
 ### Known Issues & Disadvantages
-⚠️ **MAJOR CONCERN - Support Responsiveness:** As of February 2025, AppSumo officially reported that EmailDelivery has been unresponsive to customer support requests, raising serious concerns about long-term viability and support quality.
+WARNING: **MAJOR CONCERN - Support Responsiveness:** As of February 2025, AppSumo officially reported that EmailDelivery has been unresponsive to customer support requests, raising serious concerns about long-term viability and support quality.
 
 ### Technical Limitations
 - **Linux VPS Requirement:** Requires technical knowledge for server setup and maintenance
@@ -199,7 +199,7 @@ Build and nurture email lists without monthly subscription costs. Create sophist
 5. **SaaS Integration:** Build email features into software products
 
 ### Risk Assessment
-⚠️ **HIGH RISK - Support Issues:** Current support unresponsiveness creates significant risk for business-critical email operations
+WARNING: **HIGH RISK - Support Issues:** Current support unresponsiveness creates significant risk for business-critical email operations
 - **Mitigation:** Have backup ESP ready, maintain external SMTP relationships
 - **Timeline:** AppSumo refund guarantee until April 11th, 2025
 - **Alternative Strategy:** Use for non-critical campaigns while maintaining primary ESP
@@ -219,7 +219,7 @@ Build and nurture email lists without monthly subscription costs. Create sophist
 
 ## Recommendation
 
-⚠️ **PROCEED WITH EXTREME CAUTION** - While EmailDelivery.com offers exceptional technical capabilities and cost savings potential, the current support issues reported by AppSumo create significant business risk. 
+WARNING: **PROCEED WITH EXTREME CAUTION** - While EmailDelivery.com offers exceptional technical capabilities and cost savings potential, the current support issues reported by AppSumo create significant business risk. 
 
 **For Technical Users:** Consider as secondary/testing platform while maintaining primary ESP
 **For Agencies:** Evaluate support risk vs. white-label revenue potential

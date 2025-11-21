@@ -5,7 +5,7 @@
 **Investment Trustee:** [Name]
 
 ## 1. Purpose
-The purpose of this Investment Policy Statement is to establish guidelines for the investment of the assets of the [Name of Dynasty Trust] (the "Trust"). This IPS is designed to support the Trust's primary goal: **The creation, preservation, and transfer of multi-generational wealth for the Ohu-PNR family over a 365-year horizon.**
+The purpose of this Investment Policy Statement is to establish guidelines for the investment of the assets of the [Name of Dynasty Trust] (the "Trust"). This IPS is designed to support the Trust's primary goal: **The creation, preservation, and transfer of multi-generational wealth for the [Your Organization] family over a 365-year horizon.**
 
 ## 2. Investment Objectives
 *   **Primary Objective:** Long-term capital appreciation exceeding the rate of inflation and taxes.

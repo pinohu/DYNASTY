@@ -25,7 +25,7 @@
 
 **Target**: 6+ months coverage
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -39,7 +39,7 @@ _________________________________________________________________
 
 **Compliance Failures**: _______________
 
-**Status**: [ ] ✅ Compliant [ ] ⚠️ Minor Issues [ ] ❌ Material Violations
+**Status**: [ ] ✅ Compliant [ ] WARNING: Minor Issues [ ] ❌ Material Violations
 
 **Action Items**: 
 _________________________________________________________________
@@ -55,7 +55,7 @@ _________________________________________________________________
 
 **Communication Frequency**: [ ] Daily [ ] Weekly [ ] Monthly [ ] Rarely
 
-**Status**: [ ] ✅ Strong Unity [ ] ⚠️ Minor Tensions [ ] ❌ Significant Conflicts
+**Status**: [ ] ✅ Strong Unity [ ] WARNING: Minor Tensions [ ] ❌ Significant Conflicts
 
 **Action Items**: 
 _________________________________________________________________
@@ -81,7 +81,7 @@ _________________________________________________________________
 
 **Target**: 15%+ CAGR over 10-year periods
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -108,7 +108,7 @@ _________________________________________________________________
 
 **Target**: No single source >30% of total
 
-**Status**: [ ] ✅ Diversified [ ] ⚠️ Concentration Risk [ ] ❌ High Risk
+**Status**: [ ] ✅ Diversified [ ] WARNING: Concentration Risk [ ] ❌ High Risk
 
 **Action Items**: 
 _________________________________________________________________
@@ -128,7 +128,7 @@ _________________________________________________________________
 
 **Target**: At least one next-generation member ready for leadership
 
-**Status**: [ ] ✅ On Track [ ] ⚠️ Needs Acceleration [ ] ❌ Behind Schedule
+**Status**: [ ] ✅ On Track [ ] WARNING: Needs Acceleration [ ] ❌ Behind Schedule
 
 **Action Items**: 
 _________________________________________________________________
@@ -150,7 +150,7 @@ _________________________________________________________________
 
 **Target**: 1,000+ lives improved annually by Year 10
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -170,7 +170,7 @@ _________________________________________________________________
 
 **Target**: At least one family member in industry leadership role
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -188,7 +188,7 @@ _________________________________________________________________
 
 **Target**: 100% of critical knowledge areas mastered by next generation
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________

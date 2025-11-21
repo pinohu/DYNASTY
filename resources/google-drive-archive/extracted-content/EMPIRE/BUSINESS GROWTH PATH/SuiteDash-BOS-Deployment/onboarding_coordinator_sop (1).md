@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP): SuiteDash Onboarding Coordinator
 
-## 🎯 Objective
+## Objective
 Guide onboarding coordinators in managing client onboarding tasks, automation workflows, and FLOW submissions within SuiteDash.
 
 ---
@@ -18,7 +18,7 @@ Guide onboarding coordinators in managing client onboarding tasks, automation wo
 
 ---
 
-## 🔄 Core Functions
+##  Core Functions
 ### 1. **Onboarding FLOW Management**
 - Assign onboarding FLOWs upon client creation
 - Monitor FLOW progress (stalled steps, incomplete submissions)
@@ -56,7 +56,7 @@ Guide onboarding coordinators in managing client onboarding tasks, automation wo
 
 ---
 
-## 📞 Support Contact
+## Support Contact
 Email: onboarding@[yourdomain].com  
 Escalations: @mention Admin in internal chat
 

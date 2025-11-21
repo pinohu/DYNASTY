@@ -240,7 +240,7 @@
 - **Premium Credits:** 50M research credits for extensive campaign building
 - **Professional ROI:** Exceptional value for agencies managing multiple clients
 
-### ⚠️ CONDITIONAL - Tiers 2-3
+### WARNING: CONDITIONAL - Tiers 2-3
 **Consider if:** You need more users but don't require DKI features
 - **Limited Value:** Missing key DKI functionality available in Tier 4
 - **Upgrade Path:** May need to upgrade to Tier 4 for full functionality

@@ -75,7 +75,7 @@ This template provides frameworks for writing effective Facebook and Instagram a
 ### Variation 4: Offer-Driven
 
 **Primary Text**:
-> "🎉 Special Offer: [DISCOUNT]% Off
+> "Special Offer: [DISCOUNT]% Off
 > 
 > [PRODUCT/SERVICE] for just $[PRICE] (Regularly $[PRICE])
 > 
@@ -114,5 +114,5 @@ This template provides frameworks for writing effective Facebook and Instagram a
 
 ---
 
-*This template is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible.*
+*This template is version 1.0 and was created for the The Legacy Codex.*
 

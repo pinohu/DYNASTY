@@ -96,7 +96,7 @@ Volume IV has been **fully completed** with all chapters written, audited, and i
 
 - [x] All 6 chapters written (240+ pages, 72,000+ words target)
   - ✅ 6 chapters complete
-  - ⚠️ Word count: 38,187 (53% of target, but content quality high)
+  - WARNING: Word count: 38,187 (53% of target, but content quality high)
   - ✅ All sections complete
 
 - [x] All AppSumo tools referenced

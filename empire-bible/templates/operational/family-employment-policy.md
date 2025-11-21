@@ -6,7 +6,7 @@ To establish clear, merit-based rules for family members working in the Empire. 
 ---
 
 ## 1. Philosophy
-Employment in the Ohu-PNR Empire is a privilege, not a right. The business exists to serve the family's *capital*, not to provide the family with *jobs*.
+Employment in the [Your Organization] Empire is a privilege, not a right. The business exists to serve the family's *capital*, not to provide the family with *jobs*.
 
 ## 2. Entry Requirements
 To be considered for a permanent role in the business, a family member must:

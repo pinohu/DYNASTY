@@ -4,10 +4,10 @@
 
 A business empire without a prepared family is a ticking time bomb. History is littered with dynasties that crumbled because the wealth grew faster than the family's ability to manage it. The Vanderbilts, the Rockefellers' early generations, and countless others serve as cautionary tales of wealth without wisdom.
 
-Chapter 3 establishes the **Human Operating System** of the Ohu-PNR Dynasty. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
+Chapter 3 establishes the **Human Operating System** of the Legacy Codex. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
 
 This chapter addresses four critical questions:
-1. **Who are we as a family?** (Section 3.1: The Ohu Family Mission)
+1. **Who are we as a family?** (Section 3.1: The [Your Family] Mission)
 2. **How do we transmit values?** (Section 3.2: Values Transmission System)
 3. **How do we ensure capable leadership?** (Section 3.3: Succession Philosophy)
 4. **How do we prevent wealth from corrupting?** (Section 3.4: Wealth Psychology Training)
@@ -16,7 +16,7 @@ These questions are not philosophical exercises. They are practical frameworks t
 
 ---
 
-## 3.1 The Ohu Family Mission
+## 3.1 The [Your Family] Mission
 
 ### The Collective Mission
 
@@ -60,7 +60,7 @@ This mission statement is not aspirational; it is descriptive of who we are and 
 
 While we share a collective mission, each family member has specific roles and responsibilities that contribute to the whole.
 
-#### The Principals: Ikechukwu & Judith Ohu
+#### The Principals: [Principal Names]
 
 **Role**: The Architects & Stewards
 
@@ -107,7 +107,7 @@ While we share a collective mission, each family member has specific roles and r
 - All four children demonstrate values alignment
 - Family unity maintained throughout building phase
 
-#### The Next Generation: Ivan, Jeremy, Kikachukwu, Chimenime
+#### The Next Generation: [Beneficiary Names]
 
 **Role**: The Apprentices & Future Builders
 
@@ -120,7 +120,7 @@ While we share a collective mission, each family member has specific roles and r
 
 **Individual Roles** (based on current understanding, subject to evolution):
 
-##### Ivan Osemeke (Eldest)
+##### [Beneficiary 1] (Eldest)
 
 **Role**: Standard-Bearer & Leadership Model
 
@@ -132,7 +132,7 @@ While we share a collective mission, each family member has specific roles and r
 - Support parents in family governance
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Gain outside work experience (2-3 years)
 - Develop specialized skills (e.g., real estate, technology, finance)
 - Participate in Family Council as observer, then voting member
@@ -144,7 +144,7 @@ While we share a collective mission, each family member has specific roles and r
 - Maintains positive influence on siblings
 - Develops marketable skills
 
-##### Jeremy Chiwuikem
+##### [Beneficiary 2]
 
 **Role**: Specialist & Unity Guardian
 
@@ -156,7 +156,7 @@ While we share a collective mission, each family member has specific roles and r
 - Build expertise in chosen field
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Identify and develop specialized skills (e.g., technology, marketing, operations)
 - Gain experience (inside or outside Empire)
 - Contribute to Empire growth through specialization
@@ -168,7 +168,7 @@ While we share a collective mission, each family member has specific roles and r
 - Maintains positive family relationships
 - Demonstrates commitment to family unity
 
-##### Kikachukwu Theodore
+##### [Beneficiary 3]
 
 **Role**: Innovator & Philanthropic Champion
 
@@ -180,7 +180,7 @@ While we share a collective mission, each family member has specific roles and r
 - Challenge status quo constructively
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Develop innovation and creative thinking skills
 - Participate in philanthropic activities
 - Identify new business opportunities
@@ -192,7 +192,7 @@ While we share a collective mission, each family member has specific roles and r
 - Contributes new ideas and perspectives
 - Maintains creative and innovative mindset
 
-##### Chimenime Xavier Ikechukwu Ohu
+##### Chimenime Xavier [Primary Principal]
 
 **Role**: Legacy Keeper & Stewardship Master
 
@@ -204,7 +204,7 @@ While we share a collective mission, each family member has specific roles and r
 - Maintain connection to family heritage
 
 **Development Path**:
-- Complete Ohu Business Academy curriculum
+- Complete [Family] Business Academy curriculum
 - Develop deep understanding of family values and history
 - Master stewardship principles
 - Participate in trust and governance activities
@@ -227,7 +227,7 @@ While we share a collective mission, each family member has specific roles and r
 #### Short-Term Goals (1-3 Years)
 
 1. **Family Unity**: Maintain strong, positive relationships among all family members
-2. **Education**: All children complete age-appropriate Ohu Business Academy curriculum
+2. **Education**: All children complete age-appropriate [Family] Business Academy curriculum
 3. **Values Alignment**: All family members demonstrate understanding and practice of 12 Pillars
 4. **Skill Development**: Each child develops at least one marketable skill
 5. **Empire Growth**: Support parents in building Empire to $10M+ revenue
@@ -273,13 +273,13 @@ Each family member should develop a personal legacy impact statement. This state
 
 **Example Legacy Impact Statement** (for illustration):
 
-> "I, Ikechukwu Ohu, want to be remembered as someone who built a business empire that provides financial freedom for my family while solving real problems for real people. I want to be remembered for my integrity, my commitment to excellence, and my dedication to family unity. I want my legacy to be an Empire that continues to grow and serve for 365 years, and children who are worthy stewards of that Empire."
+> "I, [Primary Principal], want to be remembered as someone who built a business empire that provides financial freedom for my family while solving real problems for real people. I want to be remembered for my integrity, my commitment to excellence, and my dedication to family unity. I want my legacy to be an Empire that continues to grow and serve for 365 years, and children who are worthy stewards of that Empire."
 
 ---
 
 ## 3.2 Values Transmission System
 
-We do not hope our children learn our values; we **train them**. The **Ohu Business Academy** is our internal curriculum that systematically transmits the 12 Pillars of Empire Building and financial literacy across age-appropriate stages.
+We do not hope our children learn our values; we **train them**. The **[Family] Business Academy** is our internal curriculum that systematically transmits the 12 Pillars of Empire Building and financial literacy across age-appropriate stages.
 
 ### Philosophy of Values Transmission
 
@@ -756,7 +756,7 @@ Succession is the most critical test of a dynasty. Will the Empire survive the t
 
 #### Ownership (Birthright)
 
-**Definition**: Every lineal descendant of Ikechukwu and Judith Ohu is a beneficiary of the Dynasty Trust.
+**Definition**: Every lineal descendant of [Principal Names] is a beneficiary of the Dynasty Trust.
 
 **Rights**:
 - Entitlement to share of trust income (distributions)
@@ -1223,7 +1223,7 @@ Wealth can be a tool for freedom or a catalyst for destruction. We actively trai
 
 ### Immediate Actions (Within 30 Days)
 
-- [ ] **Principals**: Schedule first "Ohu Business Academy" session with children
+- [ ] **Principals**: Schedule first "[Family] Business Academy" session with children
 - [ ] **Family Council**: Draft "Family Employment Policy" document
 - [ ] **Trustees**: Verify trust distribution language aligns with "Productive Citizen" standard
 - [ ] **All Family Members**: Complete legacy impact statement exercise
@@ -1231,7 +1231,7 @@ Wealth can be a tool for freedom or a catalyst for destruction. We actively trai
 
 ### Short-Term Actions (Within 90 Days)
 
-- [ ] **Education System**: Launch Ohu Business Academy Phase 1 (for children ages 5-10)
+- [ ] **Education System**: Launch [Family] Business Academy Phase 1 (for children ages 5-10)
 - [ ] **Micro-Businesses**: Help children ages 11+ launch micro-businesses
 - [ ] **Investment Accounts**: Set up custodial investment accounts for children ages 11+
 - [ ] **Service Requirements**: Establish annual service hour tracking system
@@ -1241,7 +1241,7 @@ Wealth can be a tool for freedom or a catalyst for destruction. We actively trai
 
 - [ ] **Weekly**: Family values discussions
 - [ ] **Monthly**: Service projects and gratitude practice
-- [ ] **Quarterly**: Ohu Business Academy progress reviews
+- [ ] **Quarterly**: [Family] Business Academy progress reviews
 - [ ] **Annually**: Comprehensive family legacy review
 - [ ] **As Needed**: Adjust education and training programs based on progress
 
@@ -1271,7 +1271,7 @@ The Family Legacy Framework is not a theoretical exercise; it is a living system
 - Work on family business projects
 - Support each other's goals
 
-**Monthly**: Ohu Business Academy progress review
+**Monthly**: [Family] Business Academy progress review
 - Assess children's progress
 - Adjust curriculum as needed
 - Celebrate achievements
@@ -1348,7 +1348,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 ### Immediate Actions (Within 30 Days)
 
-- [ ] **Principals**: Schedule first "Ohu Business Academy" session with children
+- [ ] **Principals**: Schedule first "[Family] Business Academy" session with children
 - [ ] **Family Council**: Draft "Family Employment Policy" document
 - [ ] **Trustees**: Verify trust distribution language aligns with "Productive Citizen" standard
 - [ ] **All Family Members**: Complete legacy impact statement exercise
@@ -1357,7 +1357,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 ### Short-Term Actions (Within 90 Days)
 
-- [ ] **Education System**: Launch Ohu Business Academy Phase 1 (for children ages 5-10)
+- [ ] **Education System**: Launch [Family] Business Academy Phase 1 (for children ages 5-10)
 - [ ] **Micro-Businesses**: Help children ages 11+ launch micro-businesses
 - [ ] **Investment Accounts**: Set up custodial investment accounts for children ages 11+
 - [ ] **Service Requirements**: Establish annual service hour tracking system
@@ -1368,7 +1368,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 - [ ] **Weekly**: Family values discussions
 - [ ] **Monthly**: Service projects and gratitude practice
-- [ ] **Quarterly**: Ohu Business Academy progress reviews
+- [ ] **Quarterly**: [Family] Business Academy progress reviews
 - [ ] **Quarterly**: Family Council meetings
 - [ ] **Annually**: Comprehensive family legacy review
 - [ ] **As Needed**: Adjust education and training programs based on progress

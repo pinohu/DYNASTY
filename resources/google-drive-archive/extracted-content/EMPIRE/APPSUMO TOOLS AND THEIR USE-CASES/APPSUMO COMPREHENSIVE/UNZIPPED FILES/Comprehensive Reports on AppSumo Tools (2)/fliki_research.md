@@ -70,12 +70,12 @@ Single tier available:
 
 ## Company Information
 - **Product**: Fliki AI text-to-video platform
-- **Status**: ⚠️ **SERIOUS CONCERNS** - Multiple reports of broken promises and poor support
+- **Status**: WARNING: **SERIOUS CONCERNS** - Multiple reports of broken promises and poor support
 - **Support**: Multiple reports of unresponsive customer service
 - **Development**: Questions about honoring "all future updates" promise
 
 ## Recommendation
-⚠️ **NOT RECOMMENDED** - Fliki has serious issues with feature delivery and customer support.
+WARNING: **NOT RECOMMENDED** - Fliki has serious issues with feature delivery and customer support.
 
 **Critical Issues:**
 - **Broken Promises**: "All future Fliki updates" not being honored for AppSumo users
@@ -118,7 +118,7 @@ Since Fliki has significant issues, consider these alternatives:
 3. Monitor AppSumo for reliable video creation tools
 
 ## Important Notes
-- **⚠️ BROKEN PROMISES**: Multiple credible reports of undelivered features
+- **WARNING: BROKEN PROMISES**: Multiple credible reports of undelivered features
 - **Deal Ended**: No longer available on AppSumo (fortunately)
 - **Support Issues**: Widespread reports of unresponsive customer service
 - **Feature Limitations**: Significant restrictions not disclosed upfront
@@ -142,5 +142,5 @@ Since Fliki has significant issues, consider these alternatives:
 January 2025 - Based on AppSumo sold out status and user reports of issues
 
 ## Critical Warning
-**⚠️ FLIKI HAS SERIOUS CUSTOMER SERVICE AND FEATURE DELIVERY ISSUES** - This product is sold out on AppSumo, which may be fortunate given the numerous credible reports of broken promises, missing features, and unresponsive support. Multiple users report that despite purchasing a lifetime deal with "all future updates," they are being excluded from new features and receiving only basic free account access. Users describe feeling scammed and report complete unresponsiveness from customer support. The company appears to be creating new plans specifically to exclude AppSumo lifetime users, which violates the spirit of the original deal. While the core concept of text-to-video conversion is valuable, the execution and customer treatment have been severely problematic. Users seeking text-to-video solutions should consider established alternatives with better track records of customer service and feature delivery.
+**WARNING: FLIKI HAS SERIOUS CUSTOMER SERVICE AND FEATURE DELIVERY ISSUES** - This product is sold out on AppSumo, which may be fortunate given the numerous credible reports of broken promises, missing features, and unresponsive support. Multiple users report that despite purchasing a lifetime deal with "all future updates," they are being excluded from new features and receiving only basic free account access. Users describe feeling scammed and report complete unresponsiveness from customer support. The company appears to be creating new plans specifically to exclude AppSumo lifetime users, which violates the spirit of the original deal. While the core concept of text-to-video conversion is valuable, the execution and customer treatment have been severely problematic. Users seeking text-to-video solutions should consider established alternatives with better track records of customer service and feature delivery.
 

@@ -1,7 +1,7 @@
 # Activepieces Self-Hosting Setup Guide
 
 ## Overview
-Activepieces serves as the backup automation platform for the Ohu-PNR Dynasty Empire. Self-hosting ensures data sovereignty, cost control, and reliability.
+Activepieces serves as the backup automation platform for the The Legacy Codex. Self-hosting ensures data sovereignty, cost control, and reliability.
 
 ## Prerequisites
 - **Server**: VPS (DigitalOcean, AWS, etc.) with 2+ vCPUs, 4GB+ RAM.

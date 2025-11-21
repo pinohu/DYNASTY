@@ -1,6 +1,6 @@
 # Chapter 21 Implementation Resources
 
-This directory contains the implementation resources for **Chapter 21: AI Implementation Strategy**. These files provide the templates, code, and guides needed to deploy AI across the Ohu-PNR Dynasty Empire.
+This directory contains the implementation resources for **Chapter 21: AI Implementation Strategy**. These files provide the templates, code, and guides needed to deploy AI across the The Legacy Codex.
 
 ## Files
 

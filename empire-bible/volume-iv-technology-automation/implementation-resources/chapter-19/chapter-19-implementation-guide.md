@@ -1,6 +1,6 @@
 # Chapter 19 Implementation Guide: SuiteDash Command Center
 
-**Objective**: Transform SuiteDash into the central operating system for the Ohu-PNR Dynasty Empire.
+**Objective**: Transform SuiteDash into the central operating system for the The Legacy Codex.
 **Timeline**: 4 Weeks (Phase 1-6)
 **Prerequisites**: SuiteDash Platinum Account, Company Branding Assets
 

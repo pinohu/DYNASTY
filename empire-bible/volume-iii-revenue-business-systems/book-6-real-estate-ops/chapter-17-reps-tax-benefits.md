@@ -6,7 +6,7 @@ Real Estate Professional Status (REPS) is the "Holy Grail" of tax planning for h
 
 REPS changes the rules. If you qualify, your rental losses become "non-passive," meaning they can offset **unlimited** active income. Combined with Cost Segregation and Bonus Depreciation, this can result in paying **zero** federal income tax, even with a high six-figure or seven-figure income.
 
-For the Ohu-PNR Dynasty, achieving and maintaining REPS is a strategic imperative. This chapter details the strict requirements, documentation systems, and audit defense strategies needed to secure this powerful tax benefit.
+For the Legacy Codex, achieving and maintaining REPS is a strategic imperative. This chapter details the strict requirements, documentation systems, and audit defense strategies needed to secure this powerful tax benefit.
 
 ---
 

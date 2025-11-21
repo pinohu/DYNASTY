@@ -1,4 +1,4 @@
-# The Ohu-PNR Dynasty Empire Bible
+# The Legacy Codex
 
 ## Complete Operating Manual for Multi-Generational Wealth Preservation
 
@@ -8,9 +8,9 @@
 
 ---
 
-## 📚 Overview
+## Overview
 
-The **Ohu-PNR Dynasty Empire Bible** is a comprehensive, production-ready operating manual designed to guide the Ohu family (Ikechukwu Polycarp Nnamdi Ohu, Judith Huchukwuyem Ohu, and their children) in building, managing, and preserving a multi-generational business empire for the next **365 years**.
+The **The Legacy Codex** is a comprehensive, production-ready operating manual designed to guide [Your Family] ([Primary Principal Name], [Secondary Principal Name], and their children) in building, managing, and preserving a multi-generational business empire for the next **365 years**.
 
 This Bible provides complete blueprints for:
 - Legal and fiduciary structures (Dynasty Trusts, Entity Architecture)
@@ -22,7 +22,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 🗂️ Volume Structure
+## Volume Structure
 
 ### Volume I: Foundation & Philosophy
 *The philosophical and strategic bedrock*
@@ -74,7 +74,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### For First-Time Readers
 
@@ -103,7 +103,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 📋 Key Features
+## Key Features
 
 ### Comprehensive Coverage
 - ✅ **54+ Chapters**: Complete coverage of all topics
@@ -122,7 +122,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 📖 Navigation
+## Navigation
 
 ### Master Index
 - [Master Index](EMPIRE_BIBLE_MASTER_INDEX.md): Complete chapter listing with links
@@ -140,7 +140,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 🎯 Implementation Priority
+## Implementation Priority
 
 ### Immediate (Week 1)
 1. Read Volume I, Chapter 1: The Dynasty Manifesto
@@ -159,7 +159,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
 | Component | Count |
 |-----------|-------|
@@ -184,7 +184,7 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 📞 Support & Resources
+## Support & Resources
 
 ### Documentation
 - All volumes include completion summaries
@@ -204,11 +204,11 @@ This Bible provides complete blueprints for:
 
 ---
 
-## 🎉 Status
+## Status
 
-**The Ohu-PNR Dynasty Empire Bible is COMPLETE and READY FOR IMPLEMENTATION.**
+**The Legacy Codex is COMPLETE and READY FOR IMPLEMENTATION.**
 
-All 10 volumes work together as a cohesive system to guide the Ohu family in building, managing, and preserving their multi-generational empire for the next 365 years.
+All 10 volumes work together as a cohesive system to guide [Your Family] in building, managing, and preserving their multi-generational empire for the next 365 years.
 
 ---
 

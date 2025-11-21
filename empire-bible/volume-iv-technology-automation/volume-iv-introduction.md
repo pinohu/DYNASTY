@@ -1,7 +1,7 @@
 # Volume IV: Technology, Automation & Digital Marketing
 ## Introduction
 
-Volume IV of the Ohu-PNR Dynasty Empire Bible provides complete operational blueprints for building scalable, automated technology infrastructure and digital marketing systems. This volume transforms manual business operations into systematic, technology-driven processes that enable exponential growth and operational efficiency.
+Volume IV of the The Legacy Codex provides complete operational blueprints for building scalable, automated technology infrastructure and digital marketing systems. This volume transforms manual business operations into systematic, technology-driven processes that enable exponential growth and operational efficiency.
 
 ## Volume Overview
 

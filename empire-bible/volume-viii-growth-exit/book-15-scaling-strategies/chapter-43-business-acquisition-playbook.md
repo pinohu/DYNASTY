@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Growth through acquisition is the accelerator of the Dynasty Empire. While organic growth builds character, acquisition builds empires. This chapter details the precise, repeatable methodology for identifying, evaluating, acquiring, and integrating "boring" service businesses into the Ohu-PNR ecosystem.
+Growth through acquisition is the accelerator of the Dynasty Empire. While organic growth builds character, acquisition builds empires. This chapter details the precise, repeatable methodology for identifying, evaluating, acquiring, and integrating "boring" service businesses into the [Your Organization] ecosystem.
 
 The strategy is specific: acquire resilient, cash-flowing local service businesses (HVAC, pest control, property maintenance), separate their operations from their real estate, modernize them with the SuiteDash Business Operating System (BOS), and amplify them with ToriMedia's creative engine. This is not speculative venture capital; this is industrial-grade wealth accumulation.
 

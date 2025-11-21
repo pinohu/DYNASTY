@@ -62,7 +62,7 @@ The founder team (Côme_Overlay) responded to abandonment concerns:
 - "I'm sorry I cannot provide better answers, it is also why we decided to offer the tool to a pretty low price, as we don't offer much support."
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - Good tool but limited support
+WARNING: **CAUTIOUSLY RECOMMENDED** - Good tool but limited support
 
 **Why it has value:**
 - **Excellent functionality**: When it works, it produces high-quality, clean code

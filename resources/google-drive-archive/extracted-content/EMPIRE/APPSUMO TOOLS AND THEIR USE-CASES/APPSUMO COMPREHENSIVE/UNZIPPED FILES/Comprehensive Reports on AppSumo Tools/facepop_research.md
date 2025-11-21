@@ -90,7 +90,7 @@ Two stackable tiers:
 - **Updates**: Regular product updates mentioned
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - FacePop offers solid features but has support concerns.
+WARNING: **CAUTIOUSLY RECOMMENDED** - FacePop offers solid features but has support concerns.
 
 **Strengths:**
 - **Effective Lead Generation**: Proven conversion optimization capabilities

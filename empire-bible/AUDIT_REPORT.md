@@ -1,6 +1,6 @@
 # Empire Bible Audit Report
 
-## 📋 Executive Summary
+## Executive Summary
 
 **Date**: [Current Date]
 **Auditor**: Autonomous Engineering Agent

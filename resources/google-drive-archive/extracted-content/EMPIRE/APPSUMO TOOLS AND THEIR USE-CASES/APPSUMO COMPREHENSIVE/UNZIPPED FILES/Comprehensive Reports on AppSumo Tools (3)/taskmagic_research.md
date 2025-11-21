@@ -317,7 +317,7 @@ TaskMagic represents a unique and innovative approach to automation, focusing sp
 - Newer platform with less established ecosystem compared to mature alternatives
 - Limited enterprise features for large-scale deployments
 
-**Recommendation:** ⚠️ **CONDITIONALLY RECOMMENDED** - Innovative platform with unique capabilities but AppSumo deal unavailable.
+**Recommendation:** WARNING: **CONDITIONALLY RECOMMENDED** - Innovative platform with unique capabilities but AppSumo deal unavailable.
 
 TaskMagic offers exceptional value for businesses needing browser automation capabilities that traditional tools cannot provide. However, the sold-out AppSumo deal means users must commit to ongoing subscription costs, which may not suit all budget requirements.
 

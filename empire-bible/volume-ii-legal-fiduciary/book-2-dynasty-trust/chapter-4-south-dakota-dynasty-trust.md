@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The South Dakota Dynasty Trust represents the cornerstone of the Ohu-PNR Dynasty Empire's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trust—the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
+The South Dakota Dynasty Trust represents the cornerstone of the The Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trust—the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
-Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu family—Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries Ivan Osemeke, Jeremy Chiwuikem, Kikachukwu Theodore, and Chimenime Xavier Ikechukwu Ohu—this structure provides the foundation for building wealth that serves generations beyond your lifetime.
+Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like [Your Family]—[Primary Principal Name] and [Secondary Principal Name], with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Chimenime Xavier [Primary Principal]—this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
 This chapter will guide you through every aspect of the South Dakota Dynasty Trust, from understanding why South Dakota is the optimal jurisdiction, through the complete formation process, to detailed analysis of trust provisions and trustee architecture. By the end of this chapter, you will have the knowledge and tools necessary to implement this powerful wealth preservation structure.
 
@@ -177,7 +177,7 @@ Assume the Dynasty Trust owns PNR Holdings LLC, which generates $2 million in an
 
 **Example: $10 Million Estate Transfer**
 
-**Scenario**: Ikechukwu and Judith transfer $10 million to a South Dakota Dynasty Trust.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] transfer $10 million to a South Dakota Dynasty Trust.
 
 **Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
@@ -216,7 +216,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Example: Three-Generation Transfer**
 
-**Scenario**: Ikechukwu and Judith want to provide for their children and grandchildren.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] want to provide for their children and grandchildren.
 
 **Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
@@ -240,7 +240,7 @@ Assuming $20 million transfer with GST exemption allocation:
 
 #### Combined Tax Savings Example
 
-**Comprehensive Example: Ohu-PNR Dynasty Trust**
+**Comprehensive Example: Legacy Codex Trust**
 
 **Initial Transfer**: $10 million to South Dakota Dynasty Trust
 **Annual Growth**: 7% (conservative)
@@ -321,12 +321,12 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 **Example: Real Estate Privacy**
 
 **Without Trust**:
-- Property titled: "Ikechukwu P. N. Ohu and Judith H. Ohu"
+- Property titled: "[Principal Names]"
 - Public records search reveals ownership
 - Value and location publicly known
 
 **With Dynasty Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of the Ohu Dynasty Trust"
+- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -379,7 +379,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Beneficiary Lawsuit**
 
-**Scenario**: Jeremy Chiwuikem (beneficiary) faces a $500,000 judgment from a business dispute.
+**Scenario**: [Beneficiary 2] (beneficiary) faces a $500,000 judgment from a business dispute.
 
 **Without Charging Order Protection**:
 - Creditor could potentially access Jeremy's share of trust assets
@@ -408,7 +408,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Divorce Protection**
 
-**Scenario**: Kikachukwu Theodore (beneficiary) divorces. Spouse claims interest in trust.
+**Scenario**: [Beneficiary 3] (beneficiary) divorces. Spouse claims interest in trust.
 
 **Without Spendthrift Provisions**:
 - Spouse could potentially claim portion of trust interest
@@ -1156,9 +1156,9 @@ Initial capitalization sets the foundation for trust success. This section cover
 - Recommended: $5,000,000+
 - Purpose: Comprehensive trust with premium services
 
-**Ohu-PNR Dynasty Trust Recommendation**:
+**Legacy Codex Trust Recommendation**:
 
-Based on the Ohu-PNR Empire structure:
+Based on the [Your Organization] Empire structure:
 - **Initial Capitalization**: $1,000,000-$2,000,000
 - **Purpose**: Activate trust, transfer PNR Holdings LLC interest
 - **Future Funding**: Additional assets over time
@@ -1234,7 +1234,7 @@ Based on the Ohu-PNR Empire structure:
 - Maintain adequate personal reserves
 - Plan for ongoing needs
 
-**Recommended Timing for Ohu-PNR Dynasty Trust**:
+**Recommended Timing for Legacy Codex Trust**:
 
 **Phase 1 (Month 1)**:
 - Fund with $500,000-$1,000,000 cash
@@ -1274,7 +1274,7 @@ Certain provisions are required by law or are essential for trust effectiveness.
 
 **Example Language**:
 ```
-This trust shall be known as "The Ohu-PNR Dynasty Trust" 
+This trust shall be known as "The Legacy Codex Trust" 
 and shall be identified by Tax ID Number [EIN].
 ```
 
@@ -1286,8 +1286,8 @@ and shall be identified by Tax ID Number [EIN].
 
 **Example Language**:
 ```
-This trust is established by Ikechukwu Polycarp Nnamdi Ohu 
-and Judith Huchukwuyem Ohu, as Grantors.
+This trust is established by [Primary Principal Name] 
+and [Secondary Principal Name], as Grantors (with [Primary Principal Name] retaining sole administrative control).
 ```
 
 **Why Required**: Identifies who established the trust and has standing to challenge trust provisions.
@@ -1299,10 +1299,10 @@ and Judith Huchukwuyem Ohu, as Grantors.
 **Example Language**:
 ```
 The primary beneficiaries of this trust are:
-- Ivan Osemeke Ohu
-- Jeremy Chiwuikem Ohu
-- Kikachukwu Theodore Ohu
-- Chimenime Xavier Ikechukwu Ohu
+- [Beneficiary 1]
+- [Beneficiary 2]
+- [Beneficiary 3]
+- Chimenime Xavier [Primary Principal]
 
 Future beneficiaries include descendants of the primary 
 beneficiaries, per stirpes.
@@ -1318,8 +1318,8 @@ beneficiaries, per stirpes.
 ```
 The Administrative Trustee shall be South Dakota Trust Company.
 The Investment Trustee shall be [Investment Advisor Name].
-The Distribution Trustee shall be Ikechukwu Polycarp Nnamdi Ohu, 
-and upon his death or incapacity, Judith Huchukwuyem Ohu.
+The Distribution Trustee shall be [Primary Principal Name], 
+and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
 
 **Why Required**: Trustees must be clearly identified to administer the trust and have legal authority.

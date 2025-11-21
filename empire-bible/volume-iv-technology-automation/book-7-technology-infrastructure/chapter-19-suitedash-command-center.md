@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the Ohu-PNR Dynasty Empire, technology is not just a tool; it is the nervous system that connects every organ of the business. **SuiteDash** is the central brain of this system. It is the "All-in-One" platform that replaces a dozen disconnected tools (Salesforce, Dropbox, DocuSign, Trello, QuickBooks, Slack, etc.) with a single, integrated command center.
+In the The Legacy Codex, technology is not just a tool; it is the nervous system that connects every organ of the business. **SuiteDash** is the central brain of this system. It is the "All-in-One" platform that replaces a dozen disconnected tools (Salesforce, Dropbox, DocuSign, Trello, QuickBooks, Slack, etc.) with a single, integrated command center.
 
 For a multi-entity empire like yours—spanning Notary services, Real Estate, Tax Advisory, and Directories—SuiteDash provides the "Single Source of Truth." It allows you to manage clients, projects, invoices, and files for *all* your companies in one place, while keeping them branded separately for the client.
 
@@ -18,7 +18,7 @@ Setting up SuiteDash correctly from Day 1 prevents "technical debt" later.
 
 **The "White Label" Foundation**:
 - **Custom Domain**: Map `portal.ohupnr.com` (or similar) to your SuiteDash instance. This builds brand authority.
-- **Branding**: Upload the "Ohu-PNR" master logo for the login screen, but configure "Circles" (see below) for entity-specific branding.
+- **Branding**: Upload the "[Your Organization]" master logo for the login screen, but configure "Circles" (see below) for entity-specific branding.
 - **Email Settings**: Configure SMTP (SendGrid/Postmark) so emails come from `@ohupnr.com` or specific entity domains, not `noreply@suitedash.com`.
 
 **The "Circles" Strategy (Crucial for Multi-Entity)**:
@@ -202,7 +202,7 @@ Money in, Money out.
 
 ## Chapter 19 Summary
 
-SuiteDash is the operating system of the Ohu-PNR Dynasty. It is not just software; it is the *structure* that allows you to scale without chaos. By centralizing CRM, Project Management, and Billing, you eliminate data silos and create a seamless experience for your clients and your team.
+SuiteDash is the operating system of the Legacy Codex. It is not just software; it is the *structure* that allows you to scale without chaos. By centralizing CRM, Project Management, and Billing, you eliminate data silos and create a seamless experience for your clients and your team.
 
 **Key Takeaways**:
 1.  **One Login**: Manage the entire empire from one screen.

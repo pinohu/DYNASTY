@@ -191,11 +191,11 @@ The tool addresses the challenge of complex business automation by making it acc
 ✅ **Community Recognition**: Positive feedback from developers and power users  
 
 ### Considerations & Limitations
-⚠️ **Learning Curve**: Requires time investment to master advanced automation concepts  
-⚠️ **Credit Limitations**: Monthly machine learning credits may restrict heavy usage  
-⚠️ **Technical Complexity**: Some automations still require technical understanding  
-⚠️ **Use Case Dependency**: Value highly dependent on specific automation needs  
-⚠️ **Platform Maturity**: Relatively new platform with ongoing development  
+WARNING: **Learning Curve**: Requires time investment to master advanced automation concepts  
+WARNING: **Credit Limitations**: Monthly machine learning credits may restrict heavy usage  
+WARNING: **Technical Complexity**: Some automations still require technical understanding  
+WARNING: **Use Case Dependency**: Value highly dependent on specific automation needs  
+WARNING: **Platform Maturity**: Relatively new platform with ongoing development  
 
 ### Risk Mitigation
 - **60-Day Guarantee**: Full testing period to validate automation requirements

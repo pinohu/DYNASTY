@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The PNR Holdings Complex serves as the master treasury and capital allocation hub for the Ohu-PNR Dynasty Empire. This chapter provides comprehensive guidance on operating PNR Holdings LLC as the master operations center, CXI LLC as the S-Corporation management hub, Obuke LLC as the real estate empire, and ToriMedia as the IP fortress.
+The PNR Holdings Complex serves as the master treasury and capital allocation hub for the The Legacy Codex. This chapter provides comprehensive guidance on operating PNR Holdings LLC as the master operations center, CXI LLC as the S-Corporation management hub, Obuke LLC as the real estate empire, and ToriMedia as the IP fortress.
 
 Each entity in the complex serves a specific purpose: PNR Holdings manages treasury and capital allocation, CXI provides shared services and payroll optimization, Obuke holds and manages real estate assets, and ToriMedia protects and monetizes intellectual property. Understanding how to operate each entity effectively is essential for maximizing the empire's financial performance and tax efficiency.
 
@@ -63,7 +63,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - Plan for upcoming needs
 - Optimize cash allocation
 
-**Ohu-PNR Cash Management**: Centralize cash management through PNR Holdings LLC, maintaining adequate reserves for operations and opportunities.
+**[Your Organization] Cash Management**: Centralize cash management through PNR Holdings LLC, maintaining adequate reserves for operations and opportunities.
 
 #### Banking Structure
 
@@ -91,7 +91,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - Maintain FDIC coverage
 - Diversify bank relationships
 
-**Ohu-PNR Banking Structure**:
+**[Your Organization] Banking Structure**:
 - **PNR Holdings LLC**: Master treasury account
 - **CXI LLC**: Operating account for shared services
 - **Obuke LLC**: Real estate operating account
@@ -131,7 +131,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - **Medium-Term**: 3-12 months (moderate detail)
 - **Long-Term**: 1-5 years (strategic)
 
-**Ohu-PNR Forecasting**: Maintain rolling 12-month cash flow forecasts, updated monthly, with strategic 5-year forecasts.
+**[Your Organization] Forecasting**: Maintain rolling 12-month cash flow forecasts, updated monthly, with strategic 5-year forecasts.
 
 #### Treasury Controls
 
@@ -161,7 +161,7 @@ Treasury management ensures proper cash flow, liquidity, and financial control a
 - Analyze trends
 - Investigate anomalies
 
-**Ohu-PNR Controls**: Implement comprehensive treasury controls with authorization limits, segregation of duties, and regular monitoring.
+**[Your Organization] Controls**: Implement comprehensive treasury controls with authorization limits, segregation of duties, and regular monitoring.
 
 ### Capital Allocation Process
 
@@ -202,7 +202,7 @@ Capital allocation determines how financial resources are deployed across the em
 3. **Priority 3**: Growth capital (pursue opportunities)
 4. **Priority 4**: Investment capital (long-term growth)
 
-**Ohu-PNR Framework**: Allocate capital based on priorities, ensuring operations first, then reserves, then growth, then investments.
+**[Your Organization] Framework**: Allocate capital based on priorities, ensuring operations first, then reserves, then growth, then investments.
 
 #### Decision Criteria
 
@@ -249,7 +249,7 @@ Capital allocation determines how financial resources are deployed across the em
 | Opportunity Cost | 10% | [Score] | [Weighted] |
 | **Total** | **100%** | | **[Total]** |
 
-**Ohu-PNR Criteria**: Use decision matrix for all capital allocation decisions, ensuring objective evaluation.
+**[Your Organization] Criteria**: Use decision matrix for all capital allocation decisions, ensuring objective evaluation.
 
 #### Approval Process
 
@@ -299,7 +299,7 @@ Capital allocation determines how financial resources are deployed across the em
    - Track performance
    - Report results
 
-**Ohu-PNR Process**: Follow approval process for all capital allocations, ensuring proper review and documentation.
+**[Your Organization] Process**: Follow approval process for all capital allocations, ensuring proper review and documentation.
 
 #### Monitoring
 
@@ -329,7 +329,7 @@ Capital allocation determines how financial resources are deployed across the em
 - Annual strategic reviews
 - Ad hoc reporting as needed
 
-**Ohu-PNR Monitoring**: Monitor all capital allocations monthly, with comprehensive quarterly reviews.
+**[Your Organization] Monitoring**: Monitor all capital allocations monthly, with comprehensive quarterly reviews.
 
 ### Investment Decision Framework
 
@@ -389,7 +389,7 @@ Investment decisions require systematic evaluation and disciplined execution. Th
 - Management resources
 - Operational impact
 
-**Ohu-PNR Criteria**: Establish clear investment criteria for each category, ensuring disciplined investment decisions.
+**[Your Organization] Criteria**: Establish clear investment criteria for each category, ensuring disciplined investment decisions.
 
 #### Evaluation Process
 
@@ -433,7 +433,7 @@ Investment decisions require systematic evaluation and disciplined execution. Th
 - Due diligence checklists
 - Decision matrices
 
-**Ohu-PNR Process**: Follow systematic evaluation process for all investments, ensuring thorough analysis and disciplined decisions.
+**[Your Organization] Process**: Follow systematic evaluation process for all investments, ensuring thorough analysis and disciplined decisions.
 
 #### Due Diligence
 
@@ -480,7 +480,7 @@ Investment decisions require systematic evaluation and disciplined execution. Th
 - [ ] Opportunities assessed
 - [ ] Decision made
 
-**Ohu-PNR Due Diligence**: Conduct comprehensive due diligence for all significant investments, ensuring thorough evaluation.
+**[Your Organization] Due Diligence**: Conduct comprehensive due diligence for all significant investments, ensuring thorough evaluation.
 
 ### Risk Management Protocols
 
@@ -534,7 +534,7 @@ Risk management protects the empire from potential losses and ensures long-term 
    - Assess potential impact
    - Identify triggers
 
-**Ohu-PNR Risk Identification**: Conduct comprehensive risk identification annually, with quarterly updates.
+**[Your Organization] Risk Identification**: Conduct comprehensive risk identification annually, with quarterly updates.
 
 #### Risk Assessment
 
@@ -562,7 +562,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 - **Medium Risk**: Score 8-14 (Requires monitoring)
 - **Low Risk**: Score 1-7 (Acceptable level)
 
-**Ohu-PNR Assessment**: Assess all identified risks using risk matrix, prioritizing high-risk items.
+**[Your Organization] Assessment**: Assess all identified risks using risk matrix, prioritizing high-risk items.
 
 #### Risk Mitigation
 
@@ -599,7 +599,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 - Monitor mitigation effectiveness
 - Update plans as needed
 
-**Ohu-PNR Mitigation**: Develop and implement mitigation plans for all high and medium risks.
+**[Your Organization] Mitigation**: Develop and implement mitigation plans for all high and medium risks.
 
 #### Risk Monitoring
 
@@ -629,7 +629,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 - Annual risk assessments
 - Ad hoc reporting
 
-**Ohu-PNR Monitoring**: Monitor risks regularly, with comprehensive quarterly and annual reviews.
+**[Your Organization] Monitoring**: Monitor risks regularly, with comprehensive quarterly and annual reviews.
 
 ### Performance Monitoring
 
@@ -683,7 +683,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Error rates
 - Compliance rates
 
-**Ohu-PNR KPIs**: Track comprehensive KPIs monthly, with quarterly and annual analysis.
+**[Your Organization] KPIs**: Track comprehensive KPIs monthly, with quarterly and annual analysis.
 
 #### Reporting Systems
 
@@ -719,7 +719,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Budget preparation
 - Goal setting
 
-**Ohu-PNR Reporting**: Implement comprehensive reporting system with daily, weekly, monthly, quarterly, and annual reports.
+**[Your Organization] Reporting**: Implement comprehensive reporting system with daily, weekly, monthly, quarterly, and annual reports.
 
 #### Analysis Procedures
 
@@ -757,7 +757,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Ratio analysis
 - Benchmarking
 
-**Ohu-PNR Analysis**: Conduct comprehensive analysis monthly, with detailed quarterly and annual analysis.
+**[Your Organization] Analysis**: Conduct comprehensive analysis monthly, with detailed quarterly and annual analysis.
 
 #### Improvement Processes
 
@@ -787,7 +787,7 @@ Performance monitoring tracks financial and operational performance across the e
 - Implement additional changes
 - Maintain improvement culture
 
-**Ohu-PNR Improvement**: Maintain continuous improvement culture, identifying and implementing improvements regularly.
+**[Your Organization] Improvement**: Maintain continuous improvement culture, identifying and implementing improvements regularly.
 
 ---
 
@@ -848,7 +848,7 @@ S-Corporation election provides significant tax benefits by allowing pass-throug
 - File required returns
 - Monitor compliance
 
-**Ohu-PNR Process**: File S-election for CXI LLC within 75 days of formation, ensuring all requirements met.
+**[Your Organization] Process**: File S-election for CXI LLC within 75 days of formation, ensuring all requirements met.
 
 #### Maintenance Requirements
 
@@ -886,7 +886,7 @@ S-Corporation election provides significant tax benefits by allowing pass-throug
 - File returns timely
 - Maintain records
 
-**Ohu-PNR Maintenance**: Maintain S-election compliance through regular monitoring and timely filing.
+**[Your Organization] Maintenance**: Maintain S-election compliance through regular monitoring and timely filing.
 
 ### Reasonable Compensation Analysis
 
@@ -940,7 +940,7 @@ Reasonable compensation is critical for S-Corporations to avoid IRS challenges. 
 - Assess contribution
 - Evaluate results
 
-**Ohu-PNR Analysis**: Conduct comprehensive compensation analysis annually, documenting all factors and methods.
+**[Your Organization] Analysis**: Conduct comprehensive compensation analysis annually, documenting all factors and methods.
 
 #### Documentation
 
@@ -977,7 +977,7 @@ Reasonable compensation is critical for S-Corporations to avoid IRS challenges. 
 - Retain permanently
 - Review with advisors
 
-**Ohu-PNR Documentation**: Maintain comprehensive compensation documentation, updated annually.
+**[Your Organization] Documentation**: Maintain comprehensive compensation documentation, updated annually.
 
 #### Best Practices
 
@@ -1007,7 +1007,7 @@ Reasonable compensation is critical for S-Corporations to avoid IRS challenges. 
 - Get professional opinions
 - Update as needed
 
-**Ohu-PNR Best Practices**: Follow all best practices, setting reasonable compensation of $60,000-$80,000 annually, reviewed and documented annually.
+**[Your Organization] Best Practices**: Follow all best practices, setting reasonable compensation of $60,000-$80,000 annually, reviewed and documented annually.
 
 ### Shared Services Pricing
 
@@ -1031,7 +1031,7 @@ Shared services pricing determines how CXI LLC charges operating companies for s
 
 **Typical Rates**: 8-12% of revenue
 
-**Ohu-PNR Rate**: 8-12% of revenue, depending on services provided.
+**[Your Organization] Rate**: 8-12% of revenue, depending on services provided.
 
 **Method 2: Cost-Plus**
 
@@ -1103,7 +1103,7 @@ Shared services pricing determines how CXI LLC charges operating companies for s
 - Document changes
 - Communicate updates
 
-**Ohu-PNR Rates**: Set rates at 8-12% of revenue, reviewed annually, with market comparisons and cost analysis.
+**[Your Organization] Rates**: Set rates at 8-12% of revenue, reviewed annually, with market comparisons and cost analysis.
 
 #### Documentation
 
@@ -1140,7 +1140,7 @@ Shared services pricing determines how CXI LLC charges operating companies for s
 - Review annually
 - Comply with transfer pricing rules
 
-**Ohu-PNR Documentation**: Maintain comprehensive pricing documentation, including policies, agreements, and transfer pricing analysis.
+**[Your Organization] Documentation**: Maintain comprehensive pricing documentation, including policies, agreements, and transfer pricing analysis.
 
 ### Payroll Optimization
 
@@ -1174,7 +1174,7 @@ Payroll optimization maximizes tax efficiency while ensuring compliance. This se
 - No FICA tax
 - Tax-efficient
 
-**Ohu-PNR Structure**:
+**[Your Organization] Structure**:
 - **Salary**: $60,000-$80,000 (reasonable compensation)
 - **Benefits**: Health insurance, retirement contributions
 - **Distributions**: Remaining profits as distributions (no FICA)
@@ -1209,7 +1209,7 @@ Payroll optimization maximizes tax efficiency while ensuring compliance. This se
 - **Distributions**: $130,000 (No FICA)
 - **FICA Savings**: $9,945 (7.65% of $130,000)
 
-**Ohu-PNR Savings**: Annual FICA savings of $10,000-$15,000 through S-Corp structure.
+**[Your Organization] Savings**: Annual FICA savings of $10,000-$15,000 through S-Corp structure.
 
 #### Compliance
 
@@ -1240,7 +1240,7 @@ Payroll optimization maximizes tax efficiency while ensuring compliance. This se
 - Maintain records
 - Consult advisors
 
-**Ohu-PNR Compliance**: Maintain full payroll compliance through automated system and regular review.
+**[Your Organization] Compliance**: Maintain full payroll compliance through automated system and regular review.
 
 ### Distribution Strategies
 
@@ -1276,7 +1276,7 @@ Distribution strategies optimize tax efficiency while maintaining compliance. Th
 
 **Distribution Strategy**:
 
-**Ohu-PNR Strategy**:
+**[Your Organization] Strategy**:
 - **Salary**: $60,000-$80,000 (reasonable compensation)
 - **Distributions**: Remaining profits distributed quarterly
 - **Retention**: Retain capital for growth and reserves
@@ -1304,7 +1304,7 @@ Distribution strategies optimize tax efficiency while maintaining compliance. Th
 - Based on opportunities
 - With proper planning
 
-**Ohu-PNR Timing**: Quarterly distributions, with annual review and ad hoc distributions as needed.
+**[Your Organization] Timing**: Quarterly distributions, with annual review and ad hoc distributions as needed.
 
 #### Documentation
 
@@ -1335,7 +1335,7 @@ Distribution strategies optimize tax efficiency while maintaining compliance. Th
 - Review annually
 - Consult advisors
 
-**Ohu-PNR Documentation**: Maintain comprehensive distribution documentation, including resolutions, records, and tax documentation.
+**[Your Organization] Documentation**: Maintain comprehensive distribution documentation, including resolutions, records, and tax documentation.
 
 ---
 
@@ -1375,7 +1375,7 @@ Series LLC structure provides superior asset protection by segregating each prop
 - Maintain separate accounts
 - Ensure proper segregation
 
-**Ohu-PNR Structure**:
+**[Your Organization] Structure**:
 - **Obuke LLC**: Parent entity (Wyoming Series LLC)
 - **Series 1**: Rental Property ($285K value)
 - **Series 2**: New Property ($35K value)
@@ -1416,7 +1416,7 @@ Series LLC structure provides superior asset protection by segregating each prop
 - Review regularly
 - Consult advisors
 
-**Ohu-PNR Segregation**: Maintain complete asset segregation for each series, with separate books, accounts, and records.
+**[Your Organization] Segregation**: Maintain complete asset segregation for each series, with separate books, accounts, and records.
 
 ### Property Acquisition Process
 
@@ -1450,7 +1450,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 - Tenant quality acceptable
 - Management feasible
 
-**Ohu-PNR Criteria**: Focus on cash-flow positive properties with good locations and appreciation potential.
+**[Your Organization] Criteria**: Focus on cash-flow positive properties with good locations and appreciation potential.
 
 #### Due Diligence
 
@@ -1488,7 +1488,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 - [ ] All issues addressed
 - [ ] Decision made
 
-**Ohu-PNR Due Diligence**: Conduct comprehensive due diligence for all property acquisitions.
+**[Your Organization] Due Diligence**: Conduct comprehensive due diligence for all property acquisitions.
 
 #### Financing Strategies
 
@@ -1514,7 +1514,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 
 **Financing Strategy**:
 
-**Ohu-PNR Strategy**: Use combination of conventional financing, creative financing, and cash purchases, optimizing for each property.
+**[Your Organization] Strategy**: Use combination of conventional financing, creative financing, and cash purchases, optimizing for each property.
 
 #### Closing Process
 
@@ -1538,7 +1538,7 @@ Property acquisition requires systematic evaluation and disciplined execution. T
 - Set up systems
 - Begin operations
 
-**Ohu-PNR Process**: Follow systematic closing process for all acquisitions.
+**[Your Organization] Process**: Follow systematic closing process for all acquisitions.
 
 ### Financing Strategies
 
@@ -1588,7 +1588,7 @@ Financing strategies optimize capital structure and tax efficiency. This section
 - More negotiation
 - Less standard
 
-**Ohu-PNR Strategy**: Use combination of all options, optimizing for each property and opportunity.
+**[Your Organization] Strategy**: Use combination of all options, optimizing for each property and opportunity.
 
 #### Structuring
 
@@ -1612,7 +1612,7 @@ Financing strategies optimize capital structure and tax efficiency. This section
 - Tax optimization
 - Compliance
 
-**Ohu-PNR Structure**: Optimize financing structure for each property, maximizing tax benefits and cash flow.
+**[Your Organization] Structure**: Optimize financing structure for each property, maximizing tax benefits and cash flow.
 
 #### Optimization
 
@@ -1636,7 +1636,7 @@ Financing strategies optimize capital structure and tax efficiency. This section
 - Maximize returns
 - Minimize payments
 
-**Ohu-PNR Optimization**: Optimize financing for maximum tax benefits and cash flow.
+**[Your Organization] Optimization**: Optimize financing for maximum tax benefits and cash flow.
 
 ### Management Systems
 
@@ -1670,7 +1670,7 @@ Management systems ensure efficient property operations and optimal performance.
 - Insurance compliance
 - Tax compliance
 
-**Ohu-PNR Management**: Implement comprehensive property management system for all properties.
+**[Your Organization] Management**: Implement comprehensive property management system for all properties.
 
 #### Tenant Relations
 
@@ -1694,7 +1694,7 @@ Management systems ensure efficient property operations and optimal performance.
 - Service requests
 - Relationship building
 
-**Ohu-PNR Relations**: Maintain professional tenant relations, ensuring quality tenants and positive relationships.
+**[Your Organization] Relations**: Maintain professional tenant relations, ensuring quality tenants and positive relationships.
 
 #### Maintenance
 
@@ -1718,7 +1718,7 @@ Management systems ensure efficient property operations and optimal performance.
 - ROI analysis
 - Strategic improvements
 
-**Ohu-PNR Maintenance**: Maintain properties in excellent condition, maximizing value and tenant satisfaction.
+**[Your Organization] Maintenance**: Maintain properties in excellent condition, maximizing value and tenant satisfaction.
 
 ### Exit Planning
 
@@ -1752,7 +1752,7 @@ Exit planning prepares for property disposition and maximizes returns. This sect
 - Cash flow focus
 - Strategic hold
 
-**Ohu-PNR Strategies**: Evaluate all exit strategies for each property, optimizing for tax efficiency and returns.
+**[Your Organization] Strategies**: Evaluate all exit strategies for each property, optimizing for tax efficiency and returns.
 
 #### Timing
 
@@ -1776,7 +1776,7 @@ Exit planning prepares for property disposition and maximizes returns. This sect
 - Debt reduction
 - Portfolio optimization
 
-**Ohu-PNR Timing**: Time exits strategically, optimizing for market conditions, tax efficiency, and financial needs.
+**[Your Organization] Timing**: Time exits strategically, optimizing for market conditions, tax efficiency, and financial needs.
 
 #### Execution
 
@@ -1800,7 +1800,7 @@ Exit planning prepares for property disposition and maximizes returns. This sect
 - Transfer completion
 - Post-closing
 
-**Ohu-PNR Execution**: Execute exits systematically, maximizing returns and tax efficiency.
+**[Your Organization] Execution**: Execute exits systematically, maximizing returns and tax efficiency.
 
 ---
 
@@ -1846,7 +1846,7 @@ IP inventory identifies all intellectual property assets, while valuation determ
 - Generic domains
 - Strategic domains
 
-**Ohu-PNR Inventory**:
+**[Your Organization] Inventory**:
 - **Trademarks**: Brand names, logos, service marks
 - **Copyrights**: Content, software, creative works
 - **Trade Secrets**: Processes, methods, information
@@ -1901,7 +1901,7 @@ IP inventory identifies all intellectual property assets, while valuation determ
 - Maintain records
 - Update as needed
 
-**Ohu-PNR Valuation**: Conduct comprehensive IP valuation annually, documenting all methods and results.
+**[Your Organization] Valuation**: Conduct comprehensive IP valuation annually, documenting all methods and results.
 
 ### Registration and Protection
 
@@ -1943,7 +1943,7 @@ IP registration and protection secure legal rights and prevent infringement. Thi
 - Maintain records
 - Update as needed
 
-**Ohu-PNR Registration**: Register all valuable IP, including trademarks, copyrights, and other protectable assets.
+**[Your Organization] Registration**: Register all valuable IP, including trademarks, copyrights, and other protectable assets.
 
 #### Protection Strategies
 
@@ -1967,7 +1967,7 @@ IP registration and protection secure legal rights and prevent infringement. Thi
 - Vendor agreements
 - Customer agreements
 
-**Ohu-PNR Protection**: Implement comprehensive IP protection, including legal, technical, and business measures.
+**[Your Organization] Protection**: Implement comprehensive IP protection, including legal, technical, and business measures.
 
 ### Licensing Rate Determination
 
@@ -2006,7 +2006,7 @@ Licensing rates determine IP monetization. This section covers rate setting, mar
 **Structure 1: Percentage of Revenue**
 - Rate: 6-12% of revenue
 - Advantages: Aligns with performance, scalable
-- Ohu-PNR Rate: 8-10% for standard licenses
+- [Your Organization] Rate: 8-10% for standard licenses
 
 **Structure 2: Fixed Fee**
 - Rate: Fixed monthly/annual fee
@@ -2018,7 +2018,7 @@ Licensing rates determine IP monetization. This section covers rate setting, mar
 - Advantages: Incentivizes growth, fair
 - Use: For growth-oriented licensees
 
-**Ohu-PNR Rates**: Use percentage of revenue (8-10%) for standard licenses, with fixed fees for specific IP.
+**[Your Organization] Rates**: Use percentage of revenue (8-10%) for standard licenses, with fixed fees for specific IP.
 
 #### Market Analysis
 
@@ -2042,7 +2042,7 @@ Licensing rates determine IP monetization. This section covers rate setting, mar
 - Competitive advantage
 - Market position
 
-**Ohu-PNR Analysis**: Conduct market analysis annually, comparing rates to industry standards and comparable licenses.
+**[Your Organization] Analysis**: Conduct market analysis annually, comparing rates to industry standards and comparable licenses.
 
 ### Enforcement Procedures
 
@@ -2070,7 +2070,7 @@ Enforcement protects IP rights and prevents infringement. This section covers mo
 - Review copyright registrations
 - Identify conflicts
 
-**Ohu-PNR Monitoring**: Conduct comprehensive IP monitoring, identifying and addressing infringement promptly.
+**[Your Organization] Monitoring**: Conduct comprehensive IP monitoring, identifying and addressing infringement promptly.
 
 #### Enforcement Actions
 
@@ -2094,7 +2094,7 @@ Enforcement protects IP rights and prevents infringement. This section covers mo
 - Pursue litigation
 - Seek remedies
 
-**Ohu-PNR Enforcement**: Enforce IP rights promptly, protecting valuable assets and maintaining rights.
+**[Your Organization] Enforcement**: Enforce IP rights promptly, protecting valuable assets and maintaining rights.
 
 ### International Considerations
 
@@ -2122,7 +2122,7 @@ International IP protection extends rights globally. This section covers interna
 - Comply with requirements
 - Maintain registrations
 
-**Ohu-PNR Strategy**: Register IP in key international markets, using treaties and local registration as appropriate.
+**[Your Organization] Strategy**: Register IP in key international markets, using treaties and local registration as appropriate.
 
 #### Protection Strategies
 
@@ -2146,7 +2146,7 @@ International IP protection extends rights globally. This section covers interna
 - Maintain compliance
 - Update as needed
 
-**Ohu-PNR Protection**: Implement comprehensive international IP protection, registering and enforcing in key markets.
+**[Your Organization] Protection**: Implement comprehensive international IP protection, registering and enforcing in key markets.
 
 ---
 

@@ -4,7 +4,7 @@
 
 Proper entity formation and ongoing compliance are fundamental to protecting your business assets and maintaining legal standing. This chapter provides a comprehensive guide to forming Wyoming entities, creating proper documentation, establishing inter-entity agreements, and maintaining compliance calendars.
 
-For the Ohu-PNR Dynasty Empire, proper entity structure provides asset protection, tax optimization, and operational flexibility. Understanding how to form entities correctly, document them properly, and maintain compliance ensures your business structure remains effective and protected.
+For the The Legacy Codex, proper entity structure provides asset protection, tax optimization, and operational flexibility. Understanding how to form entities correctly, document them properly, and maintain compliance ensures your business structure remains effective and protected.
 
 This chapter covers every aspect of entity formation and compliance, from initial formation through ongoing maintenance. By following this guide, you will ensure your entities are properly formed, documented, and maintained for long-term success.
 
@@ -32,7 +32,7 @@ Forming a Wyoming LLC requires careful attention to detail and proper execution 
 - Verify name availability
 - Reserve name if needed (optional)
 
-**Ohu-PNR Example**: "PNR Holdings LLC" - check availability, then proceed.
+**[Your Organization] Example**: "PNR Holdings LLC" - check availability, then proceed.
 
 **Step 2: Select Registered Agent**
 
@@ -207,7 +207,7 @@ Forming a Wyoming LLC requires careful attention to detail and proper execution 
 
 **Total Time**: 1-2 weeks for complete formation
 
-**Ohu-PNR Timeline**: Follow same timeline for all entities.
+**[Your Organization] Timeline**: Follow same timeline for all entities.
 
 ### Series LLC Implementation
 
@@ -251,7 +251,7 @@ Series LLCs provide superior asset protection by segregating assets into separat
 - Series 2 bankruptcy does not affect Series 1
 - Maximum asset protection
 
-**Ohu-PNR Use**: Obuke LLC uses Series LLC structure for real estate properties.
+**[Your Organization] Use**: Obuke LLC uses Series LLC structure for real estate properties.
 
 #### Formation Process
 
@@ -283,7 +283,7 @@ Series LLCs provide superior asset protection by segregating assets into separat
 - Maintain separate records
 - Maintain separate accounts
 
-**Ohu-PNR Process**: Obuke LLC formed as Series LLC, with Series 1-10 for individual properties.
+**[Your Organization] Process**: Obuke LLC formed as Series LLC, with Series 1-10 for individual properties.
 
 #### Series Structure
 
@@ -304,7 +304,7 @@ Obuke LLC (Parent)
 - **Series 3**: [Property Address/Description]
 - **Series 4-10**: Reserved for future properties
 
-**Ohu-PNR Structure**:
+**[Your Organization] Structure**:
 
 - **Obuke LLC**: Parent entity
 - **Series 1**: Rental Property ($285K value)
@@ -327,7 +327,7 @@ Obuke LLC (Parent)
 - Maximum asset protection
 - Clear separation
 
-**Ohu-PNR Example**: Obuke LLC Series structure provides maximum protection for real estate portfolio.
+**[Your Organization] Example**: Obuke LLC Series structure provides maximum protection for real estate portfolio.
 
 ### Registered Agent Selection
 
@@ -397,7 +397,7 @@ Registered agents are essential for LLC compliance and legal service. This secti
    - **Reputation**: Good
    - **Privacy**: Good
 
-**Ohu-PNR Recommendation**: Use Northwest Registered Agent for reliability and privacy.
+**[Your Organization] Recommendation**: Use Northwest Registered Agent for reliability and privacy.
 
 #### Requirements
 
@@ -435,7 +435,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - **Filing Fee**: $60 (as of 2024)
 - **Filing Deadline**: First day of anniversary month
 
-**Ohu-PNR Requirements**: File annual reports for all Wyoming entities by anniversary dates.
+**[Your Organization] Requirements**: File annual reports for all Wyoming entities by anniversary dates.
 
 #### Filing Deadlines
 
@@ -450,7 +450,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - **Anniversary Month**: January
 - **Filing Deadline**: January 1, 2025
 
-**Ohu-PNR Deadlines**: Track all entity anniversary dates and file by first day of anniversary month.
+**[Your Organization] Deadlines**: Track all entity anniversary dates and file by first day of anniversary month.
 
 #### Penalties
 
@@ -467,7 +467,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - Use compliance calendar
 - Work with registered agent
 
-**Ohu-PNR Strategy**: File all annual reports early to avoid penalties.
+**[Your Organization] Strategy**: File all annual reports early to avoid penalties.
 
 ### Foreign Qualification Process
 
@@ -492,7 +492,7 @@ Foreign qualification allows entities to operate in states other than formation 
    - Operating without qualification illegal
    - Penalties for non-qualification
 
-**Ohu-PNR Qualification**: Qualify in Pennsylvania for operating companies (Notroom Services, RegIntel Advisors, TaxEar Advisory).
+**[Your Organization] Qualification**: Qualify in Pennsylvania for operating companies (Notroom Services, RegIntel Advisors, TaxEar Advisory).
 
 #### Qualification Process
 
@@ -543,7 +543,7 @@ Foreign qualification allows entities to operate in states other than formation 
 - Comply with all requirements
 - Maintain good standing
 
-**Ohu-PNR Compliance**: Maintain qualification in Pennsylvania for operating companies, comply with all requirements.
+**[Your Organization] Compliance**: Maintain qualification in Pennsylvania for operating companies, comply with all requirements.
 
 ---
 
@@ -827,7 +827,7 @@ _________________________            _________________________
 
 #### Customization Guide
 
-**Customization for Ohu-PNR Entities**:
+**Customization for [Your Organization] Entities**:
 
 **PNR Holdings LLC**:
 - Member-Managed
@@ -1134,7 +1134,7 @@ Secretary
 **Example: PNR Holdings LLC Annual Meeting**
 
 **Date**: January 15, 2025
-**Attendees**: Ikechukwu Ohu (Manager), Judith Ohu (Member)
+**Attendees**: [Primary Principal] (Manager), [Secondary Principal] (Member)
 
 **Agenda**:
 1. Review 2024 operations
@@ -1215,12 +1215,12 @@ _________________________                 _________________________
 **Example: PNR Holdings LLC Banking Resolution**
 
 **Authorized Signers**:
-- Ikechukwu Ohu (Manager)
-- Judith Ohu (Manager)
+- [Primary Principal] (Manager)
+- [Secondary Principal] (Advisory Member)
 
 **Limitations**:
 - Single transaction limit: $50,000
-- Requires two signatures for transactions over $10,000
+- Primary Principal has sole signature authority for all transactions (no dual signature requirement for transactions $10,000
 
 **Bank**: [Bank Name]
 **Account Type**: Business checking
@@ -1347,7 +1347,7 @@ By: _________________________    By: _________________________
 
 **Typical Rates**: 5-15% of revenue
 
-**Ohu-PNR Rate**: 8-12% of revenue, depending on services provided.
+**[Your Organization] Rate**: 8-12% of revenue, depending on services provided.
 
 **Strategy 2: Cost-Plus**
 
@@ -1501,7 +1501,7 @@ By: _________________________    By: _________________________
 - Simple calculation
 - Scalable
 
-**Ohu-PNR Rate**: 8-10% of revenue for standard IP licenses.
+**[Your Organization] Rate**: 8-10% of revenue for standard IP licenses.
 
 **Structure 2: Fixed Fee**
 
@@ -1860,7 +1860,7 @@ Transfer pricing documentation ensures inter-entity transactions are priced at a
 
 **Use**: For integrated operations.
 
-**Ohu-PNR Method**: Use Cost-Plus for management services, CUP for IP licensing, market rates for other transactions.
+**[Your Organization] Method**: Use Cost-Plus for management services, CUP for IP licensing, market rates for other transactions.
 
 #### Compliance
 
@@ -1951,7 +1951,7 @@ Regular tasks maintain entity compliance and operational effectiveness. This sec
 - [ ] Financial reporting
 - [ ] Cash management
 
-**Ohu-PNR Monthly Tasks**: Complete all monthly compliance and operational tasks for all entities.
+**[Your Organization] Monthly Tasks**: Complete all monthly compliance and operational tasks for all entities.
 
 ### Quarterly Requirements
 
@@ -1991,7 +1991,7 @@ Quarterly requirements ensure ongoing compliance and performance monitoring. Thi
 - [ ] Tax documentation
 - [ ] Tax advisor consultation
 
-**Ohu-PNR Quarterly Tasks**: Complete all quarterly requirements for all entities, including estimated tax payments and compliance reviews.
+**[Your Organization] Quarterly Tasks**: Complete all quarterly requirements for all entities, including estimated tax payments and compliance reviews.
 
 #### Checklists
 
@@ -2053,7 +2053,7 @@ Annual filings maintain entity good standing and tax compliance. This section co
    - Review regulatory compliance
    - Address compliance issues
 
-**Ohu-PNR Annual Requirements**: Complete all annual requirements for all entities, trusts, and personal returns.
+**[Your Organization] Annual Requirements**: Complete all annual requirements for all entities, trusts, and personal returns.
 
 #### Filing Guide
 
@@ -2087,7 +2087,7 @@ Annual filings maintain entity good standing and tax compliance. This section co
 - Update compliance calendar
 - Plan for next year
 
-**Ohu-PNR Filing Guide**: Follow timeline for all entities, ensuring all filings completed on time.
+**[Your Organization] Filing Guide**: Follow timeline for all entities, ensuring all filings completed on time.
 
 ### Multi-Year Planning
 
@@ -2128,7 +2128,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Succession planning
    - Legacy planning
 
-**Ohu-PNR Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
+**[Your Organization] Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
 
 #### Strategic Considerations
 
@@ -2158,7 +2158,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Legacy planning
    - Dynasty planning
 
-**Ohu-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
+**[Your Organization] Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
 
 ---
 

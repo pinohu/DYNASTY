@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Notary and Remote Online Notary (RON) services represent a high-margin, scalable revenue stream for the Ohu-PNR Dynasty Empire. With average fees of $50-150 per traditional notarization, $25-75 per RON session, and $75-200 per loan signing, this business line offers premium pricing with low overhead and high demand. This chapter provides a complete operational blueprint for building a notary services business that scales from individual practitioner to multi-notary operation, generating $100K+ annual revenue within Year 1.
+Notary and Remote Online Notary (RON) services represent a high-margin, scalable revenue stream for the The Legacy Codex. With average fees of $50-150 per traditional notarization, $25-75 per RON session, and $75-200 per loan signing, this business line offers premium pricing with low overhead and high demand. This chapter provides a complete operational blueprint for building a notary services business that scales from individual practitioner to multi-notary operation, generating $100K+ annual revenue within Year 1.
 
 The notary services market is experiencing explosive growth, driven by increasing demand for remote services, real estate transaction volume, and document authentication needs. By mastering traditional notary operations, implementing RON services, becoming a certified loan signing agent, and optimizing pricing strategies, you can build a professional services business that serves as a high-margin, recurring revenue engine for the broader empire.
 

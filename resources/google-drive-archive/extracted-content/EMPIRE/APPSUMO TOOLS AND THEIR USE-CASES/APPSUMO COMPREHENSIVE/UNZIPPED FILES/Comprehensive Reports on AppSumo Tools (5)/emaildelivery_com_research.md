@@ -305,7 +305,7 @@
 - **Reputation Damage**: Risk of reputation damage from service disruptions
 
 ## Recommendation
-⚠️ **HIGH RISK - PROCEED WITH EXTREME CAUTION** for users who already own it
+WARNING: **HIGH RISK - PROCEED WITH EXTREME CAUTION** for users who already own it
 
 **Ideal For**: Technically proficient users who can manage the platform independently and have backup plans
 **Value Proposition**: Potentially exceptional value for email marketing infrastructure, but with significant platform risks

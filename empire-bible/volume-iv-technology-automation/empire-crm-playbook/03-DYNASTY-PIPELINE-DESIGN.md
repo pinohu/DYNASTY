@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Pipeline Design Framework](#pipeline-design-framework)
 2. [Standard Sales Pipeline](#standard-sales-pipeline)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Pipeline Design Framework
+## Pipeline Design Framework
 
 ### Design Principles
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 Standard Sales Pipeline
+## Standard Sales Pipeline
 
 ### Stage Flow
 
@@ -503,7 +503,7 @@
 
 ---
 
-## 🔄 Membership/Subscription Pipeline
+##  Membership/Subscription Pipeline
 
 ### Flow
 
@@ -613,7 +613,7 @@ Owner
 
 ---
 
-## 🎯 Lead Routing Logic
+## Lead Routing Logic
 
 ### Routing Rules (See [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) for details)
 
@@ -648,7 +648,7 @@ For each stage, define automations:
 
 ---
 
-## 💰 Revenue Mapping (Hormozi Lens)
+##  Revenue Mapping (Hormozi Lens)
 
 ### Money Lever Connection
 
@@ -678,7 +678,7 @@ Track these per stage:
 
 ---
 
-## 📊 Visual Flow Diagrams
+## Visual Flow Diagrams
 
 ### Standard Sales Pipeline Flow
 
@@ -700,7 +700,7 @@ At each stage, show:
 
 ---
 
-## ⚠️ Common Mistakes to Avoid
+## WARNING: Common Mistakes to Avoid
 
 ### 1. Too Many Stages
 **Mistake**: 15+ stages that don't add value
@@ -752,7 +752,7 @@ At each stage, show:
 
 ---
 
-## 🎯 Next Steps
+## Next Steps
 
 1. **Customize**: Adapt stages to your process
 2. **Build**: Create pipeline in your CRM

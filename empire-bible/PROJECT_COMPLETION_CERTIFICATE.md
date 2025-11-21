@@ -1,10 +1,10 @@
-# Ohu-PNR Dynasty Empire Bible: Project Completion Certificate
+# The Legacy Codex: Project Completion Certificate
 
 ## Certificate of Completion
 
-This certifies that the **Ohu-PNR Dynasty Empire Bible** has been completed to production-ready standards.
+This certifies that the **The Legacy Codex** has been completed to production-ready standards.
 
-**Project Name**: Ohu-PNR Dynasty Empire Bible  
+**Project Name**: The Legacy Codex  
 **Completion Date**: November 18, 2025  
 **Status**: ✅ **COMPLETE**
 
@@ -63,7 +63,7 @@ This certifies that the **Ohu-PNR Dynasty Empire Bible** has been completed to p
 
 **✅ COMPLETE AND PRODUCTION-READY**
 
-The Ohu-PNR Dynasty Empire Bible is a comprehensive, integrated operating system ready for implementation. All volumes have been written, verified, and integrated into a cohesive framework designed to guide the Ohu family for the next 365 years.
+The Legacy Codex is a comprehensive, integrated operating system ready for implementation. All volumes have been written, verified, and integrated into a cohesive framework designed to guide [Your Family] for the next 365 years.
 
 ---
 
@@ -73,4 +73,4 @@ The Ohu-PNR Dynasty Empire Bible is a comprehensive, integrated operating system
 
 ---
 
-*This certificate verifies that the Ohu-PNR Dynasty Empire Bible meets all completion criteria and is ready for use.*
+*This certificate verifies that the The Legacy Codex meets all completion criteria and is ready for use.*

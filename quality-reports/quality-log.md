@@ -155,9 +155,9 @@
 1. ✅ Read and review all existing chapters - COMPLETE
 2. ✅ Compile master document - COMPLETE
 3. ✅ Create comprehensive TOC - COMPLETE
-4. ⚠️ Verify cross-references - NEEDS VERIFICATION
+4. WARNING: Verify cross-references - NEEDS VERIFICATION
 5. ✅ Apply consistent formatting - COMPLETE
-6. ⚠️ Create index - PLACEHOLDER CREATED (Agent 13 task)
+6. WARNING: Create index - PLACEHOLDER CREATED (Agent 13 task)
 7. ✅ Final quality review - COMPLETE (for written content)
 
 ---

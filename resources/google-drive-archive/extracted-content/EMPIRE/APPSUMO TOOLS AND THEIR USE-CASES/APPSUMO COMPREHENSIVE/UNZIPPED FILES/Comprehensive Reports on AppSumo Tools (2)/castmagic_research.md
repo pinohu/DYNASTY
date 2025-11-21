@@ -250,11 +250,11 @@ The tool addresses a common challenge for content creators and agencies: the tim
 ✅ **Active Development**: Company working on improvements and updates  
 
 ### Considerations & Limitations
-⚠️ **Technical Issues**: Some users report server errors and upload failures  
-⚠️ **Feature Maturity**: YouTube integration and Studio features need improvement  
-⚠️ **Support Consistency**: Mixed feedback on customer service quality  
-⚠️ **Minute Limitations**: Monthly processing limits may restrict heavy users  
-⚠️ **Learning Curve**: Requires optimization of custom prompts for best results  
+WARNING: **Technical Issues**: Some users report server errors and upload failures  
+WARNING: **Feature Maturity**: YouTube integration and Studio features need improvement  
+WARNING: **Support Consistency**: Mixed feedback on customer service quality  
+WARNING: **Minute Limitations**: Monthly processing limits may restrict heavy users  
+WARNING: **Learning Curve**: Requires optimization of custom prompts for best results  
 
 ### Risk Mitigation
 - **60-Day Guarantee**: Full testing period to validate technical stability

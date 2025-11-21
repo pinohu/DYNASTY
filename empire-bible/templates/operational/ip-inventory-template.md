@@ -11,7 +11,7 @@ Use this log to track all Intellectual Property owned by ToriMedia.
 
 | Brand Name | Status (Reg/Unreg) | Class | Date of First Use | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **Ohu-PNR** | Unregistered | Consulting | 01/01/2024 | |
+| **[Your Organization]** | Unregistered | Consulting | 01/01/2024 | |
 | **Notroom** | Unregistered | Services | | |
 | **TaxEar** | Unregistered | Services | | |
 
@@ -26,7 +26,7 @@ Use this log to track all Intellectual Property owned by ToriMedia.
 
 | Title | Format | Creation Date | Author |
 | :--- | :--- | :--- | :--- |
-| **Empire Bible** | Book | 2025 | Ikechukwu Ohu |
+| **Empire Bible** | Book | 2025 | [Primary Principal] |
 | **Notary Course** | Video | | |
 
 ## 4. Software Licenses

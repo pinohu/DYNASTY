@@ -337,7 +337,7 @@ Vista Social offers a comprehensive social media management platform with advanc
 - **Pattern of changing terms after payment raises reliability questions**
 - **Potential legal issues with breach of contract for existing lifetime users**
 
-**Recommendation:** ⚠️ **PROCEED WITH EXTREME CAUTION** - Serious concerns about business practices and lifetime deal reliability.
+**Recommendation:** WARNING: **PROCEED WITH EXTREME CAUTION** - Serious concerns about business practices and lifetime deal reliability.
 
 While Vista Social offers strong features and capabilities, the documented pattern of retroactively changing lifetime deal terms after purchase represents a significant red flag. Multiple verified users report purchasing "unlimited" features only to have 1GB limits imposed months later without warning or consent.
 

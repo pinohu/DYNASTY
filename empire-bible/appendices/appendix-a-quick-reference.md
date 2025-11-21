@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This appendix provides high-level checklists for the recurring rhythms of the Ohu-PNR Dynasty Empire. These guides are designed to be printed or integrated into your project management software (ClickUp/SuiteDash) to ensure consistency and completeness in daily operations.
+This appendix provides high-level checklists for the recurring rhythms of the The Legacy Codex. These guides are designed to be printed or integrated into your project management software (ClickUp/SuiteDash) to ensure consistency and completeness in daily operations.
 
 ---
 

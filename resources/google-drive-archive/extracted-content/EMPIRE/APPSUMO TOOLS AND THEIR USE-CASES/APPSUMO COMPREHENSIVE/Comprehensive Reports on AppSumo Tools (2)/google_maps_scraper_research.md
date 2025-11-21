@@ -88,7 +88,7 @@ The Outscraper team (Dana67267) actively responds to complaints, explaining:
 - **Developers**: API integration for custom solutions
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - Good tool but significant billing concerns
+WARNING: **CAUTIOUSLY RECOMMENDED** - Good tool but significant billing concerns
 
 **Why It's Cautiously Recommended:**
 - **Effective Tool**: Works well for Google Maps scraping
@@ -207,11 +207,11 @@ The Outscraper team (Dana67267) actively responds to complaints, explaining:
 January 2025 - Based on current AppSumo listing and user reviews
 
 ## Important Notes
-- **⚠️ Billing Concerns**: Multiple reports of unexpected charges
-- **📖 Read Terms**: Carefully review what's included vs. extra
+- **WARNING: Billing Concerns**: Multiple reports of unexpected charges
+- **Read Terms**: Carefully review what's included vs. extra
 - **💳 Monitor Usage**: Track monthly credit consumption
-- **🔄 No Rollover**: Credits reset monthly, don't accumulate
-- **📞 Contact Support**: Clarify billing before heavy usage
+- ** No Rollover**: Credits reset monthly, don't accumulate
+- **Contact Support**: Clarify billing before heavy usage
 
 ## Search Results Context
 The search revealed mixed coverage of Google Maps Scraper:

@@ -143,7 +143,7 @@ This template helps compare tax implications of different entity structures (LLC
 
 ---
 
-*This template is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible. Tax analysis should be reviewed by qualified tax professionals.*
+*This template is version 1.0 and was created for the The Legacy Codex. Tax analysis should be reviewed by qualified tax professionals.*
 ```
 
 ## Example

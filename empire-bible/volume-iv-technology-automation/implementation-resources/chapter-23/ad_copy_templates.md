@@ -32,7 +32,7 @@ That's why we built {Company Name}. We handle the chaos so you can focus on find
 
 Stop drowning in paperwork. Let us handle the details.
 
-**Headline:** Scale Your Real Estate Business Faster 🚀
+**Headline:** Scale Your Real Estate Business Faster 
 **Description:** Expert Transaction Coordination for Investors.
 **CTA:** Learn More
 

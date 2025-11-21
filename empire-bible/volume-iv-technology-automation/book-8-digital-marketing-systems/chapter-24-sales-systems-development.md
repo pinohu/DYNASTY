@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Sales systems transform the Ohu-PNR Dynasty Empire from a collection of individual sales efforts into a predictable, scalable revenue engine. While marketing generates leads and awareness, sales systems convert those leads into customers through systematic processes, automated workflows, and proven methodologies. When sales systems are properly designed and implemented, they eliminate guesswork, reduce sales cycle length, increase close rates, and enable scaling without proportional increases in sales team size.
+Sales systems transform the The Legacy Codex from a collection of individual sales efforts into a predictable, scalable revenue engine. While marketing generates leads and awareness, sales systems convert those leads into customers through systematic processes, automated workflows, and proven methodologies. When sales systems are properly designed and implemented, they eliminate guesswork, reduce sales cycle length, increase close rates, and enable scaling without proportional increases in sales team size.
 
 This chapter provides a comprehensive guide to building complete sales systems across all your business entities. You'll learn how to architect sales processes that guide prospects from first contact through closed deal, automate sales tasks that free up time for high-value activities, build sales teams that consistently hit targets, and create customer success systems that maximize lifetime value while generating referrals.
 

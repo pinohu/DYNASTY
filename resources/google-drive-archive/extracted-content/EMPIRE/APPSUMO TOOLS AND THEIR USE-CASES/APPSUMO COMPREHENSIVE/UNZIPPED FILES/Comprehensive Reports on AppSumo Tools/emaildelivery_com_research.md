@@ -5,7 +5,7 @@
 
 ## Current Status
 - **SOLD OUT** - Deal is no longer available for purchase
-- **⚠️ MAJOR CONCERNS** - AppSumo issued official warning about abandonment
+- **WARNING: MAJOR CONCERNS** - AppSumo issued official warning about abandonment
 - Status: Product operational but support unresponsive
 
 ## AppSumo Official Warning (February 5, 2025)

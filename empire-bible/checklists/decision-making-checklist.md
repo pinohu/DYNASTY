@@ -64,7 +64,7 @@ Use this checklist before making any decision involving capital allocation >$50,
 - [ ] Ethical boundaries checked
 - [ ] Values Assessment Checklist completed (if major decision)
 
-**Values Alignment**: [ ] ✅ Strong [ ] ⚠️ Moderate [ ] ❌ Weak
+**Values Alignment**: [ ] ✅ Strong [ ] WARNING: Moderate [ ] ❌ Weak
 
 ---
 
