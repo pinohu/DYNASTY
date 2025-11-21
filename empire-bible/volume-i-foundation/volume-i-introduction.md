@@ -45,7 +45,7 @@ This volume is organized into a single comprehensive book:
 
 ### How to Use This Volume
 
-**For Founders (Ikechukwu & Judith)**:
+**For Founders ([Primary Principal Name] & [Secondary Principal Name])**:
 - Use Chapter 1 to align all decisions with the 365-year vision
 - Use Chapter 2 to make strategic resource allocation decisions
 - Use Chapter 3 to guide family development and succession planning

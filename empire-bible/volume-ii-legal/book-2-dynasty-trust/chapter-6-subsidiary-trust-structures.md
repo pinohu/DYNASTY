@@ -133,7 +133,7 @@ Crummey powers are essential for ILITs to qualify premium payments for the annua
 
 **Annual Exclusion** (2024):
 - Per beneficiary: $18,000
-- Per couple (Ikechukwu & Judith): $36,000 per beneficiary
+- Per couple ([Primary Principal Name] & [Secondary Principal Name]): $36,000 per beneficiary
 - Total for four children: $144,000 annual exclusion
 
 **Premium Payment Strategy**:
@@ -384,7 +384,7 @@ Children's Crummey Trusts provide an early wealth transfer strategy, allowing an
 
 **Annual Exclusion** (2024): $18,000 per donee ($36,000 per couple)
 
-**Per Child**: $36,000 per year (from Ikechukwu & Judith combined)
+**Per Child**: $36,000 per year (from [Primary Principal Name] & [Secondary Principal Name] combined)
 
 **Total Family**: $144,000 per year (4 children × $36,000)
 

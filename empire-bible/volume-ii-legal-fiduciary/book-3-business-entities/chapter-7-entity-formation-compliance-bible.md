@@ -1216,11 +1216,11 @@ _________________________                 _________________________
 
 **Authorized Signers**:
 - [Primary Principal] (Manager)
-- [Secondary Principal] (Manager)
+- [Secondary Principal] (Advisory Member)
 
 **Limitations**:
 - Single transaction limit: $50,000
-- Requires two signatures for transactions over $10,000
+- Primary Principal has sole signature authority for all transactions (no dual signature requirement for transactions $10,000
 
 **Bank**: [Bank Name]
 **Account Type**: Business checking

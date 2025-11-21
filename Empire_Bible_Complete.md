@@ -217,7 +217,7 @@ This volume is organized into a single comprehensive book:
 
 ### How to Use This Volume
 
-**For Founders (Ikechukwu & Judith)**:
+**For Founders ([Primary Principal Name] & [Secondary Principal Name])**:
 - Use Chapter 1 to align all decisions with the 365-year vision
 - Use Chapter 2 to make strategic resource allocation decisions
 - Use Chapter 3 to guide family development and succession planning
@@ -3851,7 +3851,7 @@ Assume the Dynasty Trust owns PNR Holdings LLC, which generates $2 million in an
 
 **Example: $10 Million Estate Transfer**
 
-**Scenario**: Ikechukwu and Judith transfer $10 million to a South Dakota Dynasty Trust.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] transfer $10 million to a South Dakota Dynasty Trust.
 
 **Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
@@ -3890,7 +3890,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Example: Three-Generation Transfer**
 
-**Scenario**: Ikechukwu and Judith want to provide for their children and grandchildren.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] want to provide for their children and grandchildren.
 
 **Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
@@ -4961,7 +4961,7 @@ and shall be identified by Tax ID Number [EIN].
 **Example Language**:
 ```
 This trust is established by [Primary Principal Name] 
-and [Secondary Principal Name], as Grantors.
+and [Secondary Principal Name], as Grantors (with [Primary Principal Name] retaining sole administrative control).
 ```
 
 **Why Required**: Identifies who established the trust and has standing to challenge trust provisions.
@@ -4993,7 +4993,7 @@ beneficiaries, per stirpes.
 The Administrative Trustee shall be South Dakota Trust Company.
 The Investment Trustee shall be [Investment Advisor Name].
 The Distribution Trustee shall be [Primary Principal Name], 
-and upon his death or incapacity, [Secondary Principal Name].
+and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
 
 **Why Required**: Trustees must be clearly identified to administer the trust and have legal authority.
@@ -8663,7 +8663,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 
 - **Per Child**: $18,000 per year
 - **Total Family**: $72,000 per year
-- **Gift Source**: Ikechukwu and Judith (each $18,000 per child)
+- **Gift Source**: [Primary Principal Name] and [Secondary Principal Name] (each $18,000 per child)
 
 **Gifting Strategy**:
 
@@ -11008,11 +11008,11 @@ _________________________                 _________________________
 
 **Authorized Signers**:
 - [Primary Principal] (Manager)
-- [Secondary Principal] (Manager)
+- [Secondary Principal] (Advisory Member)
 
 **Limitations**:
 - Single transaction limit: $50,000
-- Requires two signatures for transactions over $10,000
+- Primary Principal has sole signature authority for all transactions (no dual signature requirement for transactions $10,000
 
 **Bank**: [Bank Name]
 **Account Type**: Business checking
@@ -28800,10 +28800,10 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 #### Voting Members
 
 **Founding Members ([Principal Names])**
-- Permanent voting members with equal voting power
+- [Primary Principal Name] serves as Chair with final decision authority; [Secondary Principal Name] serves as Advisory Member
 - Cannot be removed except by mutual agreement or incapacity
 - Hold ultimate authority over all decisions until succession is complete
-- Serve as co-chairs of the Family Council
+- [Primary Principal Name] serves as sole Chair of the Family Council
 
 **Successor Members (Children at Age 18+)**
 - Automatic membership upon reaching age 18
@@ -28861,7 +28861,7 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 2. **Proxy Voting**: Allowed with written authorization, valid for one meeting only
 3. **Secret Ballots**: Used for sensitive matters (personnel, conflicts) at request of any member
 4. **Abstentions**: Count toward quorum but not toward majority calculations
-5. **Tie-Breaking**: In case of ties, founding members have final authority
+5. **Tie-Breaking**: In case of ties, [Primary Principal Name] has final authority
 
 ### Meeting Protocols
 
@@ -29074,7 +29074,7 @@ The agenda is the roadmap for productive meetings. Poor agendas lead to unfocuse
 
 #### The Role of the Facilitator
 
-The Family Council co-chairs (Ikechukwu and Judith) serve as primary facilitators, but facilitation can rotate or be assigned to a neutral party for sensitive discussions. Effective facilitation ensures:
+The Family Council [Primary Principal Name] serves as Chair with final authority, but facilitation can rotate or be assigned to a neutral party for sensitive discussions. Effective facilitation ensures:
 - All voices are heard
 - Discussions stay on topic
 - Decisions are reached efficiently
@@ -29380,7 +29380,7 @@ Respectfully submitted,
 
 #### Role-Specific Authority
 
-**Founding Members (Ikechukwu & Judith)**
+**Founding Members ([Primary Principal Name] & [Secondary Principal Name])**
 - Final authority on all decisions until succession
 - Can override any decision with mutual agreement
 - Emergency decision-making authority
@@ -29569,7 +29569,7 @@ An emergency is any situation that threatens:
 
 #### Emergency Decision Authority
 
-**Founding Members** (Ikechukwu & Judith)
+**Founding Members** ([Primary Principal Name] & [Secondary Principal Name])
 - Can make emergency decisions unilaterally if other unavailable
 - Must consult within 24 hours if possible
 - Document all emergency decisions

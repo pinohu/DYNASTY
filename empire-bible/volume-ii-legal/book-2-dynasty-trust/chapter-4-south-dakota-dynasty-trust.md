@@ -13,7 +13,7 @@ This chapter provides the complete implementation guide for establishing and ope
 4. **Trustee Architecture** (Section 4.4): Deep dive into trustee roles and responsibilities
 
 **Who Should Read This Chapter**:
-- Founders (Ikechukwu & Judith): To understand the structure that will preserve your legacy
+- Founders ([Primary Principal Name] & [Secondary Principal Name]): To understand the structure that will preserve your legacy
 - Legal Advisors: To implement the trust correctly
 - Trustees: To understand their roles and responsibilities
 - Future Generations: To understand the structure that protects their inheritance

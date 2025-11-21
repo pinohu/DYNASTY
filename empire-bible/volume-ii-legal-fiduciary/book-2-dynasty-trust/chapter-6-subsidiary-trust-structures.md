@@ -710,7 +710,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 
 - **Per Child**: $18,000 per year
 - **Total Family**: $72,000 per year
-- **Gift Source**: Ikechukwu and Judith (each $18,000 per child)
+- **Gift Source**: [Primary Principal Name] and [Secondary Principal Name] (each $18,000 per child)
 
 **Gifting Strategy**:
 

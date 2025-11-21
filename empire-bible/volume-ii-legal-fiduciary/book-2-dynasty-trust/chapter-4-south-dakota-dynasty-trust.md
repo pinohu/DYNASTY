@@ -177,7 +177,7 @@ Assume the Dynasty Trust owns PNR Holdings LLC, which generates $2 million in an
 
 **Example: $10 Million Estate Transfer**
 
-**Scenario**: Ikechukwu and Judith transfer $10 million to a South Dakota Dynasty Trust.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] transfer $10 million to a South Dakota Dynasty Trust.
 
 **Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
@@ -216,7 +216,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Example: Three-Generation Transfer**
 
-**Scenario**: Ikechukwu and Judith want to provide for their children and grandchildren.
+**Scenario**: [Primary Principal Name] and [Secondary Principal Name] want to provide for their children and grandchildren.
 
 **Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
@@ -1287,7 +1287,7 @@ and shall be identified by Tax ID Number [EIN].
 **Example Language**:
 ```
 This trust is established by [Primary Principal Name] 
-and [Secondary Principal Name], as Grantors.
+and [Secondary Principal Name], as Grantors (with [Primary Principal Name] retaining sole administrative control).
 ```
 
 **Why Required**: Identifies who established the trust and has standing to challenge trust provisions.
@@ -1319,7 +1319,7 @@ beneficiaries, per stirpes.
 The Administrative Trustee shall be South Dakota Trust Company.
 The Investment Trustee shall be [Investment Advisor Name].
 The Distribution Trustee shall be [Primary Principal Name], 
-and upon his death or incapacity, [Secondary Principal Name].
+and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
 
 **Why Required**: Trustees must be clearly identified to administer the trust and have legal authority.

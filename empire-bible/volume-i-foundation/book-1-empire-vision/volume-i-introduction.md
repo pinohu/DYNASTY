@@ -51,7 +51,7 @@ Volume I answers the fundamental questions that must be addressed before buildin
 
 ### How to Use This Volume
 
-**For Founders (Ikechukwu & Judith):**
+**For Founders ([Primary Principal Name] & [Secondary Principal Name]):**
 - Read all chapters completely to understand the full framework
 - Customize principles and frameworks for your specific family context
 - Implement systems immediately, starting with Chapter 1
