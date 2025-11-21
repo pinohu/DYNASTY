@@ -4,7 +4,7 @@
 
 Once your South Dakota Dynasty Trust is formed and funded, proper administration becomes critical to its success. This chapter provides a comprehensive manual for trust administration, covering annual requirements, distribution standards, investment policies, and trust protector operations.
 
-Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For the Ohu-PNR Dynasty Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
+Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For the Legacy Codex Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
 
 This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your dynasty trust operates effectively and achieves its long-term goals.
 
@@ -915,7 +915,7 @@ Many dynasty trusts include age-based distribution triggers that provide benefic
 - **Moderate**: 25% at 25, 50% at 30, 100% at 35
 - **Aggressive**: 33% at 25, 66% at 30, 100% at 35
 
-**Ohu-PNR Dynasty Trust Schedule**:
+**Legacy Codex Trust Schedule**:
 
 - **Age 25**: 25% distribution
 - **Age 30**: Additional 25% (50% total)
@@ -1230,7 +1230,7 @@ Asset allocation is the foundation of investment management. This section covers
 - **Alternatives**: 10-20%
 - **Cash**: 5-10%
 
-**Ohu-PNR Dynasty Trust Allocation** (Moderate-Aggressive):
+**Legacy Codex Trust Allocation** (Moderate-Aggressive):
 - **Stocks**: 60%
 - **Bonds**: 25%
 - **Real Estate**: 10%
@@ -1269,7 +1269,7 @@ Asset allocation is the foundation of investment management. This section covers
 - **Moderate Risk**: Balance preservation and growth
 - **High Risk**: Growth focus, long-term horizon
 
-**Ohu-PNR Dynasty Trust Risk Tolerance**: Moderate-High (perpetual trust, growth focus)
+**Legacy Codex Trust Risk Tolerance**: Moderate-High (perpetual trust, growth focus)
 
 #### Time Horizon Considerations
 
@@ -1323,7 +1323,7 @@ Rebalancing maintains target allocations and manages risk. This section covers w
 - **10% Drift**: Rebalance if allocation drifts 10%
 - **Time-Based**: Rebalance quarterly or annually
 
-**Ohu-PNR Dynasty Trust Rebalancing**: Quarterly review, rebalance if drift exceeds 5%
+**Legacy Codex Trust Rebalancing**: Quarterly review, rebalance if drift exceeds 5%
 
 #### Rebalancing Process
 
@@ -1406,7 +1406,7 @@ Prohibited investments protect trust assets from inappropriate risks. This secti
    - **Examples**: Prohibited party transactions
    - **Risk**: Legal risk
 
-**Ohu-PNR Dynasty Trust Prohibitions**:
+**Legacy Codex Trust Prohibitions**:
 
 - No speculative investments
 - No single stock >10% of portfolio
@@ -1453,7 +1453,7 @@ Performance benchmarks measure investment success. This section covers benchmark
    - Similar trusts
    - Industry benchmarks
 
-**Ohu-PNR Dynasty Trust Benchmarks**:
+**Legacy Codex Trust Benchmarks**:
 
 - **Stocks**: S&P 500
 - **Bonds**: Barclays Aggregate
@@ -1692,10 +1692,10 @@ Trust Protector succession ensures continuity of oversight. This section covers 
 - Provide for replacement
 - Ensure continuity
 
-**Ohu-PNR Dynasty Trust Succession**:
+**Legacy Codex Trust Succession**:
 
-- **Initial**: Ikechukwu Polycarp Nnamdi Ohu
-- **Successor**: Judith Huchukwuyem Ohu
+- **Initial**: [Primary Principal Name]
+- **Successor**: [Secondary Principal Name]
 - **Future**: Children (when appropriate)
 
 #### Selection Process

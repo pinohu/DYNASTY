@@ -161,7 +161,7 @@
   - Participation requirements
 
 - **Family Legacy** [Volume I, Chapter 3]
-  - Ohu Family Mission
+  - [Your Family] Mission
   - Individual role definitions
   - Collective goals framework
   - Legacy impact statements

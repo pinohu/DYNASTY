@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Family Council serves as the constitutional body that governs the Ohu-PNR Dynasty Empire—the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
+The Family Council serves as the constitutional body that governs the The Legacy Codex—the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
 
 This chapter provides a complete operational framework for establishing and running a Family Council that will guide your dynasty for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
 
@@ -35,7 +35,7 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 
 #### Voting Members
 
-**Founding Members (Ikechukwu and Judith Ohu)**
+**Founding Members ([Principal Names])**
 - Permanent voting members with equal voting power
 - Cannot be removed except by mutual agreement or incapacity
 - Hold ultimate authority over all decisions until succession is complete

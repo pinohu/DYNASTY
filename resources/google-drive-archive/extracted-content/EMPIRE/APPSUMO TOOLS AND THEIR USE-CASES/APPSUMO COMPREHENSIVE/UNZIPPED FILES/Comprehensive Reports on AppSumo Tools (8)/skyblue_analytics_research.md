@@ -282,7 +282,7 @@
 
 Skyblue Analytics represents a sophisticated financial analytics platform offering professional-grade trading tools and market data analysis capabilities typically reserved for institutional clients. With only 10 AppSumo reviews averaging 4.4/5 stars, it shows limited market validation but positive feedback from qualified users.
 
-**Recommendation: ⚠️ CONDITIONALLY RECOMMENDED (For Qualified Users Only)**
+**Recommendation: WARNING: CONDITIONALLY RECOMMENDED (For Qualified Users Only)**
 
 Skyblue Analytics offers exceptional value for experienced traders and financial professionals who can fully utilize its sophisticated capabilities. However, the platform is not suitable for beginners and requires significant financial markets expertise to derive meaningful value.
 

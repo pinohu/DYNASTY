@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP): SuiteDash Support Staff
 
-## 🎯 Objective
+## Objective
 Enable support staff to efficiently manage client projects, documentation, tasks, and communication within SuiteDash.
 
 ---
@@ -18,7 +18,7 @@ Enable support staff to efficiently manage client projects, documentation, tasks
 
 ---
 
-## 🔄 Core Functions
+##  Core Functions
 ### 1. **Project Management**
 - Access project templates per client type
 - Update progress status (e.g., In Progress, Needs Info, Completed)
@@ -54,7 +54,7 @@ Enable support staff to efficiently manage client projects, documentation, tasks
 
 ---
 
-## 📞 Support Contact
+## Support Contact
 Email: helpdesk@[yourdomain].com  
 Escalations: notify Admin via @mention in SuiteDash messaging
 

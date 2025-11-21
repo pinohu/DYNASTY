@@ -1,8 +1,8 @@
-# The Ohu-PNR Dynasty Empire Bible: Master Index
+# The Legacy Codex: Master Index
 
 ## Introduction
 
-Welcome to the **Ohu-PNR Dynasty Empire Bible**. This is the comprehensive operating manual for building, managing, and preserving a multi-generational family empire. It is designed to guide the Ohu family for the next 365 years.
+Welcome to the **The Legacy Codex**. This is the comprehensive operating manual for building, managing, and preserving a multi-generational family empire. It is designed to guide [Your Family] for the next 365 years.
 
 **Total Scope:** 10 Volumes | 18 Books | 54+ Chapters | ~1,500+ Pages
 

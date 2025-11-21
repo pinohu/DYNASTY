@@ -1,7 +1,7 @@
 # Volume III: Revenue Generation Engines
 ## Introduction
 
-Volume III: Revenue Generation Engines provides the complete operational blueprint for building the revenue-generating businesses that power the Ohu-PNR Dynasty Empire. This volume covers all revenue generation strategies including professional services (notary, RON, transaction coordination, tax), directory empire operations, and real estate investment operations.
+Volume III: Revenue Generation Engines provides the complete operational blueprint for building the revenue-generating businesses that power the The Legacy Codex. This volume covers all revenue generation strategies including professional services (notary, RON, transaction coordination, tax), directory empire operations, and real estate investment operations.
 
 This volume is not theoretical—it is a practical, step-by-step implementation manual. Every chapter provides comprehensive operational guidance, templates, checklists, and real-world examples. Volume III transforms the strategic vision from Volume I and the legal structures from Volume II into actual revenue-generating businesses.
 
@@ -265,7 +265,7 @@ After reading Volume III:
 
 ### Conclusion
 
-Volume III: Revenue Generation Engines provides the complete operational blueprint for building the revenue-generating businesses that power the Ohu-PNR Dynasty Empire. By implementing the strategies, systems, and processes detailed in this volume, you will build a diversified portfolio of high-margin, scalable businesses generating $2M-9M+ in annual revenue.
+Volume III: Revenue Generation Engines provides the complete operational blueprint for building the revenue-generating businesses that power the The Legacy Codex. By implementing the strategies, systems, and processes detailed in this volume, you will build a diversified portfolio of high-margin, scalable businesses generating $2M-9M+ in annual revenue.
 
 This volume is your practical guide to revenue generation. Use it systematically, implement it comprehensively, and scale it strategically. The empire's financial foundation depends on the successful implementation of Volume III.
 

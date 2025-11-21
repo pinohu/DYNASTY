@@ -149,5 +149,5 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 
 ---
 
-*This template is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible.*
+*This template is version 1.0 and was created for the The Legacy Codex.*
 

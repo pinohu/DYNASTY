@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the **Ohu-PNR Dynasty Empire Bible**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
+Welcome to the **The Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
 
 In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Dynasty**. A dynasty is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
 
@@ -22,7 +22,7 @@ These questions are not rhetorical exercises. They are the decision-making frame
 
 ### The Philosophy of "Forever"
 
-The Ohu-PNR Dynasty is founded on the **365-Year Vision**. This number is not arbitrary. It represents a commitment that extends beyond the lifespan of any single individual, spanning roughly 12 to 15 generations. It aligns with the maximum perpetuity periods allowed by the most favorable trust jurisdictions (such as South Dakota), signaling our intent to create wealth that is **perpetual**.
+The Legacy Codex is founded on the **365-Year Vision**. This number is not arbitrary. It represents a commitment that extends beyond the lifespan of any single individual, spanning roughly 12 to 15 generations. It aligns with the maximum perpetuity periods allowed by the most favorable trust jurisdictions (such as South Dakota), signaling our intent to create wealth that is **perpetual**.
 
 **Why 365 Years?**
 
@@ -34,7 +34,7 @@ The number 365 represents:
 
 Our vision is to create a self-sustaining ecosystem of businesses, assets, and investments that provides:
 
-1. **Financial Sovereignty** for every generation of the Ohu family. This means that no descendant should ever be forced into employment out of financial necessity. They may choose to work, but they work from a position of strength, not desperation.
+1. **Financial Sovereignty** for every generation of [Your Family]. This means that no descendant should ever be forced into employment out of financial necessity. They may choose to work, but they work from a position of strength, not desperation.
 
 2. **Impactful Service** to our community and the world through our enterprises. Our businesses—from notary services to real estate—solve real problems for real people. We measure our success not just in dollars, but in lives improved.
 
@@ -115,7 +115,7 @@ How do we measure success across 365 years? We use a multi-dimensional framework
 ### The Mandate
 
 **Our Mandate:**
-> *To cultivate a thriving, diversified, and resilient empire that empowers the Ohu family to pursue their highest callings, unencumbered by financial necessity, while adhering to the strictest standards of stewardship, integrity, and excellence.*
+> *To cultivate a thriving, diversified, and resilient empire that empowers [Your Family] to pursue their highest callings, unencumbered by financial necessity, while adhering to the strictest standards of stewardship, integrity, and excellence.*
 
 This mandate is not negotiable. It is the North Star that guides every decision, from the smallest operational choice to the largest strategic initiative.
 
@@ -271,7 +271,7 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 - We maintain separate public and private personas.
 - We protect family members' personal information rigorously.
 
-**Example**: Our real estate holdings are owned by LLCs, which are owned by trusts. Public records don't reveal the Ohu family connection. We build wealth quietly.
+**Example**: Our real estate holdings are owned by LLCs, which are owned by trusts. Public records don't reveal [Your Family] connection. We build wealth quietly.
 
 #### Pillar 12: Faith
 
@@ -357,7 +357,7 @@ Every major decision (capital allocation >$50,000, new business launch, major hi
 
 ## 1.3 Success Metrics & Definitions
 
-In the Ohu-PNR Dynasty, "Wealth" is a four-dimensional concept. We track our success across four capitals, because financial wealth without human, intellectual, and social capital is incomplete and unsustainable.
+In the Legacy Codex, "Wealth" is a four-dimensional concept. We track our success across four capitals, because financial wealth without human, intellectual, and social capital is incomplete and unsustainable.
 
 ### Defining "Wealth" in the Dynasty Context
 
@@ -562,7 +562,7 @@ We use a weighted scoring system to evaluate overall Empire health:
 
 ## 1.4 The Empire Constitution
 
-This Constitution serves as the supreme law of the Ohu-PNR Dynasty. It is divided into **Foundational Laws** (Immutable) and **Operational Guidelines** (Amendable). This Constitution takes precedence over all other documents, except where superseded by applicable law.
+This Constitution serves as the supreme law of the Legacy Codex. It is divided into **Foundational Laws** (Immutable) and **Operational Guidelines** (Amendable). This Constitution takes precedence over all other documents, except where superseded by applicable law.
 
 ### Article I: Foundational Laws (Immutable)
 
@@ -583,9 +583,9 @@ This Constitution serves as the supreme law of the Ohu-PNR Dynasty. It is divide
 
 #### Law 2: The Bloodline Protection
 
-**Text**: Beneficiaries are limited to the direct lineal descendants of Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, and their spouses (while married). Adopted children are included if legally adopted before age 18.
+**Text**: Beneficiaries are limited to the direct lineal descendants of [Primary Principal Name] and [Secondary Principal Name], and their spouses (while married). Adopted children are included if legally adopted before age 18.
 
-**Rationale**: This law ensures that the Empire remains within the Ohu bloodline and prevents dilution through non-family beneficiaries.
+**Rationale**: This law ensures that the Empire remains within the [family] bloodline and prevents dilution through non-family beneficiaries.
 
 **Enforcement**: The Trust Protector must approve any addition of beneficiaries. The Administrative Trustee must verify beneficiary eligibility before any distribution.
 

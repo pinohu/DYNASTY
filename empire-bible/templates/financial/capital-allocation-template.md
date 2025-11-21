@@ -36,7 +36,7 @@ Use this template to track and plan capital allocation according to the 70/20/10
 
 **Target Return**: 8%+ cash-on-cash
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -61,7 +61,7 @@ Use this template to track and plan capital allocation according to the 70/20/10
 
 **Expected Return**: 3x+ within 5 years
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -77,15 +77,15 @@ Use this template to track and plan capital allocation according to the 70/20/10
 
 | Reserve Type | Target | Current | Status |
 |-------------|--------|---------|--------|
-| Operating Reserves (12 months) | $_______ | $_______ | [ ] ✅ [ ] ⚠️ [ ] ❌ |
-| Emergency Fund | $_______ | $_______ | [ ] ✅ [ ] ⚠️ [ ] ❌ |
-| Opportunity Fund | $_______ | $_______ | [ ] ✅ [ ] ⚠️ [ ] ❌ |
-| Trust Reserves | $_______ | $_______ | [ ] ✅ [ ] ⚠️ [ ] ❌ |
+| Operating Reserves (12 months) | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
+| Emergency Fund | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
+| Opportunity Fund | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
+| Trust Reserves | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
 | **TOTAL** | **$_______** | **$_______** | |
 
 **Liquidity**: [ ] High [ ] Medium [ ] Low
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -98,7 +98,7 @@ Use this template to track and plan capital allocation according to the 70/20/10
 - Growth Investments: _______________% (Target: 20%)
 - Reserves: _______________% (Target: 10%)
 
-**Balance Status**: [ ] ✅ Balanced [ ] ⚠️ Needs Adjustment [ ] ❌ Unbalanced
+**Balance Status**: [ ] ✅ Balanced [ ] WARNING: Needs Adjustment [ ] ❌ Unbalanced
 
 **Adjustments Needed**: 
 _________________________________________________________________
@@ -149,10 +149,10 @@ _________________________________________________________________
 - Trust Reserves: $_______________
 
 **Current vs. Target**:
-- Operating: $_______ / $_______ ([ ] ✅ [ ] ⚠️ [ ] ❌)
-- Emergency: $_______ / $_______ ([ ] ✅ [ ] ⚠️ [ ] ❌)
-- Opportunity: $_______ / $_______ ([ ] ✅ [ ] ⚠️ [ ] ❌)
-- Trust: $_______ / $_______ ([ ] ✅ [ ] ⚠️ [ ] ❌)
+- Operating: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
+- Emergency: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
+- Opportunity: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
+- Trust: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
 
 **Actions Needed**: 
 _________________________________________________________________
@@ -212,7 +212,7 @@ _________________________________________________________________
 
 **Target**: 8%+ cash-on-cash
 
-**Status**: [ ] ✅ On Target [ ] ⚠️ Below Target [ ] ❌ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -230,7 +230,7 @@ _________________________________________________________________
 
 **Target**: 3x+ return within 5 years
 
-**Status**: [ ] ✅ On Track [ ] ⚠️ Behind [ ] ❌ Off Track
+**Status**: [ ] ✅ On Track [ ] WARNING: Behind [ ] ❌ Off Track
 
 ---
 

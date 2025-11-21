@@ -7,7 +7,7 @@
 **AppSumo Deal:** SOLD OUT - $49-$297 (Originally $49-$588+ value)  
 **Core Purpose:** AI-powered meeting platform designed to create and host immersive customer experiences via webinars, workshops, and product demos with interactive agendas, breakout rooms, and comprehensive collaboration tools.
 
-## ⚠️ CRITICAL WARNING: COMPANY SHUTDOWN
+## WARNING: CRITICAL WARNING: COMPANY SHUTDOWN
 **Sessions has permanently shut down operations as of 2024. All customer data has been lost, and the platform is no longer accessible. The original domain has been hijacked by a gambling website. AppSumo customers who purchased lifetime deals have lost their investment and access to the platform.**
 
 ## 2. Primary Features & Capabilities (Historical)

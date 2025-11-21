@@ -17,9 +17,9 @@
 - ✅ **Documentation**: Complete
 - ✅ **Index**: Comprehensive index integrated
 
-### ⚠️ MINOR ISSUES
+### WARNING: MINOR ISSUES
 
-- ⚠️ **Duplicate Files**: 2 duplicate chapter files detected (non-blocking)
+- WARNING: **Duplicate Files**: 2 duplicate chapter files detected (non-blocking)
   - `chapter-10-notary-ron-services.md` (2 copies)
   - `chapter-11-transaction-coordination.md` (2 copies)
   - **Impact**: None - Compilation script handles correctly

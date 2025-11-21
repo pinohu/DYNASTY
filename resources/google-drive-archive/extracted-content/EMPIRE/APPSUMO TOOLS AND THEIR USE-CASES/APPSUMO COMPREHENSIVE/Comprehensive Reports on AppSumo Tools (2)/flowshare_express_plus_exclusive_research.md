@@ -94,11 +94,11 @@
 ## Company Information
 - **Product**: FlowShare process documentation software
 - **Founder**: Oliver_FlowShare (active on AppSumo)
-- **Status**: ⚠️ **MIXED RELIABILITY** - Active development but significant technical issues
+- **Status**: WARNING: **MIXED RELIABILITY** - Active development but significant technical issues
 - **Support**: Responsive founder but product stability concerns
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** (when available) - FlowShare Express has excellent potential but serious technical issues.
+WARNING: **CAUTIOUSLY RECOMMENDED** (when available) - FlowShare Express has excellent potential but serious technical issues.
 
 **Key Strengths:**
 - **Time-Saving Concept**: Reduces SOP creation from hours to minutes
@@ -181,7 +181,7 @@ Since FlowShare Express is sold out and has reliability issues, consider:
 January 2025 - Based on AppSumo sold out status and comprehensive user feedback analysis
 
 ## Important Notes
-- **⚠️ STABILITY CONCERNS**: Multiple reports of crashes and data loss
+- **WARNING: STABILITY CONCERNS**: Multiple reports of crashes and data loss
 - **Deal Ended**: Unfortunately no longer available on AppSumo
 - **Windows Only**: Limited to Windows platform
 - **Express Limitations**: Reduced features compared to Professional version

@@ -9,8 +9,8 @@ Fr# THE OHU-PNR EMPIRE FRAMEWORK
 Building a $10M+ annual revenue business empire through integrated operations across real estate, technology, professional services, and directory businesses, all structured within a Dynasty Trust framework for 365+ year multi-generational wealth preservation.
 
 ## Core Participants
-- **Principals**: Ikechukwu Polycarp Nnamdi Ohu & Judith Huchukwuyem Ohu
-- **Beneficiaries**: Ivan Osemeke, Jeremy Chiwuikem, Kikachukwu Theodore, Chimenime Xavier Ikechukwu Ohu
+- **Principals**: [Primary Principal Name] & [Secondary Principal Name]
+- **Beneficiaries**: [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], Chimenime Xavier [Primary Principal]
 - **Future Generations**: Grandchildren and beyond (per stirpes distribution)
 
 ## Strategic Objectives
@@ -1076,7 +1076,7 @@ Your empire awaits. Begin today.
 
 *"Build something so valuable that it outlives you by centuries. Create systems so robust they run without you. Establish wealth so protected it serves generations you'll never meet. This is the path of empire builders. This is your path."*
 
-**- The Ohu-PNR Empire Framework -**
+**- The [Your Organization] Empire Framework -**
 
 **Version 1.0 | November 2024**
 

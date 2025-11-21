@@ -51,7 +51,7 @@ Book 1: Empire Vision & Principles
 │       └──← Chapter 2.1 (Horizon strategies)
 │
 └── Chapter 3: Family Legacy Framework
-    ├── Section 3.1: Ohu Family Mission
+    ├── Section 3.1: [Your Family] Mission
     │   ├──← Chapter 1.1 (Vision statement)
     │   ├──← Chapter 1.2 (Core values)
     │   └──→ Volume VI, Chapter 31 (Family Council)

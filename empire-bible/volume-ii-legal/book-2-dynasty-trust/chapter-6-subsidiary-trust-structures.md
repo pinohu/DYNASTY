@@ -125,8 +125,8 @@ Crummey powers are essential for ILITs to qualify premium payments for the annua
 
 #### Multiple Beneficiaries
 
-**For Ohu-PNR ILIT**:
-- Beneficiaries: Ivan, Jeremy, Kikachukwu, Chimenime (four children)
+**For [Your Organization] ILIT**:
+- Beneficiaries: [Beneficiary Names] (four children)
 - Each has withdrawal right
 - Each receives Crummey notice
 - Total withdrawal right: $18,000 × 4 = $72,000
@@ -210,7 +210,7 @@ Crummey powers are essential for ILITs to qualify premium payments for the annua
 
 #### Policy Type Selection
 
-**Indexed Universal Life (IUL)** - **Recommended for Ohu-PNR**:
+**Indexed Universal Life (IUL)** - **Recommended for [Your Organization]**:
 - **Benefits**: 
   - Cash value growth potential
   - Living benefits access
@@ -334,10 +334,10 @@ Children's Crummey Trusts provide an early wealth transfer strategy, allowing an
 #### Trust Structure (Per Child)
 
 **Four Separate Trusts**:
-- Ivan Osemeke Crummey Trust
-- Jeremy Chiwuikem Crummey Trust
-- Kikachukwu Theodore Crummey Trust
-- Chimenime Xavier Ikechukwu Ohu Crummey Trust
+- [Beneficiary 1] Crummey Trust
+- [Beneficiary 2] Crummey Trust
+- [Beneficiary 3] Crummey Trust
+- Chimenime Xavier [Primary Principal] Crummey Trust
 
 **Each Trust**:
 - Separate legal entity
@@ -656,7 +656,7 @@ A Charitable Remainder Trust provides tax-efficient charitable giving while prov
 
 **Typical Range**: 5-7%
 
-**For Ohu-PNR**: 5-6% recommended (balance income and deduction)
+**For [Your Organization]**: 5-6% recommended (balance income and deduction)
 
 ### Remainder Beneficiary Selection
 
@@ -728,7 +728,7 @@ A Charitable Remainder Trust provides tax-efficient charitable giving while prov
 - Tax-efficient approach
 - Long-term focus
 
-**Recommendation**: Hybrid strategy for Ohu-PNR CRT
+**Recommendation**: Hybrid strategy for [Your Organization] CRT
 
 ---
 

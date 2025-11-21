@@ -17,15 +17,15 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Number of Dynasty Trusts**: _______________ trusts under administration
   - **Target**: 100+ dynasty trusts
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Years of Experience**: _______________ years administering dynasty trusts
   - **Target**: 10+ years
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Average Trust Size**: $_______________
   - **Target**: Similar to your trust size
-  - **Status**: [ ] ✅ Appropriate [ ] ⚠️ Different [ ] ❌ Mismatch
+  - **Status**: [ ] ✅ Appropriate [ ] WARNING: Different [ ] ❌ Mismatch
 
 - [ ] **Track Record**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -43,7 +43,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
   - [ ] Dynasty trusts are side business
   - [ ] General trust practice
   - [ ] Limited dynasty expertise
-  - **Status**: [ ] ✅ Specialized [ ] ⚠️ General [ ] ❌ Limited
+  - **Status**: [ ] ✅ Specialized [ ] WARNING: General [ ] ❌ Limited
 
 **Experience Score**: _______________/10
 
@@ -56,11 +56,11 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 - [ ] **Rating Agency**: _______________
 - [ ] **Rating**: _______________
   - **Target**: A+ or better
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Capital**: $_______________
   - **Target**: $50M+ in capital
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Financial History**: 
   - [ ] Strong and stable
@@ -78,7 +78,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
   - [ ] Assets held in segregated accounts
   - [ ] FDIC/SIPC insurance where applicable
   - [ ] Strong protection mechanisms
-  - **Status**: [ ] ✅ Strong [ ] ⚠️ Adequate [ ] ❌ Weak
+  - **Status**: [ ] ✅ Strong [ ] WARNING: Adequate [ ] ❌ Weak
 
 **Financial Stability Score**: _______________/10
 
@@ -90,7 +90,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Retention Rate**: _______________%
   - **Target**: 95%+
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Client Satisfaction**: 
   - [ ] Excellent (9-10/10)
@@ -103,7 +103,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Response Time**: _______________ hours
   - **Target**: 24 hours or less
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Communication Quality**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor

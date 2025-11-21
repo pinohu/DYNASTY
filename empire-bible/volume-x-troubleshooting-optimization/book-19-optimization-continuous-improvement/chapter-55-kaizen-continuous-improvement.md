@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Kaizen (改善) is a Japanese philosophy meaning "change for better" or "continuous improvement." In the Ohu-PNR Dynasty Empire, Kaizen is not a program or initiative—it is the fundamental operating system. It is the belief that every process, every system, and every person can be improved, and that small, incremental improvements compound into extraordinary results over time.
+Kaizen (改善) is a Japanese philosophy meaning "change for better" or "continuous improvement." In the The Legacy Codex, Kaizen is not a program or initiative—it is the fundamental operating system. It is the belief that every process, every system, and every person can be improved, and that small, incremental improvements compound into extraordinary results over time.
 
 This chapter provides the complete framework for embedding Kaizen into the DNA of the empire. While Chapter 54 focused on optimization techniques, this chapter focuses on the *culture* and *methodology* of continuous improvement—the daily practice of making everything 1% better.
 

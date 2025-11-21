@@ -795,10 +795,10 @@ Internal Team Notifications:
 **Action 1: Victory Notification**
 159. **Click "+Add Action"** → Select "Send Internal Notification"
 160. **Recipients:** Sales team, management, customer success
-161. **Subject:** `🎉 CLOSED WON: {{contact.company}} - ${{deal.expected_value}}`
+161. **Subject:** `CLOSED WON: {{contact.company}} - ${{deal.expected_value}}`
 162. **Message:**
 ```
-🎉 DEAL CLOSED! 🎉
+DEAL CLOSED! 
 
 Company: {{contact.company}}
 Contact: {{contact.first_name}} {{contact.last_name}}
@@ -818,14 +818,14 @@ CLOSER Framework Performance:
 Onboarding starts: {{deal.onboarding_date}}
 Success Manager: {{deal.success_manager}}
 
-Great work team! 🚀
+Great work team! 
 ```
 163. **Click "Save Action"**
 
 **Action 2: Customer Welcome Email**
 164. **Click "+Add Action"** → Select "Send Email"
 165. **Template Name:** `Welcome - You Made a Great Decision`
-166. **Subject:** `Welcome to {{company_name}}, {{contact.first_name}}! 🎉`
+166. **Subject:** `Welcome to {{company_name}}, {{contact.first_name}}! `
 167. **Body:**
 ```
 Hi {{contact.first_name}},
@@ -839,10 +839,10 @@ Here's what happens next:
 📅 **Onboarding Kickoff**
 Your Customer Success Manager, {{success_manager.name}}, will reach out within 24 hours to schedule your onboarding kickoff meeting.
 
-📋 **Implementation Timeline**
+**Implementation Timeline**
 We'll have you up and running within {{implementation_timeline}}, with your first results visible within {{first_results_timeline}}.
 
-🎯 **Your Success Metrics**
+**Your Success Metrics**
 We'll be tracking progress against the specific outcomes you mentioned:
 - {{outcome_1}}
 - {{outcome_2}}
@@ -1003,10 +1003,10 @@ Overall Score: {{contact.Calculated_Value}}/10 (HIGH)
 
 IMMEDIATE ACTION REQUIRED:
 ⏰ Contact within 30 minutes
-📞 Phone call first, then email
-🎯 Focus on high-value outcome they want
+Phone call first, then email
+Focus on high-value outcome they want
 ⚡ Create urgency around timeline
-💰 Position premium solution
+ Position premium solution
 
 This prospect has optimal characteristics for our highest-value offerings. Prioritize immediately.
 ```
@@ -1069,7 +1069,7 @@ return closeDate.toISOString().split('T')[0];
 
 **Sub-Action 3.2: Standard Follow-up Task**
 61. **Click "+Add Sub-Action"** → Select `Create Task`
-62. **Task Title:** Type `📞 Medium Value: Standard follow-up - {{contact.first_name}} {{contact.last_name}}`
+62. **Task Title:** Type `Medium Value: Standard follow-up - {{contact.first_name}} {{contact.last_name}}`
 63. **Task Description:**
 ```
 MEDIUM-VALUE PROSPECT
@@ -1087,9 +1087,9 @@ VALUE BREAKDOWN:
 FOLLOW-UP STRATEGY:
 ⏰ Contact within 4 hours
 📧 Email first, follow with phone call
-🎯 Focus on building urgency and likelihood
-📈 Position standard solution offerings
-🔄 Nurture for potential value increase
+Focus on building urgency and likelihood
+ Position standard solution offerings
+ Nurture for potential value increase
 
 Solid prospect - follow standard sales process with emphasis on value building.
 ```
@@ -1161,10 +1161,10 @@ CURRENT LIMITATIONS:
 
 NURTURE STRATEGY:
 📧 Add to educational email sequence
-📚 Provide value-building content
+Provide value-building content
 ⏰ Quarterly check-ins for changes
-🎯 Focus on increasing dream outcome and likelihood scores
-📈 Monitor for job changes, company growth, etc.
+Focus on increasing dream outcome and likelihood scores
+ Monitor for job changes, company growth, etc.
 
 NOT SALES-READY - Focus on long-term relationship building and education.
 ```
@@ -1640,13 +1640,13 @@ IMMEDIATE ACTION REQUIRED!
 
 Contact Details:
 👤 Name: {{contact.first_name}} {{contact.last_name}}
-🏢 Company: {{contact.company}}
+ Company: {{contact.company}}
 📧 Email: {{contact.email}}
-📞 Phone: {{contact.phone}}
+Phone: {{contact.phone}}
 
 Lead Intelligence:
-🎯 Lead Score: {{contact.Lead_Score}}/100 (RED HOT!)
-💰 Budget: {{form.budget}}
+Lead Score: {{contact.Lead_Score}}/100 (RED HOT!)
+ Budget: {{form.budget}}
 ⏰ Timeline: {{form.timeline}}
 🎪 Authority: {{form.authority}}
 🔥 Challenge: {{form.primary_challenge}}
@@ -1660,8 +1660,8 @@ Value Equation Preview:
 REQUIRED ACTIONS:
 ⏰ Call within 5 minutes
 💬 Use CLOSER framework immediately
-🎯 Position premium solution
-💰 Qualify for enterprise offering
+Position premium solution
+ Qualify for enterprise offering
 
 This is a premium prospect. Drop everything and contact immediately!
 ```
@@ -1770,27 +1770,27 @@ SUCCESS METRICS:
 **Sub-Action 4.1: Standard Sales Alert**
 135. **Click "+Add Sub-Action"** → Select `Send Internal Notification`
 136. **Recipients:** Sales Development Rep
-137. **Subject:** `📞 Warm Lead: {{contact.first_name}} {{contact.last_name}} - Score {{contact.Lead_Score}}`
+137. **Subject:** `Warm Lead: {{contact.first_name}} {{contact.last_name}} - Score {{contact.Lead_Score}}`
 138. **Message:**
 ```
-📞 WARM LEAD NOTIFICATION
+WARM LEAD NOTIFICATION
 
 Contact: {{contact.first_name}} {{contact.last_name}}
 Company: {{contact.company}}
 Score: {{contact.Lead_Score}}/100 (WARM)
 
 Key Details:
-💰 Budget: {{form.budget}}
+ Budget: {{form.budget}}
 ⏰ Timeline: {{form.timeline}}
-🎯 Challenge: {{form.primary_challenge}}
+Challenge: {{form.primary_challenge}}
 👤 Authority: {{form.authority}}
 
 Follow-up Strategy:
 ⏰ Contact within 2 hours
 📧 Send value-driven email first
-📞 Follow up with phone call
-🎯 Use CLOSER framework
-📈 Position standard solution
+Follow up with phone call
+Use CLOSER framework
+ Position standard solution
 
 Good prospect - follow standard sales process.
 ```
@@ -1807,7 +1807,7 @@ Good prospect - follow standard sales process.
 
 **Sub-Action 4.3: Follow-up Task Creation**
 147. **Click "+Add Sub-Action"** → Select `Create Task`
-148. **Task Title:** `📞 Contact warm lead: {{contact.first_name}} {{contact.last_name}}`
+148. **Task Title:** `Contact warm lead: {{contact.first_name}} {{contact.last_name}}`
 149. **Task Description:** Standard follow-up process with CLOSER framework
 150. **Assigned to:** Sales Development Rep
 151. **Due Date:** 2 hours from now
@@ -1857,7 +1857,7 @@ Good prospect - follow standard sales process.
     <!-- Header Section -->
     <div style="text-align: center; margin-bottom: 40px;">
         <h1 style="color: #2c3e50; font-size: 2.5em; margin-bottom: 10px;">
-            Thank You, {{contact.first_name}}! 🎉
+            Thank You, {{contact.first_name}}! 
         </h1>
         <p style="font-size: 1.2em; color: #7f8c8d; margin-bottom: 30px;">
             We've received your information and our team is already reviewing your specific situation.
@@ -1878,7 +1878,7 @@ Good prospect - follow standard sales process.
             
             <div style="flex: 1; min-width: 250px;">
                 <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 10px; margin-bottom: 15px;">
-                    <h3 style="margin: 0 0 10px 0; color: #fff;">📞 Within 2 Hours</h3>
+                    <h3 style="margin: 0 0 10px 0; color: #fff;">Within 2 Hours</h3>
                     <p style="margin: 0; font-size: 0.9em;">{{#if contact.Lead_Score >= 85}}Senior consultant{{else}}Account specialist{{/if}} reaches out to discuss your situation</p>
                 </div>
             </div>
@@ -1890,7 +1890,7 @@ Good prospect - follow standard sales process.
                 {{#if contact.Lead_Score >= 85}}
                 🔥 High Priority: You'll hear from our senior team within 30 minutes
                 {{else if contact.Lead_Score >= 60}}
-                📞 Standard Priority: We'll contact you within 2 hours
+                Standard Priority: We'll contact you within 2 hours
                 {{else}}
                 📧 We'll send valuable resources and schedule a follow-up call
                 {{/if}}

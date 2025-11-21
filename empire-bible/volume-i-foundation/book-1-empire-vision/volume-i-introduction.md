@@ -3,7 +3,7 @@
 
 ## Introduction to Volume I
 
-Volume I: Foundation & Philosophy establishes the philosophical and strategic foundation for the Ohu-PNR Dynasty Empire—a multi-generational business enterprise designed to generate $10M+ in annual revenue while preserving and growing wealth across 365 years.
+Volume I: Foundation & Philosophy establishes the philosophical and strategic foundation for the The Legacy Codex—a multi-generational business enterprise designed to generate $10M+ in annual revenue while preserving and growing wealth across 365 years.
 
 This volume is not theoretical philosophy—it is practical architecture. Every principle, every framework, every system connects directly to operational decisions, legal structures, and family governance protocols detailed in subsequent volumes. Volume I provides the foundation upon which all other systems rest.
 
@@ -44,7 +44,7 @@ Volume I answers the fundamental questions that must be addressed before buildin
 - Section 2.4: Growth vs Preservation Balance
 
 **Chapter 3: Family Legacy Framework** (~30 pages, 9,000 words)
-- Section 3.1: The Ohu Family Mission
+- Section 3.1: The [Your Family] Mission
 - Section 3.2: Values Transmission System
 - Section 3.3: Succession Philosophy
 - Section 3.4: Wealth Psychology Training
@@ -57,7 +57,7 @@ Volume I answers the fundamental questions that must be addressed before buildin
 - Implement systems immediately, starting with Chapter 1
 - Use frameworks in Family Council meetings and strategic planning
 
-**For Next Generation (Ivan, Jeremy, Kikachukwu, Chimenime):**
+**For Next Generation ([Beneficiary Names]):**
 - Age-appropriate reading based on development level
 - Focus on values transmission sections relevant to your age
 - Participate in education programs and practical exercises
@@ -178,7 +178,7 @@ Volume I is successful when:
 
 ### Chapter 1: The Dynasty Manifesto
 
-The Dynasty Manifesto establishes the philosophical foundation for the Ohu-PNR Dynasty Empire. This chapter defines the 365-year vision that transcends individual lifetimes, the core values that guide every decision, the success metrics that measure progress, and the constitutional framework that governs operations.
+The Dynasty Manifesto establishes the philosophical foundation for the The Legacy Codex. This chapter defines the 365-year vision that transcends individual lifetimes, the core values that guide every decision, the success metrics that measure progress, and the constitutional framework that governs operations.
 
 **Key Concepts:**
 - Perpetual vision thinking (365 years vs. 3-5 years)

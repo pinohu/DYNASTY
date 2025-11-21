@@ -1,7 +1,7 @@
 # Volume IV Master Implementation Roadmap
 ## 20-Week Complete Implementation Plan
 
-**Objective**: Transform the Ohu-PNR Dynasty Empire into a fully automated, AI-powered, marketing-driven business system.
+**Objective**: Transform the The Legacy Codex into a fully automated, AI-powered, marketing-driven business system.
 
 **Timeline**: 20 Weeks (5 Months)  
 **Prerequisites**: SuiteDash Platinum Account, Server for Activepieces (optional), API Keys (OpenAI, Anthropic)

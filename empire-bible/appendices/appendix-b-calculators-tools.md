@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This appendix provides the logic and frameworks for the essential financial calculators used in the Ohu-PNR Dynasty Empire. While these are presented here as formulas and concepts, they should be implemented as spreadsheets (Excel/Google Sheets) or built into your SuiteDash portal for daily use.
+This appendix provides the logic and frameworks for the essential financial calculators used in the The Legacy Codex. While these are presented here as formulas and concepts, they should be implemented as spreadsheets (Excel/Google Sheets) or built into your SuiteDash portal for daily use.
 
 ---
 

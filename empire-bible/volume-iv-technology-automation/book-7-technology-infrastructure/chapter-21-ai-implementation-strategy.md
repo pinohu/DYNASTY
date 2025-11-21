@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Artificial Intelligence represents the next evolution of automation—moving beyond rule-based workflows to intelligent systems that can understand context, make decisions, and adapt to changing conditions. For the Ohu-PNR Dynasty Empire, AI implementation transforms content creation from a time-consuming manual process into an automated system that scales infinitely, turns customer service into a 24/7 operation without proportional cost increases, and enables data-driven decision-making that optimizes operations continuously.
+Artificial Intelligence represents the next evolution of automation—moving beyond rule-based workflows to intelligent systems that can understand context, make decisions, and adapt to changing conditions. For the The Legacy Codex, AI implementation transforms content creation from a time-consuming manual process into an automated system that scales infinitely, turns customer service into a 24/7 operation without proportional cost increases, and enables data-driven decision-making that optimizes operations continuously.
 
 This chapter provides a comprehensive guide to implementing AI across your entire business empire. You'll learn how to select the right AI tools for each use case, integrate ChatGPT and Claude APIs into your automation workflows, manage costs while maximizing value, develop content generation systems that produce high-quality output at scale, build customer service automation that handles routine inquiries while escalating complex issues appropriately, and implement operational AI that analyzes data, predicts outcomes, and optimizes processes.
 
@@ -1585,7 +1585,7 @@ Would you like to:
 
 ## Chapter Summary
 
-This chapter has provided a comprehensive guide to implementing AI across your Ohu-PNR Dynasty Empire. You've learned:
+This chapter has provided a comprehensive guide to implementing AI across your The Legacy Codex. You've learned:
 
 1. **AI Tool Selection & Setup:** Model selection, API integration, cost management, use case development, and ROI tracking
 2. **Content Generation Systems:** Blog post automation, social media content, email campaigns, video scripts, and SEO optimization

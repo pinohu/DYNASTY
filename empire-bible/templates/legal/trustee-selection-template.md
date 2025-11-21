@@ -138,7 +138,7 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 
 - [ ] **Response Time**: _______________ hours
   - **Target**: 24 hours or less
-  - **Status**: [ ] ✅ Meets [ ] ⚠️ Close [ ] ❌ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Communication Quality**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor

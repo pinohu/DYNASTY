@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The South Dakota Dynasty Trust (SDDT) is the **Ultimate Parent Vault** of the Ohu-PNR Dynasty Empire. It is not merely a legal structure; it is the mechanism that transforms the 365-Year Vision from philosophy into legal reality. This trust will outlive its founders by centuries, preserving wealth, protecting assets, and providing for generations yet unborn.
+The South Dakota Dynasty Trust (SDDT) is the **Ultimate Parent Vault** of the The Legacy Codex. It is not merely a legal structure; it is the mechanism that transforms the 365-Year Vision from philosophy into legal reality. This trust will outlive its founders by centuries, preserving wealth, protecting assets, and providing for generations yet unborn.
 
 This chapter provides the complete implementation guide for establishing and operating the South Dakota Dynasty Trust. Every detail matters when building a structure designed to last 365 years. A single oversight today could compromise the entire dynasty tomorrow.
 
@@ -349,7 +349,7 @@ The most critical advantage of South Dakota is its **365-year rule against perpe
 | Charging Order | ✅ Strong | ✅ Strong | ✅ Strong | ✅ Strong |
 | Spendthrift | ✅ Top 1% | ✅ Strong | ✅ Strong | ✅ Strong |
 | Discretionary Distributions | ✅ Strong | ✅ Strong | ✅ Strong | ✅ Strong |
-| Case Law Support | ✅ Extensive | ✅ Good | ⚠️ Limited | ⚠️ Limited |
+| Case Law Support | ✅ Extensive | ✅ Good | WARNING: Limited | WARNING: Limited |
 
 **Verdict**: South Dakota provides the strongest creditor protection due to extensive case law and strong statutory protections.
 

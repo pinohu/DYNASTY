@@ -2,7 +2,7 @@
 
 ## Volume Overview
 
-**Volume X: Troubleshooting & Optimization** is the "mechanic's manual" for the Ohu-PNR Dynasty Empire. While other volumes focus on building and growing, this volume focuses on fixing, stabilizing, and perfecting. It provides the protocols for handling the inevitable challenges of business and the methodologies for achieving peak performance.
+**Volume X: Troubleshooting & Optimization** is the "mechanic's manual" for the The Legacy Codex. While other volumes focus on building and growing, this volume focuses on fixing, stabilizing, and perfecting. It provides the protocols for handling the inevitable challenges of business and the methodologies for achieving peak performance.
 
 **Status**: ✅ **COMPLETE AND PRODUCTION-READY**
 

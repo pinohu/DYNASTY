@@ -181,27 +181,27 @@
 ## Family Contacts
 
 ### Family Members
-- **Ikechukwu Polycarp Nnamdi Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Primary Principal Name]** [Volume I, Chapter 3, Section 3.1]
   - Role: Founder & CEO
   - Contact: [To be filled]
 
-- **Judith Huchukwuyem Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Secondary Principal Name]** [Volume I, Chapter 3, Section 3.1]
   - Role: Co-Founder & COO
   - Contact: [To be filled]
 
-- **Ivan Osemeke Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Beneficiary 1]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Jeremy Chiwuikem Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Beneficiary 2]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Kikachukwu Theodore Ohu** [Volume I, Chapter 3, Section 3.1]
+- **[Beneficiary 3]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Chimenime Xavier Ikechukwu Ohu** [Volume I, Chapter 3, Section 3.1]
+- **Chimenime Xavier [Primary Principal]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Paid advertising accelerates growth for the Ohu-PNR Dynasty Empire by putting your message in front of qualified prospects at the exact moment they're searching for your services. While organic marketing builds long-term assets, paid advertising generates immediate results—driving traffic, leads, and revenue within days of campaign launch. When executed strategically, paid advertising complements organic efforts, filling gaps in your marketing funnel and scaling revenue faster than organic channels alone.
+Paid advertising accelerates growth for the The Legacy Codex by putting your message in front of qualified prospects at the exact moment they're searching for your services. While organic marketing builds long-term assets, paid advertising generates immediate results—driving traffic, leads, and revenue within days of campaign launch. When executed strategically, paid advertising complements organic efforts, filling gaps in your marketing funnel and scaling revenue faster than organic channels alone.
 
 This chapter provides a comprehensive guide to mastering paid advertising across Google Ads, Facebook/Meta, LinkedIn, and other platforms. You'll learn how to structure accounts for maximum performance, create compelling ad copy that converts, design landing pages that turn clicks into customers, implement conversion tracking that measures true ROI, and optimize campaigns continuously to improve performance and reduce costs.
 
@@ -1228,7 +1228,7 @@ LTV = Average Order Value × Purchase Frequency × Customer Lifespan
 
 ## Chapter Summary
 
-This chapter has provided a comprehensive guide to mastering paid advertising for your Ohu-PNR Dynasty Empire. You've learned:
+This chapter has provided a comprehensive guide to mastering paid advertising for your The Legacy Codex. You've learned:
 
 1. **Google Ads Mastery:** Account structure, keyword strategies, ad copy optimization, landing pages, and conversion tracking
 2. **Facebook/Meta Advertising:** Audience targeting, creative strategies, campaign objectives, retargeting, and budget optimization

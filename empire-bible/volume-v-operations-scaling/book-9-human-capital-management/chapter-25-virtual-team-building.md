@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Ohu-PNR Dynasty Empire is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
+The Legacy Codex is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
 
 Virtual team building is not about finding "cheap labor." It's about accessing global talent pools, creating 24/5 operational coverage, and building a scalable workforce that grows with your empire. The systems in this chapter have been battle-tested across hundreds of virtual team members, refined through iteration, and integrated with the North Star Dashboard v3 and Empire Automation – Financial Tracker to ensure every hire is tracked, measured, and optimized.
 

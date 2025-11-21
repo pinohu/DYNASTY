@@ -330,7 +330,7 @@ This will:
 
 ---
 
-**THE OHU-PNR DYNASTY EMPIRE BIBLE**  
+**THE LEGACY CODEX**  
 **100% Complete - Ready for Use**
 
 ---

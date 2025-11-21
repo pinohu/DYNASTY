@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Tax is your single largest expense. In the Ohu-PNR Dynasty Empire, we view tax not as a mandatory obligation to be passively paid, but as a set of incentives to be actively managed. The government writes the tax code to encourage certain behaviors (hiring, investing, building housing). By aligning our activities with these incentives, we legally and ethically minimize our tax burden.
+Tax is your single largest expense. In the The Legacy Codex, we view tax not as a mandatory obligation to be passively paid, but as a set of incentives to be actively managed. The government writes the tax code to encourage certain behaviors (hiring, investing, building housing). By aligning our activities with these incentives, we legally and ethically minimize our tax burden.
 
 This chapter details the strategies for implementing the tax planning frameworks outlined in Volume II. It transforms theoretical tax strategies into operational systems that maximize wealth retention through legal optimization.
 

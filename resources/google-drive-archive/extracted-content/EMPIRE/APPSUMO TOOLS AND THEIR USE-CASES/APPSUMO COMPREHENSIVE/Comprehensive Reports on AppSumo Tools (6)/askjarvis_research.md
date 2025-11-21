@@ -3,7 +3,7 @@
 ## Executive Summary
 **AskJarvis** was a development assistant platform designed to help developers code faster with syntax and documentation generators, codebase management, IDE extensions, and AI-powered coding assistance. Originally sold on AppSumo with exceptional user reviews (4.88/5 from 168 users), the platform underwent significant changes including a brand transition to AskCodi and service interruptions due to underlying engine discontinuation.
 
-**Current Status**: ⚠️ **CONDITIONALLY RECOMMENDED** - Platform transitioned to AskCodi and is operational, but original branding abandoned
+**Current Status**: WARNING: **CONDITIONALLY RECOMMENDED** - Platform transitioned to AskCodi and is operational, but original branding abandoned
 **AppSumo Deal**: SOLD OUT - 3 License Tiers ($59 lifetime access)
 **User Rating**: 4.88/5 stars (168 verified AppSumo reviews)
 
@@ -198,7 +198,7 @@ AskJarvis was an AI-powered development assistant offering:
 ### Current Status Assessment
 AskJarvis underwent a significant transition to AskCodi, which is now operational and appears stable. However, the original branding was abandoned, and users experienced service interruptions during the transition period.
 
-### Recommendation: ⚠️ **CONDITIONALLY RECOMMENDED**
+### Recommendation: WARNING: **CONDITIONALLY RECOMMENDED**
 
 **For Existing Users**:
 - **Migrate to AskCodi**: Ensure account transition is complete

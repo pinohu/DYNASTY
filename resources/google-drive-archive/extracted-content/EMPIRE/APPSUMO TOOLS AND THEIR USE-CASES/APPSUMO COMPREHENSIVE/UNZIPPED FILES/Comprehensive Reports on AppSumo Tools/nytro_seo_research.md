@@ -63,7 +63,7 @@
 - **Technical issues**: Some users report website loading problems
 
 ## Recommendation
-⚠️ **PROCEED WITH EXTREME CAUTION** - Conflicting evidence
+WARNING: **PROCEED WITH EXTREME CAUTION** - Conflicting evidence
 
 **Positive indicators:**
 - **High AppSumo ratings**: 4.9/5 stars from 100 reviews

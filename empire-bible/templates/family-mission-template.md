@@ -2,7 +2,7 @@
 
 ## Family Information
 
-**Family Name**: Ohu-PNR Dynasty
+**Family Name**: Legacy Codex
 **Date**: [Date]
 **Prepared By**: [Name]
 

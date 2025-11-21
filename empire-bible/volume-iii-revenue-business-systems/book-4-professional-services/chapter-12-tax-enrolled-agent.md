@@ -2,7 +2,7 @@
 
 ## Introduction
 
-TaxEar Advisory LLC represents the "high authority" pillar of the Ohu-PNR Dynasty Empire. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
+TaxEar Advisory LLC represents the "high authority" pillar of the The Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
 
 This status elevates the entire brand ecosystem. It allows you to offer high-margin advisory services, defend your own real estate strategies (like REPS and Cost Segregation), and capture the recurring revenue of tax preparation and bookkeeping. This chapter outlines the path from exam preparation to building a scalable tax practice.
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Tax and enrolled agent services represent a high-value, year-round revenue stream for the Ohu-PNR Dynasty Empire. With average fees of $200-500 per tax return, $150-300 per hour for representation services, and consistent demand throughout the year, this business line offers premium pricing and steady income. This chapter provides a complete operational blueprint for building a tax practice that scales from individual practitioner to multi-practitioner operation, generating $150K+ annual revenue within Year 1.
+Tax and enrolled agent services represent a high-value, year-round revenue stream for the The Legacy Codex. With average fees of $200-500 per tax return, $150-300 per hour for representation services, and consistent demand throughout the year, this business line offers premium pricing and steady income. This chapter provides a complete operational blueprint for building a tax practice that scales from individual practitioner to multi-practitioner operation, generating $150K+ annual revenue within Year 1.
 
 The tax services market is experiencing steady growth, driven by increasing tax complexity, IRS enforcement, and the need for professional tax representation. By mastering the EA exam, developing a specialized tax practice, offering IRS representation services, and building a year-round revenue model, you can build a professional services business that serves as a high-margin, recurring revenue engine for the broader empire.
 

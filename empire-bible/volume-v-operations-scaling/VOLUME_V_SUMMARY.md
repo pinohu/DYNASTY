@@ -2,7 +2,7 @@
 
 ## Volume Overview
 
-**Volume V: Operations & Scaling** provides the operational "muscle" for the Ohu-PNR Dynasty Empire. It focuses on the two most critical levers for scaling: People and Money. This volume details how to build a world-class team (virtual and executive) and how to manage the financial nervous system of the empire.
+**Volume V: Operations & Scaling** provides the operational "muscle" for the The Legacy Codex. It focuses on the two most critical levers for scaling: People and Money. This volume details how to build a world-class team (virtual and executive) and how to manage the financial nervous system of the empire.
 
 **Total Content**: ~120 pages, 35,000+ words
 

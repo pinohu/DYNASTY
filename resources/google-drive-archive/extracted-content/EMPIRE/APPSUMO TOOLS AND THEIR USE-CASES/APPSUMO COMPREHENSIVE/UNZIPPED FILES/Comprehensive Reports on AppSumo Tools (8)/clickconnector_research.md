@@ -273,7 +273,7 @@
 
 ClickConnector represents a comprehensive customer support solution offering significant value through its omnichannel approach and AI-powered features at a substantial discount through the AppSumo lifetime deal. With 40 AppSumo reviews averaging 4.4/5 stars, it shows generally positive user satisfaction despite some notable concerns.
 
-**Recommendation: ⚠️ CONDITIONALLY RECOMMENDED**
+**Recommendation: WARNING: CONDITIONALLY RECOMMENDED**
 
 The combination of 93-98% cost savings, comprehensive omnichannel support, and AI-powered automation makes this potentially valuable for the right business. However, the conditional recommendation reflects significant concerns raised in user reviews regarding platform reliability, support quality, and complexity.
 

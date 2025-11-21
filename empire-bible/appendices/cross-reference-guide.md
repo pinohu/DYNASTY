@@ -46,7 +46,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 
 #### Chapter 3: Family Legacy Framework
 
-**Section 3.1: The Ohu Family Mission**
+**Section 3.1: The [Your Family] Mission**
 - **References to**: Chapter 1.1 (Vision statement), Chapter 1.2 (Core values), Chapter 1.3 (Success metrics), Chapter 2.1 (Horizon development)
 - **Referenced by**: Chapter 3.2, Chapter 3.3, Chapter 3.4, Volume VI Chapter 31
 

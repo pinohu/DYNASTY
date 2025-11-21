@@ -94,7 +94,7 @@
 - **Jasper**: AI content writing platform
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - While Creasquare offers comprehensive social media management features with a 4.6/5 star rating, there are concerning reports about customer support and company responsiveness that potential users should be aware of.
+WARNING: **CAUTIOUSLY RECOMMENDED** - While Creasquare offers comprehensive social media management features with a 4.6/5 star rating, there are concerning reports about customer support and company responsiveness that potential users should be aware of.
 
 **Pros:**
 - Comprehensive all-in-one social media management solution

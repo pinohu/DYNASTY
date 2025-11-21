@@ -2,7 +2,7 @@
 
 ## Introduction
 
-PNR Holdings LLC is the **Central Bank** and **Command Center** of the Ohu-PNR Dynasty Empire. It sits between the South Dakota Dynasty Trust (the Owner) and the Operating Companies (the Workers). While the Trust owns the assets, PNR Holdings manages them. While the Operating Companies generate revenue, PNR Holdings allocates capital.
+PNR Holdings LLC is the **Central Bank** and **Command Center** of the The Legacy Codex. It sits between the South Dakota Dynasty Trust (the Owner) and the Operating Companies (the Workers). While the Trust owns the assets, PNR Holdings manages them. While the Operating Companies generate revenue, PNR Holdings allocates capital.
 
 This chapter details the complete operations of PNR Holdings LLC and its key subsidiaries:
 1. **PNR Holdings LLC** (Section 8.1): Master treasury and capital allocation
@@ -47,7 +47,7 @@ PNR Holdings LLC is the master holding company that owns and controls all operat
 
 #### Ownership
 
-**Owner**: South Dakota Dynasty Trust (99.999%) + Ikechukwu Ohu (0.001%)
+**Owner**: South Dakota Dynasty Trust (99.999%) + [Primary Principal] (0.001%)
 
 **Why 0.001% Personal Ownership**:
 - Required for Real Estate Professional Status (REPS)
@@ -55,7 +55,7 @@ PNR Holdings LLC is the master holding company that owns and controls all operat
 - 0.001% is minimal but sufficient
 - Maintains trust control (99.999%)
 
-**Manager**: Ikechukwu Ohu (100% operational control)
+**Manager**: [Primary Principal] (100% operational control)
 
 **Jurisdiction**: Wyoming (privacy + protection)
 
@@ -642,7 +642,7 @@ CXI LLC is the **Brain** of the Empire. It employs people, manages systems, and 
 - Company profitability
 - Industry standards
 
-**For Ohu-PNR**:
+**For [Your Organization]**:
 - Ikechukwu: $60,000-$100,000/year (reasonable compensation)
 - Judith: $40,000-$80,000/year (reasonable compensation)
 - Based on services provided and market rates
@@ -1234,7 +1234,7 @@ REPS provides significant tax benefits for real estate activities.
 - Active participation required
 - Documented time
 
-**For Ohu-PNR**:
+**For [Your Organization]**:
 - Ikechukwu qualifies as REPS
 - 750+ hours in real estate activities
 - More than 50% of work time
@@ -1391,7 +1391,7 @@ ToriMedia IP Holdings LLC is the **Library** of the Empire. It owns all intellec
 - **Notroom**: Registered trademark for notary services
 - **RegIntel**: Registered trademark for consulting services
 - **TaxEar**: Registered trademark for tax services
-- **Ohu-PNR**: Registered trademark for family brand
+- **[Your Organization]**: Registered trademark for family brand
 - **Directory Brands**: Individual directory trademarks
 - **Logo Designs**: All logo designs registered
 - **Service Marks**: All service marks registered
@@ -1570,7 +1570,7 @@ ToriMedia licenses IP to operating companies at market rates, creating revenue w
 - Market rates
 - Arm's-length pricing
 
-**For Ohu-PNR**:
+**For [Your Organization]**:
 - **Recommended Rate**: 6-12% of gross revenue
 - Based on IP value and market rates
 - Documented arm's-length pricing
@@ -3174,7 +3174,7 @@ The PNR Holdings Complex success is measured across multiple dimensions.
 
 ### Final Summary and Key Takeaways
 
-The PNR Holdings Complex is the operational heart of the Ohu-PNR Dynasty Empire. It consists of four key entities working together to manage capital, provide services, hold assets, and protect intellectual property.
+The PNR Holdings Complex is the operational heart of the The Legacy Codex. It consists of four key entities working together to manage capital, provide services, hold assets, and protect intellectual property.
 
 #### Key Entities
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Organic marketing is the foundation of sustainable growth for the Ohu-PNR Dynasty Empire—the systematic approach to attracting customers through valuable content, strategic SEO, engaged social media presence, and automated email nurturing. Unlike paid advertising that stops working when you stop paying, organic marketing builds assets that compound over time: ranking content that drives traffic for years, email lists that generate revenue on autopilot, and social media communities that amplify your message.
+Organic marketing is the foundation of sustainable growth for the The Legacy Codex—the systematic approach to attracting customers through valuable content, strategic SEO, engaged social media presence, and automated email nurturing. Unlike paid advertising that stops working when you stop paying, organic marketing builds assets that compound over time: ranking content that drives traffic for years, email lists that generate revenue on autopilot, and social media communities that amplify your message.
 
 This chapter provides a comprehensive guide to mastering organic marketing across all your business entities. You'll learn how to dominate search results through strategic SEO, build a content marketing machine that produces valuable content at scale, create social media systems that engage audiences and drive traffic, and implement email marketing automation that nurtures leads into customers while building long-term relationships.
 
@@ -1452,7 +1452,7 @@ Thanks for your time!
 
 ## Chapter Summary
 
-This chapter has provided a comprehensive guide to mastering organic marketing for your Ohu-PNR Dynasty Empire. You've learned:
+This chapter has provided a comprehensive guide to mastering organic marketing for your The Legacy Codex. You've learned:
 
 1. **SEO Domination Strategy:** Keyword research, on-page optimization, link building, local SEO, and performance tracking
 2. **Content Marketing Machine:** Editorial calendars, content types, distribution channels, repurposing strategies, and performance metrics

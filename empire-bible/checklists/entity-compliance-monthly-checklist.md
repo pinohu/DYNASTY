@@ -1,7 +1,7 @@
 # Entity Compliance Monthly Checklist
 
 ## Purpose
-This checklist ensures monthly compliance for all entities in the Ohu-PNR Dynasty Empire.
+This checklist ensures monthly compliance for all entities in the The Legacy Codex.
 
 ## Daily Tasks
 

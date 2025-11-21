@@ -1,7 +1,7 @@
 # Wyoming LLC Formation Checklist
 
 ## Purpose
-This checklist ensures complete and proper formation of Wyoming LLCs for the Ohu-PNR Dynasty Empire.
+This checklist ensures complete and proper formation of Wyoming LLCs for the The Legacy Codex.
 
 ## Pre-Formation
 

@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Empire-Level CRM Foundations](#empire-level-crm-foundations)
 2. [Customer Lifecycle Architecture](#customer-lifecycle-architecture)
@@ -47,7 +47,7 @@ Your CRM is not software—it's the central nervous system of your revenue machi
 
 ---
 
-## 🔄 Customer Lifecycle Architecture
+##  Customer Lifecycle Architecture
 
 ### The Dynasty Customer Journey
 
@@ -128,7 +128,7 @@ LEAD → DYNASTY MEMBER → LOYALIST → EXPANSION → AMBASSADOR
 
 ---
 
-## 📊 Pipeline Maps & Stage Definitions
+## Pipeline Maps & Stage Definitions
 
 ### Standard Sales Pipeline (B2B/Service)
 
@@ -306,7 +306,7 @@ For each stage, define:
 
 ---
 
-## 🎯 Lead Routing & Assignment
+## Lead Routing & Assignment
 
 ### Routing Rules Framework
 
@@ -411,7 +411,7 @@ IF lead_score < 50
 
 ---
 
-## 📈 Dynasty Intelligence Dashboards
+##  Dynasty Intelligence Dashboards
 
 ### Dashboard 1: Pipeline Health
 
@@ -519,7 +519,7 @@ IF lead_score < 50
 
 ---
 
-## 📚 SOP Library Integration
+## SOP Library Integration
 
 Your CRM SOPs are documented in [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md).
 
@@ -652,7 +652,7 @@ For each offer you sell, map it to:
 
 ---
 
-## 🔄 Optimization Rhythm
+##  Optimization Rhythm
 
 ### Weekly Optimization (30 minutes)
 
@@ -722,7 +722,7 @@ For each offer you sell, map it to:
 
 ---
 
-## 🎯 Next Steps
+## Next Steps
 
 1. **Read**: [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md) to assess your current CRM
 2. **Design**: Use [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md) to build your pipeline

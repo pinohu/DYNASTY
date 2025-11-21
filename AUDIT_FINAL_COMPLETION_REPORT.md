@@ -31,7 +31,7 @@ A comprehensive audit of the Empire Book Outline against the Agent Prompts has b
 
 ## DETAILED ASSIGNMENTS
 
-### 📋 **APPENDIX A: Quick Reference Guides**
+### **APPENDIX A: Quick Reference Guides**
 **Status**: ✅ Assigned  
 **Agent**: Agent 12 (QA & Compiler)  
 **Sections**:
@@ -68,7 +68,7 @@ A comprehensive audit of the Empire Book Outline against the Agent Prompts has b
 
 ---
 
-### 📞 **APPENDIX C: Contact Lists**
+### **APPENDIX C: Contact Lists**
 **Status**: ✅ Assigned  
 **Agents**:
 - Agent 13: Extracts contacts from chapters
@@ -89,7 +89,7 @@ A comprehensive audit of the Empire Book Outline against the Agent Prompts has b
 
 ---
 
-### 📚 **APPENDIX D: Glossary & Definitions**
+### **APPENDIX D: Glossary & Definitions**
 **Status**: ✅ Assigned  
 **Agents**:
 - Agent 13: Extracts terms from chapters
@@ -327,7 +327,7 @@ Empire_Bible_Complete.md
 4. Agent prompts updated
 5. Documentation created
 
-### ⏭️ Ready for:
+### > Ready for:
 1. **Agent Creation**: Use `AGENT_PROMPTS_COMPLETE.md` to create all 13 agents
 2. **Execution**: Follow sequential order (Agents 1-10) and parallel support (Agents 11-13)
 3. **Compilation**: Agent 12 will compile final master document with all appendices

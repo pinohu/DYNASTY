@@ -1,5 +1,5 @@
 # Ultra-Long Autonomous Execution Plan
-## Ohu-PNR Dynasty Empire Bible - Master Completion Project
+## The Legacy Codex - Master Completion Project
 
 **Execution Date**: November 18, 2025
 **Mode**: Ultra-Long Autonomous

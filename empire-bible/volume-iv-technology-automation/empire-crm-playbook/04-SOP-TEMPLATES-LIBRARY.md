@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 SOP Index
+## SOP Index
 
 1. [Discovery Call SOP](#discovery-call-sop)
 2. [Consultation / Strategy Session SOP](#consultation--strategy-session-sop)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📝 SOP Template Structure
+##  SOP Template Structure
 
 Each SOP follows this ProcessDriven format:
 

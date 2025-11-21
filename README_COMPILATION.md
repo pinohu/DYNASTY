@@ -2,7 +2,7 @@
 
 ## Overview
 
-This directory contains the compiled master document of the Ohu-PNR Dynasty Empire Bible - a comprehensive 360° blueprint for building, operating, and perpetuating a multi-generational $10M+ business empire.
+This directory contains the compiled master document of the The Legacy Codex - a comprehensive 360° blueprint for building, operating, and perpetuating a multi-generational $10M+ business empire.
 
 ## Master Document
 
@@ -16,7 +16,7 @@ This directory contains the compiled master document of the Ohu-PNR Dynasty Empi
 ### ✅ Completed Volumes
 - **Volume I**: Foundation & Philosophy (100% - Chapters 1-3)
 
-### ⚠️ Partially Completed Volumes
+### WARNING: Partially Completed Volumes
 - **Volume II**: Legal & Fiduciary Structures (33% - Chapters 4-5)
 - **Volume IV**: Technology & Automation (17% - Chapter 19)
 - **Volume IX**: Resources & References (17% - Chapter 46)

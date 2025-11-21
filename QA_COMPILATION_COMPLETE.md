@@ -53,9 +53,9 @@ All quality assurance and compilation tasks have been successfully completed. Th
 - ✅ **Formatting review** complete
 - ✅ **Structure verification** complete
 - ✅ **Quality assessment** complete (for written content)
-- ⚠️ **Cross-reference verification** - needs manual check
-- ⚠️ **Template verification** - needs verification
-- ⚠️ **Index creation** - placeholder created (Agent 13 task)
+- WARNING: **Cross-reference verification** - needs manual check
+- WARNING: **Template verification** - needs verification
+- WARNING: **Index creation** - placeholder created (Agent 13 task)
 
 ### Document Structure
 - ✅ Professional cover page
@@ -73,14 +73,14 @@ All quality assurance and compilation tasks have been successfully completed. Th
 
 ### By Volume:
 - ✅ Volume I: **100%** (Chapters 1-3)
-- ⚠️ Volume II: **33%** (Chapters 4-5)
+- WARNING: Volume II: **33%** (Chapters 4-5)
 - ❌ Volume III: **0%** (Chapters 10-18)
-- ⚠️ Volume IV: **17%** (Chapter 19)
+- WARNING: Volume IV: **17%** (Chapter 19)
 - ❌ Volume V: **0%** (Chapters 25-30)
 - ❌ Volume VI: **0%** (Chapters 31-36)
 - ❌ Volume VII: **0%** (Chapters 37-42)
 - ❌ Volume VIII: **0%** (Chapters 43-45)
-- ⚠️ Volume IX: **17%** (Chapter 46)
+- WARNING: Volume IX: **17%** (Chapter 46)
 - ❌ Volume X: **0%** (Chapters 52-54)
 
 ---

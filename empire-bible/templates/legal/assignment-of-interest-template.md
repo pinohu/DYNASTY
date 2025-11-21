@@ -13,7 +13,7 @@ Use this document to legally transfer ownership of an LLC (like PNR Holdings) to
 [Your Address]
 
 **Assignee (New Owner)**:
-[Name of Trust] (e.g., The Ohu Dynasty Trust)
+[Name of Trust] (e.g., [Your Dynasty Trust])
 [Trustee Name], Trustee
 [Trust Address]
 

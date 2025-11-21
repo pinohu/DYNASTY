@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP): SuiteDash Admin Role
 
-## 🎯 Objective
+## Objective
 Provide Admins with a structured guide to manage SuiteDash users, automations, dashboards, and platform settings.
 
 ---
@@ -61,7 +61,7 @@ Provide Admins with a structured guide to manage SuiteDash users, automations, d
 
 ---
 
-## 📞 Support Contact
+## Support Contact
 Email: admin-support@[yourdomain].com  
 SuiteDash Help Center: https://help.suitedash.com
 

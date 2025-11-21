@@ -137,7 +137,7 @@ empire-bible/
 ## Key Themes and Integration Points
 
 ### Strategic Alignment
-- All chapters align with Ohu-PNR Dynasty principles
+- All chapters align with Legacy Codex principles
 - Integration with multi-generational wealth preservation
 - Risk mitigation and tax optimization throughout
 - Operational excellence and SuiteDash BOS integration
@@ -196,7 +196,7 @@ empire-bible/
 
 ## Volume VIII Contribution to Empire Bible
 
-Volume VIII completes the growth and scaling strategies for the Ohu-PNR Dynasty Empire, providing:
+Volume VIII completes the growth and scaling strategies for the The Legacy Codex, providing:
 
 1. **Systematic Acquisition Framework**: Complete playbook for identifying, acquiring, and integrating businesses
 2. **Partnership Strategies**: Comprehensive frameworks for joint ventures, alliances, and channel partnerships

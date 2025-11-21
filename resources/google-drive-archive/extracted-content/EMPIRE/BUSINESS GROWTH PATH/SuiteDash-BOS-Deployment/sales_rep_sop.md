@@ -1,6 +1,6 @@
 # Standard Operating Procedure (SOP): SuiteDash Sales Representative
 
-## 🎯 Objective
+## Objective
 Equip Sales Reps with a clear guide to manage leads, pipelines, deals, and communications inside SuiteDash.
 
 ---
@@ -18,7 +18,7 @@ Equip Sales Reps with a clear guide to manage leads, pipelines, deals, and commu
 
 ---
 
-## 🔄 Workflow Tasks
+##  Workflow Tasks
 ### 1. **Pipeline Management (CLOSER)**
 - Move deals through stages: Clarify → Label → Overview → Sell → Explain → Reinforce → Closed
 - Use Stage-specific checklists
@@ -54,7 +54,7 @@ Equip Sales Reps with a clear guide to manage leads, pipelines, deals, and commu
 
 ---
 
-## 📞 Support Contact
+## Support Contact
 Email: sales-support@[yourdomain].com  
 Sales Leader: [Name / Internal Chat Link]
 

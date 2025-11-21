@@ -319,7 +319,7 @@ Radiolize offers solid value for individuals and small organizations seeking to 
 - Storage and listener limitations may restrict growth potential
 - Competition from more established platforms with better support
 
-**Recommendation:** ⚠️ **PROCEED WITH CAUTION** for users needing reliable customer support and technical assistance. The platform offers good technical capabilities and value, but support quality issues make it risky for mission-critical broadcasting needs.
+**Recommendation:** WARNING: **PROCEED WITH CAUTION** for users needing reliable customer support and technical assistance. The platform offers good technical capabilities and value, but support quality issues make it risky for mission-critical broadcasting needs.
 
 The AppSumo lifetime deal provides excellent value with potential ROI exceeding 400,000% over five years through time savings and revenue generation. However, the documented support issues and technical concerns suggest this platform is best suited for users comfortable with minimal support and occasional technical challenges.
 

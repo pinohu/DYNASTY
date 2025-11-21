@@ -73,7 +73,7 @@ Volume IV: Technology, Automation & Digital Marketing has been completed with al
 - ✅ Best practices documented
 
 **Recommendations**:
-- ⚠️ Word count below target - could expand with more examples and use cases
+- WARNING: Word count below target - could expand with more examples and use cases
 - ✅ Content quality is high despite lower word count
 
 ---
@@ -125,9 +125,9 @@ Volume IV: Technology, Automation & Digital Marketing has been completed with al
 - ✅ Best practices documented
 
 **Recommendations**:
-- ⚠️ Word count significantly below target
+- WARNING: Word count significantly below target
 - ✅ Technical content is comprehensive despite lower word count
-- 💡 Could add more workflow examples and troubleshooting guides
+-  Could add more workflow examples and troubleshooting guides
 
 ---
 
@@ -178,9 +178,9 @@ Volume IV: Technology, Automation & Digital Marketing has been completed with al
 - ✅ Best practices documented
 
 **Recommendations**:
-- ⚠️ Word count below target
+- WARNING: Word count below target
 - ✅ Content quality is high
-- 💡 Could expand with more AI use case examples
+-  Could expand with more AI use case examples
 
 ---
 
@@ -233,9 +233,9 @@ Volume IV: Technology, Automation & Digital Marketing has been completed with al
 - ✅ Performance metrics included
 
 **Recommendations**:
-- ⚠️ Word count below target
+- WARNING: Word count below target
 - ✅ Content is actionable and practical
-- 💡 Could add more case studies and examples
+-  Could add more case studies and examples
 
 ---
 
@@ -286,9 +286,9 @@ Volume IV: Technology, Automation & Digital Marketing has been completed with al
 - ✅ Best practices documented
 
 **Recommendations**:
-- ⚠️ Word count significantly below target
+- WARNING: Word count significantly below target
 - ✅ Content is focused and actionable
-- 💡 Could expand with more campaign examples and case studies
+-  Could expand with more campaign examples and case studies
 
 ---
 
@@ -339,9 +339,9 @@ Volume IV: Technology, Automation & Digital Marketing has been completed with al
 - ✅ Complete framework provided
 
 **Recommendations**:
-- ⚠️ Word count below target
+- WARNING: Word count below target
 - ✅ Content is comprehensive and practical
-- 💡 Could add more sales scripts and examples
+-  Could add more sales scripts and examples
 
 ---
 
@@ -393,13 +393,13 @@ All required sections from the outline are present and properly structured.
 
 | Chapter | Target | Actual | Achievement | Status |
 |---------|--------|--------|-------------|--------|
-| 19 | 12,000 | 7,808 | 65% | ⚠️ Below target |
-| 20 | 12,000 | 5,957 | 50% | ⚠️ Below target |
-| 21 | 12,000 | 5,925 | 49% | ⚠️ Below target |
-| 22 | 12,000 | 5,903 | 49% | ⚠️ Below target |
-| 23 | 12,000 | 4,760 | 40% | ⚠️ Below target |
-| 24 | 12,000 | 7,834 | 65% | ⚠️ Below target |
-| **Total** | **72,000** | **38,187** | **53%** | ⚠️ Below target |
+| 19 | 12,000 | 7,808 | 65% | WARNING: Below target |
+| 20 | 12,000 | 5,957 | 50% | WARNING: Below target |
+| 21 | 12,000 | 5,925 | 49% | WARNING: Below target |
+| 22 | 12,000 | 5,903 | 49% | WARNING: Below target |
+| 23 | 12,000 | 4,760 | 40% | WARNING: Below target |
+| 24 | 12,000 | 7,834 | 65% | WARNING: Below target |
+| **Total** | **72,000** | **38,187** | **53%** | WARNING: Below target |
 
 ### Word Count Assessment
 
@@ -410,7 +410,7 @@ All required sections from the outline are present and properly structured.
 - All required topics are covered comprehensively
 
 **Recommendation**:
-- ⚠️ Word count is below target, but content quality is high
+- WARNING: Word count is below target, but content quality is high
 - Content is dense and actionable, which may compensate for lower word count
 - Consider expanding with more examples, case studies, and detailed workflows if word count is critical
 
@@ -453,8 +453,8 @@ All required sections from the outline are present and properly structured.
 
 ### External References
 
-- ⚠️ Cross-references to other volumes could be enhanced
-- ⚠️ Volume IV introduction file missing (should be created)
+- WARNING: Cross-references to other volumes could be enhanced
+- WARNING: Volume IV introduction file missing (should be created)
 - ✅ Source material references included
 
 **Recommendation**: Create Volume IV introduction file similar to Volume III
@@ -465,15 +465,15 @@ All required sections from the outline are present and properly structured.
 
 ### Required Files
 
-1. ⚠️ **Volume IV Introduction** - Missing (should be created)
+1. WARNING: **Volume IV Introduction** - Missing (should be created)
 2. ✅ All 6 chapters - Complete
 3. ✅ Chapter summaries - Complete
 
 ### Content Gaps
 
-1. ⚠️ Word count below target (53% achievement)
-2. ⚠️ Could expand with more examples and case studies
-3. ⚠️ Cross-volume references could be enhanced
+1. WARNING: Word count below target (53% achievement)
+2. WARNING: Could expand with more examples and case studies
+3. WARNING: Cross-volume references could be enhanced
 
 ---
 
@@ -483,7 +483,7 @@ All required sections from the outline are present and properly structured.
 
 - [x] All 6 chapters written (240+ pages, 72,000+ words)
   - ✅ 6 chapters written
-  - ⚠️ Word count: 38,187 (53% of target)
+  - WARNING: Word count: 38,187 (53% of target)
   - ✅ Structure complete
 - [x] All AppSumo tools referenced
   - ✅ 884 mentions across all chapters
@@ -506,7 +506,7 @@ All required sections from the outline are present and properly structured.
 ### Immediate Actions
 
 1. ✅ **Create Volume IV Introduction** - Should be created to match other volumes
-2. ⚠️ **Consider Word Count Expansion** - If word count is critical, expand with:
+2. WARNING: **Consider Word Count Expansion** - If word count is critical, expand with:
    - More detailed examples
    - Additional case studies
    - Expanded troubleshooting guides
@@ -539,9 +539,9 @@ All required sections from the outline are present and properly structured.
 
 ### Areas for Improvement
 
-⚠️ **Word Count**: Below target (53% achievement)  
-⚠️ **Examples**: Could add more examples and case studies  
-⚠️ **Introduction**: Missing Volume IV introduction file  
+WARNING: **Word Count**: Below target (53% achievement)  
+WARNING: **Examples**: Could add more examples and case studies  
+WARNING: **Introduction**: Missing Volume IV introduction file  
 
 ### Overall Grade: ✅ PASS
 

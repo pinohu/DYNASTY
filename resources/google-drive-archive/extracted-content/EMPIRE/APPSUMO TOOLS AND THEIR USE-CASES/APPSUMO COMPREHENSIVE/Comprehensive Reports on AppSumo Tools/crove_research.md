@@ -97,7 +97,7 @@
 - **HelloSign**: E-signature solution
 
 ## Recommendation
-⚠️ **NOT RECOMMENDED** - Despite having comprehensive features and some positive reviews, Crove has significant technical issues and platform instability that make it unreliable for business use.
+WARNING: **NOT RECOMMENDED** - Despite having comprehensive features and some positive reviews, Crove has significant technical issues and platform instability that make it unreliable for business use.
 
 **Major Concerns:**
 - Multiple users report the platform as "an absolute mess"

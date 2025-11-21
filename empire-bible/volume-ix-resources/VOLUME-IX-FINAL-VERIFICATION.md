@@ -96,8 +96,8 @@
 - ✅ All compliance requirements documented
 
 ### Professional Review Status
-- ⚠️ Legal templates require attorney review (as noted)
-- ⚠️ Tax templates require CPA review (as noted)
+- WARNING: Legal templates require attorney review (as noted)
+- WARNING: Tax templates require CPA review (as noted)
 - ✅ Marketing templates ready for use
 - ✅ Vendor directories ready for use
 - ✅ Technology directory ready for use

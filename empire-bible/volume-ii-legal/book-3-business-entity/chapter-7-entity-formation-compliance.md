@@ -55,7 +55,7 @@ Every major decision must be documented with a "Resolution."
 ### The "Corporate Veil" Checklist
 To prevent a judge from piercing the veil:
 1.  **No Commingling**: Never buy groceries with the business card.
-2.  **Sign Correctly**: Always sign as "Ikechukwu Ohu, Manager," never just your name.
+2.  **Sign Correctly**: Always sign as "[Primary Principal], Manager," never just your name.
 3.  **Capitalization**: Keep enough money in the account to pay bills.
 
 ---

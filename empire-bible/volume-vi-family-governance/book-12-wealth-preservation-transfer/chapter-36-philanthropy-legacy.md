@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Wealth is not merely about accumulation—it's about impact, purpose, and legacy. For the Ohu-PNR Dynasty Empire, philanthropy is not an afterthought or a tax strategy—it's a core component of your 365-year vision. True legacy extends far beyond financial assets; it encompasses the values you live, the impact you create, and the difference you make in the world.
+Wealth is not merely about accumulation—it's about impact, purpose, and legacy. For the The Legacy Codex, philanthropy is not an afterthought or a tax strategy—it's a core component of your 365-year vision. True legacy extends far beyond financial assets; it encompasses the values you live, the impact you create, and the difference you make in the world.
 
 This chapter provides a comprehensive framework for building a philanthropic legacy through the Origin Eyes 501(c)(3) foundation and other charitable initiatives. Philanthropy serves multiple purposes: it creates lasting impact in your community and beyond, provides tax benefits that preserve wealth, teaches your children the value of stewardship, and builds a legacy that extends across generations.
 
@@ -1250,7 +1250,7 @@ Cultural reinforcement ensures your values become deeply embedded in family cult
 
 ## Conclusion
 
-Philanthropy and legacy are not separate from your dynasty—they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. The Ohu-PNR Dynasty Empire's 365-year vision extends far beyond business success—it encompasses creating lasting positive change in your community and the world.
+Philanthropy and legacy are not separate from your dynasty—they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. The Legacy Codex's 365-year vision extends far beyond business success—it encompasses creating lasting positive change in your community and the world.
 
 Remember that building a philanthropic legacy is:
 - An ongoing journey, not a destination

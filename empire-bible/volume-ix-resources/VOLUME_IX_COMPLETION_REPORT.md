@@ -277,7 +277,7 @@ empire-bible/volume-ix-resources/
 
 ## Conclusion
 
-Volume IX: Resources & References is **100% COMPLETE** and **PRODUCTION-READY**. All chapters have been written, verified, and documented. The volume provides comprehensive operational resources that support the implementation of all strategies outlined in the Ohu-PNR Dynasty Empire Bible.
+Volume IX: Resources & References is **100% COMPLETE** and **PRODUCTION-READY**. All chapters have been written, verified, and documented. The volume provides comprehensive operational resources that support the implementation of all strategies outlined in the The Legacy Codex.
 
 **Status**: ✅ **READY FOR USE**
 

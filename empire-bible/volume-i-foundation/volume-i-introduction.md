@@ -4,20 +4,20 @@
 
 ### The Soul of the Empire
 
-Volume I: Foundation & Philosophy is the philosophical bedrock upon which the entire Ohu-PNR Dynasty Empire is built. While subsequent volumes detail the legal structures, revenue engines, technology systems, and operational procedures, this volume establishes the *why*—the vision, values, and strategic architecture that guide every decision across 365 years.
+Volume I: Foundation & Philosophy is the philosophical bedrock upon which the entire The Legacy Codex is built. While subsequent volumes detail the legal structures, revenue engines, technology systems, and operational procedures, this volume establishes the *why*—the vision, values, and strategic architecture that guide every decision across 365 years.
 
 Without this foundation, the empire would be a collection of businesses without purpose, assets without meaning, and wealth without legacy. With it, every entity, every transaction, and every decision becomes part of a coherent, multi-generational strategy.
 
 ### The 365-Year Vision
 
-The Ohu-PNR Dynasty Empire is not a business venture with an exit strategy. It is a **perpetual institution** designed to:
+The Legacy Codex is not a business venture with an exit strategy. It is a **perpetual institution** designed to:
 
 1. **Generate Wealth**: Build a $10M+ annual revenue empire through diversified business operations
 2. **Preserve Wealth**: Protect assets across generations through Dynasty Trust structures
 3. **Transmit Values**: Ensure future generations understand and embody the principles that built the empire
 4. **Create Impact**: Serve communities and causes through business operations and philanthropy
 
-This vision extends beyond the lifetime of founders Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, serving their children (Ivan, Jeremy, Kikachukwu, Chimenime) and generations beyond.
+This vision extends beyond the lifetime of founders [Primary Principal Name] and [Secondary Principal Name], serving their children ([Beneficiary Names]) and generations beyond.
 
 ### Volume Structure
 
@@ -50,7 +50,7 @@ This volume is organized into a single comprehensive book:
 - Use Chapter 2 to make strategic resource allocation decisions
 - Use Chapter 3 to guide family development and succession planning
 
-**For Next Generation (Ivan, Jeremy, Kikachukwu, Chimenime)**:
+**For Next Generation ([Beneficiary Names])**:
 - Study Chapter 1 to understand the vision and values
 - Learn Chapter 2 to understand strategic decision-making
 - Follow Chapter 3 to develop according to the legacy framework
@@ -104,7 +104,7 @@ If the family legacy framework is absent, the empire will not survive generation
   - Section 2.4: Growth vs. Preservation Balance
 
 - **Chapter 3**: Family Legacy Framework
-  - Section 3.1: The Ohu Family Mission
+  - Section 3.1: The [Your Family] Mission
   - Section 3.2: Values Transmission System
   - Section 3.3: Succession Philosophy
   - Section 3.4: Wealth Psychology Training

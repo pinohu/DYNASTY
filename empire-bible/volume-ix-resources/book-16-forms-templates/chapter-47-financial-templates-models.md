@@ -6,7 +6,7 @@ If Legal Documents are the code of the Empire, Financial Models are the dashboar
 
 We move beyond basic bookkeeping to **Financial Intelligence**: predictive models, capital allocation tools, and tax optimization calculators. These templates are designed to be used within the SuiteDash environment or as standalone Excel/Google Sheets tools.
 
-**Critical Disclaimer**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions. Financial models are based on assumptions and estimates—actual results may vary. The Ohu-PNR Dynasty Empire assumes no liability for financial decisions made using these templates without proper professional review.
+**Critical Disclaimer**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions. Financial models are based on assumptions and estimates—actual results may vary. The Legacy Codex assumes no liability for financial decisions made using these templates without proper professional review.
 
 ### How to Use This Chapter
 

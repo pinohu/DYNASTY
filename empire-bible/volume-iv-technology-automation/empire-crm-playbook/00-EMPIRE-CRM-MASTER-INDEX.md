@@ -1,12 +1,12 @@
 # Empire Dynasty CRM Master Index
 
-## 📚 Complete CRM Playbook System
+## Complete CRM Playbook System
 
 This is your complete Empire Dynasty CRM operating system. Every document is beginner-friendly, fast to implement, and built for empire-level scale.
 
 ---
 
-## 🎯 Quick Navigation
+## Quick Navigation
 
 ### 1. [Full CRM Playbook](./01-EMPIRE-CRM-PLAYBOOK.md)
 **Your complete CRM foundation and operating manual**
@@ -57,7 +57,7 @@ This is your complete Empire Dynasty CRM operating system. Every document is beg
 
 ---
 
-## 🚀 Implementation Order
+## Implementation Order
 
 1. **Start Here**: Read [Full CRM Playbook](./01-EMPIRE-CRM-PLAYBOOK.md) to understand the system
 2. **Assess**: Run [CRM Audit Diagnostic](./02-CRM-AUDIT-DIAGNOSTIC.md) on your current setup
@@ -67,7 +67,7 @@ This is your complete Empire Dynasty CRM operating system. Every document is beg
 
 ---
 
-## 📊 CRM Platform Compatibility
+## CRM Platform Compatibility
 
 This playbook works with:
 - ✅ SuiteDash
@@ -81,7 +81,7 @@ This playbook works with:
 
 ---
 
-## 🎓 Empire Dynasty Philosophy
+##  Empire Dynasty Philosophy
 
 **Your CRM is not software—it's your revenue operating system.**
 
@@ -94,7 +94,7 @@ Every stage, automation, and process connects directly to Alex Hormozi's 5 Money
 
 ---
 
-## 📈 Success Metrics
+##  Success Metrics
 
 Track these to measure CRM health:
 - Pipeline velocity (days in each stage)
@@ -106,7 +106,7 @@ Track these to measure CRM health:
 
 ---
 
-## 🔄 Continuous Optimization
+##  Continuous Optimization
 
 - **Weekly**: Pipeline review, automation QA
 - **Monthly**: Conversion analysis, source ROI review
@@ -114,7 +114,7 @@ Track these to measure CRM health:
 
 ---
 
-## 📞 Support & Updates
+## Support & Updates
 
 This playbook is a living document. Update it as your empire scales.
 

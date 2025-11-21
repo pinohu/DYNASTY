@@ -390,7 +390,7 @@
 
 ## Summary & Recommendation
 
-**Overall Assessment:** ⚠️ **CONDITIONALLY RECOMMENDED**
+**Overall Assessment:** WARNING: **CONDITIONALLY RECOMMENDED**
 
 **Strengths:**
 - Comprehensive multi-cloud infrastructure management platform

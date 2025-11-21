@@ -175,7 +175,7 @@ While AppSumo's Virtual Assistant Gig Goldmine is no longer available through of
 
 **Current Recommendation:** Since the original resource is discontinued, aspiring virtual assistants should seek alternative learning resources and focus on building practical experience through entry-level opportunities while developing specialized skills that command higher rates.
 
-### ⚠️ DISCONTINUED RESOURCE
+### WARNING: DISCONTINUED RESOURCE
 **Status:** No longer available on AppSumo
 **Alternative Action:** Seek current VA training resources and industry guides
 **Market Opportunity:** Virtual assistant industry remains strong and growing

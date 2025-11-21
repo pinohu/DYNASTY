@@ -1,7 +1,7 @@
 # Volume V: Operations & Scaling - Completion Report
 
 ## Executive Summary
-Volume V establishes the operational and financial "Operating System" for the Ohu-PNR Dynasty Empire. It bridges the gap between the strategic vision (Volume I) and the legal structures (Volume II) by providing the "how-to" manuals for managing people and money at scale.
+Volume V establishes the operational and financial "Operating System" for the The Legacy Codex. It bridges the gap between the strategic vision (Volume I) and the legal structures (Volume II) by providing the "how-to" manuals for managing people and money at scale.
 
 **Status:** ✅ Complete
 **Total Chapters:** 6

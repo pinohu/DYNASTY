@@ -7,7 +7,7 @@
 **AppSumo Deal:** SOLD OUT - $59-177 (Originally $180-600+ value)  
 **Core Purpose:** AI-powered research assistant and academic writing platform that helps users manage references, conduct literature reviews, annotate documents, take notes, and write papers with integrated AI assistance for research, citation management, and document analysis.
 
-**⚠️ IMPORTANT NOTE:** The company has undergone significant changes including a rebrand from Afforai to Logically.app and reports indicate the business may be for sale, raising concerns about long-term platform stability and support.
+**WARNING: IMPORTANT NOTE:** The company has undergone significant changes including a rebrand from Afforai to Logically.app and reports indicate the business may be for sale, raising concerns about long-term platform stability and support.
 
 ## 2. Primary Features & Capabilities
 
@@ -256,7 +256,7 @@
 - **Five-Year Value:** $278,000
 - **ROI Percentage:** 157,062-471,186% return on investment
 
-**⚠️ ROI Caveat:** These calculations assume platform stability and continued operation, which is uncertain given current business situation.
+**WARNING: ROI Caveat:** These calculations assume platform stability and continued operation, which is uncertain given current business situation.
 
 ### Monetization Opportunities:
 - **Research Services:** Offer professional research and analysis services
@@ -288,7 +288,7 @@ Afforai (now Logically.app) offers powerful AI-assisted research capabilities th
 - **Communication Issues:** Poor communication about major business changes
 - **Platform Risk:** Uncertainty about long-term platform availability and support
 
-**Recommendation:** ⚠️ **PROCEED WITH CAUTION** - While the platform offers excellent research capabilities, the business instability and potential sale create significant risks for long-term users. The tool provides exceptional value for research efficiency, but users should be prepared for potential platform discontinuation or major changes.
+**Recommendation:** WARNING: **PROCEED WITH CAUTION** - While the platform offers excellent research capabilities, the business instability and potential sale create significant risks for long-term users. The tool provides exceptional value for research efficiency, but users should be prepared for potential platform discontinuation or major changes.
 
 For existing AppSumo customers who purchased the deal, the platform currently delivers strong value for research workflows, but users should:
 1. **Export Important Data:** Regularly backup research libraries and annotations

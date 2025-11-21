@@ -66,7 +66,7 @@ Best regards,
 
 ### Variation 1: Milestone Achievement
 
-**Subject**: 🎉 Milestone Reached - [Project Name]
+**Subject**: Milestone Reached - [Project Name]
 
 ```markdown
 Dear [CLIENT NAME],
@@ -149,4 +149,4 @@ Best regards,
 
 ---
 
-*This template is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible.*
+*This template is version 1.0 and was created for the The Legacy Codex.*

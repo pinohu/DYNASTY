@@ -84,7 +84,7 @@ Single tier offering:
 - **Updates**: Regular plugin updates and feature additions
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - Exclusive Addons offers excellent features but has support concerns.
+WARNING: **CAUTIOUSLY RECOMMENDED** - Exclusive Addons offers excellent features but has support concerns.
 
 **Strengths:**
 - **Comprehensive Features**: 108+ widgets with extensive customization

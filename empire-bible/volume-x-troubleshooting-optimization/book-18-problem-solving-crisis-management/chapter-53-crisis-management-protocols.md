@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Chapter 53 establishes comprehensive crisis management protocols for the Ohu-PNR Dynasty Empire. A crisis is any event that threatens the viability, reputation, or operations of the empire and requires immediate, coordinated response. This chapter provides systematic frameworks for preparing for crises, responding effectively, planning recovery, and learning from each crisis.
+Chapter 53 establishes comprehensive crisis management protocols for the The Legacy Codex. A crisis is any event that threatens the viability, reputation, or operations of the empire and requires immediate, coordinated response. This chapter provides systematic frameworks for preparing for crises, responding effectively, planning recovery, and learning from each crisis.
 
 ### Understanding Crises
 

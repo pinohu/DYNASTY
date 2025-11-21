@@ -72,7 +72,7 @@ The founder team actively responds to user feedback and has addressed several co
 - Taking user feedback into development roadmap
 
 ## Recommendation
-⚠️ **CAUTIOUSLY RECOMMENDED** - Good concept with limitations
+WARNING: **CAUTIOUSLY RECOMMENDED** - Good concept with limitations
 
 **Why it can be valuable:**
 - **Proven lead generation**: Effective for converting website visitors to calls

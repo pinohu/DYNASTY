@@ -2,7 +2,7 @@
 
 ## Volume Overview
 
-**Volume IX: Resources & References** serves as the operational toolkit for the Ohu-PNR Dynasty Empire. It provides the tangible assets—forms, templates, directories, and guides—required to execute the strategies outlined in previous volumes.
+**Volume IX: Resources & References** serves as the operational toolkit for the The Legacy Codex. It provides the tangible assets—forms, templates, directories, and guides—required to execute the strategies outlined in previous volumes.
 
 **Status**: ✅ **COMPLETE AND PRODUCTION-READY**
 

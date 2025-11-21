@@ -32,7 +32,7 @@
 - Verify no placeholders in main content
 - Verify proper section structure
 - Verify examples and case studies present
-- Verify Ohu-PNR specific content
+- Verify [Your Organization] specific content
 
 ### Phase 3: Cross-Reference Audit
 - Extract all cross-references

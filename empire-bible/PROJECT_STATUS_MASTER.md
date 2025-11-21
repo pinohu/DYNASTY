@@ -1,4 +1,4 @@
-# Ohu-PNR Dynasty Empire Bible: Master Project Status
+# The Legacy Codex: Master Project Status
 
 ## Project Overview
 

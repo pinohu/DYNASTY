@@ -76,7 +76,7 @@ Three license tiers available:
 
 ## Company Information
 - **Product**: Fireapis no-code backend platform
-- **Status**: ⚠️ **CRITICAL CONCERN** - Multiple reports of project abandonment
+- **Status**: WARNING: **CRITICAL CONCERN** - Multiple reports of project abandonment
 - **Support**: Historically responsive, but reports of complete unresponsiveness
 - **Development**: Appears to have ceased after AppSumo deal ended
 
@@ -118,7 +118,7 @@ Since Fireapis appears abandoned, consider these alternatives:
 4. Check current AppSumo deals for backend development tools
 
 ## Important Notes
-- **⚠️ ABANDONED PROJECT**: Multiple credible reports of project abandonment
+- **WARNING: ABANDONED PROJECT**: Multiple credible reports of project abandonment
 - **Deal Ended**: No longer available on AppSumo (fortunately)
 - **Support Issues**: Complete unresponsiveness from development team
 - **Platform Risk**: Uncertain if service continues to function
@@ -140,5 +140,5 @@ Since Fireapis appears abandoned, consider these alternatives:
 January 2025 - Based on AppSumo sold out status and user reports of abandonment
 
 ## Critical Warning
-**⚠️ FIREAPIS APPEARS TO BE AN ABANDONED PROJECT** - This product is sold out on AppSumo, which is fortunate given multiple credible reports that the developer abandoned the project after the AppSumo deal ended. Users report complete unresponsiveness from support and concerns that the company "went belly up." While the concept was good and initial reviews were positive, the project appears to have been abandoned, leaving users without support or ongoing development. This serves as a cautionary tale about the risks of lifetime deals from unestablished companies. Users seeking no-code backend solutions should consider established alternatives like Xano, Supabase, or other active platforms with proven track records.
+**WARNING: FIREAPIS APPEARS TO BE AN ABANDONED PROJECT** - This product is sold out on AppSumo, which is fortunate given multiple credible reports that the developer abandoned the project after the AppSumo deal ended. Users report complete unresponsiveness from support and concerns that the company "went belly up." While the concept was good and initial reviews were positive, the project appears to have been abandoned, leaving users without support or ongoing development. This serves as a cautionary tale about the risks of lifetime deals from unestablished companies. Users seeking no-code backend solutions should consider established alternatives like Xano, Supabase, or other active platforms with proven track records.
 

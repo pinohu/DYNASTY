@@ -1,3 +1,3 @@
 # Empire Infrastructure
 
-This directory contains the technical implementation of the Ohu-PNR Dynasty Empire systems described in the Empire Bible.
+This directory contains the technical implementation of the The Legacy Codex systems described in the Empire Bible.

@@ -107,7 +107,7 @@ The platform bridges the gap between design and development by enabling users to
 - Frustrated with lack of AppSumo recognition
 
 **Key Concerns:**
-- ⚠️ **Lifetime Deal Recognition Issues**: Recent reports of company not honoring AppSumo lifetime deals
+- WARNING: **Lifetime Deal Recognition Issues**: Recent reports of company not honoring AppSumo lifetime deals
 - **Service Upgrades**: Platform changes may make original deal obsolete
 - **Account Access**: Users report no AppSumo reference in their accounts
 - **Support Issues**: Inconsistent recognition of lifetime deal status
@@ -181,7 +181,7 @@ The platform bridges the gap between design and development by enabling users to
 ## Risk Assessment & Concerns
 
 ### Major Concerns
-⚠️ **Lifetime Deal Recognition Issues** (Critical):
+WARNING: **Lifetime Deal Recognition Issues** (Critical):
 - Recent user reports of company not honoring AppSumo lifetime deals
 - Platform upgrades potentially making original deals obsolete
 - Users unable to access AppSumo benefits in their accounts
@@ -201,7 +201,7 @@ The platform bridges the gap between design and development by enabling users to
 - **Alternative Solutions**: Other no-code platforms available if issues arise
 
 ## Recommendation
-**⚠️ CAUTIOUSLY RECOMMENDED** with significant reservations due to recent lifetime deal recognition issues.
+**WARNING: CAUTIOUSLY RECOMMENDED** with significant reservations due to recent lifetime deal recognition issues.
 
 **Historical Strengths:**
 - **Innovative Figma Integration**: Unique value proposition for Figma users
@@ -212,7 +212,7 @@ The platform bridges the gap between design and development by enabling users to
 - **Active Development**: Regular updates and founder engagement
 
 **Current Concerns:**
-- **⚠️ Lifetime Deal Issues**: Recent reports of company not honoring AppSumo deals
+- **WARNING: Lifetime Deal Issues**: Recent reports of company not honoring AppSumo deals
 - **Platform Changes**: Service upgrades may affect original deal terms
 - **Support Inconsistency**: Mixed experiences with lifetime deal recognition
 - **Account Access**: Users report missing AppSumo references
@@ -241,7 +241,7 @@ The platform bridges the gap between design and development by enabling users to
 ## Current Status
 ❌ **SOLD OUT** - This deal is no longer available on AppSumo.
 
-⚠️ **LIFETIME DEAL CONCERNS** - Recent user reports indicate potential issues with lifetime deal recognition and platform changes affecting original deal terms.
+WARNING: **LIFETIME DEAL CONCERNS** - Recent user reports indicate potential issues with lifetime deal recognition and platform changes affecting original deal terms.
 
 ## Final Assessment
 Buzzy - No Code App Builder for Figma represents an innovative solution for converting Figma designs into functional applications without coding. The platform's unique integration with Figma and multi-platform deployment capabilities offer significant value for designers and no-code developers.

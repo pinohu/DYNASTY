@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Directory Empire is the "Digital Real Estate" component of the Ohu-PNR Dynasty. Unlike service businesses that trade time for money, directories trade *traffic* and *connections* for money. They are scalable, automated, and high-margin assets that work while you sleep.
+The Directory Empire is the "Digital Real Estate" component of the Legacy Codex. Unlike service businesses that trade time for money, directories trade *traffic* and *connections* for money. They are scalable, automated, and high-margin assets that work while you sleep.
 
 Using the Brilliant Directories platform, you will build a portfolio of niche directories that serve specific industries or localities. These assets provide three forms of value:
 1.  **Cash Flow**: Membership fees and advertising revenue.

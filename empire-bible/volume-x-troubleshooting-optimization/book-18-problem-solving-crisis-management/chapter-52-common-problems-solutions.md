@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Chapter 52 provides a comprehensive troubleshooting guide for the most common problems facing the Ohu-PNR Dynasty Empire. This chapter categorizes problems by type, provides diagnostic frameworks, and offers proven solutions for each category. Every problem is an opportunity to strengthen the empire—if addressed systematically and learned from completely.
+Chapter 52 provides a comprehensive troubleshooting guide for the most common problems facing the The Legacy Codex. This chapter categorizes problems by type, provides diagnostic frameworks, and offers proven solutions for each category. Every problem is an opportunity to strengthen the empire—if addressed systematically and learned from completely.
 
 ### The Problem-Solving Framework
 
@@ -1541,7 +1541,7 @@ Common causes:
 
 ## Chapter 52 Summary
 
-Chapter 52 provides comprehensive frameworks for identifying, diagnosing, and solving the most common problems facing the Ohu-PNR Dynasty Empire. The chapter covers:
+Chapter 52 provides comprehensive frameworks for identifying, diagnosing, and solving the most common problems facing the The Legacy Codex. The chapter covers:
 
 - **Financial Challenges**: Cash flow, credit, collections, costs, revenue
 - **Operational Issues**: Quality, delivery, systems, processes, resources

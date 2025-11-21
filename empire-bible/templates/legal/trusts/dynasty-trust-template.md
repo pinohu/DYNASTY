@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This template provides a complete South Dakota Dynasty Trust Agreement for the Ohu-PNR Dynasty Empire. The Dynasty Trust serves as the ultimate parent vault, providing 365-year perpetual wealth preservation, zero state income tax, and top-tier asset protection.
+This template provides a complete South Dakota Dynasty Trust Agreement for the The Legacy Codex. The Dynasty Trust serves as the ultimate parent vault, providing 365-year perpetual wealth preservation, zero state income tax, and top-tier asset protection.
 
 **IMPORTANT**: This template must be reviewed and customized by qualified trust counsel before execution. South Dakota-specific requirements must be verified.
 
@@ -715,7 +715,7 @@ Date: _______________
 
 ---
 
-*This template is version 1.0 and was created for the Ohu-PNR Dynasty Empire Bible. All legal templates must be reviewed by qualified counsel before use.*
+*This template is version 1.0 and was created for the The Legacy Codex. All legal templates must be reviewed by qualified counsel before use.*
 ```
 
 ## Example
