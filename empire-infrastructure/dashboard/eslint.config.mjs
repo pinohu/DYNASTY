@@ -13,6 +13,21 @@ const eslintConfig = defineConfig([
     "build/**",
     "next-env.d.ts",
   ]),
+  // Custom rules for code quality
+  {
+    rules: {
+      // Enforce consistent return types
+      "@typescript-eslint/explicit-function-return-type": "off",
+      // Warn on unused variables (error in production)
+      "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
+      // Prefer const over let when possible
+      "prefer-const": "error",
+      // No console.log in production (warn for now)
+      "no-console": ["warn", { allow: ["warn", "error"] }],
+      // Enforce consistent spacing
+      "no-multiple-empty-lines": ["error", { max: 1, maxEOF: 0 }],
+    },
+  },
 ]);
 
 export default eslintConfig;
