@@ -1,13 +1,15 @@
 {
   "name": "automation",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Empire Bible automation and verification tools",
+  "main": "dist/index.js",
   "scripts": {
+    "verify": "ts-node src/verify-content.ts",
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["empire", "bible", "automation"],
+  "author": "Dynasty Empire",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {

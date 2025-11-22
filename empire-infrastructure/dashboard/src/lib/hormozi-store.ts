@@ -163,8 +163,15 @@ const defaultBusinessData: BusinessData = {
 
 const loadFromStorage = (): Partial<HormoziStore> => {
   if (typeof window === "undefined") return {};
-  const stored = localStorage.getItem("hormozi-framework-storage");
-  return stored ? JSON.parse(stored) : {};
+  try {
+    const stored = localStorage.getItem("hormozi-framework-storage");
+    if (!stored) return {};
+    return JSON.parse(stored) as Partial<HormoziStore>;
+  } catch (error) {
+    console.error("Failed to parse stored data, resetting to defaults:", error);
+    localStorage.removeItem("hormozi-framework-storage");
+    return {};
+  }
 };
 
 const saveToStorage = (state: HormoziStore) => {
