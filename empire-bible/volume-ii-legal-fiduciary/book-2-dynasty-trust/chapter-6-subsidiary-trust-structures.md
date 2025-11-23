@@ -1,4 +1,4 @@
-# Chapter 6: Subsidiary Trust Structures
+﻿# Chapter 6: Subsidiary Trust Structures
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Estate tax risk
 - Beneficiary needs
 
-**[Your Organization] ILIT**: Judith's $500,000 IUL policy should be held in an ILIT to remove it from estate.
+**OHU-PNR ILIT**: Judith's $500,000 IUL policy should be held in an ILIT to remove it from estate.
 
 **Step 2: Select Trustee**
 
@@ -177,7 +177,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Unified beneficiary structure
 - Tax efficiency
 
-**[Your Organization] Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
+**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
 
 ### Crummey Power Mechanics
 
@@ -216,7 +216,7 @@ Crummey powers are essential for ILIT effectiveness. This section explains how C
 - **Married Couple**: $36,000 per person ($72,000 total for two beneficiaries)
 - **Four Children**: $72,000 total annual exclusion
 
-**[Your Organization] ILIT Benefits**:
+**OHU-PNR ILIT Benefits**:
 
 - **Annual Exclusion**: $18,000 per child = $72,000 total
 - **Premium Coverage**: $72,000 covers substantial premiums
@@ -364,7 +364,7 @@ Premium payment strategies optimize tax benefits and ensure policy maintenance. 
 - **Death Benefits**: Income tax-free to beneficiaries
 - **Distributions**: May be taxable if from cash value
 
-**[Your Organization] Tax Benefits**:
+**OHU-PNR Tax Benefits**:
 
 - **Estate Tax Savings**: $200,000 (40% of $500,000 policy)
 - **Annual Exclusion**: $72,000 per year
@@ -417,7 +417,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 
 **ILIT Use**: Excellent for ILITs, provides growth potential.
 
-**[Your Organization] Policy**: Judith's $500,000 IUL policy is ideal for ILIT.
+**OHU-PNR Policy**: Judith's $500,000 IUL policy is ideal for ILIT.
 
 #### Selection Criteria
 
@@ -429,7 +429,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 - Premium affordability
 - Policy purpose
 
-**[Your Organization]**: $500,000 provides substantial coverage for estate tax planning.
+**OHU-PNR**: $500,000 provides substantial coverage for estate tax planning.
 
 **2. Premium Affordability**
 
@@ -439,7 +439,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 - Long-term affordability
 - Policy sustainability
 
-**[Your Organization]**: Premiums should be affordable within annual exclusion limits.
+**OHU-PNR**: Premiums should be affordable within annual exclusion limits.
 
 **3. Policy Performance**
 
@@ -449,7 +449,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 - Policy flexibility
 - Company strength
 
-**[Your Organization]**: IUL provides growth potential with guarantees.
+**OHU-PNR**: IUL provides growth potential with guarantees.
 
 **4. Company Strength**
 
@@ -471,7 +471,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 4. **Strong Company**: Select financially strong company
 5. **Growth Potential**: Consider growth potential (IUL)
 
-**[Your Organization] Recommendations**:
+**OHU-PNR Recommendations**:
 
 - **Current Policy**: Judith's $500,000 IUL is appropriate
 - **Additional Coverage**: Consider additional coverage if needed
@@ -554,7 +554,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Coordinated distributions
 - Unified beneficiary structure
 
-**[Your Organization] Recommendation**: Distribute to Dynasty Trust for unified administration.
+**OHU-PNR Recommendation**: Distribute to Dynasty Trust for unified administration.
 
 #### Tax Considerations
 
@@ -575,7 +575,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - **Death Benefits**: Not subject to gift tax
 - **Distributions**: May be subject to gift tax if to non-beneficiaries
 
-**[Your Organization] Tax Benefits**:
+**OHU-PNR Tax Benefits**:
 
 - **Estate Tax Savings**: $200,000 (40% of $500,000)
 - **Income Tax-Free**: Death benefits income tax-free
@@ -706,11 +706,11 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 - **Married Couple**: $36,000 per person ($72,000 total for two donors)
 - **Four Children**: $72,000 total annual exclusion
 
-**[Your Organization] Annual Gifting**:
+**OHU-PNR Annual Gifting**:
 
 - **Per Child**: $18,000 per year
 - **Total Family**: $72,000 per year
-- **Gift Source**: [Primary Principal Name] and [Secondary Principal Name] (each $18,000 per child)
+- **Gift Source**: Chimenime Xavier and Judith (each $18,000 per child)
 
 **Gifting Strategy**:
 
@@ -744,7 +744,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 - May not reflect individual needs
 - May not optimize tax benefits
 
-**[Your Organization]**: Use equal gifting ($18,000 per child).
+**OHU-PNR**: Use equal gifting ($18,000 per child).
 
 **Strategy 2: Needs-Based Gifting**
 
@@ -792,7 +792,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 - **Kiddie Tax**: May apply to unearned income
 - **Tax Planning**: Opportunities for tax planning
 
-**[Your Organization] Tax Benefits**:
+**OHU-PNR Tax Benefits**:
 
 - **Annual Exclusion**: $72,000 per year
 - **Estate Tax Savings**: Removes $72,000+ from estate annually
@@ -861,7 +861,7 @@ Investment guidelines ensure trust assets are invested appropriately for childre
 - Liquidity
 - Complexity
 
-**[Your Organization] Investment Strategy**:
+**OHU-PNR Investment Strategy**:
 
 - **Stocks**: 60%
 - **Bonds**: 25%
@@ -909,7 +909,7 @@ Investment guidelines ensure trust assets are invested appropriately for childre
 - Benchmark comparisons
 - Risk metrics
 
-**[Your Organization] Performance Targets**:
+**OHU-PNR Performance Targets**:
 
 - **Target Return**: 7-10% annually
 - **Benchmark**: 60% S&P 500 + 25% Barclays Aggregate + 15% Alternatives
@@ -1012,7 +1012,7 @@ Merger into the Dynasty Trust provides unified administration and coordinated pl
 - **Trustee Discretion**: If trustee has discretion
 - **Beneficiary Request**: If beneficiary requests
 
-**[Your Organization] Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
+**OHU-PNR Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
 
 **Merger Considerations**:
 
@@ -1072,7 +1072,7 @@ Merger into the Dynasty Trust provides unified administration and coordinated pl
 - **Estate Tax Benefits**: Continues estate tax benefits
 - **Tax Implications**: No negative estate tax implications
 
-**[Your Organization] Tax Benefits**:
+**OHU-PNR Tax Benefits**:
 
 - **Seamless Merger**: No tax consequences
 - **Unified Administration**: Simplified administration
@@ -1275,7 +1275,7 @@ Income stream structuring determines how beneficiaries receive income from the C
 - Moderate term
 - Balanced needs
 
-**[Your Organization] Recommendation**: Balance approach - 5% unitrust rate, 20-year term.
+**OHU-PNR Recommendation**: Balance approach - 5% unitrust rate, 20-year term.
 
 #### Tax Implications
 
@@ -1297,7 +1297,7 @@ Income stream structuring determines how beneficiaries receive income from the C
 - **Appreciated Assets**: Transfer appreciated assets
 - **Tax Benefits**: Significant tax benefits
 
-**[Your Organization] Tax Benefits**:
+**OHU-PNR Tax Benefits**:
 
 - **Income Tax Deduction**: Immediate deduction
 - **Estate Tax Savings**: Removes assets from estate
@@ -1360,7 +1360,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
 - Less control
 - May have fees
 
-**[Your Organization] Recommendation**: Origin Eyes 501(c)(3) as remainder beneficiary.
+**OHU-PNR Recommendation**: Origin Eyes 501(c)(3) as remainder beneficiary.
 
 #### Selection Criteria
 
@@ -1381,7 +1381,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
    - Ongoing requirements
    - Complexity
 
-**[Your Organization] Selection**: Origin Eyes 501(c)(3) aligns with family values and provides maximum tax benefits.
+**OHU-PNR Selection**: Origin Eyes 501(c)(3) aligns with family values and provides maximum tax benefits.
 
 ### Investment Strategies
 
@@ -1407,7 +1407,7 @@ CRT investment strategies balance income generation with growth potential. This 
 - **Tax-Deferred Growth**: Consider tax-deferred growth
 - **Tax Planning**: Optimize tax efficiency
 
-**[Your Organization] Investment Strategy**:
+**OHU-PNR Investment Strategy**:
 
 - **Stocks**: 50% (growth)
 - **Bonds**: 30% (income)
@@ -1437,7 +1437,7 @@ CRT investment strategies balance income generation with growth potential. This 
 - **Growth**: Moderate growth
 - **Risk-Adjusted Returns**: Competitive returns
 
-**[Your Organization] Performance Targets**:
+**OHU-PNR Performance Targets**:
 
 - **Income**: 5%+ annually
 - **Growth**: 5-7% annually
@@ -1565,7 +1565,7 @@ Annuity payment calculations determine GRAT annuity payments. This section cover
 
 **Formula**:
 - **Annuity Payment** = Percentage of initial value
-- **Payment Amount** = Percentage × Initial value
+- **Payment Amount** = Percentage Ã— Initial value
 - **Payment Term** = GRAT term
 
 **Example**:
@@ -1650,7 +1650,7 @@ Annuity payment calculations determine GRAT annuity payments. This section cover
 - More administration
 - Requires planning
 
-**[Your Organization] Recommendation**: Use zeroed-out GRATs with 2-3 year terms, rolling as needed.
+**OHU-PNR Recommendation**: Use zeroed-out GRATs with 2-3 year terms, rolling as needed.
 
 ### Asset Selection Guide
 
@@ -1687,7 +1687,7 @@ Selecting the right assets for GRATs maximizes transfer benefits. This section c
 
 **Why**: Discounts reduce gift tax value.
 
-**[Your Organization] Assets**: Business interests, real estate, investment assets.
+**OHU-PNR Assets**: Business interests, real estate, investment assets.
 
 #### Selection Criteria
 
@@ -1713,7 +1713,7 @@ Selecting the right assets for GRATs maximizes transfer benefits. This section c
    - Risk management possible
    - Risk tolerance appropriate
 
-**[Your Organization] Selection**: Business interests with high growth potential and valuation discounts.
+**OHU-PNR Selection**: Business interests with high growth potential and valuation discounts.
 
 ### Rolling GRAT Strategies
 
@@ -1738,7 +1738,7 @@ Rolling GRATs create multiple GRATs over time, diversifying risk and maximizing 
    - Manage uncertainty
    - Provide flexibility
 
-**[Your Organization] Use**: Use rolling GRATs for business interests and real estate with varying growth rates.
+**OHU-PNR Use**: Use rolling GRATs for business interests and real estate with varying growth rates.
 
 #### Implementation
 
@@ -1790,7 +1790,7 @@ Rolling GRATs create multiple GRATs over time, diversifying risk and maximizing 
    - Optimizes tax efficiency
    - Enhances planning
 
-**[Your Organization] Benefits**:
+**OHU-PNR Benefits**:
 
 - **Risk Management**: Diversifies risk across assets
 - **Flexibility**: Provides planning flexibility
@@ -1828,4 +1828,5 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 ---
 
 **END OF CHAPTER 6**
+
 

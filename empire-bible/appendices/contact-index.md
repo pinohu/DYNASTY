@@ -1,4 +1,4 @@
-# Contact Index
+﻿# Contact Index
 
 ## Professional Advisors
 
@@ -181,11 +181,11 @@
 ## Family Contacts
 
 ### Family Members
-- **[Primary Principal Name]** [Volume I, Chapter 3, Section 3.1]
+- **Chimenime Xavier** [Volume I, Chapter 3, Section 3.1]
   - Role: Founder & CEO
   - Contact: [To be filled]
 
-- **[Secondary Principal Name]** [Volume I, Chapter 3, Section 3.1]
+- **Judith** [Volume I, Chapter 3, Section 3.1]
   - Role: Co-Founder & COO
   - Contact: [To be filled]
 
@@ -227,4 +227,5 @@
 **Last Updated**: [Date]
 **Total Contacts**: [To be updated as contacts are added]
 **Note**: Contact information should be maintained securely and updated regularly
+
 

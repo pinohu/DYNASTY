@@ -1,4 +1,4 @@
-# Chapter 3: Family Legacy Framework
+﻿# Chapter 3: Family Legacy Framework
 
 ## Introduction
 
@@ -7,7 +7,7 @@ A business empire without a prepared family is a ticking time bomb. History is l
 Chapter 3 establishes the **Human Operating System** of the Legacy Codex. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
 
 This chapter addresses four critical questions:
-1. **Who are we as a family?** (Section 3.1: The [Your Family] Mission)
+1. **Who are we as a family?** (Section 3.1: The the Xavier Family Mission)
 2. **How do we transmit values?** (Section 3.2: Values Transmission System)
 3. **How do we ensure capable leadership?** (Section 3.3: Succession Philosophy)
 4. **How do we prevent wealth from corrupting?** (Section 3.4: Wealth Psychology Training)
@@ -16,7 +16,7 @@ These questions are not philosophical exercises. They are practical frameworks t
 
 ---
 
-## 3.1 The [Your Family] Mission
+## 3.1 The the Xavier Family Mission
 
 ### The Collective Mission
 
@@ -107,7 +107,7 @@ While we share a collective mission, each family member has specific roles and r
 - All four children demonstrate values alignment
 - Family unity maintained throughout building phase
 
-#### The Next Generation: [Beneficiary Names]
+#### The Next Generation: the Beneficiaries
 
 **Role**: The Apprentices & Future Builders
 
@@ -1388,4 +1388,5 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 **Chapter 3 Complete**
 
-*This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empire—without prepared family members, no amount of wealth or business success will preserve the dynasty across generations.*
+*This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empireâ€”without prepared family members, no amount of wealth or business success will preserve the dynasty across generations.*
+

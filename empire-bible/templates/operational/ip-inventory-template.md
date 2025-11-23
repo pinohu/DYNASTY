@@ -1,4 +1,4 @@
-# IP Inventory Template
+﻿# IP Inventory Template
 
 ## Purpose
 Use this log to track all Intellectual Property owned by ToriMedia.
@@ -11,7 +11,7 @@ Use this log to track all Intellectual Property owned by ToriMedia.
 
 | Brand Name | Status (Reg/Unreg) | Class | Date of First Use | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Your Organization]** | Unregistered | Consulting | 01/01/2024 | |
+| **OHU-PNR** | Unregistered | Consulting | 01/01/2024 | |
 | **Notroom** | Unregistered | Services | | |
 | **TaxEar** | Unregistered | Services | | |
 
@@ -35,4 +35,5 @@ Use this log to track all Intellectual Property owned by ToriMedia.
 | :--- | :--- | :--- | :--- |
 | **Brilliant Dir.** | Lifetime | 100 | N/A |
 | **SuiteDash** | Annual | 16 | |
+
 

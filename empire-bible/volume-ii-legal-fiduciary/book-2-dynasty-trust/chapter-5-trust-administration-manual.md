@@ -1,4 +1,4 @@
-# Chapter 5: Trust Administration Manual
+﻿# Chapter 5: Trust Administration Manual
 
 ## Introduction
 
@@ -1694,8 +1694,8 @@ Trust Protector succession ensures continuity of oversight. This section covers 
 
 **Legacy Codex Trust Succession**:
 
-- **Initial**: [Primary Principal Name]
-- **Successor**: [Secondary Principal Name]
+- **Initial**: Chimenime Xavier
+- **Successor**: Judith
 - **Future**: Children (when appropriate)
 
 #### Selection Process
@@ -1841,4 +1841,5 @@ By following this manual, you will ensure proper trust administration that prese
 ---
 
 **END OF CHAPTER 5**
+
 

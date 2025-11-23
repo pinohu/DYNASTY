@@ -1,8 +1,8 @@
-# Chapter 43: Business Acquisition Playbook
+﻿# Chapter 43: Business Acquisition Playbook
 
 ## Introduction
 
-Growth through acquisition is the accelerator of the Dynasty Empire. While organic growth builds character, acquisition builds empires. This chapter details the precise, repeatable methodology for identifying, evaluating, acquiring, and integrating "boring" service businesses into the [Your Organization] ecosystem.
+Growth through acquisition is the accelerator of the Dynasty Empire. While organic growth builds character, acquisition builds empires. This chapter details the precise, repeatable methodology for identifying, evaluating, acquiring, and integrating "boring" service businesses into the OHU-PNR ecosystem.
 
 The strategy is specific: acquire resilient, cash-flowing local service businesses (HVAC, pest control, property maintenance), separate their operations from their real estate, modernize them with the SuiteDash Business Operating System (BOS), and amplify them with ToriMedia's creative engine. This is not speculative venture capital; this is industrial-grade wealth accumulation.
 
@@ -789,9 +789,9 @@ We do not rely solely on business-for-sale websites (BizBuySell), which represen
 - **Closed Deals:** 2-4 closed deals per year per market
 
 **Conversion Funnel:**
-- **Prospects → Qualified Leads:** 10-20% conversion
-- **Qualified Leads → LOIs:** 20-30% conversion
-- **LOIs → Closed Deals:** 50-70% conversion (after due diligence)
+- **Prospects â†’ Qualified Leads:** 10-20% conversion
+- **Qualified Leads â†’ LOIs:** 20-30% conversion
+- **LOIs â†’ Closed Deals:** 50-70% conversion (after due diligence)
 
 **Pipeline Management:**
 
@@ -854,11 +854,11 @@ Before issuing a Letter of Intent (LOI), we verify the "sanity" of the deal. Thi
   - Red Flag: Profit but no cash (working capital issues)
 
 **Quick Financial Metrics:**
-- Revenue: $1M - $5M? ✓
-- EBITDA/SDE: $250k - $1M? ✓
-- Gross Margin: >40%? ✓
-- Net Margin: >15%? ✓
-- Recurring Revenue: >30%? ✓
+- Revenue: $1M - $5M? âœ“
+- EBITDA/SDE: $250k - $1M? âœ“
+- Gross Margin: >40%? âœ“
+- Net Margin: >15%? âœ“
+- Recurring Revenue: >30%? âœ“
 
 **2. Owner Dependency Assessment (The "Bus Test")**
 
@@ -2103,3 +2103,4 @@ We shift the culture from personality-driven to process-driven.
 ---
 
 **Chapter 43 Complete: 12,000+ words | 40+ pages**
+

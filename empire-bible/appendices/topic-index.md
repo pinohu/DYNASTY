@@ -1,4 +1,4 @@
-# Topic Index
+﻿# Topic Index
 
 ## A
 
@@ -161,7 +161,7 @@
   - Participation requirements
 
 - **Family Legacy** [Volume I, Chapter 3]
-  - [Your Family] Mission
+  - the Xavier Family Mission
   - Individual role definitions
   - Collective goals framework
   - Legacy impact statements
@@ -823,4 +823,5 @@
 **Last Updated**: [Date]
 **Total Topics**: 60+
 **Cross-References**: See cross-reference-guide.md
+
 

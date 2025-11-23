@@ -1,4 +1,4 @@
-# Chapter 7: Entity Formation & Compliance Bible
+﻿# Chapter 7: Entity Formation & Compliance Bible
 
 ## Introduction
 
@@ -32,7 +32,7 @@ Forming a Wyoming LLC requires careful attention to detail and proper execution 
 - Verify name availability
 - Reserve name if needed (optional)
 
-**[Your Organization] Example**: "PNR Holdings LLC" - check availability, then proceed.
+**OHU-PNR Example**: "PNR Holdings LLC" - check availability, then proceed.
 
 **Step 2: Select Registered Agent**
 
@@ -207,7 +207,7 @@ Forming a Wyoming LLC requires careful attention to detail and proper execution 
 
 **Total Time**: 1-2 weeks for complete formation
 
-**[Your Organization] Timeline**: Follow same timeline for all entities.
+**OHU-PNR Timeline**: Follow same timeline for all entities.
 
 ### Series LLC Implementation
 
@@ -251,7 +251,7 @@ Series LLCs provide superior asset protection by segregating assets into separat
 - Series 2 bankruptcy does not affect Series 1
 - Maximum asset protection
 
-**[Your Organization] Use**: Obuke LLC uses Series LLC structure for real estate properties.
+**OHU-PNR Use**: Obuke LLC uses Series LLC structure for real estate properties.
 
 #### Formation Process
 
@@ -283,7 +283,7 @@ Series LLCs provide superior asset protection by segregating assets into separat
 - Maintain separate records
 - Maintain separate accounts
 
-**[Your Organization] Process**: Obuke LLC formed as Series LLC, with Series 1-10 for individual properties.
+**OHU-PNR Process**: Obuke LLC formed as Series LLC, with Series 1-10 for individual properties.
 
 #### Series Structure
 
@@ -291,10 +291,10 @@ Series LLCs provide superior asset protection by segregating assets into separat
 
 ```
 Obuke LLC (Parent)
-├── Series 1 (Property A)
-├── Series 2 (Property B)
-├── Series 3 (Property C)
-└── Series 4-10 (Future Properties)
+â”œâ”€â”€ Series 1 (Property A)
+â”œâ”€â”€ Series 2 (Property B)
+â”œâ”€â”€ Series 3 (Property C)
+â””â”€â”€ Series 4-10 (Future Properties)
 ```
 
 **Series Designation**:
@@ -304,7 +304,7 @@ Obuke LLC (Parent)
 - **Series 3**: [Property Address/Description]
 - **Series 4-10**: Reserved for future properties
 
-**[Your Organization] Structure**:
+**OHU-PNR Structure**:
 
 - **Obuke LLC**: Parent entity
 - **Series 1**: Rental Property ($285K value)
@@ -327,7 +327,7 @@ Obuke LLC (Parent)
 - Maximum asset protection
 - Clear separation
 
-**[Your Organization] Example**: Obuke LLC Series structure provides maximum protection for real estate portfolio.
+**OHU-PNR Example**: Obuke LLC Series structure provides maximum protection for real estate portfolio.
 
 ### Registered Agent Selection
 
@@ -397,7 +397,7 @@ Registered agents are essential for LLC compliance and legal service. This secti
    - **Reputation**: Good
    - **Privacy**: Good
 
-**[Your Organization] Recommendation**: Use Northwest Registered Agent for reliability and privacy.
+**OHU-PNR Recommendation**: Use Northwest Registered Agent for reliability and privacy.
 
 #### Requirements
 
@@ -435,7 +435,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - **Filing Fee**: $60 (as of 2024)
 - **Filing Deadline**: First day of anniversary month
 
-**[Your Organization] Requirements**: File annual reports for all Wyoming entities by anniversary dates.
+**OHU-PNR Requirements**: File annual reports for all Wyoming entities by anniversary dates.
 
 #### Filing Deadlines
 
@@ -450,7 +450,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - **Anniversary Month**: January
 - **Filing Deadline**: January 1, 2025
 
-**[Your Organization] Deadlines**: Track all entity anniversary dates and file by first day of anniversary month.
+**OHU-PNR Deadlines**: Track all entity anniversary dates and file by first day of anniversary month.
 
 #### Penalties
 
@@ -467,7 +467,7 @@ Annual reports maintain entity good standing. This section covers what's require
 - Use compliance calendar
 - Work with registered agent
 
-**[Your Organization] Strategy**: File all annual reports early to avoid penalties.
+**OHU-PNR Strategy**: File all annual reports early to avoid penalties.
 
 ### Foreign Qualification Process
 
@@ -492,7 +492,7 @@ Foreign qualification allows entities to operate in states other than formation 
    - Operating without qualification illegal
    - Penalties for non-qualification
 
-**[Your Organization] Qualification**: Qualify in Pennsylvania for operating companies (Notroom Services, RegIntel Advisors, TaxEar Advisory).
+**OHU-PNR Qualification**: Qualify in Pennsylvania for operating companies (Notroom Services, RegIntel Advisors, TaxEar Advisory).
 
 #### Qualification Process
 
@@ -543,7 +543,7 @@ Foreign qualification allows entities to operate in states other than formation 
 - Comply with all requirements
 - Maintain good standing
 
-**[Your Organization] Compliance**: Maintain qualification in Pennsylvania for operating companies, comply with all requirements.
+**OHU-PNR Compliance**: Maintain qualification in Pennsylvania for operating companies, comply with all requirements.
 
 ---
 
@@ -827,7 +827,7 @@ _________________________            _________________________
 
 #### Customization Guide
 
-**Customization for [Your Organization] Entities**:
+**Customization for OHU-PNR Entities**:
 
 **PNR Holdings LLC**:
 - Member-Managed
@@ -1347,7 +1347,7 @@ By: _________________________    By: _________________________
 
 **Typical Rates**: 5-15% of revenue
 
-**[Your Organization] Rate**: 8-12% of revenue, depending on services provided.
+**OHU-PNR Rate**: 8-12% of revenue, depending on services provided.
 
 **Strategy 2: Cost-Plus**
 
@@ -1501,7 +1501,7 @@ By: _________________________    By: _________________________
 - Simple calculation
 - Scalable
 
-**[Your Organization] Rate**: 8-10% of revenue for standard IP licenses.
+**OHU-PNR Rate**: 8-10% of revenue for standard IP licenses.
 
 **Structure 2: Fixed Fee**
 
@@ -1762,7 +1762,7 @@ By: _________________________    By: _________________________
 
 **Method 1: Revenue-Based Allocation**
 
-**Formula**: Party's allocation = (Party's revenue / Total revenue) × Total shared costs
+**Formula**: Party's allocation = (Party's revenue / Total revenue) Ã— Total shared costs
 
 **Advantages**:
 - Aligns with ability to pay
@@ -1778,7 +1778,7 @@ By: _________________________    By: _________________________
 
 **Method 2: Usage-Based Allocation**
 
-**Formula**: Party's allocation = (Party's usage / Total usage) × Total shared costs
+**Formula**: Party's allocation = (Party's usage / Total usage) Ã— Total shared costs
 
 **Advantages**:
 - Reflects actual usage
@@ -1860,7 +1860,7 @@ Transfer pricing documentation ensures inter-entity transactions are priced at a
 
 **Use**: For integrated operations.
 
-**[Your Organization] Method**: Use Cost-Plus for management services, CUP for IP licensing, market rates for other transactions.
+**OHU-PNR Method**: Use Cost-Plus for management services, CUP for IP licensing, market rates for other transactions.
 
 #### Compliance
 
@@ -1951,7 +1951,7 @@ Regular tasks maintain entity compliance and operational effectiveness. This sec
 - [ ] Financial reporting
 - [ ] Cash management
 
-**[Your Organization] Monthly Tasks**: Complete all monthly compliance and operational tasks for all entities.
+**OHU-PNR Monthly Tasks**: Complete all monthly compliance and operational tasks for all entities.
 
 ### Quarterly Requirements
 
@@ -1991,7 +1991,7 @@ Quarterly requirements ensure ongoing compliance and performance monitoring. Thi
 - [ ] Tax documentation
 - [ ] Tax advisor consultation
 
-**[Your Organization] Quarterly Tasks**: Complete all quarterly requirements for all entities, including estimated tax payments and compliance reviews.
+**OHU-PNR Quarterly Tasks**: Complete all quarterly requirements for all entities, including estimated tax payments and compliance reviews.
 
 #### Checklists
 
@@ -2053,7 +2053,7 @@ Annual filings maintain entity good standing and tax compliance. This section co
    - Review regulatory compliance
    - Address compliance issues
 
-**[Your Organization] Annual Requirements**: Complete all annual requirements for all entities, trusts, and personal returns.
+**OHU-PNR Annual Requirements**: Complete all annual requirements for all entities, trusts, and personal returns.
 
 #### Filing Guide
 
@@ -2087,7 +2087,7 @@ Annual filings maintain entity good standing and tax compliance. This section co
 - Update compliance calendar
 - Plan for next year
 
-**[Your Organization] Filing Guide**: Follow timeline for all entities, ensuring all filings completed on time.
+**OHU-PNR Filing Guide**: Follow timeline for all entities, ensuring all filings completed on time.
 
 ### Multi-Year Planning
 
@@ -2128,7 +2128,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Succession planning
    - Legacy planning
 
-**[Your Organization] Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
+**OHU-PNR Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
 
 #### Strategic Considerations
 
@@ -2158,7 +2158,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Legacy planning
    - Dynasty planning
 
-**[Your Organization] Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
+**OHU-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
 
 ---
 
@@ -2325,4 +2325,5 @@ By following this guide, you will ensure your entities are properly formed, docu
 **END OF CHAPTER 7**
 
 *This chapter provides the complete guide to entity formation and compliance. Follow these procedures meticulously to ensure proper entity structure and ongoing compliance. Review this chapter when forming new entities and annually for compliance maintenance.*
+
 

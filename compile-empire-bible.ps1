@@ -22,16 +22,16 @@ $chapterOrder = @(
     @{Path = "empire-bible\volume-ii-legal-fiduciary\book-3-business-entities\chapter-9-operating-company-playbooks.md"; Title = "Chapter 9: Operating Company Playbooks"; Order = 11},
 
     # Volume III
-    @{Path = "empire-bible\volume-iii-revenue\volume-iii-introduction.md"; Title = "Volume III: Revenue Generation Engines - Introduction"; Order = 12},
-    @{Path = "empire-bible\volume-iii-revenue\book-4-professional-services\chapter-10-notary-ron-services.md"; Title = "Chapter 10: Notary & RON Services Empire"; Order = 13},
-    @{Path = "empire-bible\volume-iii-revenue\book-4-professional-services\chapter-11-transaction-coordination.md"; Title = "Chapter 11: Transaction Coordination Domination"; Order = 14},
-    @{Path = "empire-bible\volume-iii-revenue\book-4-professional-services\chapter-12-tax-enrolled-agent.md"; Title = "Chapter 12: Tax & Enrolled Agent Services"; Order = 15},
-    @{Path = "empire-bible\volume-iii-revenue\book-5-directory-empire\chapter-13-directory-selection-development.md"; Title = "Chapter 13: Directory Selection & Development"; Order = 16},
-    @{Path = "empire-bible\volume-iii-revenue\book-5-directory-empire\chapter-14-directory-monetization.md"; Title = "Chapter 14: Directory Monetization Mastery"; Order = 17},
-    @{Path = "empire-bible\volume-iii-revenue\book-5-directory-empire\chapter-15-directory-portfolio-management.md"; Title = "Chapter 15: Directory Portfolio Management"; Order = 18},
-    @{Path = "empire-bible\volume-iii-revenue\book-6-real-estate-operations\chapter-16-creative-financing.md"; Title = "Chapter 16: Creative Financing Mastery"; Order = 19},
-    @{Path = "empire-bible\volume-iii-revenue\book-6-real-estate-operations\chapter-17-reps-tax-benefits.md"; Title = "Chapter 17: REPS Qualification & Tax Benefits"; Order = 20},
-    @{Path = "empire-bible\volume-iii-revenue\book-6-real-estate-operations\chapter-18-property-management.md"; Title = "Chapter 18: Property Management Systems"; Order = 21},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\volume-iii-introduction.md"; Title = "Volume III: Revenue Generation Engines - Introduction"; Order = 12},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-4-professional-services\chapter-10-notary-ron-services.md"; Title = "Chapter 10: Notary & RON Services Empire"; Order = 13},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-4-professional-services\chapter-11-transaction-coordination.md"; Title = "Chapter 11: Transaction Coordination Domination"; Order = 14},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-4-professional-services\chapter-12-tax-enrolled-agent.md"; Title = "Chapter 12: Tax & Enrolled Agent Services"; Order = 15},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-5-directory-empire\chapter-13-directory-selection-development.md"; Title = "Chapter 13: Directory Selection & Development"; Order = 16},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-5-directory-empire\chapter-14-directory-monetization.md"; Title = "Chapter 14: Directory Monetization Mastery"; Order = 17},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-5-directory-empire\chapter-15-directory-portfolio-management.md"; Title = "Chapter 15: Directory Portfolio Management"; Order = 18},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-6-real-estate-ops\chapter-16-creative-financing.md"; Title = "Chapter 16: Creative Financing Mastery"; Order = 19},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-6-real-estate-ops\chapter-17-reps-tax-benefits.md"; Title = "Chapter 17: REPS Qualification & Tax Benefits"; Order = 20},
+    @{Path = "empire-bible\volume-iii-revenue-business-systems\book-6-real-estate-ops\chapter-18-property-management.md"; Title = "Chapter 18: Property Management Systems"; Order = 21},
 
     # Volume IV
     @{Path = "empire-bible\volume-iv-technology-automation\volume-iv-introduction.md"; Title = "Volume IV: Technology & Automation - Introduction"; Order = 22},
