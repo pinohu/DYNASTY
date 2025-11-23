@@ -1826,3 +1826,5 @@ Chapter 18 provides a complete operational blueprint for building a property man
 
 *End of Chapter 18*
 
+
+

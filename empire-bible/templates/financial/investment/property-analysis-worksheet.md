@@ -230,3 +230,5 @@ This template helps evaluate real estate investment opportunities by calculating
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
 
+
+

@@ -1231,3 +1231,5 @@ To ensure deals move through pipeline stages correctly and efficiently.
 
 *Process-driven. Empire-ready. Revenue-focused.*
 
+
+

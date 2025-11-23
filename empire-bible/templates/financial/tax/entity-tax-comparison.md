@@ -168,3 +168,5 @@ This template helps compare tax implications of different entity structures (LLC
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
 
+
+

@@ -189,3 +189,5 @@ This template helps track business expenses throughout the year to maximize tax 
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
 
+
+

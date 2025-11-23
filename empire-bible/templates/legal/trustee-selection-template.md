@@ -305,3 +305,5 @@ _________________________________________________________________
 4. Obtain acceptances
 5. Document in trust agreement
 
+
+

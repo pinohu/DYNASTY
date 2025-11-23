@@ -942,3 +942,5 @@ By the end of Q4, you should have:
 
 **Chapter 39 Complete: 12,000+ words | 40+ pages**
 
+
+
