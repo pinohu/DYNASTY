@@ -180,6 +180,123 @@ Documentation is key. If you get hit by a bus, someone needs to know how the mac
 
 ---
 
+## Section 20.5: Empire Automation Recipes
+
+**The "Cookbook" for Success**:
+
+Theory is good; recipes are better. Below are the specific, copy-paste automation workflows for each of the Dynasty Empire's operating companies. These recipes leverage your specific tech stack: **SuiteDash, KonnectzIT, Activepieces, and Make.com**.
+
+### Recipe 1: Notroom Services (The "Instant Booking" Flow)
+**Goal**: Turn a notary lead into a booked appointment without human intervention.
+
+**Ingredients**:
+-   **Trigger**: GoZen Form (on website) or TidyCal Booking.
+-   **Middleware**: KonnectzIT.
+-   **Destination**: SuiteDash + Google Calendar + Slack.
+
+**The Recipe**:
+1.  **Trigger**: Lead submits "Request Notary" form on GoZen.
+2.  **Action 1 (KonnectzIT)**: Create/Update Contact in **SuiteDash**.
+    -   *Mapping*: Name, Email, Phone, Service Type.
+    -   *Tag*: `#Lead-Notary`.
+3.  **Action 2**: Send Email (Acumbamail/Gmail).
+    -   *Content*: "Thanks for your request. Click here to book your slot: [TidyCal Link]."
+4.  **Action 3**: Send Slack Notification to `#ops-notary`.
+    -   *Content*: "New Notary Lead: [Name] - [Service Type]."
+5.  **Action 4 (When Booked)**: TidyCal Webhook -> KonnectzIT -> SuiteDash.
+    -   *Action*: Convert Contact to Client.
+    -   *Action*: Create Project "Notary: [Name] - [Date]".
+    -   *Action*: Assign Task "Prepare Doc Package" to VA.
+
+### Recipe 2: Obuke Real Estate (The "Tenant Onboarding" Flow)
+**Goal**: Automate the lease signing and portal access process.
+
+**Ingredients**:
+-   **Trigger**: "Application Approved" status change in SuiteDash.
+-   **Middleware**: Make.com (for document logic).
+-   **Destination**: SignRequest (or SuiteDash Signing) + Welcome Email.
+
+**The Recipe**:
+1.  **Trigger**: You change a Deal Stage in SuiteDash to "Approved."
+2.  **Action 1 (Make)**: Generate Lease Agreement PDF.
+    -   *Logic*: Pull Property Address, Rent Amount, Term from Deal fields.
+    -   *Tool*: Google Docs Template -> PDF.
+3.  **Action 2**: Send for E-Signature.
+4.  **Action 3 (When Signed)**:
+    -   *Action*: Create "Tenant Portal" user in SuiteDash.
+    -   *Action*: Add to Circle `Obuke Tenants`.
+    -   *Action*: Create Invoice "Security Deposit + First Month".
+5.  **Action 4**: Send "Welcome Home" email sequence.
+    -   *Day 0*: Portal Login + Utility Setup Guide.
+    -   *Day 3*: "How to pay rent" video.
+
+### Recipe 3: TaxEar Advisory (The "Tax Season" Chaser)
+**Goal**: Collect client documents without sending 50 emails manually.
+
+**Ingredients**:
+-   **Trigger**: Date (Jan 15th) or Tag `#Ready-For-Tax`.
+-   **Middleware**: Activepieces (Self-hosted).
+-   **Destination**: SuiteDash Portal.
+
+**The Recipe**:
+1.  **Trigger**: Scheduled Timer (Jan 15).
+2.  **Action 1**: Search SuiteDash for all contacts with Tag `#Tax-Client-Active`.
+3.  **Action 2 (Loop)**: For each client:
+    -   *Action*: Create Folder "2024 Tax Docs" in their Portal.
+    -   *Action*: Send "Tax Organizer" Form (GoZen/SuiteDash).
+    -   *Action*: Email "Tax Season is Here - Action Required."
+4.  **Action 3 (Weekly Check)**:
+    -   *Logic*: If "2024 Tax Docs" folder is empty AND Form is not submitted:
+    -   *Action*: Send Reminder Email "We can't start without your docs."
+5.  **Action 4 (On Completion)**:
+    -   *Trigger*: Form Submitted.
+    -   *Action*: Notify Team "Ready to Prep."
+    -   *Action*: Change Status to "In Prep."
+
+### Recipe 4: Directory Empire (The "Upsell" Engine)
+**Goal**: Convert free listings to paid members.
+
+**Ingredients**:
+-   **Trigger**: New Free Signup in Brilliant Directories.
+-   **Middleware**: KonnectzIT.
+-   **Destination**: Acumbamail + SuiteDash.
+
+**The Recipe**:
+1.  **Trigger**: Webhook from Brilliant Directories (New Member).
+2.  **Action 1**: Create Contact in **SuiteDash**.
+    -   *Tag*: `#Directory-Free-Member`.
+    -   *Circle*: `Directory Members`.
+3.  **Action 2**: Add to **Acumbamail** List "Directory Nurture."
+4.  **Action 3 (Drip Sequence)**:
+    -   *Day 1*: "Welcome! Here is your free listing."
+    -   *Day 3*: "Case Study: How Premium members get 5x more leads."
+    -   *Day 7*: "Limited Offer: Upgrade to Premium for 50% off first month."
+5.  **Action 4 (On Upgrade)**:
+    -   *Trigger*: Stripe Payment.
+    -   *Action*: Update SuiteDash Tag to `#Directory-Premium`.
+    -   *Action*: Create "Optimization Call" Task for VA.
+
+### Recipe 5: AI Content Factory (The "SEO" Machine)
+**Goal**: Generate location pages for directories automatically.
+
+**Ingredients**:
+-   **Trigger**: New Row in Google Sheets (City Name).
+-   **Middleware**: Make.com.
+-   **Tools**: OpenAI (GPT-4) + WordPress/Brilliant Directories.
+
+**The Recipe**:
+1.  **Trigger**: You add "Philadelphia" to the "Target Cities" Google Sheet.
+2.  **Action 1 (OpenAI)**: Generate Content.
+    -   *Prompt*: "Write a 1000-word guide on 'Finding a Notary in [City]'. Include local landmarks."
+3.  **Action 2 (OpenAI)**: Generate Metadata.
+    -   *Prompt*: "Write SEO Title and Description for [City]."
+4.  **Action 3 (OpenAI)**: Generate Image Prompt -> DALL-E 3 -> Create Image.
+5.  **Action 4**: Post to Website (WordPress API or BD API).
+    -   *Status*: Draft (for review) or Publish (if bold).
+6.  **Action 5**: Update Google Sheet with "Published URL."
+
+---
+
 ## Chapter 20 Summary
 
 Automation is leverage. By building a robust architecture using KonnectzIT, Activepieces, and Make, you create a system that works 24/7/365 without complaint. This infrastructure allows the Legacy Codex to scale revenue without scaling chaos.
