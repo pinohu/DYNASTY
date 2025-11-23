@@ -3,7 +3,7 @@
 ## Legal Forms
 
 ### Trust Documents
-- **Legacy Trust Formation Documents** [Volume II, Chapter 4, Section 4.2]
+- **Dynasty Trust Formation Documents** [Volume II, Chapter 4, Section 4.2]
   - Trust formation checklist
   - Trust company selection criteria
   - Document preparation checklist
@@ -460,5 +460,6 @@
 **Last Updated**: [Date]
 **Total Forms**: 50+
 **Template Locations**: See volume-specific chapters
+
 
 

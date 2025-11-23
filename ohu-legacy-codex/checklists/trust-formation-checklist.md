@@ -17,7 +17,7 @@ Use this checklist to ensure complete and proper trust formation.
 
 - [ ] **Legal Counsel Engaged**: 
   - Attorney: _______________
-  - Experience: [ ] Legacy Trusts [ ] General Trusts [ ] Limited
+  - Experience: [ ] Dynasty Trusts [ ] General Trusts [ ] Limited
   - Date Engaged: _______________
 
 - [ ] **Tax Advisor Engaged**: 
@@ -397,6 +397,7 @@ Use this checklist to ensure complete and proper trust formation.
 3. Communicate with beneficiaries
 4. Monitor trust operations
 5. Review annually
+
 
 
 

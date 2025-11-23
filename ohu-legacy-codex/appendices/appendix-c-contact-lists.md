@@ -28,7 +28,7 @@ This appendix serves as the central directory for critical contacts. In a crisis
 | **Business Attorney** | [Name] | [Phone] | [Email] | Contracts, Lawsuits |
 | **Financial Advisor** | [Name] | [Phone] | [Email] | Investments, Cash |
 | **Insurance Broker** | [Name] | [Phone] | [Email] | Claims, Coverage |
-| **Trust Officer** | [Name] | [Phone] | [Email] | Legacy Trust Admin |
+| **Trust Officer** | [Name] | [Phone] | [Email] | Dynasty Trust Admin |
 
 ---
 
@@ -68,5 +68,6 @@ This appendix serves as the central directory for critical contacts. In a crisis
 ---
 
 **Appendix C Complete**
+
 
 

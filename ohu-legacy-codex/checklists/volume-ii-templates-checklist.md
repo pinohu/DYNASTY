@@ -6,7 +6,7 @@ This document indexes all templates and checklists created for Volume II: Legal 
 ## Trust Templates
 
 ### Trust Formation
-- [x] Legacy Trust Template (`templates/legal/trusts/Legacy-trust-template.md`)
+- [x] Dynasty Trust Template (`templates/legal/trusts/Legacy-trust-template.md`)
 - [x] ILIT Template (`templates/legal/trusts/ilit-template.md`)
 - [x] Crummey Notice Template (`templates/legal/trusts/crummey-notice-template.md`)
 
@@ -58,5 +58,6 @@ This document indexes all templates and checklists created for Volume II: Legal 
 - [ ] Implement checklists in operations
 - [ ] Train team on template usage
 - [ ] Establish template maintenance procedures
+
 
 

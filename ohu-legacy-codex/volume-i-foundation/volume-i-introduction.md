@@ -13,7 +13,7 @@ Without this foundation, the empire would be a collection of businesses without 
 Legacy Codex is not a business venture with an exit strategy. It is a **perpetual institution** designed to:
 
 1. **Generate Wealth**: Build a $10M+ annual revenue empire through diversified business operations
-2. **Preserve Wealth**: Protect assets across generations through Legacy Trust structures
+2. **Preserve Wealth**: Protect assets across generations through Dynasty Trust structures
 3. **Transmit Values**: Ensure future generations understand and embody the principles that built the empire
 4. **Create Impact**: Serve communities and causes through business operations and philanthropy
 
@@ -62,7 +62,7 @@ This volume is organized into a single comprehensive book:
 
 ### Integration with Other Volumes
 
-**Volume I â†’ Volume II**: The philosophical foundation informs legal structure decisions. The Enterprise Trust (Volume II) is the mechanism that preserves the vision established here.
+**Volume I â†’ Volume II**: The philosophical foundation informs legal structure decisions. The Dynasty Trust (Volume II) is the mechanism that preserves the vision established here.
 
 **Volume I â†’ Volume III**: The strategic architecture (Chapter 2) guides revenue generation strategies. The Three-Horizon Model determines which revenue streams to pursue.
 
@@ -128,7 +128,7 @@ Before proceeding to Volume II, ensure:
 After completing Volume I:
 
 1. **Proceed to Volume II**: Legal & Fiduciary Structures
-   - Establish The Enterprise Trust to preserve the vision
+   - Establish The Dynasty Trust to preserve the vision
    - Create entity structures to operate the businesses
    - Build the legal fortress that protects the empire
 
@@ -145,6 +145,8 @@ After completing Volume I:
 **Checklists**: 3 comprehensive checklists
 
 **Ready for**: Implementation and Volume II progression
+
+
 
 
 

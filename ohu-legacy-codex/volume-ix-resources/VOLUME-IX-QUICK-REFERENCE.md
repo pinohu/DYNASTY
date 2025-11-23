@@ -12,7 +12,7 @@
 **File**: `book-16-forms-templates/chapter-46-legal-documents-agreements.md`
 
 **Key Templates**:
-- **Trust Documents**: Legacy Trust, ILIT, Crummey Trust, Amendments, Trustee Letters
+- **Trust Documents**: Dynasty Trust, ILIT, Crummey Trust, Amendments, Trustee Letters
 - **Entity Documents**: LLC Operating Agreements, Corporate Bylaws, Buy-Sell Agreements
 - **Real Estate Forms**: Purchase Agreements, Leases, Option Contracts, Management Agreements
 - **Business Contracts**: Service Agreements, NDAs, Licensing Agreements, Inter-Entity Agreements
@@ -104,7 +104,7 @@
 **File**: `book-17-vendor-directory/chapter-51-compliance-regulatory-guide.md`
 
 **Key Guides**:
-- **Trust Compliance**: Legacy Trust, ILIT, Crummey Trust annual requirements
+- **Trust Compliance**: Dynasty Trust, ILIT, Crummey Trust annual requirements
 - **Entity Compliance**: LLC, S-Corp, C-Corp annual requirements
 - **Tax Compliance**: Federal, State, Gift, Estate tax requirements
 - **Real Estate Compliance**: Property, Rental, Investment compliance
@@ -286,6 +286,7 @@ See `VOLUME_IX_COMPLETION_REPORT.md` for completion verification
 
 *Quick Reference Guide - Volume IX: Resources & References*  
 *Last Updated: December 2024*
+
 
 
 

@@ -28,7 +28,7 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 **Candidate Qualifications**:
 - [ ] Licensed: [ ] Yes [ ] No
 - [ ] Experience: _______________ years
-- [ ] Legacy Trusts: _______________
+- [ ] Dynasty Trusts: _______________
 - [ ] Financial Rating: _______________
 - [ ] Legal Counsel: [ ] Yes [ ] No
 - [ ] Compliance Record: [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -304,6 +304,7 @@ _________________________________________________________________
 3. Select trustees
 4. Obtain acceptances
 5. Document in trust agreement
+
 
 
 

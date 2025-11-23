@@ -52,7 +52,7 @@ Volume VI provides the "Constitution" for Legacy Codex. It shifts focus from the
 #### Chapter 34: Estate Planning Integration
 - **Objective:** Coordinate legal mechanisms with family goals.
 - **Key Components:**
-  - Integration of Wills, Revocable Trusts, and The Enterprise Trust.
+  - Integration of Wills, Revocable Trusts, and The Dynasty Trust.
   - Advanced tax minimization (GST, Estate Tax).
   - Asset titling and beneficiary designation audits.
   - Privacy and asset protection layering.
@@ -88,6 +88,7 @@ Volume VI provides the "Constitution" for Legacy Codex. It shifts focus from the
 - **Governance:** Schedule the first formal "Family Council" meeting to ratify bylaws.
 - **Education:** Begin the "Financial Literacy" module for the eldest children immediately.
 - **Estate:** Execute the "Pour-Over Wills" and update beneficiary designations to match Chapter 34.
+
 
 
 

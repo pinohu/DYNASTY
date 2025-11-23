@@ -410,7 +410,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 
 #### Generation-Skipping Strategies
 
-**Legacy Trust Funding**
+**Dynasty Trust Funding**
 - Fund with GST exemption
 - Multi-generational benefits
 - Tax-free growth
@@ -615,9 +615,9 @@ A private foundation provides a structured vehicle for charitable giving that ca
 - Impact focus
 - Legacy preservation
 
-### Legacy Trust Maximization
+### Dynasty Trust Maximization
 
-#### Optimizing Your Legacy Trust
+#### Optimizing Your Dynasty Trust
 
 The South Dakota Dynasty Trust is the cornerstone of your 365-year Legacy plan. Maximizing its effectiveness requires careful planning and ongoing management.
 
@@ -1174,6 +1174,7 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
     -   Current Age: 5
 
 *All beneficiary distributions and trust rights are subject to the terms defined in the South Dakota Dynasty Trust agreement.*
+
 
 
 

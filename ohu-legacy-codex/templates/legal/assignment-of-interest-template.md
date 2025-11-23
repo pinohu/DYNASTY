@@ -1,7 +1,7 @@
 ﻿# Assignment of LLC Interest Template
 
 ## Purpose
-Use this document to legally transfer ownership of an LLC (like PNR Holdings) to The Enterprise Trust. This is the "Funding" step.
+Use this document to legally transfer ownership of an LLC (like PNR Holdings) to The Dynasty Trust. This is the "Funding" step.
 
 **Date**: __________________________
 
@@ -13,7 +13,7 @@ Use this document to legally transfer ownership of an LLC (like PNR Holdings) to
 [Your Address]
 
 **Assignee (New Owner)**:
-[Name of Trust] (e.g., [Your Legacy Trust])
+[Name of Trust] (e.g., [Your Dynasty Trust])
 [Trustee Name], Trustee
 [Trust Address]
 
@@ -44,6 +44,8 @@ __________________________
 **Consented to by Company**:
 __________________________
 [Manager Name], Manager of [LLC Name]
+
+
 
 
 

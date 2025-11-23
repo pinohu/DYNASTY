@@ -78,7 +78,7 @@
 
 **Source Materials Integrated**:
 - Trust Structure Framework (estate planning integration)
-- Legacy Trust structures
+- Dynasty Trust structures
 - Estate planning strategies
 - Wealth management frameworks
 
@@ -211,6 +211,7 @@ Together with previous volumes, Volume VIII ensures the empire can:
 ---
 
 *Volume VIII is complete and ready for quality review and compilation into the master Legacy Codex document.*
+
 
 
 

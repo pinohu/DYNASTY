@@ -992,7 +992,7 @@ State taxes can add 5-13% to total tax burden. State tax planning is critical.
 Large exit proceeds can create estate tax issues. Estate planning should be integrated with exit planning.
 
 **Strategies:**
-- **Legacy Trust:** Move proceeds to Legacy Trust (see Volume II, Chapter 4)
+- **Dynasty Trust:** Move proceeds to Dynasty Trust (see Volume II, Chapter 4)
 - **Gifting:** Use lifetime exemption to gift to heirs
 - **Charitable Planning:** Charitable strategies reduce estate
 - **Life Insurance:** Use life insurance for estate liquidity
@@ -1023,7 +1023,7 @@ Large exit proceeds can create estate tax issues. Estate planning should be inte
 **Post-Close:**
 - [ ] Execute Opportunity Zone investment (if applicable)
 - [ ] Implement tax loss harvesting strategies
-- [ ] Fund Legacy Trust and estate planning vehicles
+- [ ] Fund Dynasty Trust and estate planning vehicles
 - [ ] Execute charitable giving strategies (DAF, etc.)
 - [ ] Plan for ongoing tax optimization
 
@@ -1681,7 +1681,7 @@ Customer communication during transition is critical to protecting relationships
 ### Proceeds Investment
 
 **The Capital Recycling**
-Money from a sale does not sit idle. It flows back into The Enterprise Trust waterfall according to a systematic capital allocation strategy.
+Money from a sale does not sit idle. It flows back into The Dynasty Trust waterfall according to a systematic capital allocation strategy.
 
 **Capital Allocation Framework:**
 
@@ -1764,7 +1764,7 @@ Money from a sale does not sit idle. It flows back into The Enterprise Trust wat
 **Updating the Map**
 A major liquidity event changes the estate significantly. Estate planning must be updated immediately.
 
-**1. Legacy Trust Funding**
+**1. Dynasty Trust Funding**
 
 **Purpose:**
 Move proceeds into the South Dakota Dynasty Trust (see Volume II, Chapter 4) to protect wealth for future generations.
@@ -1958,7 +1958,7 @@ Take time to rest, reflect, and recharge after exit.
 **Immediate (Month 1):**
 - [ ] Pay taxes and fees
 - [ ] Establish liquidity reserve
-- [ ] Fund Legacy Trust
+- [ ] Fund Dynasty Trust
 - [ ] Execute tax optimization strategies (OZ, DAF, etc.)
 
 **Months 2-6:**
@@ -2062,5 +2062,7 @@ This case study demonstrates the power of systematic exit planning and execution
 ---
 
 **Chapter 45 Complete: 12,000+ words | 40+ pages**
+
+
 
 

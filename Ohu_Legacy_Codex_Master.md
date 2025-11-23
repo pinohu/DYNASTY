@@ -2601,7 +2601,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - Growth @ 10%/year Ã— 20 years = $33.6M
 - Capital gains tax: $0
 - Income tax: $0
-- Estate tax: $0 (owned by Legacy Trust)
+- Estate tax: $0 (owned by Dynasty Trust)
 - **Net to heirs: $33.6M**
 
 **PPLI Advantage: +$18.2M (118% more wealth)**
@@ -2663,7 +2663,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 1. **Guaranteed Insurability** - Lock in perfect health rating before any issues arise
 2. **Decades of Compound Growth** - 60+ years of tax-free accumulation
 3. **Minimal Cost** - $500-$2,000/year per child
-4. **Legacy Trust Ownership** - Outside children's estates, creditor-protected
+4. **Dynasty Trust Ownership** - Outside children's estates, creditor-protected
 5. **Generational Wealth Transfer** - Millions to grandchildren tax-free
 
 #### Recommended Structure
@@ -2672,7 +2672,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Policy Type**: Whole Life or Indexed Universal Life
 **Death Benefit**: $500K-$1M initial (can increase later)
-**Owner**: Legacy Trust (NOT parents, NOT child)
+**Owner**: Dynasty Trust (NOT parents, NOT child)
 **Beneficiary**: Child's Crummey Trust â†’ Grandchildren
 **Annual Premium**: $500-$2,000 per child
 **Total Family Cost**: $2K-$8K/year (for 4 children)
@@ -2729,8 +2729,8 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Coverage**: $10M-$20M
 **Premium**: $100K-$150K/year (vs $200K-$300K for two separate policies)
-**Owner**: Legacy Trust ILIT
-**Beneficiary**: Legacy Trust
+**Owner**: Dynasty Trust ILIT
+**Beneficiary**: Dynasty Trust
 **Product**: Survivorship IUL or Guaranteed UL
 
 **Use of Death Benefit**:
@@ -2754,7 +2754,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - **Net inheritance: $40.8M**
 
 **With Survivorship Life**:
-- $10M death benefit pays to Legacy Trust
+- $10M death benefit pays to Dynasty Trust
 - Trust pays $9.2M estate tax
 - No asset sales needed
 - Business continuity maintained
@@ -2777,7 +2777,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **How It Works**:
 1. Primary and Secondary Principal each gift $18K/year per child (4 children = $72K each)
 2. **Total annual gifts: $144K tax-free**
-3. Gifts go to Legacy Trust
+3. Gifts go to Dynasty Trust
 4. Trust issues Crummey notices to children (they have 30 days to withdraw)
 5. Children don't withdraw (trained not to)
 6. Trust uses gifts to pay ILIT premiums
@@ -2794,7 +2794,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Option 1**: Premium Financing (covered above)
 **Option 2**: Split-dollar arrangement
-**Option 3**: Legacy Trust distributions (if cash flow positive)
+**Option 3**: Dynasty Trust distributions (if cash flow positive)
 **Option 4**: Sale of assets to ILIT (generates cash for premiums)
 
 ### Policy Review & Optimization
@@ -2860,6 +2860,7 @@ In the final chapter, we'll explore philanthropy and legacyâ€”how to use yo
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 
 
 
@@ -12391,7 +12392,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 
 #### Generation-Skipping Strategies
 
-**Legacy Trust Funding**
+**Dynasty Trust Funding**
 - Fund with GST exemption
 - Multi-generational benefits
 - Tax-free growth
@@ -12596,9 +12597,9 @@ A private foundation provides a structured vehicle for charitable giving that ca
 - Impact focus
 - Legacy preservation
 
-### Legacy Trust Maximization
+### Dynasty Trust Maximization
 
-#### Optimizing Your Legacy Trust
+#### Optimizing Your Dynasty Trust
 
 The South Dakota Dynasty Trust is the cornerstone of your 365-year Legacy plan. Maximizing its effectiveness requires careful planning and ongoing management.
 
@@ -13155,6 +13156,7 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
     -   Current Age: 5
 
 *All beneficiary distributions and trust rights are subject to the terms defined in the South Dakota Dynasty Trust agreement.*
+
 
 
 
@@ -19224,7 +19226,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 
 ### 49.1.1 Trust Companies (South Dakota)
 
-**Role**: Administrative Trustee for The Enterprise Trust. The trust company serves as the independent trustee, providing administrative services while we maintain investment control through a Directed Trust structure.
+**Role**: Administrative Trustee for The Dynasty Trust. The trust company serves as the independent trustee, providing administrative services while we maintain investment control through a Directed Trust structure.
 
 **Key Responsibilities**:
 - Trust administration and compliance
@@ -19304,7 +19306,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 **Role**: Drafting the Trust and Estate Plan. Estate attorneys create the legal documents that protect and transfer wealth across generations.
 
 **Key Responsibilities**:
-- Drafting trust documents (Legacy Trust, ILIT, etc.)
+- Drafting trust documents (Dynasty Trust, ILIT, etc.)
 - Creating estate plans
 - Coordinating with trust company
 - Updating documents as needed
@@ -19345,7 +19347,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 
 **Estate Attorney Evaluation Checklist**:
 - [ ] Verify specialization in HNW estate planning
-- [ ] Review track record with Legacy Trusts
+- [ ] Review track record with Dynasty Trusts
 - [ ] Check references from similar clients
 - [ ] Test responsiveness (call and see response time)
 - [ ] Review sample documents (anonymized)
@@ -20782,7 +20784,7 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **First National Trust Company** (Example)
    - Assets under Administration: $2B+
-   - Specialization: Directed Trusts, Legacy Trusts
+   - Specialization: Directed Trusts, Dynasty Trusts
    - Fee Structure: Flat annual fee
    - Contact: [To be researched]
 
@@ -20805,13 +20807,13 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **Specialized Estate Planning Firm** (Example)
    - Specialization: HNW Estate Planning
-   - Experience: 20+ years, 100+ Legacy Trusts
+   - Experience: 20+ years, 100+ Dynasty Trusts
    - Fee Structure: Hourly or fixed-fee
    - Contact: [To be researched]
 
 **Selection Process**:
 - Research HNW estate planning attorneys
-- Verify Legacy Trust experience
+- Verify Dynasty Trust experience
 - Interview candidates
 - Check references
 - Review sample documents
@@ -21054,7 +21056,7 @@ All professional service providers should be selected, engaged, and managed usin
 
 #### Trust Company Selection: Real-World Example
 
-**Scenario**: Selecting a South Dakota trust company for a $10M Legacy Trust.
+**Scenario**: Selecting a South Dakota trust company for a $10M Dynasty Trust.
 
 **Step 1: Initial Research**
 - Identified 8 South Dakota trust companies with $1B+ AUM
@@ -22078,6 +22080,8 @@ All professional service providers should be selected, engaged, and managed usin
 ---
 
 **Chapter 49 Complete: 11,559 words | 40+ pages**
+
+
 
 
 
@@ -31367,7 +31371,7 @@ We cannot build everything ourselves. This chapter explores how to leverage othe
 -   Channel Partner Recruitment & Support
 
 ### Chapter 45: Exit Planning & Execution
-The ultimate validation of value is a liquidity event. This chapter provides the roadmap for exiting an asset on your terms, for maximum value. It covers the 3-year preparation timeline, the sale process, and the critical post-exit wealth management strategies that recycle capital back into The Enterprise Trust.
+The ultimate validation of value is a liquidity event. This chapter provides the roadmap for exiting an asset on your terms, for maximum value. It covers the 3-year preparation timeline, the sale process, and the critical post-exit wealth management strategies that recycle capital back into The Dynasty Trust.
 
 **Key Topics:**
 -   Exit Options (Sale, Recap, ESOP)
@@ -31410,6 +31414,7 @@ Growth is a choice. You can grow slow, or you can grow fast. Volume VIII gives y
 **Volume VIII Complete: 36,000+ words | 120+ pages**
 
 **Status: Ready for Agent 12 Quality Review and Compilation**
+
 
 
 
@@ -31459,7 +31464,7 @@ Each template includes:
 
 Trust documents form the foundation of the Ohu Family Enterprise's wealth preservation strategy. These documents create the legal structures that protect assets from creditors, minimize taxes, and ensure wealth passes to future generations according to your wishes.
 
-### 46.1.1 Legacy Trust Template
+### 46.1.1 Dynasty Trust Template
 
 **The Constitution of Wealth**
 
@@ -31469,7 +31474,7 @@ The South Dakota Dynasty Trust is the primary vessel for multi-generational weal
 
 **Purpose and Strategic Role**
 
-The Enterprise Trust is not just a legal documentâ€”it's the constitutional framework for your family's financial future. It accomplishes several critical objectives:
+The Dynasty Trust is not just a legal documentâ€”it's the constitutional framework for your family's financial future. It accomplishes several critical objectives:
 
 1. **Wealth Preservation**: Assets placed in the trust are protected from creditors, lawsuits, and divorces
 2. **Tax Minimization**: Eliminates estate tax at each generation and avoids state income tax
@@ -31637,7 +31642,7 @@ The Enterprise Trust is not just a legal documentâ€”it's the constitutional
 
 **Complete Template Structure**
 
-The Enterprise Trust template includes the following articles:
+The Dynasty Trust template includes the following articles:
 
 1. **Article I: Declaration of Trust** - Trust creation, purpose, perpetuities period, irrevocability
 2. **Article II: Trustee Architecture** - Administrative Trustee, Investment Trustee, Distribution Trustee, Trust Protector
@@ -31709,7 +31714,7 @@ The Enterprise Trust template includes the following articles:
 - [ ] Consult with tax advisor
 
 **Document Preparation**:
-- [ ] Review Legacy Trust template
+- [ ] Review Dynasty Trust template
 - [ ] Customize trust provisions with counsel
 - [ ] Complete Schedule A (Trust Estate)
 - [ ] Complete Schedule B (Investment Policy Statement)
@@ -31932,7 +31937,7 @@ Crummey Trusts serve several important functions:
 3. **Asset Protection**: Protect gifts from beneficiary creditors
 4. **Control Maintenance**: Maintain control over how gifts are used
 5. **Education Funding**: Structure distributions for education expenses
-6. **Future Merger**: Can merge into Legacy Trust sub-trusts when beneficiaries reach certain ages
+6. **Future Merger**: Can merge into Dynasty Trust sub-trusts when beneficiaries reach certain ages
 
 **When to Use Crummey Trusts**
 
@@ -31941,7 +31946,7 @@ Crummey Trusts are appropriate when:
 - You want to maintain control over how gifts are used
 - You want to protect gifts from beneficiary creditors
 - You want to structure distributions for education or other purposes
-- You plan to merge trusts into Legacy Trust sub-trusts later
+- You plan to merge trusts into Dynasty Trust sub-trusts later
 
 **Key Features Explained**
 
@@ -32013,7 +32018,7 @@ Some trusts limit withdrawal rights to prevent abuse:
 - Consider beneficiary maturity and responsibility
 - Consider family values and goals
 - Consider whether to allow HEMS distributions before age-based distributions
-- Consider whether to merge into Legacy Trust sub-trusts instead of outright distributions
+- Consider whether to merge into Dynasty Trust sub-trusts instead of outright distributions
 - Discuss with counsel tax implications of different schedules
 
 **Implementation Checklist**:
@@ -32033,7 +32038,7 @@ The Crummey Trust template includes:
 4. **Article IV: Contributions** - Gift acceptance, Crummey notices, withdrawal procedures
 5. **Article V: Distributions** - HEMS distributions, age-based distributions, distribution procedures
 6. **Article VI: Trust Administration** - Accounting, tax elections, trustee compensation
-7. **Article VII: Merger Provisions** - Merger into Legacy Trust sub-trusts
+7. **Article VII: Merger Provisions** - Merger into Dynasty Trust sub-trusts
 8. **Article VIII: General Provisions** - Governing law, amendment procedures
 
 **Crummey Trust Formation Process**
@@ -32046,14 +32051,14 @@ The Crummey Trust template includes:
 6. **Invest Assets**: Trustee invests trust assets according to Investment Policy Statement
 7. **Make Distributions**: Make HEMS distributions as needed
 8. **Age-Based Distributions**: Make scheduled distributions at specified ages
-9. **Merger**: Merge into Legacy Trust sub-trusts when appropriate
+9. **Merger**: Merge into Dynasty Trust sub-trusts when appropriate
 
 **Crummey Trust Implementation Checklist**
 
 **Pre-Formation**:
 - [ ] Identify beneficiaries (children/grandchildren)
 - [ ] Determine distribution schedule for each beneficiary
-- [ ] Select trustee (can be same as Legacy Trust trustee)
+- [ ] Select trustee (can be same as Dynasty Trust trustee)
 - [ ] Consult with estate planning attorney
 - [ ] Consult with tax advisor
 
@@ -34099,7 +34104,7 @@ The Partnership Agreement template includes:
 - [ ] Verify all trusts have proper trustee acceptances
 - [ ] Ensure all trusts have EINs
 - [ ] Confirm all trusts are properly funded
-- [ ] Review Legacy Trust provisions with trust attorney
+- [ ] Review Dynasty Trust provisions with trust attorney
 - [ ] Verify ILIT policies are properly owned by trusts
 - [ ] Send annual Crummey notices for all Crummey Trusts
 - [ ] Review trust administration procedures
@@ -34194,7 +34199,7 @@ The Partnership Agreement template includes:
 All detailed templates referenced in this chapter are located in the `empire-bible/templates/legal/` directory:
 
 **Trust Templates** (`templates/legal/trusts/`):
-- `Legacy-trust-template.md` - Complete Legacy Trust template
+- `Legacy-trust-template.md` - Complete Dynasty Trust template
 - `ilit-template.md` - Irrevocable Life Insurance Trust template
 - `crummey-trust-template.md` - Crummey Trust template
 - `trust-amendment-template.md` - Trust amendment template
@@ -34282,7 +34287,7 @@ All detailed templates referenced in this chapter are located in the `empire-bib
 ## Cross-References
 
 ### Volume II: Legal & Fiduciary Structures
-- [See Volume II, Chapter 4: South Dakota Dynasty Trust] - Complete Legacy Trust formation guide
+- [See Volume II, Chapter 4: South Dakota Dynasty Trust] - Complete Dynasty Trust formation guide
 - [See Volume II, Chapter 5: Trust Administration Manual] - Ongoing trust administration
 - [See Volume II, Chapter 6: Subsidiary Trust Structures] - ILIT and Crummey Trust formation
 - [See Volume II, Chapter 7: Entity Formation & Compliance Bible] - Complete entity formation guide
@@ -34316,7 +34321,7 @@ All detailed templates referenced in this chapter are located in the `empire-bib
 
 Chapter 46 provides a comprehensive guide to all legal documents and agreements required for the Ohu Family Enterprise. This chapter covers:
 
-1. **Trust Documents**: Legacy Trusts, ILITs, Crummey Trusts, and trust administration documents
+1. **Trust Documents**: Dynasty Trusts, ILITs, Crummey Trusts, and trust administration documents
 2. **Entity Documents**: LLC Operating Agreements, Corporate Bylaws, Employment Agreements, and buy-sell provisions
 3. **Real Estate Forms**: Purchase Agreements, Lease Agreements, and Option Contracts
 4. **Business Contracts**: Master Services Agreements, IP Licensing Agreements, and Partnership Agreements
@@ -34336,6 +34341,8 @@ All templates are located in the `empire-bible/templates/legal/` directory and s
 ---
 
 **Chapter 46 Complete: 15,000+ words | 50+ pages**
+
+
 
 
 
@@ -38500,7 +38507,7 @@ State taxes can add 5-13% to total tax burden. State tax planning is critical.
 Large exit proceeds can create estate tax issues. Estate planning should be integrated with exit planning.
 
 **Strategies:**
-- **Legacy Trust:** Move proceeds to Legacy Trust (see Volume II, Chapter 4)
+- **Dynasty Trust:** Move proceeds to Dynasty Trust (see Volume II, Chapter 4)
 - **Gifting:** Use lifetime exemption to gift to heirs
 - **Charitable Planning:** Charitable strategies reduce estate
 - **Life Insurance:** Use life insurance for estate liquidity
@@ -38531,7 +38538,7 @@ Large exit proceeds can create estate tax issues. Estate planning should be inte
 **Post-Close:**
 - [ ] Execute Opportunity Zone investment (if applicable)
 - [ ] Implement tax loss harvesting strategies
-- [ ] Fund Legacy Trust and estate planning vehicles
+- [ ] Fund Dynasty Trust and estate planning vehicles
 - [ ] Execute charitable giving strategies (DAF, etc.)
 - [ ] Plan for ongoing tax optimization
 
@@ -39189,7 +39196,7 @@ Customer communication during transition is critical to protecting relationships
 ### Proceeds Investment
 
 **The Capital Recycling**
-Money from a sale does not sit idle. It flows back into The Enterprise Trust waterfall according to a systematic capital allocation strategy.
+Money from a sale does not sit idle. It flows back into The Dynasty Trust waterfall according to a systematic capital allocation strategy.
 
 **Capital Allocation Framework:**
 
@@ -39272,7 +39279,7 @@ Money from a sale does not sit idle. It flows back into The Enterprise Trust wat
 **Updating the Map**
 A major liquidity event changes the estate significantly. Estate planning must be updated immediately.
 
-**1. Legacy Trust Funding**
+**1. Dynasty Trust Funding**
 
 **Purpose:**
 Move proceeds into the South Dakota Dynasty Trust (see Volume II, Chapter 4) to protect wealth for future generations.
@@ -39466,7 +39473,7 @@ Take time to rest, reflect, and recharge after exit.
 **Immediate (Month 1):**
 - [ ] Pay taxes and fees
 - [ ] Establish liquidity reserve
-- [ ] Fund Legacy Trust
+- [ ] Fund Dynasty Trust
 - [ ] Execute tax optimization strategies (OZ, DAF, etc.)
 
 **Months 2-6:**
@@ -39570,6 +39577,8 @@ This case study demonstrates the power of systematic exit planning and execution
 ---
 
 **Chapter 45 Complete: 12,000+ words | 40+ pages**
+
+
 
 
 
@@ -42133,7 +42142,7 @@ _________________________            _________________________
 
 **PNR Holdings LLC**:
 - Member-Managed
-- Legacy Trust as 99.999% member
+- Dynasty Trust as 99.999% member
 - You as 0.001% member (for REPS)
 - Manager: You
 
@@ -43627,6 +43636,7 @@ By following this guide, you will ensure your entities are properly formed, docu
 **END OF CHAPTER 7**
 
 *This chapter provides the complete guide to entity formation and compliance. Follow these procedures meticulously to ensure proper entity structure and ongoing compliance. Review this chapter when forming new entities and annually for compliance maintenance.*
+
 
 
 
@@ -47500,7 +47510,7 @@ The Three-Horizon Model is our primary strategic framework. It recognizes that t
 
 **Resource Allocation**: 10% of available capital and 10% of management time (but highest priority for decision-making).
 
-**Example**: The Enterprise Trust structure, Family Council operations, and succession planning ensure the Empire survives and thrives across 12-15 generations. These are not revenue-generating activities, but they are essential for long-term survival.
+**Example**: The Dynasty Trust structure, Family Council operations, and succession planning ensure the Empire survives and thrives across 12-15 generations. These are not revenue-generating activities, but they are essential for long-term survival.
 
 ### Transition Planning Between Horizons
 
@@ -47589,7 +47599,7 @@ The three horizons are not sequential phases; they operate simultaneously. Howev
 #### Horizon 3 Implementation: Legacy Preservation Strategies
 
 **Year 1-5: Structure Establishment**
-- Establish and fund Legacy Trust
+- Establish and fund Dynasty Trust
 - Create Family Council
 - Develop governance documents
 - Begin family education programs
@@ -48524,6 +48534,8 @@ When consolidating, use these strategies to strengthen the Empire:
 
 
 
+
+
 ---
 
 
@@ -49288,7 +49300,7 @@ Succession is the most critical test of a Legacy. Will the Empire survive the tr
 
 #### Ownership (Birthright)
 
-**Definition**: Every lineal descendant of [Principal Names] is a beneficiary of The Enterprise Trust.
+**Definition**: Every lineal descendant of [Principal Names] is a beneficiary of The Dynasty Trust.
 
 **Rights**:
 - Entitlement to share of trust income (distributions)
@@ -49928,6 +49940,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 
 
+
 ---
 
 
@@ -50016,7 +50029,7 @@ Volume I answers the fundamental questions that must be addressed before buildin
 Volume I provides the foundation for all subsequent volumes:
 
 **Volume II: Legal & Fiduciary Structures**
-- Implements The Enterprise Trust structure (Chapter 1.1)
+- Implements The Dynasty Trust structure (Chapter 1.1)
 - Creates entity architecture for asset protection (Chapter 1.2)
 - Establishes legal frameworks aligned with values (Chapter 1.4)
 
@@ -50231,6 +50244,7 @@ Volume I provides the foundation. Volume II begins the implementation. The journ
 
 
 
+
 ---
 
 
@@ -50289,7 +50303,7 @@ Most families consume their wealth within three generations. The first generatio
 
 **Our approach breaks this cycle:**
 
-1. **Principal Protection**: The core assets of The Enterprise Trust (PNR Holdings LLC, real estate portfolio, intellectual property) are **never** distributed as principal. They remain in trust, generating income for distributions.
+1. **Principal Protection**: The core assets of The Dynasty Trust (PNR Holdings LLC, real estate portfolio, intellectual property) are **never** distributed as principal. They remain in trust, generating income for distributions.
 
 2. **Income Distribution Strategy**: Beneficiaries receive distributions from **income**, not principal. This ensures the Empire grows even as it provides for the family.
 
@@ -50611,7 +50625,7 @@ Traditional definitions of wealth focus solely on financial assets. We reject th
   - Real estate (residential, commercial, land)
   - Business equity (ownership in operating companies)
   - Intellectual property (trademarks, copyrights, domain portfolios)
-  - Trust assets (Legacy Trust principal)
+  - Trust assets (Dynasty Trust principal)
 - **Measurement**: Net Asset Value (NAV), calculated quarterly
 - **Goal**: Compound annual growth rate (CAGR) of 15%+ on the portfolio, averaged over 10-year periods
 
@@ -50809,7 +50823,7 @@ This Constitution serves as the supreme law of Legacy Codex. It is divided into 
 
 #### Law 1: The Perpetuity Clause
 
-**Text**: The Enterprise Trust shall never be dissolved for the purpose of distributing principal to beneficiaries for consumption. Principal is for production; income is for distribution.
+**Text**: The Dynasty Trust shall never be dissolved for the purpose of distributing principal to beneficiaries for consumption. Principal is for production; income is for distribution.
 
 **Rationale**: This law prevents the destruction of the Empire through principal distribution. It ensures that the core assets remain intact, generating income for future generations.
 
@@ -51061,6 +51075,8 @@ In extreme emergencies, Operational Guidelines may be temporarily suspended by:
 **Chapter 1 Complete**
 
 *This chapter establishes the philosophical foundation for the entire Empire. Every subsequent volume builds upon these principles. Review this chapter annually to ensure alignment with Empire operations.*
+
+
 
 
 
@@ -52939,7 +52955,7 @@ While the South Dakota Dynasty Trust serves as the foundation of your wealth pre
 
 Each of these trusts serves a specific purpose in your overall estate planning strategy. The ILIT removes life insurance from your estate, Children's Crummey Trusts facilitate annual exclusion gifting, CRTs provide charitable giving with income benefits, and GRATs transfer appreciating assets with minimal gift tax.
 
-For the Legacy Codex, these subsidiary trusts work together with The Enterprise Trust to create a comprehensive wealth preservation and transfer strategy. Understanding how to form, fund, and administer each trust is essential for maximizing their benefits.
+For the Legacy Codex, these subsidiary trusts work together with The Dynasty Trust to create a comprehensive wealth preservation and transfer strategy. Understanding how to form, fund, and administer each trust is essential for maximizing their benefits.
 
 ---
 
@@ -52949,7 +52965,7 @@ The ILIT is a powerful tool for estate tax elimination. By removing life insuran
 
 ### Complete Formation Guide
 
-Forming an ILIT requires careful planning and execution. This section covers the complete formation process, document requirements, funding process, and integration with your Legacy Trust.
+Forming an ILIT requires careful planning and execution. This section covers the complete formation process, document requirements, funding process, and integration with your Dynasty Trust.
 
 #### Formation Process
 
@@ -52982,7 +52998,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Administrative capabilities
 - Cost considerations
 
-**Recommendation**: Use South Dakota Trust Company as trustee for consistency with Legacy Trust.
+**Recommendation**: Use South Dakota Trust Company as trustee for consistency with Dynasty Trust.
 
 **Step 3: Draft Trust Document**
 
@@ -52998,7 +53014,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 **Key Provisions**:
 - Crummey withdrawal rights (30 days minimum)
 - Discretionary distributions
-- Integration with Legacy Trust
+- Integration with Dynasty Trust
 - Perpetual existence (if desired)
 
 **Step 4: Execute Trust Document**
@@ -53095,12 +53111,12 @@ Forming an ILIT requires careful planning and execution. This section covers the
    - Document payments
    - Maintain records
 
-#### Integration with Legacy Trust
+#### Integration with Dynasty Trust
 
 **Integration Strategy**:
 
-- ILIT as sub-trust of Legacy Trust
-- Death benefits flow to Legacy Trust
+- ILIT as sub-trust of Dynasty Trust
+- Death benefits flow to Dynasty Trust
 - Unified administration
 - Coordinated planning
 
@@ -53110,7 +53126,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Unified beneficiary structure
 - Tax efficiency
 
-**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Legacy Trust for distribution to beneficiaries.
+**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
 
 ### Crummey Power Mechanics
 
@@ -53475,10 +53491,10 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Provides control
 - Aligns with trust purpose
 
-**Option 3: Legacy Trust Integration**
+**Option 3: Dynasty Trust Integration**
 
 **Process**:
-- Distribute to Legacy Trust
+- Distribute to Dynasty Trust
 - Unified administration
 - Coordinated planning
 
@@ -53487,7 +53503,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Coordinated distributions
 - Unified beneficiary structure
 
-**OHU-PNR Recommendation**: Distribute to Legacy Trust for unified administration.
+**OHU-PNR Recommendation**: Distribute to Dynasty Trust for unified administration.
 
 #### Tax Considerations
 
@@ -53533,7 +53549,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Legacy Trust sub-trust at age 25
+- **Merger**: Merges into Dynasty Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53548,7 +53564,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Legacy Trust sub-trust at age 25
+- **Merger**: Merges into Dynasty Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53563,7 +53579,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Legacy Trust sub-trust at age 25
+- **Merger**: Merges into Dynasty Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53578,7 +53594,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Legacy Trust sub-trust at age 25
+- **Merger**: Merges into Dynasty Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53934,7 +53950,7 @@ Educational distributions support children's education while maintaining trust p
 
 ### Merger Procedures
 
-Merger into The Enterprise Trust provides unified administration and coordinated planning. This section covers when to merge, the merger process, and tax considerations.
+Merger into The Dynasty Trust provides unified administration and coordinated planning. This section covers when to merge, the merger process, and tax considerations.
 
 #### When to Merge
 
@@ -53945,7 +53961,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 - **Trustee Discretion**: If trustee has discretion
 - **Beneficiary Request**: If beneficiary requests
 
-**OHU-PNR Merger**: Automatic merger at age 25 into Legacy Trust sub-trust.
+**OHU-PNR Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
 
 **Merger Considerations**:
 
@@ -53966,7 +53982,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 2. **Merger Planning**
    - Plan merger process
    - Review trust terms
-   - Coordinate with Legacy Trust
+   - Coordinate with Dynasty Trust
 
 3. **Merger Execution**
    - Execute merger documents
@@ -53990,7 +54006,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 **Gift Tax**:
 
 - **Merger**: Generally not a taxable gift
-- **Asset Transfer**: Transfer to Legacy Trust
+- **Asset Transfer**: Transfer to Dynasty Trust
 - **Tax Implications**: Minimal gift tax implications
 
 **Income Tax**:
@@ -54741,7 +54757,7 @@ This chapter has provided comprehensive coverage of four critical subsidiary tru
 3. **Charitable Remainder Trust (CRT)**: Charitable giving with income benefits
 4. **Grantor Retained Annuity Trust (GRAT)**: Appreciating asset transfer with minimal gift tax
 
-Each trust serves a specific purpose in your overall estate planning strategy, working together with The Enterprise Trust to create comprehensive wealth preservation and transfer.
+Each trust serves a specific purpose in your overall estate planning strategy, working together with The Dynasty Trust to create comprehensive wealth preservation and transfer.
 
 ### Action Items
 
@@ -54749,7 +54765,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 - [ ] Create Children's Crummey Trusts for each child
 - [ ] Consider CRT for charitable giving
 - [ ] Evaluate GRATs for business interests
-- [ ] Coordinate all trusts with Legacy Trust
+- [ ] Coordinate all trusts with Dynasty Trust
 - [ ] Implement annual gifting strategies
 
 ### Cross-References
@@ -54761,6 +54777,8 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 ---
 
 **END OF CHAPTER 6**
+
+
 
 
 
@@ -54783,7 +54801,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 
 If Volume I: Foundation & Philosophy is the "soul" of the Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"â€”the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
 
-You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Legacy Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
+You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Dynasty Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
 
 1.  **Perpetual Existence**: Structures that do not expire when you do.
 2.  **Asset Protection**: Ironclad shields against creditors, lawsuits, and predators.
@@ -54794,7 +54812,7 @@ You have established a 365-year vision. That vision is fragile without a legal a
 
 This volume is divided into two distinct but interconnected books:
 
-#### Book 2: The Enterprise Trust Complex
+#### Book 2: The Dynasty Trust Complex
 This book details the "Crown Jewel" of your legal structureâ€”the South Dakota Dynasty Trust. You will move beyond basic estate planning into the realm of institutional wealth preservation.
 -   **Chapter 4** establishes the South Dakota Dynasty Trust, explaining why this specific jurisdiction is non-negotiable for a 365-year vision.
 -   **Chapter 5** provides the operating manual for the trust, ensuring you administer it correctly to maintain its corporate veil.
@@ -54816,7 +54834,7 @@ The structures you build here are the vessels that will carry your legacy across
 
 ## Volume II Contents
 
-### Book 2: The Enterprise Trust Complex
+### Book 2: The Dynasty Trust Complex
 -   **Chapter 4**: South Dakota Dynasty Trust - Complete Implementation
 -   **Chapter 5**: Trust Administration Manual
 -   **Chapter 6**: Subsidiary Trust Structures
@@ -54831,6 +54849,8 @@ The structures you build here are the vessels that will carry your legacy across
 ## Implementation Warning
 
 The strategies in this volume involve sophisticated legal and tax concepts. While this Bible provides the blueprint, **execution requires qualified professionals**. Do not attempt to draft your own trust documents or file complex entity elections without professional review. Use this volume to direct your advisors, not to replace them.
+
+
 
 
 
@@ -54993,7 +55013,7 @@ The tax advantages of a South Dakota Dynasty Trust are substantial and can save 
 
 **Example 1: Investment Income**
 
-Assume The Enterprise Trust holds $10 million in investments generating 7% annual returns ($700,000 per year):
+Assume The Dynasty Trust holds $10 million in investments generating 7% annual returns ($700,000 per year):
 
 - **California Trust**: 13.3% state tax = $93,100 annual tax
 - **New York Trust**: 10.9% state tax = $76,300 annual tax
@@ -55005,7 +55025,7 @@ Assume The Enterprise Trust holds $10 million in investments generating 7% annua
 
 **Example 2: Business Income**
 
-Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in annual income:
+Assume The Dynasty Trust owns PNR Holdings LLC, which generates $2 million in annual income:
 
 - **Pennsylvania Trust**: 3.07% state tax = $61,400 annual tax
 - **South Dakota Trust**: 0% state tax = $0 annual tax
@@ -55024,13 +55044,13 @@ Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu transfer $10 million to a South Dakota Dynasty Trust.
 
-**Without Legacy Trust**:
+**Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
 - At Judith Huchukwuyem Ohu's death: $10M estate - $13.61M exemption = $0 estate tax (within exemption)
 - At first child's death: $10M + appreciation = potential estate tax
 - **Problem**: Each generation faces potential estate tax as exemption amounts change
 
-**With Legacy Trust**:
+**With Dynasty Trust**:
 - At Ikechukwu's death: $0 in estate (already in trust) = $0 estate tax
 - At Judith Huchukwuyem Ohu's death: $0 in estate = $0 estate tax
 - At first child's death: $0 in estate = $0 estate tax
@@ -55063,12 +55083,12 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu want to provide for their children and grandchildren.
 
-**Without Legacy Trust**:
+**Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
 - Transfer to grandchildren: Subject to GST tax at 40%
 - **Problem**: Limited exemption, GST tax on excess
 
-**With Legacy Trust**:
+**With Dynasty Trust**:
 - Properly structured trust allocates GST exemption to trust
 - Trust can benefit children, grandchildren, and future generations
 - No GST tax on distributions to any generation
@@ -55078,7 +55098,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 Assuming $20 million transfer with GST exemption allocation:
 - **Without Proper Planning**: $6.39M subject to GST tax = $2.56M tax
-- **With Legacy Trust**: $0 GST tax (exemption allocated)
+- **With Dynasty Trust**: $0 GST tax (exemption allocated)
 - **Savings**: $2.56 million
 
 **Multi-Generational Impact**: Over multiple generations, GST tax savings can exceed $10-20 million.
@@ -55170,8 +55190,8 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 - Public records search reveals ownership
 - Value and location publicly known
 
-**With Legacy Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of [Your Legacy Trust]"
+**With Dynasty Trust**:
+- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -55291,7 +55311,7 @@ Include trust protector with power to modify trust terms. This allows adaptation
 Use multiple trusts for different asset classes or purposes. This creates additional barriers for creditors.
 
 **Strategy**: 
-- Legacy Trust holds LLC interests
+- Dynasty Trust holds LLC interests
 - LLCs hold operating assets
 - Multiple layers of protection
 
@@ -55318,7 +55338,7 @@ Real Property
 ```
 
 **Protection Layers**:
-1. **Legacy Trust**: Spendthrift provisions, discretionary distributions
+1. **Dynasty Trust**: Spendthrift provisions, discretionary distributions
 2. **Wyoming LLC**: Charging order protection
 3. **Series LLC**: Asset segregation
 4. **Real Property**: Protected by multiple layers
@@ -57261,6 +57281,8 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
+
 
 
 
@@ -70595,7 +70617,7 @@ This appendix serves as the central directory for critical contacts. In a crisis
 | **Business Attorney** | [Name] | [Phone] | [Email] | Contracts, Lawsuits |
 | **Financial Advisor** | [Name] | [Phone] | [Email] | Investments, Cash |
 | **Insurance Broker** | [Name] | [Phone] | [Email] | Claims, Coverage |
-| **Trust Officer** | [Name] | [Phone] | [Email] | Legacy Trust Admin |
+| **Trust Officer** | [Name] | [Phone] | [Email] | Dynasty Trust Admin |
 
 ---
 
@@ -70635,6 +70657,7 @@ This appendix serves as the central directory for critical contacts. In a crisis
 ---
 
 **Appendix C Complete**
+
 
 
 
@@ -70739,7 +70762,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 #### Book 1: Empire Vision & Principles
 
 **Chapter 1: The Enterprise Manifesto**
-- **Section 1.1:** Linked to Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Legacy Trust), Volume VI Chapter 31 (Family Council).
+- **Section 1.1:** Linked to Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Dynasty Trust), Volume VI Chapter 31 (Family Council).
 - **Section 1.2:** Linked to Chapter 2.1 (Strategic Alignment), Chapter 3.2 (Values Transmission), Volume II Chapter 7 (Entity Structure).
 - **Section 1.3:** Linked to Chapter 2.1 (Horizon Metrics), Chapter 3.1 (Family Goals), Volume III (Revenue Metrics).
 - **Section 1.4:** Linked to Chapter 2.2 (Risk Philosophy), Chapter 3.3 (Succession), Volume VI Chapter 31 (Family Council).
@@ -70756,7 +70779,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 
 ### Volume II: Legal & Fiduciary Structures
 
-#### Book 2: The Enterprise Trust Complex
+#### Book 2: The Dynasty Trust Complex
 
 **Chapter 4: South Dakota Dynasty Trust**
 - **Section 4.1:** Linked to Chapter 1.1 (Vision), Chapter 1.2 (Protection), Chapter 2.1 (Horizon 3).
@@ -70931,7 +70954,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
     - Crisis Management: Vol X, Ch 53
 - **D**
     - Directory Empire: Vol III, Ch 13-15
-    - Legacy Trust: Vol II, Ch 4-6; Vol VI, Ch 34
+    - Dynasty Trust: Vol II, Ch 4-6; Vol VI, Ch 34
 - **E**
     - Estate Planning: Vol VI, Ch 34
     - Exit Strategy: Vol VIII, Ch 45
@@ -70990,13 +71013,15 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 
 
 
+
+
 ---
 
 ---
 
 **END OF LEGACY CODEX COMPILATION**
 
-*This document was automatically compiled on November 23, 2025 at 17:58:04*
+*This document was automatically compiled on November 23, 2025 at 18:02:26*
 
 ---
 

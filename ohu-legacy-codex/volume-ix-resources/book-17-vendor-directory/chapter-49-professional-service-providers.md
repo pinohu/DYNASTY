@@ -43,7 +43,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 
 ### 49.1.1 Trust Companies (South Dakota)
 
-**Role**: Administrative Trustee for The Enterprise Trust. The trust company serves as the independent trustee, providing administrative services while we maintain investment control through a Directed Trust structure.
+**Role**: Administrative Trustee for The Dynasty Trust. The trust company serves as the independent trustee, providing administrative services while we maintain investment control through a Directed Trust structure.
 
 **Key Responsibilities**:
 - Trust administration and compliance
@@ -123,7 +123,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 **Role**: Drafting the Trust and Estate Plan. Estate attorneys create the legal documents that protect and transfer wealth across generations.
 
 **Key Responsibilities**:
-- Drafting trust documents (Legacy Trust, ILIT, etc.)
+- Drafting trust documents (Dynasty Trust, ILIT, etc.)
 - Creating estate plans
 - Coordinating with trust company
 - Updating documents as needed
@@ -164,7 +164,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 
 **Estate Attorney Evaluation Checklist**:
 - [ ] Verify specialization in HNW estate planning
-- [ ] Review track record with Legacy Trusts
+- [ ] Review track record with Dynasty Trusts
 - [ ] Check references from similar clients
 - [ ] Test responsiveness (call and see response time)
 - [ ] Review sample documents (anonymized)
@@ -1601,7 +1601,7 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **First National Trust Company** (Example)
    - Assets under Administration: $2B+
-   - Specialization: Directed Trusts, Legacy Trusts
+   - Specialization: Directed Trusts, Dynasty Trusts
    - Fee Structure: Flat annual fee
    - Contact: [To be researched]
 
@@ -1624,13 +1624,13 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **Specialized Estate Planning Firm** (Example)
    - Specialization: HNW Estate Planning
-   - Experience: 20+ years, 100+ Legacy Trusts
+   - Experience: 20+ years, 100+ Dynasty Trusts
    - Fee Structure: Hourly or fixed-fee
    - Contact: [To be researched]
 
 **Selection Process**:
 - Research HNW estate planning attorneys
-- Verify Legacy Trust experience
+- Verify Dynasty Trust experience
 - Interview candidates
 - Check references
 - Review sample documents
@@ -1873,7 +1873,7 @@ All professional service providers should be selected, engaged, and managed usin
 
 #### Trust Company Selection: Real-World Example
 
-**Scenario**: Selecting a South Dakota trust company for a $10M Legacy Trust.
+**Scenario**: Selecting a South Dakota trust company for a $10M Dynasty Trust.
 
 **Step 1: Initial Research**
 - Identified 8 South Dakota trust companies with $1B+ AUM
@@ -2897,5 +2897,7 @@ All professional service providers should be selected, engaged, and managed usin
 ---
 
 **Chapter 49 Complete: 11,559 words | 40+ pages**
+
+
 
 

@@ -756,7 +756,7 @@ Succession is the most critical test of a Legacy. Will the Empire survive the tr
 
 #### Ownership (Birthright)
 
-**Definition**: Every lineal descendant of [Principal Names] is a beneficiary of The Enterprise Trust.
+**Definition**: Every lineal descendant of [Principal Names] is a beneficiary of The Dynasty Trust.
 
 **Rights**:
 - Entitlement to share of trust income (distributions)
@@ -1389,6 +1389,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 **Chapter 3 Complete**
 
 *This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empireâ€”without prepared family members, no amount of wealth or business success will preserve The Enterprise across generations.*
+
 
 
 

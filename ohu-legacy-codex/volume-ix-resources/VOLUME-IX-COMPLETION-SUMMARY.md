@@ -15,7 +15,7 @@
 ### âœ… Chapter 46: Legal Documents & Agreements
 **Status**: Complete (~15,000 words)
 **Deliverables**:
-- **Trust Templates**: Legacy Trust, ILIT, Crummey Trust, Trustee Letters.
+- **Trust Templates**: Dynasty Trust, ILIT, Crummey Trust, Trustee Letters.
 - **Entity Documents**: Operating Agreements (LLC), Bylaws (Corp), Buy-Sell Agreements.
 - **Real Estate Forms**: Purchase Agreements, Leases, Option Contracts.
 - **Business Contracts**: MSAs, NDAs, IP Licenses, Intercompany Loans.
@@ -78,6 +78,7 @@ Volume IX serves as the **Execution Engine** for the entire Legacy Codex.
 1.  **Customize**: Replace all `[Placeholders]` with specific entity details.
 2.  **Review**: Have legal and tax counsel review all templates in Book 16.
 3.  **Implement**: Roll out the Tech Stack (Ch 50) and Compliance Calendar (Ch 51) immediately.
+
 
 
 

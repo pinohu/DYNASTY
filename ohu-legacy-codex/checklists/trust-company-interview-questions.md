@@ -13,7 +13,7 @@ Use this questionnaire when interviewing potential South Dakota Corporate Truste
 - [ ] How long have you been chartered in South Dakota?
 - [ ] What is your total Assets Under Administration (AUA)?
 - [ ] Do you specialize in Directed Trusts?
-- [ ] How many Legacy Trusts do you currently administer?
+- [ ] How many Dynasty Trusts do you currently administer?
 
 ## 2. Fees & Costs
 - [ ] What is your annual administrative fee? (Flat fee or % of assets?)
@@ -38,5 +38,6 @@ Use this questionnaire when interviewing potential South Dakota Corporate Truste
 [ ] **Recommended**
 [ ] **Backup Option**
 [ ] **Not Recommended**
+
 
 

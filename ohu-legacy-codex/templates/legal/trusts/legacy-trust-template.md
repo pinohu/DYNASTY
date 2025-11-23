@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This template provides a complete South Dakota Dynasty Trust Agreement for the Legacy Codex. The Enterprise Trust serves as the ultimate parent vault, providing 365-year perpetual wealth preservation, zero state income tax, and top-tier asset protection.
+This template provides a complete South Dakota Dynasty Trust Agreement for the Legacy Codex. The Dynasty Trust serves as the ultimate parent vault, providing 365-year perpetual wealth preservation, zero state income tax, and top-tier asset protection.
 
 **IMPORTANT**: This template must be reviewed and customized by qualified trust counsel before execution. South Dakota-specific requirements must be verified.
 
@@ -26,7 +26,7 @@ This template provides a complete South Dakota Dynasty Trust Agreement for the L
 
 ## TRUST IDENTIFICATION
 
-**Trust Name**: [TRUST NAME] Legacy Trust  
+**Trust Name**: [TRUST NAME] Dynasty Trust  
 **Governing Law**: South Dakota  
 **Trust Company**: [TRUST COMPANY NAME]  
 **Date of Execution**: [DATE]  
@@ -743,6 +743,8 @@ Date: _______________
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
+
 
 
 

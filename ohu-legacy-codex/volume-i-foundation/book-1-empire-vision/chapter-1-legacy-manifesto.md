@@ -50,7 +50,7 @@ Most families consume their wealth within three generations. The first generatio
 
 **Our approach breaks this cycle:**
 
-1. **Principal Protection**: The core assets of The Enterprise Trust (PNR Holdings LLC, real estate portfolio, intellectual property) are **never** distributed as principal. They remain in trust, generating income for distributions.
+1. **Principal Protection**: The core assets of The Dynasty Trust (PNR Holdings LLC, real estate portfolio, intellectual property) are **never** distributed as principal. They remain in trust, generating income for distributions.
 
 2. **Income Distribution Strategy**: Beneficiaries receive distributions from **income**, not principal. This ensures the Empire grows even as it provides for the family.
 
@@ -372,7 +372,7 @@ Traditional definitions of wealth focus solely on financial assets. We reject th
   - Real estate (residential, commercial, land)
   - Business equity (ownership in operating companies)
   - Intellectual property (trademarks, copyrights, domain portfolios)
-  - Trust assets (Legacy Trust principal)
+  - Trust assets (Dynasty Trust principal)
 - **Measurement**: Net Asset Value (NAV), calculated quarterly
 - **Goal**: Compound annual growth rate (CAGR) of 15%+ on the portfolio, averaged over 10-year periods
 
@@ -570,7 +570,7 @@ This Constitution serves as the supreme law of Legacy Codex. It is divided into 
 
 #### Law 1: The Perpetuity Clause
 
-**Text**: The Enterprise Trust shall never be dissolved for the purpose of distributing principal to beneficiaries for consumption. Principal is for production; income is for distribution.
+**Text**: The Dynasty Trust shall never be dissolved for the purpose of distributing principal to beneficiaries for consumption. Principal is for production; income is for distribution.
 
 **Rationale**: This law prevents the destruction of the Empire through principal distribution. It ensures that the core assets remain intact, generating income for future generations.
 
@@ -822,6 +822,8 @@ In extreme emergencies, Operational Guidelines may be temporarily suspended by:
 **Chapter 1 Complete**
 
 *This chapter establishes the philosophical foundation for the entire Empire. Every subsequent volume builds upon these principles. Review this chapter annually to ensure alignment with Empire operations.*
+
+
 
 
 

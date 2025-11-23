@@ -11,7 +11,7 @@ Complete listing of all templates in the Empire Templates Library.
 
 ### Trust Documents (`legal/trusts/`)
 
-#### Legacy Trust Templates
+#### Dynasty Trust Templates
 - `Legacy-trust-template.md` - South Dakota Dynasty Trust Agreement
 - `Legacy-trust-amendment.md` - Trust Amendment Template
 - `Legacy-trust-funding-checklist.md` - Funding Checklist
@@ -516,5 +516,6 @@ To request a new template:
 ---
 
 *This index is maintained by the Template & Form Specialist Agent and updated as new templates are created.*
+
 
 

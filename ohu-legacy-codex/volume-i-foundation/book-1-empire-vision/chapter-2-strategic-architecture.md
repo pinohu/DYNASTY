@@ -86,7 +86,7 @@ The Three-Horizon Model is our primary strategic framework. It recognizes that t
 
 **Resource Allocation**: 10% of available capital and 10% of management time (but highest priority for decision-making).
 
-**Example**: The Enterprise Trust structure, Family Council operations, and succession planning ensure the Empire survives and thrives across 12-15 generations. These are not revenue-generating activities, but they are essential for long-term survival.
+**Example**: The Dynasty Trust structure, Family Council operations, and succession planning ensure the Empire survives and thrives across 12-15 generations. These are not revenue-generating activities, but they are essential for long-term survival.
 
 ### Transition Planning Between Horizons
 
@@ -175,7 +175,7 @@ The three horizons are not sequential phases; they operate simultaneously. Howev
 #### Horizon 3 Implementation: Legacy Preservation Strategies
 
 **Year 1-5: Structure Establishment**
-- Establish and fund Legacy Trust
+- Establish and fund Dynasty Trust
 - Create Family Council
 - Develop governance documents
 - Begin family education programs
@@ -1105,6 +1105,8 @@ When consolidating, use these strategies to strengthen the Empire:
 **Chapter 2 Complete**
 
 *This chapter provides the strategic frameworks that guide all Empire decisions. Review these frameworks annually and apply them to every major decision.*
+
+
 
 
 

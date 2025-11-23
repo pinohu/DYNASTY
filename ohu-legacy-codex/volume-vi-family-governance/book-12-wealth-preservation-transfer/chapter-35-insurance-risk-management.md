@@ -1356,7 +1356,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - Growth @ 10%/year Ã— 20 years = $33.6M
 - Capital gains tax: $0
 - Income tax: $0
-- Estate tax: $0 (owned by Legacy Trust)
+- Estate tax: $0 (owned by Dynasty Trust)
 - **Net to heirs: $33.6M**
 
 **PPLI Advantage: +$18.2M (118% more wealth)**
@@ -1418,7 +1418,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 1. **Guaranteed Insurability** - Lock in perfect health rating before any issues arise
 2. **Decades of Compound Growth** - 60+ years of tax-free accumulation
 3. **Minimal Cost** - $500-$2,000/year per child
-4. **Legacy Trust Ownership** - Outside children's estates, creditor-protected
+4. **Dynasty Trust Ownership** - Outside children's estates, creditor-protected
 5. **Generational Wealth Transfer** - Millions to grandchildren tax-free
 
 #### Recommended Structure
@@ -1427,7 +1427,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Policy Type**: Whole Life or Indexed Universal Life
 **Death Benefit**: $500K-$1M initial (can increase later)
-**Owner**: Legacy Trust (NOT parents, NOT child)
+**Owner**: Dynasty Trust (NOT parents, NOT child)
 **Beneficiary**: Child's Crummey Trust â†’ Grandchildren
 **Annual Premium**: $500-$2,000 per child
 **Total Family Cost**: $2K-$8K/year (for 4 children)
@@ -1484,8 +1484,8 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Coverage**: $10M-$20M
 **Premium**: $100K-$150K/year (vs $200K-$300K for two separate policies)
-**Owner**: Legacy Trust ILIT
-**Beneficiary**: Legacy Trust
+**Owner**: Dynasty Trust ILIT
+**Beneficiary**: Dynasty Trust
 **Product**: Survivorship IUL or Guaranteed UL
 
 **Use of Death Benefit**:
@@ -1509,7 +1509,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - **Net inheritance: $40.8M**
 
 **With Survivorship Life**:
-- $10M death benefit pays to Legacy Trust
+- $10M death benefit pays to Dynasty Trust
 - Trust pays $9.2M estate tax
 - No asset sales needed
 - Business continuity maintained
@@ -1532,7 +1532,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **How It Works**:
 1. Primary and Secondary Principal each gift $18K/year per child (4 children = $72K each)
 2. **Total annual gifts: $144K tax-free**
-3. Gifts go to Legacy Trust
+3. Gifts go to Dynasty Trust
 4. Trust issues Crummey notices to children (they have 30 days to withdraw)
 5. Children don't withdraw (trained not to)
 6. Trust uses gifts to pay ILIT premiums
@@ -1549,7 +1549,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Option 1**: Premium Financing (covered above)
 **Option 2**: Split-dollar arrangement
-**Option 3**: Legacy Trust distributions (if cash flow positive)
+**Option 3**: Dynasty Trust distributions (if cash flow positive)
 **Option 4**: Sale of assets to ILIT (generates cash for premiums)
 
 ### Policy Review & Optimization
@@ -1615,5 +1615,6 @@ In the final chapter, we'll explore philanthropy and legacyâ€”how to use yo
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 
 

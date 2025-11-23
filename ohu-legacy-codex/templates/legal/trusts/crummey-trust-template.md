@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This template provides a Crummey Trust Agreement for minor children, allowing annual exclusion gifting ($18,000 per child per contributor) while maintaining control over assets until children reach specified ages. These trusts merge into The Enterprise Trust when children reach age 25.
+This template provides a Crummey Trust Agreement for minor children, allowing annual exclusion gifting ($18,000 per child per contributor) while maintaining control over assets until children reach specified ages. These trusts merge into The Dynasty Trust when children reach age 25.
 
 **IMPORTANT**: This template must be reviewed and customized by qualified estate planning counsel before execution.
 
@@ -47,7 +47,7 @@ This Trust is created to receive annual exclusion gifts for the benefit of [CHIL
 
 (d) Invest assets for the Beneficiary's benefit;
 
-(e) Merge into The Enterprise Trust when the Beneficiary reaches age 25.
+(e) Merge into The Dynasty Trust when the Beneficiary reaches age 25.
 
 ### Section 1.2: Irrevocability
 
@@ -208,9 +208,9 @@ Notwithstanding Section 4.1, the Trust Estate shall not be invested in:
 
 ## ARTICLE V: MERGER PROVISION
 
-### Section 5.1: Merger into Legacy Trust
+### Section 5.1: Merger into Dynasty Trust
 
-When the Beneficiary reaches age 25, this Trust shall merge into the [Legacy TRUST NAME], and the Beneficiary's interest shall be held in a sub-trust of The Enterprise Trust.
+When the Beneficiary reaches age 25, this Trust shall merge into the [Legacy TRUST NAME], and the Beneficiary's interest shall be held in a sub-trust of The Dynasty Trust.
 
 **Merger Date**: The merger shall occur on the Beneficiary's 25th birthday, or as soon as practicable thereafter.
 
@@ -218,13 +218,13 @@ When the Beneficiary reaches age 25, this Trust shall merge into the [Legacy TRU
 
 The merger shall be accomplished by:
 
-(a) Transferring all Trust assets to The Enterprise Trust;
+(a) Transferring all Trust assets to The Dynasty Trust;
 
-(b) Creating a sub-trust for the Beneficiary under The Enterprise Trust (if not already existing);
+(b) Creating a sub-trust for the Beneficiary under The Dynasty Trust (if not already existing);
 
 (c) Distributing 25% of the Trust principal to the Beneficiary (as set forth in Section 3.2);
 
-(d) Transferring the remaining 75% to The Enterprise Trust sub-trust;
+(d) Transferring the remaining 75% to The Dynasty Trust sub-trust;
 
 (e) Terminating this Trust.
 
@@ -323,7 +323,7 @@ If the Beneficiary dies before the Trust terminates, the remaining Trust assets 
 **Option A - Other Children**:
 Equally among the Grantor's other children, per stirpes.
 
-**Option B - Legacy Trust**:
+**Option B - Dynasty Trust**:
 To the [Legacy TRUST NAME] to be held for the benefit of the Beneficiary's descendants, per stirpes.
 
 **Option C - Specific Contingent Beneficiaries**:
@@ -377,7 +377,7 @@ This Trust shall terminate:
 
 (a) Upon distribution of all Trust assets;
 
-(b) Upon merger into The Enterprise Trust (as set forth in Article V);
+(b) Upon merger into The Dynasty Trust (as set forth in Article V);
 
 (c) Upon court order for good cause shown;
 
@@ -466,7 +466,7 @@ Date: _______________
 
 - **Crummey Notices**: Must send notices within 7 days of contribution, withdrawal period is 30 days
 
-- **Merger**: Trust merges into Legacy Trust at age 25 - coordinate with Legacy Trust administration
+- **Merger**: Trust merges into Dynasty Trust at age 25 - coordinate with Dynasty Trust administration
 
 - **Investment Strategy**: Consider age-appropriate investments - more aggressive when young, more conservative as distribution dates approach
 
@@ -479,6 +479,8 @@ Date: _______________
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
+
 
 
 

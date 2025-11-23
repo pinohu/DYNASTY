@@ -18,7 +18,7 @@
 
 ### âœ… Volume II: Legal & Fiduciary Structures
 **Chapters**: 4-9 | **Status**: Complete
-- Chapters 4-6: Legacy Trust Complex
+- Chapters 4-6: Dynasty Trust Complex
 - Chapters 7-9: Business Entity Architecture
 - **Templates**: 17 legal templates
 
@@ -226,6 +226,7 @@ Legacy Codex is a comprehensive, integrated operating system that has been compl
 *"We build not for ourselves, but for generations we will never meet."*
 
 **Legacy Codex: Your Complete Guide to Building a 365-Year Legacy**
+
 
 
 

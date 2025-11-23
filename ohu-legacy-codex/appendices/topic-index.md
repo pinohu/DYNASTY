@@ -120,7 +120,7 @@
   - Asset protection strategy
   - Wealth preservation metrics
 
-- **Legacy Trust** [Volume II, Chapter 4]
+- **Dynasty Trust** [Volume II, Chapter 4]
   - South Dakota Dynasty Trust
   - Trust formation process
   - Trust document provisions
@@ -245,7 +245,7 @@
   - SuiteDash command center setup
 
 - **Legal Documents** [Volume IX, Chapter 46]
-  - Legacy Trust template
+  - Dynasty Trust template
   - Trustee architecture provisions
   - Beneficiary structure
   - Trust purpose and powers
@@ -257,7 +257,7 @@
   - SuiteDash command center setup
 
 - **Legal Documents** [Volume IX, Chapter 46]
-  - Legacy Trust template
+  - Dynasty Trust template
   - Trustee architecture provisions
   - Beneficiary structure
   - Trust purpose and powers
@@ -275,7 +275,7 @@
   - Business contracts (MSA, IP License, Loan)
 
 - **Legal Structure** [Volume II]
-  - Legacy Trust structure
+  - Dynasty Trust structure
   - Entity architecture
   - Asset protection layers
   - Tax optimization
@@ -823,6 +823,7 @@
 **Last Updated**: [Date]
 **Total Topics**: 60+
 **Cross-References**: See cross-reference-guide.md
+
 
 
 

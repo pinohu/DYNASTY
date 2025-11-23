@@ -1,5 +1,5 @@
 ﻿# Trust Company Selection Checklist
-## Comprehensive Evaluation for Legacy Trust Administration
+## Comprehensive Evaluation for Dynasty Trust Administration
 
 Use this checklist to evaluate and select a trust company for your South Dakota Dynasty Trust.
 
@@ -11,11 +11,11 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 ---
 
-## Section 1: Legacy Trust Experience
+## Section 1: Dynasty Trust Experience
 
 ### Experience Metrics
 
-- [ ] **Number of Legacy Trusts**: _______________ trusts under administration
+- [ ] **Number of Dynasty Trusts**: _______________ trusts under administration
   - **Target**: 100+ Legacy trusts
   - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
@@ -33,7 +33,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 ### Specialization
 
-- [ ] **Legacy Trust Focus**: 
+- [ ] **Dynasty Trust Focus**: 
   - [ ] Specializes in Legacy trusts
   - [ ] Legacy trusts are primary business
   - [ ] Has dedicated Legacy trust team
@@ -346,6 +346,7 @@ _________________________________________________________________
 3. Select top choice
 4. Negotiate terms
 5. Execute agreement
+
 
 
 

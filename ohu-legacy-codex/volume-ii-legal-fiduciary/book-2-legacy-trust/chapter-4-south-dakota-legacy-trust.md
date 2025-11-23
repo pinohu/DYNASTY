@@ -148,7 +148,7 @@ The tax advantages of a South Dakota Dynasty Trust are substantial and can save 
 
 **Example 1: Investment Income**
 
-Assume The Enterprise Trust holds $10 million in investments generating 7% annual returns ($700,000 per year):
+Assume The Dynasty Trust holds $10 million in investments generating 7% annual returns ($700,000 per year):
 
 - **California Trust**: 13.3% state tax = $93,100 annual tax
 - **New York Trust**: 10.9% state tax = $76,300 annual tax
@@ -160,7 +160,7 @@ Assume The Enterprise Trust holds $10 million in investments generating 7% annua
 
 **Example 2: Business Income**
 
-Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in annual income:
+Assume The Dynasty Trust owns PNR Holdings LLC, which generates $2 million in annual income:
 
 - **Pennsylvania Trust**: 3.07% state tax = $61,400 annual tax
 - **South Dakota Trust**: 0% state tax = $0 annual tax
@@ -179,13 +179,13 @@ Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu transfer $10 million to a South Dakota Dynasty Trust.
 
-**Without Legacy Trust**:
+**Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
 - At Judith Huchukwuyem Ohu's death: $10M estate - $13.61M exemption = $0 estate tax (within exemption)
 - At first child's death: $10M + appreciation = potential estate tax
 - **Problem**: Each generation faces potential estate tax as exemption amounts change
 
-**With Legacy Trust**:
+**With Dynasty Trust**:
 - At Ikechukwu's death: $0 in estate (already in trust) = $0 estate tax
 - At Judith Huchukwuyem Ohu's death: $0 in estate = $0 estate tax
 - At first child's death: $0 in estate = $0 estate tax
@@ -218,12 +218,12 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu want to provide for their children and grandchildren.
 
-**Without Legacy Trust**:
+**Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
 - Transfer to grandchildren: Subject to GST tax at 40%
 - **Problem**: Limited exemption, GST tax on excess
 
-**With Legacy Trust**:
+**With Dynasty Trust**:
 - Properly structured trust allocates GST exemption to trust
 - Trust can benefit children, grandchildren, and future generations
 - No GST tax on distributions to any generation
@@ -233,7 +233,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 Assuming $20 million transfer with GST exemption allocation:
 - **Without Proper Planning**: $6.39M subject to GST tax = $2.56M tax
-- **With Legacy Trust**: $0 GST tax (exemption allocated)
+- **With Dynasty Trust**: $0 GST tax (exemption allocated)
 - **Savings**: $2.56 million
 
 **Multi-Generational Impact**: Over multiple generations, GST tax savings can exceed $10-20 million.
@@ -325,8 +325,8 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 - Public records search reveals ownership
 - Value and location publicly known
 
-**With Legacy Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of [Your Legacy Trust]"
+**With Dynasty Trust**:
+- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -446,7 +446,7 @@ Include trust protector with power to modify trust terms. This allows adaptation
 Use multiple trusts for different asset classes or purposes. This creates additional barriers for creditors.
 
 **Strategy**: 
-- Legacy Trust holds LLC interests
+- Dynasty Trust holds LLC interests
 - LLCs hold operating assets
 - Multiple layers of protection
 
@@ -473,7 +473,7 @@ Real Property
 ```
 
 **Protection Layers**:
-1. **Legacy Trust**: Spendthrift provisions, discretionary distributions
+1. **Dynasty Trust**: Spendthrift provisions, discretionary distributions
 2. **Wyoming LLC**: Charging order protection
 3. **Series LLC**: Asset segregation
 4. **Real Property**: Protected by multiple layers
@@ -2416,6 +2416,8 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
+
 
 
 

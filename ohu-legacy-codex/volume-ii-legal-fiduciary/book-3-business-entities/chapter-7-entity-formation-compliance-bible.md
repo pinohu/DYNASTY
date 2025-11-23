@@ -831,7 +831,7 @@ _________________________            _________________________
 
 **PNR Holdings LLC**:
 - Member-Managed
-- Legacy Trust as 99.999% member
+- Dynasty Trust as 99.999% member
 - You as 0.001% member (for REPS)
 - Manager: You
 
@@ -2325,6 +2325,7 @@ By following this guide, you will ensure your entities are properly formed, docu
 **END OF CHAPTER 7**
 
 *This chapter provides the complete guide to entity formation and compliance. Follow these procedures meticulously to ensure proper entity structure and ongoing compliance. Review this chapter when forming new entities and annually for compliance maintenance.*
+
 
 
 
