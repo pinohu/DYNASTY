@@ -1,4 +1,4 @@
-# Empire Dynasty CRM Audit Diagnostic
+﻿# Empire Legacy CRM Audit Diagnostic
 ## Complete Assessment Tool for Your Current CRM
 
 ---
@@ -224,11 +224,11 @@
 
 **Calculate conversion rate for each stage transition**:
 
-Stage 1 → Stage 2: ___% (___ deals moved / ___ deals entered)
-Stage 2 → Stage 3: ___% (___ deals moved / ___ deals entered)
-Stage 3 → Stage 4: ___% (___ deals moved / ___ deals entered)
-Stage 4 → Stage 5: ___% (___ deals moved / ___ deals entered)
-Stage 5 → Won: ___% (___ deals won / ___ deals entered)
+Stage 1 â†’ Stage 2: ___% (___ deals moved / ___ deals entered)
+Stage 2 â†’ Stage 3: ___% (___ deals moved / ___ deals entered)
+Stage 3 â†’ Stage 4: ___% (___ deals moved / ___ deals entered)
+Stage 4 â†’ Stage 5: ___% (___ deals moved / ___ deals entered)
+Stage 5 â†’ Won: ___% (___ deals won / ___ deals entered)
 
 **Issues**:
 - [ ] Conversion rate <50% at any stage (investigate)
@@ -508,7 +508,7 @@ Stage 5: ___ days
 
 ## 6. OFFER ALIGNMENT AUDIT
 
-### 6.1 Offer → Pipeline Mapping
+### 6.1 Offer â†’ Pipeline Mapping
 
 **For each offer, check alignment**:
 
@@ -735,6 +735,7 @@ Stage 5: ___ days
 ---
 
 *Use this audit quarterly to maintain CRM health and identify optimization opportunities.*
+
 
 
 

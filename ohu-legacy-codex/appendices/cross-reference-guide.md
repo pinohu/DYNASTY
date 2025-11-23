@@ -11,7 +11,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 #### Chapter 1: The Enterprise Manifesto
 
 **Section 1.1: The 365-Year Vision Statement**
-- **References to**: Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Dynasty Trust)
+- **References to**: Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Legacy Trust)
 - **Referenced by**: Chapter 2.1, Chapter 2.2, Chapter 2.3, Chapter 3.2, Volume II Chapter 4
 
 **Section 1.2: Core Values & Operating Principles**
@@ -207,7 +207,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 ### Vision â†’ Implementation Flow
 
 **Volume I (Foundation) â†’ Volume II (Legal Structure)**
-- Chapter 1.1 (365-year vision) â†’ Volume II Chapter 4 (Dynasty Trust)
+- Chapter 1.1 (365-year vision) â†’ Volume II Chapter 4 (Legacy Trust)
 - Chapter 1.2 (Asset protection) â†’ Volume II Chapter 7 (Entity structure)
 - Chapter 2.1 (Horizon 3) â†’ Volume II Chapter 4 (Trust preservation)
 
@@ -239,7 +239,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 ### Legal â†’ Operational Flow
 
 **Volume II (Legal Structure) â†’ Volume III (Revenue Operations)**
-- Chapter 4 (Dynasty Trust) â†’ Volume III (Asset ownership structure)
+- Chapter 4 (Legacy Trust) â†’ Volume III (Asset ownership structure)
 - Chapter 7 (Entity structure) â†’ Volume III (Business operations)
 
 **Volume II (Legal Structure) â†’ Volume VI (Family Governance)**
@@ -253,7 +253,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 **365-Year Vision**
 - Central to: Volume I Chapter 1.1
 - Informs: All strategic decisions (Volume I Chapter 2)
-- Implemented through: Dynasty Trust (Volume II Chapter 4)
+- Implemented through: Legacy Trust (Volume II Chapter 4)
 - Measured by: Success metrics (Volume I Chapter 1.3)
 
 **Asset Protection**
@@ -288,6 +288,7 @@ This guide maps relationships between chapters, sections, and topics across the 
 **Last Updated**: [Current Date]
 **Total Cross-References**: 180+
 **Reference Verification**: See index/cross-reference-log.md
+
 
 
 

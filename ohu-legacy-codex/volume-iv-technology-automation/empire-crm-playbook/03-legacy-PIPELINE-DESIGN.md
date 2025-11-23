@@ -1,4 +1,4 @@
-# Dynasty-Ready Pipeline Design
+﻿# Legacy-Ready Pipeline Design
 ## Build Your Pipeline From Scratch
 
 ---
@@ -48,23 +48,23 @@
 
 ```
 1. LEAD CAPTURED
-   ↓
+   â†“
 2. QUALIFIED
-   ↓
+   â†“
 3. DISCOVERY CALL SCHEDULED
-   ↓
+   â†“
 4. DISCOVERY CALL COMPLETED
-   ↓
+   â†“
 5. PROPOSAL SENT
-   ↓
+   â†“
 6. PROPOSAL REVIEWED
-   ↓
+   â†“
 7. NEGOTIATION
-   ↓
+   â†“
 8. CLOSED WON
-   ↓
+   â†“
 9. ONBOARDING
-   ↓
+   â†“
 10. ACTIVE CLIENT
 ```
 
@@ -96,11 +96,11 @@
 **Fallback Owner**: Team queue or manager
 
 **Automations**:
-- Lead capture → Create contact
-- Lead capture → Assign owner
-- Lead capture → Send welcome email
-- Lead capture → Add to nurture sequence
-- Lead capture → Create follow-up task
+- Lead capture â†’ Create contact
+- Lead capture â†’ Assign owner
+- Lead capture â†’ Send welcome email
+- Lead capture â†’ Add to nurture sequence
+- Lead capture â†’ Create follow-up task
 
 **Revenue Connection** (Hormozi):
 - **Lever**: Leads
@@ -114,7 +114,7 @@
 
 **Entry Criteria**:
 - BANT criteria confirmed OR
-- Lead score ≥ 70 OR
+- Lead score â‰¥ 70 OR
 - Manual qualification by rep
 
 **Required Actions**:
@@ -137,13 +137,13 @@
 **Fallback Owner**: Sales manager
 
 **Automations**:
-- Qualified → Create discovery call task
-- Qualified → Send discovery call email
-- Qualified → Update lead score
-- Qualified → Notify sales manager
+- Qualified â†’ Create discovery call task
+- Qualified â†’ Send discovery call email
+- Qualified â†’ Update lead score
+- Qualified â†’ Notify sales manager
 
 **Revenue Connection** (Hormozi):
-- **Lever**: Conversion (Lead → Qualified)
+- **Lever**: Conversion (Lead â†’ Qualified)
 - **Metric**: Qualification rate, qualified lead volume
 
 ---
@@ -176,13 +176,13 @@
 **Fallback Owner**: Sales manager
 
 **Automations**:
-- Scheduled → Send confirmation email
-- Scheduled → Send pre-call email (24h before)
-- Scheduled → Create prep task
-- Scheduled → Calendar reminder (1h before)
+- Scheduled â†’ Send confirmation email
+- Scheduled â†’ Send pre-call email (24h before)
+- Scheduled â†’ Create prep task
+- Scheduled â†’ Calendar reminder (1h before)
 
 **Revenue Connection** (Hormozi):
-- **Lever**: Conversion (Qualified → Call)
+- **Lever**: Conversion (Qualified â†’ Call)
 - **Metric**: Call show rate, call-to-close rate
 
 ---
@@ -217,13 +217,13 @@
 **Fallback Owner**: Sales manager
 
 **Automations**:
-- Call completed → Create proposal task
-- Call completed → Send thank you email
-- Call completed → Update deal value
-- Call completed → Notify manager
+- Call completed â†’ Create proposal task
+- Call completed â†’ Send thank you email
+- Call completed â†’ Update deal value
+- Call completed â†’ Notify manager
 
 **Revenue Connection** (Hormozi):
-- **Lever**: Conversion (Call → Proposal)
+- **Lever**: Conversion (Call â†’ Proposal)
 - **Metric**: Call completion rate, fit rate
 
 ---
@@ -256,10 +256,10 @@
 **Fallback Owner**: Sales manager
 
 **Automations**:
-- Proposal sent → Send proposal email
-- Proposal sent → Create follow-up task (3 days)
-- Proposal sent → Track email opens
-- Proposal sent → Update deal probability
+- Proposal sent â†’ Send proposal email
+- Proposal sent â†’ Create follow-up task (3 days)
+- Proposal sent â†’ Track email opens
+- Proposal sent â†’ Update deal probability
 
 **Revenue Connection** (Hormozi):
 - **Lever**: Transaction Value (proposal amount)
@@ -295,12 +295,12 @@
 **Fallback Owner**: Sales manager
 
 **Automations**:
-- Reviewed → Send follow-up email
-- Reviewed → Create negotiation task
-- Reviewed → Update deal probability
+- Reviewed â†’ Send follow-up email
+- Reviewed â†’ Create negotiation task
+- Reviewed â†’ Update deal probability
 
 **Revenue Connection** (Hormozi):
-- **Lever**: Conversion (Proposal → Close)
+- **Lever**: Conversion (Proposal â†’ Close)
 - **Metric**: Proposal-to-close rate
 
 ---
@@ -332,9 +332,9 @@
 **Fallback Owner**: Sales manager
 
 **Automations**:
-- Negotiation → Notify manager
-- Negotiation → Create approval task
-- Negotiation → Update deal value (if changed)
+- Negotiation â†’ Notify manager
+- Negotiation â†’ Create approval task
+- Negotiation â†’ Update deal value (if changed)
 
 **Revenue Connection** (Hormozi):
 - **Lever**: Transaction Value (final deal size)
@@ -364,15 +364,15 @@
 - Deal closed: Same day as agreement
 - Onboarding triggered: Within 24 hours
 
-**Owner**: Assigned rep → Customer Success
+**Owner**: Assigned rep â†’ Customer Success
 **Fallback Owner**: Customer Success Manager
 
 **Automations**:
-- Closed won → Trigger onboarding automation
-- Closed won → Send welcome email
-- Closed won → Create onboarding tasks
-- Closed won → Update revenue dashboard
-- Closed won → Notify team
+- Closed won â†’ Trigger onboarding automation
+- Closed won â†’ Send welcome email
+- Closed won â†’ Create onboarding tasks
+- Closed won â†’ Update revenue dashboard
+- Closed won â†’ Notify team
 
 **Revenue Connection** (Hormozi):
 - **Lever**: Conversion (final conversion)
@@ -407,10 +407,10 @@
 **Fallback Owner**: Customer Success Manager
 
 **Automations**:
-- Onboarding → Send welcome sequence
-- Onboarding → Create onboarding tasks
-- Onboarding → Schedule kickoff call
-- Onboarding → Track completion
+- Onboarding â†’ Send welcome sequence
+- Onboarding â†’ Create onboarding tasks
+- Onboarding â†’ Schedule kickoff call
+- Onboarding â†’ Track completion
 
 **Revenue Connection** (Hormozi):
 - **Lever**: Frequency (sets up for repeat business)
@@ -446,11 +446,11 @@
 **Fallback Owner**: Account Manager
 
 **Automations**:
-- Active client → Schedule check-in calls
-- Active client → Send satisfaction surveys
-- Active client → Track engagement
-- Active client → Identify expansion opportunities
-- Active client → Flag churn risks
+- Active client â†’ Schedule check-in calls
+- Active client â†’ Send satisfaction surveys
+- Active client â†’ Track engagement
+- Active client â†’ Identify expansion opportunities
+- Active client â†’ Flag churn risks
 
 **Revenue Connection** (Hormozi):
 - **Lever**: Frequency, Margin (retention, expansion)
@@ -458,19 +458,19 @@
 
 ---
 
-## 🛒 E-Commerce Pipeline
+## ðŸ›’ E-Commerce Pipeline
 
 ### Simplified Flow
 
 ```
 1. VISITOR
-   ↓
+   â†“
 2. CART ABANDONED
-   ↓
+   â†“
 3. FIRST PURCHASE
-   ↓
+   â†“
 4. REPEAT CUSTOMER
-   ↓
+   â†“
 5. VIP MEMBER
 ```
 
@@ -509,17 +509,17 @@
 
 ```
 1. TRIAL STARTED
-   ↓
+   â†“
 2. TRIAL ACTIVE
-   ↓
+   â†“
 3. CONVERSION OPPORTUNITY
-   ↓
+   â†“
 4. MEMBER (ACTIVE)
-   ↓
+   â†“
 5. EXPANSION OPPORTUNITY
-   ↓
+   â†“
 6. CHURN RISK
-   ↓
+   â†“
 7. CHURNED
 ```
 
@@ -543,31 +543,31 @@
 
 ---
 
-## 🎨 Service-Based Pipeline
+## ðŸŽ¨ Service-Based Pipeline
 
 ### Flow (Project-Based)
 
 ```
 1. INQUIRY
-   ↓
+   â†“
 2. CONSULTATION SCHEDULED
-   ↓
+   â†“
 3. CONSULTATION COMPLETED
-   ↓
+   â†“
 4. PROPOSAL SENT
-   ↓
+   â†“
 5. PROJECT KICKOFF
-   ↓
+   â†“
 6. IN PROGRESS
-   ↓
+   â†“
 7. PROJECT COMPLETE
-   ↓
+   â†“
 8. RETAINER OPPORTUNITY
 ```
 
 ---
 
-## ⏱️ Stage Definitions & SLAs
+## â±ï¸ Stage Definitions & SLAs
 
 ### SLA Template
 
@@ -582,13 +582,13 @@ For each stage, define:
 - [ ] Action 3
 
 **Escalation Rules**:
-- If past SLA → Notify manager
-- If past 2x SLA → Escalate to owner
-- If past 3x SLA → Review for disqualification
+- If past SLA â†’ Notify manager
+- If past 2x SLA â†’ Escalate to owner
+- If past 3x SLA â†’ Review for disqualification
 
 ---
 
-## 👥 Ownership & Fallback Rules
+## ðŸ‘¥ Ownership & Fallback Rules
 
 ### Ownership Rules
 
@@ -601,13 +601,13 @@ For each stage, define:
 
 ```
 Primary Owner
-  ↓ (unavailable)
+  â†“ (unavailable)
 Fallback Owner
-  ↓ (unavailable)
+  â†“ (unavailable)
 Team Queue
-  ↓ (unavailable)
+  â†“ (unavailable)
 Manager
-  ↓ (unavailable)
+  â†“ (unavailable)
 Owner
 ```
 
@@ -625,7 +625,7 @@ Owner
 
 ---
 
-## ⚙️ Automation Triggers
+## âš™ï¸ Automation Triggers
 
 ### Trigger Types
 
@@ -652,19 +652,19 @@ For each stage, define automations:
 
 ### Money Lever Connection
 
-**Lever 1: Leads** → Stages 1-2 (Lead Capture, Qualification)
+**Lever 1: Leads** â†’ Stages 1-2 (Lead Capture, Qualification)
 - Metric: Lead volume, lead quality, lead cost
 
-**Lever 2: Conversion** → Stages 2-8 (Qualified → Closed Won)
+**Lever 2: Conversion** â†’ Stages 2-8 (Qualified â†’ Closed Won)
 - Metric: Conversion rate, stage-to-stage conversion
 
-**Lever 3: Transaction Value** → Stages 5-7 (Proposal, Negotiation)
+**Lever 3: Transaction Value** â†’ Stages 5-7 (Proposal, Negotiation)
 - Metric: Average deal size, proposal value
 
-**Lever 4: Frequency** → Stages 9-10 (Onboarding, Active Client)
+**Lever 4: Frequency** â†’ Stages 9-10 (Onboarding, Active Client)
 - Metric: Retention rate, expansion rate, repeat purchases
 
-**Lever 5: Margin** → All stages (efficiency, automation)
+**Lever 5: Margin** â†’ All stages (efficiency, automation)
 - Metric: Cost per acquisition, operating efficiency
 
 ### Revenue Dashboard Metrics
@@ -683,20 +683,20 @@ Track these per stage:
 ### Standard Sales Pipeline Flow
 
 ```
-[LEAD CAPTURED] → [QUALIFIED] → [DISCOVERY CALL SCHEDULED]
-                                                      ↓
-[ACTIVE CLIENT] ← [ONBOARDING] ← [CLOSED WON] ← [NEGOTIATION]
-                                                      ↑
-[PROPOSAL REVIEWED] ← [PROPOSAL SENT] ← [DISCOVERY CALL COMPLETED]
+[LEAD CAPTURED] â†’ [QUALIFIED] â†’ [DISCOVERY CALL SCHEDULED]
+                                                      â†“
+[ACTIVE CLIENT] â† [ONBOARDING] â† [CLOSED WON] â† [NEGOTIATION]
+                                                      â†‘
+[PROPOSAL REVIEWED] â† [PROPOSAL SENT] â† [DISCOVERY CALL COMPLETED]
 ```
 
 ### Decision Points
 
 At each stage, show:
-- ✅ **Continue**: Criteria met → Next stage
-- ❌ **Disqualify**: Criteria not met → Disqualified
-- ⏸️ **Pause**: Needs more info → Previous stage
-- 🚫 **Lost**: Prospect says no → Lost
+- âœ… **Continue**: Criteria met â†’ Next stage
+- âŒ **Disqualify**: Criteria not met â†’ Disqualified
+- â¸ï¸ **Pause**: Needs more info â†’ Previous stage
+- ðŸš« **Lost**: Prospect says no â†’ Lost
 
 ---
 
@@ -736,7 +736,7 @@ At each stage, show:
 
 ---
 
-## ✅ Implementation Checklist
+## âœ… Implementation Checklist
 
 - [ ] Choose pipeline type(s)
 - [ ] Define all stages
@@ -764,6 +764,7 @@ At each stage, show:
 ---
 
 *Build once. Scale forever. Optimize continuously.*
+
 
 
 

@@ -4,7 +4,7 @@
 
 Welcome to the **Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
 
-In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Dynasty**. A dynasty is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
+In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Legacy**. A Legacy is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
 
 This chapter establishes the philosophical bedrock upon which every other volume of this Bible rests. Without this foundation, our trusts, entities, and technologies are merely tools without purpose. With it, they become the instruments of our immortality.
 
@@ -27,7 +27,7 @@ Legacy Codex is founded on the **365-Year Vision**. This number is not arbitrary
 **Why 365 Years?**
 
 The number 365 represents:
-- **One year for each day**: A reminder that dynasty building is a daily practice, not an annual event
+- **One year for each day**: A reminder that Legacy building is a daily practice, not an annual event
 - **Maximum legal perpetuity**: South Dakota allows trusts to exist for 365 years, the longest in the United States
 - **Multi-generational span**: Approximately 12-15 generations, ensuring our vision outlives any single person's memory
 - **Symbolic completeness**: A full cycle, representing the complete transformation from founders to perpetual institution
@@ -372,7 +372,7 @@ Traditional definitions of wealth focus solely on financial assets. We reject th
   - Real estate (residential, commercial, land)
   - Business equity (ownership in operating companies)
   - Intellectual property (trademarks, copyrights, domain portfolios)
-  - Trust assets (Dynasty Trust principal)
+  - Trust assets (Legacy Trust principal)
 - **Measurement**: Net Asset Value (NAV), calculated quarterly
 - **Goal**: Compound annual growth rate (CAGR) of 15%+ on the portfolio, averaged over 10-year periods
 
@@ -822,6 +822,7 @@ In extreme emergencies, Operational Guidelines may be temporarily suspended by:
 **Chapter 1 Complete**
 
 *This chapter establishes the philosophical foundation for the entire Empire. Every subsequent volume builds upon these principles. Review this chapter annually to ensure alignment with Empire operations.*
+
 
 
 

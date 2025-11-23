@@ -748,7 +748,7 @@ We do not hope our children learn our values; we **train them**. The **[Family] 
 
 ## 3.3 Succession Philosophy
 
-Succession is the most critical test of a dynasty. Will the Empire survive the transition from one generation to the next? Our philosophy balances merit-based management with birthright ownership.
+Succession is the most critical test of a Legacy. Will the Empire survive the transition from one generation to the next? Our philosophy balances merit-based management with birthright ownership.
 
 ### Merit-Based Management / Birthright Ownership
 
@@ -1389,6 +1389,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 **Chapter 3 Complete**
 
 *This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empireâ€”without prepared family members, no amount of wealth or business success will preserve The Enterprise across generations.*
+
 
 
 

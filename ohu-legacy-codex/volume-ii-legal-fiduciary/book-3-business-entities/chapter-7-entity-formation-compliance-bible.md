@@ -831,7 +831,7 @@ _________________________            _________________________
 
 **PNR Holdings LLC**:
 - Member-Managed
-- Dynasty Trust as 99.999% member
+- Legacy Trust as 99.999% member
 - You as 0.001% member (for REPS)
 - Manager: You
 
@@ -2100,7 +2100,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
 - **1 Year**: Annual compliance and operations
 - **3 Years**: Strategic planning and growth
 - **5 Years**: Long-term strategy and succession
-- **10+ Years**: Dynasty planning and legacy
+- **10+ Years**: Legacy planning and legacy
 
 **Planning Areas**:
 
@@ -2128,7 +2128,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Succession planning
    - Legacy planning
 
-**OHU-PNR Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
+**OHU-PNR Planning**: Plan for 365+ year Legacy, ensuring compliance and structure support long-term goals.
 
 #### Strategic Considerations
 
@@ -2156,9 +2156,9 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Family needs
    - Succession planning
    - Legacy planning
-   - Dynasty planning
+   - Legacy planning
 
-**OHU-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
+**OHU-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports Legacy goals.
 
 ---
 
@@ -2325,6 +2325,7 @@ By following this guide, you will ensure your entities are properly formed, docu
 **END OF CHAPTER 7**
 
 *This chapter provides the complete guide to entity formation and compliance. Follow these procedures meticulously to ensure proper entity structure and ongoing compliance. Review this chapter when forming new entities and annually for compliance maintenance.*
+
 
 
 

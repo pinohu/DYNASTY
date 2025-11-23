@@ -23,7 +23,7 @@ The **Legacy Codex** now features a fully integrated, autonomous indexing and na
 ### 2. Dynamic Indexes (`empire-bible/appendices/`)
 - **Topic Index** (`topic-index.md`):
   - Alphabetical listing of 100+ key concepts.
-  - Deep links to specific sections (e.g., "365-Year Vision", "Dynasty Trust").
+  - Deep links to specific sections (e.g., "365-Year Vision", "Legacy Trust").
 - **Form Index** (`form-index.md`):
   - Categorized list of all templates, checklists, and legal forms.
   - Organized by function (Legal, Financial, Operational).
@@ -73,6 +73,7 @@ The **Legacy Codex** now features a fully integrated, autonomous indexing and na
 
 **System Architect**: Autonomous Engineering Agent
 **Verification**: Passed Final Audit
+
 
 
 

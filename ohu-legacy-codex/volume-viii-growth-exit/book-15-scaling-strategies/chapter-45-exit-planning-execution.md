@@ -6,14 +6,14 @@ The Ohu Family Enterprise is designed to last 365 years, but the individual busi
 
 This chapter details the rigorous process of exiting an asset. It is not an admission of defeat; it is the realization of value. A successful exit requires years of preparation, ensuring that the business is transferable, valuable, and durable without its current owner.
 
-We distinguish between **Dynasty Assets** (Core HoldCos, Real Estate, IP) which are rarely sold, and **Growth Assets** (Service OpCos, SaaS tools) which are built to be monetized.
+We distinguish between **Legacy Assets** (Core HoldCos, Real Estate, IP) which are rarely sold, and **Growth Assets** (Service OpCos, SaaS tools) which are built to be monetized.
 
 ## 45.1 Exit Strategy Development
 
 ### Exit Options Analysis
 
 **Knowing the Destination**
-Before we build, we know how we might leave. Every Operating Company (OpCo) in the Ohu Family Enterprise is classified at acquisition as either a **Dynasty Asset** (hold forever) or a **Growth Asset** (build to sell). This classification determines our exit strategy from day one.
+Before we build, we know how we might leave. Every Operating Company (OpCo) in the Ohu Family Enterprise is classified at acquisition as either a **Legacy Asset** (hold forever) or a **Growth Asset** (build to sell). This classification determines our exit strategy from day one.
 
 The exit strategy is not a last-minute decision. It is embedded in the business plan, communicated to key employees, and reflected in how we structure operations, financials, and governance. A business built for sale looks fundamentally different from a business built to hold.
 
@@ -230,7 +230,7 @@ A mature HVAC OpCo with $8M revenue, $1.6M EBITDA, and 45 employees has been in 
 
 **Family Succession:**
 - **Structure:** Transfer ownership to family members over time
-- **Best For:** Dynasty Assets that we want to keep in the family
+- **Best For:** Legacy Assets that we want to keep in the family
 - **Considerations:** Requires careful estate planning and family governance
 
 **Liquidation:**
@@ -992,7 +992,7 @@ State taxes can add 5-13% to total tax burden. State tax planning is critical.
 Large exit proceeds can create estate tax issues. Estate planning should be integrated with exit planning.
 
 **Strategies:**
-- **Dynasty Trust:** Move proceeds to Dynasty Trust (see Volume II, Chapter 4)
+- **Legacy Trust:** Move proceeds to Legacy Trust (see Volume II, Chapter 4)
 - **Gifting:** Use lifetime exemption to gift to heirs
 - **Charitable Planning:** Charitable strategies reduce estate
 - **Life Insurance:** Use life insurance for estate liquidity
@@ -1023,7 +1023,7 @@ Large exit proceeds can create estate tax issues. Estate planning should be inte
 **Post-Close:**
 - [ ] Execute Opportunity Zone investment (if applicable)
 - [ ] Implement tax loss harvesting strategies
-- [ ] Fund Dynasty Trust and estate planning vehicles
+- [ ] Fund Legacy Trust and estate planning vehicles
 - [ ] Execute charitable giving strategies (DAF, etc.)
 - [ ] Plan for ongoing tax optimization
 
@@ -1764,7 +1764,7 @@ Money from a sale does not sit idle. It flows back into The Enterprise Trust wat
 **Updating the Map**
 A major liquidity event changes the estate significantly. Estate planning must be updated immediately.
 
-**1. Dynasty Trust Funding**
+**1. Legacy Trust Funding**
 
 **Purpose:**
 Move proceeds into the South Dakota Dynasty Trust (see Volume II, Chapter 4) to protect wealth for future generations.
@@ -1819,7 +1819,7 @@ A portion of proceeds flows to the Origin Eyes Foundation to fund impact project
 
 **Foundation Funding:**
 - **Allocation:** Typically 5-10% of after-tax proceeds
-- **Purpose:** Fund impact projects aligned with Dynasty values
+- **Purpose:** Fund impact projects aligned with Legacy values
 - **Strategy:** Systematic giving through Foundation structure
 - **Benefits:** Tax deduction, legacy impact, family engagement
 
@@ -1958,7 +1958,7 @@ Take time to rest, reflect, and recharge after exit.
 **Immediate (Month 1):**
 - [ ] Pay taxes and fees
 - [ ] Establish liquidity reserve
-- [ ] Fund Dynasty Trust
+- [ ] Fund Legacy Trust
 - [ ] Execute tax optimization strategies (OZ, DAF, etc.)
 
 **Months 2-6:**
@@ -1971,7 +1971,7 @@ Take time to rest, reflect, and recharge after exit.
 - [ ] Continue acquisition cycle
 - [ ] Monitor investments
 - [ ] Plan next ventures
-- [ ] Continue Dynasty building
+- [ ] Continue Legacy building
 
 ## Case Study: Successful Exit
 
@@ -2062,4 +2062,5 @@ This case study demonstrates the power of systematic exit planning and execution
 ---
 
 **Chapter 45 Complete: 12,000+ words | 40+ pages**
+
 

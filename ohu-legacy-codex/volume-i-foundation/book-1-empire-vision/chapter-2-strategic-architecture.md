@@ -66,7 +66,7 @@ The Three-Horizon Model is our primary strategic framework. It recognizes that t
 
 **Example**: Years 3-10 focus on acquiring 10-20 rental properties, scaling directory portfolio to 20+ sites, and developing RegIntel Advisors into a $500K+ consulting practice. These assets generate income while appreciating in value.
 
-#### Horizon 3: Generational (10-365 Years) - Dynasty Preservation
+#### Horizon 3: Generational (10-365 Years) - Legacy Preservation
 
 **Objective**: Preserve and grow the Empire across multiple generations, ensuring perpetual wealth.
 
@@ -172,10 +172,10 @@ The three horizons are not sequential phases; they operate simultaneously. Howev
 - Build for long-term appreciation
 - Maintain cash flow from assets
 
-#### Horizon 3 Implementation: Dynasty Preservation Strategies
+#### Horizon 3 Implementation: Legacy Preservation Strategies
 
 **Year 1-5: Structure Establishment**
-- Establish and fund Dynasty Trust
+- Establish and fund Legacy Trust
 - Create Family Council
 - Develop governance documents
 - Begin family education programs
@@ -649,7 +649,7 @@ Every investment (regardless of size) must meet these criteria:
 - [ ] **Vision Alignment**: Aligns with 365-Year Vision
   - Supports long-term Empire goals
   - Strengthens multi-generational position
-  - Passes Dynasty Test
+  - Passes Legacy Test
 
 - [ ] **Strategic Fit**: Fits within Empire strategy
   - Aligns with Three-Horizon Model
@@ -768,7 +768,7 @@ Every investment must have a clear exit strategy defined before investment:
 
 ## 2.4 Growth vs. Preservation Balance
 
-The eternal tension in dynasty building: when to accelerate growth and when to consolidate and preserve. This section provides the framework for making these decisions.
+The eternal tension in Legacy building: when to accelerate growth and when to consolidate and preserve. This section provides the framework for making these decisions.
 
 ### When to Accelerate Growth
 
@@ -1105,5 +1105,6 @@ When consolidating, use these strategies to strengthen the Empire:
 **Chapter 2 Complete**
 
 *This chapter provides the strategic frameworks that guide all Empire decisions. Review these frameworks annually and apply them to every major decision.*
+
 
 

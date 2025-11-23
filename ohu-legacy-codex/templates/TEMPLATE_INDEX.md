@@ -1,4 +1,4 @@
-# TEMPLATE INDEX
+﻿# TEMPLATE INDEX
 
 Complete listing of all templates in the Empire Templates Library.
 
@@ -11,11 +11,11 @@ Complete listing of all templates in the Empire Templates Library.
 
 ### Trust Documents (`legal/trusts/`)
 
-#### Dynasty Trust Templates
-- `dynasty-trust-template.md` - South Dakota Dynasty Trust Agreement
-- `dynasty-trust-amendment.md` - Trust Amendment Template
-- `dynasty-trust-funding-checklist.md` - Funding Checklist
-- `dynasty-trust-beneficiary-designation.md` - Beneficiary Designation Form
+#### Legacy Trust Templates
+- `Legacy-trust-template.md` - South Dakota Dynasty Trust Agreement
+- `Legacy-trust-amendment.md` - Trust Amendment Template
+- `Legacy-trust-funding-checklist.md` - Funding Checklist
+- `Legacy-trust-beneficiary-designation.md` - Beneficiary Designation Form
 
 #### ILIT Templates
 - `ilit-template.md` - Irrevocable Life Insurance Trust Agreement
@@ -516,4 +516,5 @@ To request a new template:
 ---
 
 *This index is maintained by the Template & Form Specialist Agent and updated as new templates are created.*
+
 

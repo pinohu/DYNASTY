@@ -624,7 +624,7 @@ How much do we need to sell to cover the investment?
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -689,5 +689,6 @@ The next chapter (Chapter 30: Tax Strategy Implementation) will detail how to op
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** Financial Tracker, Dashboard, Cross-volume references complete
+
 
 

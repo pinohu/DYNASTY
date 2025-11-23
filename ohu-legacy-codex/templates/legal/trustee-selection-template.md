@@ -1,4 +1,4 @@
-# Trustee Selection Template
+﻿# Trustee Selection Template
 ## Comprehensive Evaluation for Trustee Appointments
 
 Use this template to evaluate and select trustees for your South Dakota Dynasty Trust.
@@ -20,7 +20,7 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 **Required Qualifications**:
 - [ ] Licensed trust company in South Dakota
 - [ ] 10+ years trust administration experience
-- [ ] 100+ dynasty trusts under administration
+- [ ] 100+ Legacy trusts under administration
 - [ ] A+ financial rating
 - [ ] In-house legal counsel
 - [ ] Strong compliance record
@@ -28,7 +28,7 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 **Candidate Qualifications**:
 - [ ] Licensed: [ ] Yes [ ] No
 - [ ] Experience: _______________ years
-- [ ] Dynasty Trusts: _______________
+- [ ] Legacy Trusts: _______________
 - [ ] Financial Rating: _______________
 - [ ] Legal Counsel: [ ] Yes [ ] No
 - [ ] Compliance Record: [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -138,7 +138,7 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 
 - [ ] **Response Time**: _______________ hours
   - **Target**: 24 hours or less
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
 - [ ] **Communication Quality**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -228,11 +228,11 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 
 ### Weighted Scores
 
-- **Qualifications (30%)**: _______________ × 0.30 = _______________
-- **Experience (25%)**: _______________ × 0.25 = _______________
-- **Service Quality (20%)**: _______________ × 0.20 = _______________
-- **Alignment (15%)**: _______________ × 0.15 = _______________
-- **References (10%)**: _______________ × 0.10 = _______________
+- **Qualifications (30%)**: _______________ Ã— 0.30 = _______________
+- **Experience (25%)**: _______________ Ã— 0.25 = _______________
+- **Service Quality (20%)**: _______________ Ã— 0.20 = _______________
+- **Alignment (15%)**: _______________ Ã— 0.15 = _______________
+- **References (10%)**: _______________ Ã— 0.10 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -304,6 +304,7 @@ _________________________________________________________________
 3. Select trustees
 4. Obtain acceptances
 5. Document in trust agreement
+
 
 
 

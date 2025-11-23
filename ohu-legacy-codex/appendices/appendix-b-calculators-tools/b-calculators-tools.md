@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This appendix lists the essential calculators and modeling tools used in The Enterprise. These tools are available in the **Dynasty Financial Tracker** (Excel/Google Sheets).
+This appendix lists the essential calculators and modeling tools used in The Enterprise. These tools are available in the **Legacy Financial Tracker** (Excel/Google Sheets).
 
 ---
 
@@ -60,5 +60,6 @@ This appendix lists the essential calculators and modeling tools used in The Ent
 - OpEx (Operating Expenses)
 - Capex (Capital Expenditures)
 - Headcount Plan
+
 
 

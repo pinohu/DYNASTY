@@ -4,7 +4,7 @@
 
 The Family Council serves as the constitutional body that governs the Legacy Codexâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
 
-This chapter provides a complete operational framework for establishing and running a Family Council that will guide your dynasty for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
+This chapter provides a complete operational framework for establishing and running a Family Council that will guide your Legacy for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
 
 The Family Council is not a theoretical conceptâ€”it is a practical governance tool that becomes more critical as your empire grows. When you're making decisions about $250K+ investments, succession planning, or major strategic pivots, having a formal governance structure prevents ad-hoc decision-making that can fracture family relationships or compromise the empire's integrity.
 
@@ -14,7 +14,7 @@ Through this chapter, you will develop:
 - Decision frameworks that clarify who makes what decisions and when
 - Communication systems that keep all stakeholders informed and aligned
 
-This governance structure is the operating system for your dynasty. It ensures that as your children grow older and become involved in the business, there are clear rules, processes, and expectations that prevent the conflicts that destroy most family businesses.
+This governance structure is the operating system for your Legacy. It ensures that as your children grow older and become involved in the business, there are clear rules, processes, and expectations that prevent the conflicts that destroy most family businesses.
 
 ---
 
@@ -22,7 +22,7 @@ This governance structure is the operating system for your dynasty. It ensures t
 
 ### The Foundation of Family Governance
 
-The Family Council bylaws are the constitutional document for your dynastyâ€”the rules that govern how family decisions are made, who has authority, and how conflicts are resolved. These bylaws must be comprehensive enough to handle complex situations yet flexible enough to adapt as your family and empire evolve.
+The Family Council bylaws are the constitutional document for your Legacyâ€”the rules that govern how family decisions are made, who has authority, and how conflicts are resolved. These bylaws must be comprehensive enough to handle complex situations yet flexible enough to adapt as your family and empire evolve.
 
 Unlike corporate bylaws that focus on legal compliance, Family Council bylaws must address:
 - Family dynamics and relationships
@@ -87,7 +87,7 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 **Unanimous Consent (100%)**
 - Transformational decisions ($250K+)
 - Sale of core business assets
-- Changes to dynasty trust structure
+- Changes to Legacy trust structure
 - Succession plan modifications
 - Dissolution of any major entity
 
@@ -1131,7 +1131,7 @@ An emergency is any situation that threatens:
 
 ## Conclusion
 
-The Family Council is the governance heart of your dynastyâ€”the mechanism through which family values, business strategy, and generational continuity are maintained. This chapter has provided you with a complete operational framework for establishing and running an effective Family Council.
+The Family Council is the governance heart of your Legacyâ€”the mechanism through which family values, business strategy, and generational continuity are maintained. This chapter has provided you with a complete operational framework for establishing and running an effective Family Council.
 
 Remember that governance is not about controlâ€”it's about creating structures that enable wise decision-making, prevent conflicts, and ensure the empire's long-term sustainability. The most successful family businesses are those with clear governance structures that evolve as the family and business grow.
 
@@ -1142,7 +1142,7 @@ As you implement these systems:
 - Stay flexibleâ€”adjust processes based on experience
 - Focus on communicationâ€”most conflicts stem from misunderstandings
 
-The Family Council you establish today will guide decisions that affect generations to come. Invest the time and effort to build it well, and it will serve as a foundation for dynasty success.
+The Family Council you establish today will guide decisions that affect generations to come. Invest the time and effort to build it well, and it will serve as a foundation for Legacy success.
 
 In the next chapter, we'll explore how to educate your children in business principles from an early age, ensuring they're prepared to eventually take leadership roles in the empire you're building.
 
@@ -1152,6 +1152,7 @@ In the next chapter, we'll explore how to educate your children in business prin
 - Word Count: ~10,500 words
 - Pages: ~35 pages
 - Status: Production-ready
+
 
 
 

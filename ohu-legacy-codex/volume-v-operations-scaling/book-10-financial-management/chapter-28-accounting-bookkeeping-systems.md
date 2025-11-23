@@ -766,7 +766,7 @@ Allocate shared costs to operating entities based on reasonable drivers:
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -846,5 +846,6 @@ The next chapter (Chapter 29: Financial Planning & Analysis) will detail how to 
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** QuickBooks Online, SuiteDash, Financial Tracker, Dashboard complete
+
 
 

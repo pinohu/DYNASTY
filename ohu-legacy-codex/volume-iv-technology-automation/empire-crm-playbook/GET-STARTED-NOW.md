@@ -1,17 +1,17 @@
-# Get Started Now - Your First 60 Minutes
+﻿# Get Started Now - Your First 60 Minutes
 ## Immediate Action Plan
 
 ---
 
-## ⚡ Right Now (5 Minutes)
+## âš¡ Right Now (5 Minutes)
 
 ### Step 1: Confirm Your Starting Point
 
 **Answer these questions:**
 
 1. **Do you currently have a CRM?**
-   - [ ] Yes → Go to Step 2A
-   - [ ] No → Go to Step 2B
+   - [ ] Yes â†’ Go to Step 2A
+   - [ ] No â†’ Go to Step 2B
 
 2. **What's your primary goal?**
    - [ ] Set up CRM from scratch
@@ -49,9 +49,9 @@
    - Rate Effort (High/Medium/Low)
 
 ### Next Steps After Audit
-- If issues found → Fix high-impact, low-effort items first
-- If clean → Proceed to pipeline design
-- If unsure → Read playbook Section 1
+- If issues found â†’ Fix high-impact, low-effort items first
+- If clean â†’ Proceed to pipeline design
+- If unsure â†’ Read playbook Section 1
 
 ---
 
@@ -91,7 +91,7 @@
 1. [ ] **Read Customer Lifecycle** (10 min)
    - Go to: `01-EMPIRE-CRM-PLAYBOOK.md`
    - Section 2: "Customer Lifecycle Architecture"
-   - Understand: LEAD → DYNASTY MEMBER → LOYALIST → EXPANSION → AMBASSADOR
+   - Understand: LEAD â†’ Legacy MEMBER â†’ LOYALIST â†’ EXPANSION â†’ AMBASSADOR
    - Map this to YOUR business
 
 2. [ ] **Read Pipeline Overview** (10 min)
@@ -110,7 +110,7 @@
 
 ---
 
-## ✅ Step 4: Create Your Action Plan (5 Minutes)
+## âœ… Step 4: Create Your Action Plan (5 Minutes)
 
 ### Choose Your Path
 
@@ -176,22 +176,22 @@
 
 ---
 
-## 🆘 Stuck? Here's Help
+## ðŸ†˜ Stuck? Here's Help
 
 ### "I don't know which CRM to choose"
-→ Read `01-EMPIRE-CRM-PLAYBOOK.md` Section 1, Platform Selection Matrix
+â†’ Read `01-EMPIRE-CRM-PLAYBOOK.md` Section 1, Platform Selection Matrix
 
 ### "I don't understand pipelines"
-→ Read `03-DYNASTY-PIPELINE-DESIGN.md` Section 1, Pipeline Design Framework
+â†’ Read `03-Legacy-PIPELINE-DESIGN.md` Section 1, Pipeline Design Framework
 
 ### "I need to automate something"
-→ Read `01-EMPIRE-CRM-PLAYBOOK.md` Section 4, Dynasty-Level Automations
+â†’ Read `01-EMPIRE-CRM-PLAYBOOK.md` Section 4, Legacy-Level Automations
 
 ### "My data is messy"
-→ Use `04-SOP-TEMPLATES-LIBRARY.md`, Data Hygiene SOP
+â†’ Use `04-SOP-TEMPLATES-LIBRARY.md`, Data Hygiene SOP
 
 ### "I need to train my team"
-→ Follow `05-14-DAY-IMPLEMENTATION-PLAN.md` Day 12, Team Training
+â†’ Follow `05-14-DAY-IMPLEMENTATION-PLAN.md` Day 12, Team Training
 
 ---
 
@@ -199,10 +199,10 @@
 
 After your first 60 minutes, you should have:
 
-- ✅ **Clear starting point** (CRM chosen or audit completed)
-- ✅ **Understanding of customer lifecycle** (mapped to your business)
-- ✅ **Pipeline type identified** (know which one you need)
-- ✅ **Action plan created** (know what to do next)
+- âœ… **Clear starting point** (CRM chosen or audit completed)
+- âœ… **Understanding of customer lifecycle** (mapped to your business)
+- âœ… **Pipeline type identified** (know which one you need)
+- âœ… **Action plan created** (know what to do next)
 
 ---
 
@@ -238,6 +238,7 @@ After your first 60 minutes, you should have:
 ---
 
 *Stop planning. Start doing. Your empire awaits.*
+
 
 
 

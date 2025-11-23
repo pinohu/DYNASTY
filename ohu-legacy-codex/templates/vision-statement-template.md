@@ -29,7 +29,7 @@ Complete this template to create your family's 365-year vision statement. This v
 
 **How will the empire preserve capital across generations?**
 
-- Legal structures: [Dynasty Trust, LLCs, etc.]
+- Legal structures: [Legacy Trust, LLCs, etc.]
 - Asset protection: [Layered protection strategies]
 - Risk mitigation: [How will risks be managed?]
 - Preservation mechanisms: [What ensures wealth survives 365 years?]
@@ -114,5 +114,6 @@ Complete this template to create your family's 365-year vision statement. This v
 ---
 
 **Note**: This vision statement should be reviewed annually and updated as needed, while maintaining core principles that remain constant across generations.
+
 
 

@@ -78,7 +78,7 @@ This master document represents the complete compilation of **The Ohu Legacy Cod
 - [Chapter 2: Strategic Architecture](#chapter-2-strategic-architecture)
 - [Chapter 3: Family Legacy Framework](#chapter-3-family-legacy-framework)
 - [Volume I: Foundation & Philosophy - Introduction](#volume-i-foundation--philosophy--introduction)
-- [Chapter 1: The Dynasty Manifesto](#chapter-1-the-dynasty-manifesto)
+- [Chapter 1: The Legacy Manifesto](#chapter-1-the-legacy-manifesto)
 - [Chapter 5: Trust Administration Manual](#chapter-5-trust-administration-manual)
 - [Chapter 6: Subsidiary Trust Structures](#chapter-6-subsidiary-trust-structures)
 - [Volume II: Legal & Fiduciary Structures - Introduction](#volume-ii-legal--fiduciary-structures--introduction)
@@ -227,13 +227,14 @@ After completing Volume VII:
 
 ## Conclusion
 
-Volume VII: Implementation & Execution is your practical guide to building, launching, and operating your Ohu Family Enterprise. Follow the sequences, implement the systems, and execute with excellence. Your 365-year dynasty begins with the actions you take today.
+Volume VII: Implementation & Execution is your practical guide to building, launching, and operating your Ohu Family Enterprise. Follow the sequences, implement the systems, and execute with excellence. Your 365-year Legacy begins with the actions you take today.
 
 ---
 
 **Volume VII Complete: 69,000+ words | 230+ pages**
 
 **Status: Ready for Agent 12 Quality Review and Compilation**
+
 
 
 
@@ -268,7 +269,7 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 ### Hour-by-Hour Schedule: Day 1
 
 **6:00 AM - 7:00 AM: Vision Alignment**
-- Review your Dynasty Manifesto (Volume I, Chapter 1)
+- Review your Legacy Manifesto (Volume I, Chapter 1)
 - Write down your 30-day, 90-day, and 365-day goals
 - Create your "Why" statementâ€”the emotional driver that will sustain you through challenges
 - Document your success metrics: What does "winning" look like in 30 days?
@@ -1235,6 +1236,7 @@ By the end of Day 30, you should have:
 
 
 
+
 ---
 
 
@@ -1245,9 +1247,9 @@ By the end of Day 30, you should have:
 
 ## Introduction
 
-Risk is an inherent part of building and maintaining a business empire. From operational risks to liability exposures, from key person dependencies to catastrophic events, numerous threats could derail your dynasty's 365-year vision. Insurance and risk management are not optionalâ€”they are essential components of wealth preservation.
+Risk is an inherent part of building and maintaining a business empire. From operational risks to liability exposures, from key person dependencies to catastrophic events, numerous threats could derail your Legacy's 365-year vision. Insurance and risk management are not optionalâ€”they are essential components of wealth preservation.
 
-This chapter provides a comprehensive framework for identifying, assessing, and managing the risks facing your dynasty, and for selecting and managing insurance coverage that protects your empire. Risk management is not about eliminating riskâ€”it's about understanding risks, making informed decisions, and protecting against catastrophic losses while allowing the business to thrive.
+This chapter provides a comprehensive framework for identifying, assessing, and managing the risks facing your Legacy, and for selecting and managing insurance coverage that protects your empire. Risk management is not about eliminating riskâ€”it's about understanding risks, making informed decisions, and protecting against catastrophic losses while allowing the business to thrive.
 
 Your risk management strategy must address:
 - Personal risks (life, health, disability, long-term care)
@@ -1263,7 +1265,7 @@ Through this chapter, you will develop:
 - Property and casualty coverage that protects your physical assets
 - Specialized protections for unique risks facing high-net-worth families
 
-Risk management is an ongoing process that evolves as your empire grows and circumstances change. This chapter provides the foundation for building a robust risk management system that protects your dynasty across generations.
+Risk management is an ongoing process that evolves as your empire grows and circumstances change. This chapter provides the foundation for building a robust risk management system that protects your Legacy across generations.
 
 ---
 
@@ -1273,7 +1275,7 @@ Risk management is an ongoing process that evolves as your empire grows and circ
 
 #### Determining Life Insurance Needs
 
-Life insurance serves multiple purposes in your dynasty plan: providing income replacement, funding estate taxes, ensuring business continuity, and replacing wealth transferred to the next generation. A comprehensive needs analysis identifies all these requirements.
+Life insurance serves multiple purposes in your Legacy plan: providing income replacement, funding estate taxes, ensuring business continuity, and replacing wealth transferred to the next generation. A comprehensive needs analysis identifies all these requirements.
 
 #### Needs Analysis Components
 
@@ -1309,7 +1311,7 @@ Life insurance serves multiple purposes in your dynasty plan: providing income r
 - Wealth transferred to trust
 - Charitable gifts
 - Gifts to children
-- Dynasty trust funding
+- Legacy trust funding
 - Legacy preservation
 
 #### Needs Analysis Process
@@ -2599,7 +2601,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - Growth @ 10%/year Ã— 20 years = $33.6M
 - Capital gains tax: $0
 - Income tax: $0
-- Estate tax: $0 (owned by Dynasty Trust)
+- Estate tax: $0 (owned by Legacy Trust)
 - **Net to heirs: $33.6M**
 
 **PPLI Advantage: +$18.2M (118% more wealth)**
@@ -2661,7 +2663,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 1. **Guaranteed Insurability** - Lock in perfect health rating before any issues arise
 2. **Decades of Compound Growth** - 60+ years of tax-free accumulation
 3. **Minimal Cost** - $500-$2,000/year per child
-4. **Dynasty Trust Ownership** - Outside children's estates, creditor-protected
+4. **Legacy Trust Ownership** - Outside children's estates, creditor-protected
 5. **Generational Wealth Transfer** - Millions to grandchildren tax-free
 
 #### Recommended Structure
@@ -2670,7 +2672,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Policy Type**: Whole Life or Indexed Universal Life
 **Death Benefit**: $500K-$1M initial (can increase later)
-**Owner**: Dynasty Trust (NOT parents, NOT child)
+**Owner**: Legacy Trust (NOT parents, NOT child)
 **Beneficiary**: Child's Crummey Trust â†’ Grandchildren
 **Annual Premium**: $500-$2,000 per child
 **Total Family Cost**: $2K-$8K/year (for 4 children)
@@ -2727,8 +2729,8 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Coverage**: $10M-$20M
 **Premium**: $100K-$150K/year (vs $200K-$300K for two separate policies)
-**Owner**: Dynasty Trust ILIT
-**Beneficiary**: Dynasty Trust
+**Owner**: Legacy Trust ILIT
+**Beneficiary**: Legacy Trust
 **Product**: Survivorship IUL or Guaranteed UL
 
 **Use of Death Benefit**:
@@ -2752,7 +2754,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - **Net inheritance: $40.8M**
 
 **With Survivorship Life**:
-- $10M death benefit pays to Dynasty Trust
+- $10M death benefit pays to Legacy Trust
 - Trust pays $9.2M estate tax
 - No asset sales needed
 - Business continuity maintained
@@ -2775,7 +2777,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **How It Works**:
 1. Primary and Secondary Principal each gift $18K/year per child (4 children = $72K each)
 2. **Total annual gifts: $144K tax-free**
-3. Gifts go to Dynasty Trust
+3. Gifts go to Legacy Trust
 4. Trust issues Crummey notices to children (they have 30 days to withdraw)
 5. Children don't withdraw (trained not to)
 6. Trust uses gifts to pay ILIT premiums
@@ -2792,7 +2794,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Option 1**: Premium Financing (covered above)
 **Option 2**: Split-dollar arrangement
-**Option 3**: Dynasty Trust distributions (if cash flow positive)
+**Option 3**: Legacy Trust distributions (if cash flow positive)
 **Option 4**: Sale of assets to ILIT (generates cash for premiums)
 
 ### Policy Review & Optimization
@@ -2832,11 +2834,11 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 ## Conclusion
 
-Insurance and risk management are essential components of your dynasty's wealth preservation strategy. By identifying risks, selecting appropriate insurance coverage, and implementing risk management measures, you protect your empire from threats that could derail your 365-year vision.
+Insurance and risk management are essential components of your Legacy's wealth preservation strategy. By identifying risks, selecting appropriate insurance coverage, and implementing risk management measures, you protect your empire from threats that could derail your 365-year vision.
 
 Remember that risk management is:
 - An ongoing process, not a one-time event
-- Integrated with all aspects of your dynasty
+- Integrated with all aspects of your Legacy
 - Balanced between protection and cost
 - Flexible enough to adapt to changes
 - Professional guidance essential
@@ -2848,7 +2850,7 @@ As you implement your risk management strategy:
 - Review and update regularly
 - Work with experienced professionals
 
-The risk management you implement today protects your dynasty tomorrow and for generations to come. Invest in comprehensive protection, and you'll create a foundation for a resilient, sustainable empire.
+The risk management you implement today protects your Legacy tomorrow and for generations to come. Invest in comprehensive protection, and you'll create a foundation for a resilient, sustainable empire.
 
 In the final chapter, we'll explore philanthropy and legacyâ€”how to use your wealth to create lasting impact and build a legacy that extends far beyond financial assets.
 
@@ -2858,6 +2860,7 @@ In the final chapter, we'll explore philanthropy and legacyâ€”how to use yo
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 
 
 
@@ -2889,7 +2892,7 @@ Through this chapter, you will develop:
 - Values perpetuation mechanisms that ensure your principles endure
 - A philanthropic vision that extends across 365 years
 
-Philanthropy is not about giving away wealthâ€”it's about leveraging wealth to create change, build community, and leave the world better than you found it. This chapter shows you how to build a philanthropic legacy that serves your dynasty and the world for generations to come.
+Philanthropy is not about giving away wealthâ€”it's about leveraging wealth to create change, build community, and leave the world better than you found it. This chapter shows you how to build a philanthropic legacy that serves your Legacy and the world for generations to come.
 
 ---
 
@@ -4119,11 +4122,11 @@ Cultural reinforcement ensures your values become deeply embedded in family cult
 
 ## Conclusion
 
-Philanthropy and legacy are not separate from your dynastyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. Legacy Codex's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
+Philanthropy and legacy are not separate from your Legacyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. Legacy Codex's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
 
 Remember that building a philanthropic legacy is:
 - An ongoing journey, not a destination
-- Integrated with all aspects of your dynasty
+- Integrated with all aspects of your Legacy
 - About impact, not just giving
 - A family endeavor that builds unity
 - A legacy that extends across generations
@@ -4135,7 +4138,7 @@ As you build your philanthropic legacy:
 - Create traditions that reinforce values
 - Think in terms of generations, not years
 
-The philanthropic legacy you build today will shape how your dynasty is remembered for 365 years and beyond. Invest in creating lasting impact, and you'll build a legacy that extends far beyond financial wealthâ€”a legacy of values, impact, and positive change.
+The philanthropic legacy you build today will shape how your Legacy is remembered for 365 years and beyond. Invest in creating lasting impact, and you'll build a legacy that extends far beyond financial wealthâ€”a legacy of values, impact, and positive change.
 
 ---
 
@@ -4167,6 +4170,7 @@ The philanthropic legacy you build today will shape how your dynasty is remember
 
 
 
+
 ---
 
 
@@ -4179,7 +4183,7 @@ The philanthropic legacy you build today will shape how your dynasty is remember
 
 Standard Operating Procedures (SOPs) are the DNA of your Ohu Family Enterprise. They transform individual knowledge into organizational capability, ensuring consistent excellence regardless of who performs the work. This chapter provides a comprehensive framework for developing, implementing, and maintaining SOPs that will serve your empire for generations.
 
-SOPs serve three critical functions: **Consistency** (everyone does it the same way), **Scalability** (processes work at any volume), and **Sustainability** (knowledge persists beyond individuals). In a 365-year dynasty, SOPs ensure that the wisdom of today becomes the standard of tomorrow, and the excellence of one generation becomes the foundation of the next.
+SOPs serve three critical functions: **Consistency** (everyone does it the same way), **Scalability** (processes work at any volume), and **Sustainability** (knowledge persists beyond individuals). In a 365-year Legacy, SOPs ensure that the wisdom of today becomes the standard of tomorrow, and the excellence of one generation becomes the foundation of the next.
 
 This chapter covers the complete SOP lifecycle: development, documentation, implementation, training, maintenance, and continuous improvement. Every process in your empireâ€”from client onboarding to financial reporting, from service delivery to team managementâ€”should have a documented, tested, and continuously improved SOP.
 
@@ -5371,6 +5375,7 @@ Every SOP must follow a consistent format to ensure usability and maintainabilit
 ---
 
 **Chapter 40 Complete: 12,000+ words | 40+ pages**
+
 
 
 
@@ -7251,7 +7256,7 @@ Year 1 is where your Ohu Family Enterprise transforms from a successful startup 
 
 The Year 1 Execution Plan is structured around four quarterly phases: Q1 (Launch & Stabilization), Q2 (Growth & Optimization), Q3 (Scale & Diversify), and Q4 (Consolidate & Plan). Each quarter builds systematically on the previous, creating exponential growth through compounding systems, processes, relationships, and market presence.
 
-Success in Year 1 requires maintaining focus on three core objectives: **Revenue Growth**, **Operational Excellence**, and **Foundation Building**. Every decision, every system, every relationship built in Year 1 will compound over the next 364 years. This is not just about building a businessâ€”it's about building a dynasty.
+Success in Year 1 requires maintaining focus on three core objectives: **Revenue Growth**, **Operational Excellence**, and **Foundation Building**. Every decision, every system, every relationship built in Year 1 will compound over the next 364 years. This is not just about building a businessâ€”it's about building a Legacy.
 
 ## 39.1 Q1: Launch & Stabilization
 
@@ -8192,6 +8197,7 @@ By the end of Q4, you should have:
 
 
 
+
 ---
 
 
@@ -8818,7 +8824,7 @@ Business Purpose: Client relationship building and project planning
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -8893,6 +8899,7 @@ This concludes Volume V: Operations & Scaling. Together, the human capital manag
 
 
 
+
 ---
 
 
@@ -8903,7 +8910,7 @@ This concludes Volume V: Operations & Scaling. Together, the human capital manag
 
 ## Introduction
 
-The greatest threat to a dynasty is not market competition, regulatory change, or economic downturnâ€”it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
+The greatest threat to a Legacy is not market competition, regulatory change, or economic downturnâ€”it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
 
 **Volume VI: Family Governance & Succession** provides the constitutional framework for the OHU-PNR family. It transforms a group of related individuals into a disciplined, aligned, and high-performing governing body.
 
@@ -8916,6 +8923,7 @@ Here, we establish the "Family Council" (Chapter 31), the supreme decision-makin
 Governance without structure is toothless. This book integrates your estate plan (Chapter 34) with The Enterprise trust, ensuring that legal mechanisms support family goals. We also cover risk management (Chapter 35) to protect against catastrophic loss, and philanthropic strategy (Chapter 36) to unite the family around a shared purpose beyond profit.
 
 By implementing the systems in this volume, you are building the "software" that runs on the "hardware" of your legal and financial structures. You are ensuring that the OHU-PNR name stands for unity, integrity, and excellence for 365 years.
+
 
 
 
@@ -9695,7 +9703,7 @@ Allocate shared costs to operating entities based on reasonable drivers:
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -9775,6 +9783,7 @@ The next chapter (Chapter 29: Financial Planning & Analysis) will detail how to 
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** QuickBooks Online, SuiteDash, Financial Tracker, Dashboard complete
+
 
 
 
@@ -10411,7 +10420,7 @@ How much do we need to sell to cover the investment?
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -10480,6 +10489,7 @@ The next chapter (Chapter 30: Tax Strategy Implementation) will detail how to op
 
 
 
+
 ---
 
 
@@ -10490,7 +10500,7 @@ The next chapter (Chapter 30: Tax Strategy Implementation) will detail how to op
 
 ## Introduction
 
-Succession planning is the process of transitioning leadership and ownership of your dynasty from one generation to the next. It's one of the most critical and challenging aspects of multi-generational wealth preservation. Statistics are stark: only 30% of family businesses survive the transition to the second generation, and just 10% make it to the third generation. The primary cause of failure? Inadequate succession planning.
+Succession planning is the process of transitioning leadership and ownership of your Legacy from one generation to the next. It's one of the most critical and challenging aspects of multi-generational wealth preservation. Statistics are stark: only 30% of family businesses survive the transition to the second generation, and just 10% make it to the third generation. The primary cause of failure? Inadequate succession planning.
 
 This chapter provides a comprehensive framework for planning and executing successful generational transitions. Succession planning is not a one-time eventâ€”it's an ongoing process that begins years before the actual transition and continues long after. It involves identifying and developing successors, planning ownership transfers, ensuring knowledge transfer, and preparing for both planned and emergency successions.
 
@@ -11013,7 +11023,7 @@ Ownership transition is separate from leadership succession. You can transfer ow
 - Gift tax considerations
 
 **Trust Transfers**
-- Transfer to dynasty trust
+- Transfer to Legacy trust
 - Asset protection benefits
 - Tax optimization
 - Control mechanisms
@@ -11119,7 +11129,7 @@ Ownership transfers can trigger significant taxes. Careful planning can minimize
 - Separate exemption ($13.61M per person, 2024)
 - Rates up to 40%
 - Complex planning
-- Dynasty trust considerations
+- Legacy trust considerations
 
 **Income Tax**
 - Capital gains on appreciated assets
@@ -11141,7 +11151,7 @@ Ownership transfers can trigger significant taxes. Careful planning can minimize
 - Use exemption during lifetime
 - Lock in current exemption amounts
 - Future exemption reductions
-- Dynasty trust funding
+- Legacy trust funding
 - Irrevocable transfers
 
 **Valuation Discounts**
@@ -11188,7 +11198,7 @@ The legal structure used for ownership transfers affects taxes, control, asset p
 - Common choice
 
 **Trusts**
-- Dynasty trust benefits
+- Legacy trust benefits
 - Asset protection
 - Control mechanisms
 - Tax optimization
@@ -11932,7 +11942,7 @@ After immediate actions, focus shifts to stabilizing the business and family sit
 
 ## Conclusion
 
-Succession planning is one of the most critical aspects of building a multi-generational dynasty. It's not a one-time event but an ongoing process that begins years before transition and continues long after. Effective succession planning ensures that your empire not only survives but thrives across generations.
+Succession planning is one of the most critical aspects of building a multi-generational Legacy. It's not a one-time event but an ongoing process that begins years before transition and continues long after. Effective succession planning ensures that your empire not only survives but thrives across generations.
 
 Remember that succession planning is about:
 - Ensuring continuity and sustainability
@@ -11948,7 +11958,7 @@ As you implement succession planning:
 - Invest in developmentâ€”prepare successors well
 - Plan for emergenciesâ€”be ready for the unexpected
 
-The succession planning you do today will determine whether your dynasty survives for 365 years or ends with your generation. Invest the time and effort to plan well, and you'll create a legacy that extends far beyond your lifetime.
+The succession planning you do today will determine whether your Legacy survives for 365 years or ends with your generation. Invest the time and effort to plan well, and you'll create a legacy that extends far beyond your lifetime.
 
 In the next chapter, we'll explore estate planning integrationâ€”how to coordinate your succession plans with comprehensive estate planning to maximize wealth preservation and minimize taxes.
 
@@ -11958,6 +11968,7 @@ In the next chapter, we'll explore estate planning integrationâ€”how to coo
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 
 
 
@@ -11974,7 +11985,7 @@ In the next chapter, we'll explore estate planning integrationâ€”how to coo
 
 Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
-This chapter integrates estate planning with the broader dynasty framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a dynasty requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
+This chapter integrates estate planning with the broader Legacy framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a Legacy requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 
 Your estate plan must coordinate with:
 - The South Dakota Dynasty Trust structure
@@ -11989,9 +12000,9 @@ Through this chapter, you will develop:
 - Advanced planning techniques for multi-generational wealth transfer
 - Tax minimization strategies that preserve wealth
 - Asset protection layers that shield your empire from threats
-- An integrated estate plan that works seamlessly with your dynasty structure
+- An integrated estate plan that works seamlessly with your Legacy structure
 
-Estate planning is not a one-time eventâ€”it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your dynasty for generations.
+Estate planning is not a one-time eventâ€”it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your Legacy for generations.
 
 ---
 
@@ -12180,7 +12191,7 @@ Many assets pass outside of your will and trust through beneficiary designations
 - Spouse as primary
 - Trust as primary (when appropriate)
 - Children as contingent
-- Dynasty trust consideration
+- Legacy trust consideration
 - Tax optimization
 
 **Contingent Beneficiaries**
@@ -12193,7 +12204,7 @@ Many assets pass outside of your will and trust through beneficiary designations
 **Trust as Beneficiary**
 - Retirement account trusts
 - Life insurance trusts (ILIT)
-- Dynasty trust funding
+- Legacy trust funding
 - Asset protection
 - Tax optimization
 
@@ -12238,7 +12249,7 @@ How assets are titled affects how they pass at death, their protection from cred
 **Trust Ownership**
 - Revocable living trust
 - Irrevocable trusts
-- Dynasty trust
+- Legacy trust
 - Asset protection
 - Tax benefits
 
@@ -12296,7 +12307,7 @@ Proper documentation ensures your estate plan works as intended, provides clarit
 
 **Trust Documents**
 - Revocable living trust
-- Dynasty trust
+- Legacy trust
 - Irrevocable life insurance trust (ILIT)
 - Other trusts
 - Trust amendments
@@ -12353,7 +12364,7 @@ Proper documentation ensures your estate plan works as intended, provides clarit
 
 #### Multi-Generational Wealth Transfer
 
-Generation-skipping transfer (GST) tax planning allows you to transfer wealth to grandchildren and beyond while minimizing taxes. This is essential for a 365-year dynasty vision.
+Generation-skipping transfer (GST) tax planning allows you to transfer wealth to grandchildren and beyond while minimizing taxes. This is essential for a 365-year Legacy vision.
 
 #### GST Tax Basics
 
@@ -12365,7 +12376,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 - Professional guidance essential
 
 **Exemption Allocation**
-- Allocate to dynasty trust
+- Allocate to Legacy trust
 - Maximize exemption use
 - Lock in current exemption
 - Future exemption uncertainty
@@ -12380,7 +12391,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 
 #### Generation-Skipping Strategies
 
-**Dynasty Trust Funding**
+**Legacy Trust Funding**
 - Fund with GST exemption
 - Multi-generational benefits
 - Tax-free growth
@@ -12395,7 +12406,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 - Strategic gifting
 
 **Trust Structures**
-- Dynasty trust
+- Legacy trust
 - Generation-skipping trusts
 - Perpetual trusts (in some states)
 - Multi-generational planning
@@ -12585,11 +12596,11 @@ A private foundation provides a structured vehicle for charitable giving that ca
 - Impact focus
 - Legacy preservation
 
-### Dynasty Trust Maximization
+### Legacy Trust Maximization
 
-#### Optimizing Your Dynasty Trust
+#### Optimizing Your Legacy Trust
 
-The South Dakota Dynasty Trust is the cornerstone of your 365-year dynasty plan. Maximizing its effectiveness requires careful planning and ongoing management.
+The South Dakota Dynasty Trust is the cornerstone of your 365-year Legacy plan. Maximizing its effectiveness requires careful planning and ongoing management.
 
 #### Trust Maximization Strategies
 
@@ -12775,7 +12786,7 @@ GST tax planning is essential for multi-generational wealth transfer, allowing y
 #### GST Tax Strategies
 
 **Exemption Allocation**
-- Allocate to dynasty trust
+- Allocate to Legacy trust
 - Maximize exemption use
 - Lock in current exemption
 - Future uncertainty
@@ -12789,7 +12800,7 @@ GST tax planning is essential for multi-generational wealth transfer, allowing y
 - Strategic gifting
 
 **Trust Structures**
-- Dynasty trust
+- Legacy trust
 - Generation-skipping trusts
 - Perpetual trusts
 - Multi-generational planning
@@ -13087,11 +13098,11 @@ Privacy strategies protect your family's financial information and business affa
 
 ## Conclusion
 
-Estate planning integration is essential for preserving your dynasty's wealth across 365 years. By coordinating wills, trusts, business entities, and advanced planning techniques, you create a comprehensive system that minimizes taxes, protects assets, and ensures your legacy endures.
+Estate planning integration is essential for preserving your Legacy's wealth across 365 years. By coordinating wills, trusts, business entities, and advanced planning techniques, you create a comprehensive system that minimizes taxes, protects assets, and ensures your legacy endures.
 
 Remember that estate planning is:
 - An ongoing process, not a one-time event
-- Integrated with all aspects of your dynasty
+- Integrated with all aspects of your Legacy
 - Coordinated with business and family planning
 - Flexible enough to adapt to changes
 - Professional guidance essential
@@ -13103,7 +13114,7 @@ As you implement your estate plan:
 - Communicate with family
 - Plan for the long term
 
-The estate planning you do today will determine how much wealth survives for future generations. Invest in comprehensive planning, and you'll create a foundation for a 365-year dynasty.
+The estate planning you do today will determine how much wealth survives for future generations. Invest in comprehensive planning, and you'll create a foundation for a 365-year Legacy.
 
 In the next chapter, we'll explore insurance and risk managementâ€”protecting your empire from the many risks that could threaten its survival.
 
@@ -13150,6 +13161,7 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
 
 
 
+
 ---
 
 
@@ -13162,7 +13174,7 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
 
 The Family Council serves as the constitutional body that governs the Legacy Codexâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
 
-This chapter provides a complete operational framework for establishing and running a Family Council that will guide your dynasty for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
+This chapter provides a complete operational framework for establishing and running a Family Council that will guide your Legacy for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
 
 The Family Council is not a theoretical conceptâ€”it is a practical governance tool that becomes more critical as your empire grows. When you're making decisions about $250K+ investments, succession planning, or major strategic pivots, having a formal governance structure prevents ad-hoc decision-making that can fracture family relationships or compromise the empire's integrity.
 
@@ -13172,7 +13184,7 @@ Through this chapter, you will develop:
 - Decision frameworks that clarify who makes what decisions and when
 - Communication systems that keep all stakeholders informed and aligned
 
-This governance structure is the operating system for your dynasty. It ensures that as your children grow older and become involved in the business, there are clear rules, processes, and expectations that prevent the conflicts that destroy most family businesses.
+This governance structure is the operating system for your Legacy. It ensures that as your children grow older and become involved in the business, there are clear rules, processes, and expectations that prevent the conflicts that destroy most family businesses.
 
 ---
 
@@ -13180,7 +13192,7 @@ This governance structure is the operating system for your dynasty. It ensures t
 
 ### The Foundation of Family Governance
 
-The Family Council bylaws are the constitutional document for your dynastyâ€”the rules that govern how family decisions are made, who has authority, and how conflicts are resolved. These bylaws must be comprehensive enough to handle complex situations yet flexible enough to adapt as your family and empire evolve.
+The Family Council bylaws are the constitutional document for your Legacyâ€”the rules that govern how family decisions are made, who has authority, and how conflicts are resolved. These bylaws must be comprehensive enough to handle complex situations yet flexible enough to adapt as your family and empire evolve.
 
 Unlike corporate bylaws that focus on legal compliance, Family Council bylaws must address:
 - Family dynamics and relationships
@@ -13245,7 +13257,7 @@ Unlike corporate bylaws that focus on legal compliance, Family Council bylaws mu
 **Unanimous Consent (100%)**
 - Transformational decisions ($250K+)
 - Sale of core business assets
-- Changes to dynasty trust structure
+- Changes to Legacy trust structure
 - Succession plan modifications
 - Dissolution of any major entity
 
@@ -14289,7 +14301,7 @@ An emergency is any situation that threatens:
 
 ## Conclusion
 
-The Family Council is the governance heart of your dynastyâ€”the mechanism through which family values, business strategy, and generational continuity are maintained. This chapter has provided you with a complete operational framework for establishing and running an effective Family Council.
+The Family Council is the governance heart of your Legacyâ€”the mechanism through which family values, business strategy, and generational continuity are maintained. This chapter has provided you with a complete operational framework for establishing and running an effective Family Council.
 
 Remember that governance is not about controlâ€”it's about creating structures that enable wise decision-making, prevent conflicts, and ensure the empire's long-term sustainability. The most successful family businesses are those with clear governance structures that evolve as the family and business grow.
 
@@ -14300,7 +14312,7 @@ As you implement these systems:
 - Stay flexibleâ€”adjust processes based on experience
 - Focus on communicationâ€”most conflicts stem from misunderstandings
 
-The Family Council you establish today will guide decisions that affect generations to come. Invest the time and effort to build it well, and it will serve as a foundation for dynasty success.
+The Family Council you establish today will guide decisions that affect generations to come. Invest the time and effort to build it well, and it will serve as a foundation for Legacy success.
 
 In the next chapter, we'll explore how to educate your children in business principles from an early age, ensuring they're prepared to eventually take leadership roles in the empire you're building.
 
@@ -14310,6 +14322,7 @@ In the next chapter, we'll explore how to educate your children in business prin
 - Word Count: ~10,500 words
 - Pages: ~35 pages
 - Status: Production-ready
+
 
 
 
@@ -14339,7 +14352,7 @@ Through this chapter, you will develop:
 - Assessment systems that track progress and identify development needs
 - Integration strategies that connect education to actual business operations
 
-This education system is an investment in your dynasty's future. The time and resources you invest in your children's business education today will compound across generations, ensuring that wealth serves your family rather than corrupting it, and that each generation builds upon the previous one's success.
+This education system is an investment in your Legacy's future. The time and resources you invest in your children's business education today will compound across generations, ensuring that wealth serves your family rather than corrupting it, and that each generation builds upon the previous one's success.
 
 ---
 
@@ -15890,7 +15903,7 @@ Clear advancement criteria ensure children are ready for increased responsibilit
 
 ## Conclusion
 
-Educating your children in business principles is one of the most important investments you can make in your dynasty's future. This comprehensive education program, spanning from age 5 through adulthood, ensures that Ivan, Jeremy, Kikachukwu, and Chimenimeâ€”and future generationsâ€”are prepared to steward the empire you're building.
+Educating your children in business principles is one of the most important investments you can make in your Legacy's future. This comprehensive education program, spanning from age 5 through adulthood, ensures that Ivan, Jeremy, Kikachukwu, and Chimenimeâ€”and future generationsâ€”are prepared to steward the empire you're building.
 
 Remember that education is not about forcing your children into the family business. It's about giving them the knowledge, skills, and mindset to succeed in whatever path they choose, while ensuring they're prepared if they want to join the empire. The goal is capable, confident, values-aligned individuals who can make wise decisions about money, business, and life.
 
@@ -15904,7 +15917,7 @@ As you implement this education program:
 
 The education you provide today will compound across generations, ensuring that wealth serves your family rather than corrupting it, and that each generation builds upon the previous one's success.
 
-In the next chapter, we'll explore succession planningâ€”the process of transitioning leadership and ownership to the next generation, ensuring continuity and sustainability for your dynasty.
+In the next chapter, we'll explore succession planningâ€”the process of transitioning leadership and ownership to the next generation, ensuring continuity and sustainability for your Legacy.
 
 ---
 
@@ -15912,6 +15925,7 @@ In the next chapter, we'll explore succession planningâ€”the process of tra
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 
 
 
@@ -19290,7 +19304,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 **Role**: Drafting the Trust and Estate Plan. Estate attorneys create the legal documents that protect and transfer wealth across generations.
 
 **Key Responsibilities**:
-- Drafting trust documents (Dynasty Trust, ILIT, etc.)
+- Drafting trust documents (Legacy Trust, ILIT, etc.)
 - Creating estate plans
 - Coordinating with trust company
 - Updating documents as needed
@@ -19305,7 +19319,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 - Specialized in complex estate planning
 - Understanding of multi-generational planning
 
-**Dynasty Experience**:
+**Legacy Experience**:
 - Proven track record with multi-generational trusts
 - Experience with South Dakota Dynasty Trusts
 - Understanding of Directed Trust structures
@@ -19331,7 +19345,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 
 **Estate Attorney Evaluation Checklist**:
 - [ ] Verify specialization in HNW estate planning
-- [ ] Review track record with Dynasty Trusts
+- [ ] Review track record with Legacy Trusts
 - [ ] Check references from similar clients
 - [ ] Test responsiveness (call and see response time)
 - [ ] Review sample documents (anonymized)
@@ -20768,7 +20782,7 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **First National Trust Company** (Example)
    - Assets under Administration: $2B+
-   - Specialization: Directed Trusts, Dynasty Trusts
+   - Specialization: Directed Trusts, Legacy Trusts
    - Fee Structure: Flat annual fee
    - Contact: [To be researched]
 
@@ -20791,13 +20805,13 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **Specialized Estate Planning Firm** (Example)
    - Specialization: HNW Estate Planning
-   - Experience: 20+ years, 100+ Dynasty Trusts
+   - Experience: 20+ years, 100+ Legacy Trusts
    - Fee Structure: Hourly or fixed-fee
    - Contact: [To be researched]
 
 **Selection Process**:
 - Research HNW estate planning attorneys
-- Verify Dynasty Trust experience
+- Verify Legacy Trust experience
 - Interview candidates
 - Check references
 - Review sample documents
@@ -21040,7 +21054,7 @@ All professional service providers should be selected, engaged, and managed usin
 
 #### Trust Company Selection: Real-World Example
 
-**Scenario**: Selecting a South Dakota trust company for a $10M Dynasty Trust.
+**Scenario**: Selecting a South Dakota trust company for a $10M Legacy Trust.
 
 **Step 1: Initial Research**
 - Identified 8 South Dakota trust companies with $1B+ AUM
@@ -22064,6 +22078,7 @@ All professional service providers should be selected, engaged, and managed usin
 ---
 
 **Chapter 49 Complete: 11,559 words | 40+ pages**
+
 
 
 
@@ -30251,7 +30266,7 @@ Partnerships are not just transactions; they are relationships. Invest in buildi
 
 ## Introduction
 
-Performance management is the engine that drives your Ohu Family Enterprise forward. It transforms goals into results, effort into outcomes, and potential into achievement. In a 365-year dynasty, performance management ensures that every generation builds on the achievements of the previous, creating compounding excellence that spans centuries.
+Performance management is the engine that drives your Ohu Family Enterprise forward. It transforms goals into results, effort into outcomes, and potential into achievement. In a 365-year Legacy, performance management ensures that every generation builds on the achievements of the previous, creating compounding excellence that spans centuries.
 
 Performance management serves four critical functions: **Measurement** (knowing where you are), **Analysis** (understanding why), **Improvement** (getting better), and **Optimization** (achieving excellence). These systems transform performance from individual achievement into organizational capability, from reactive response into proactive management, from good into great.
 
@@ -31312,6 +31327,7 @@ Volume VII is ready for submission to Agent 12 for quality review and compilatio
 
 
 
+
 ---
 
 
@@ -31443,13 +31459,13 @@ Each template includes:
 
 Trust documents form the foundation of the Ohu Family Enterprise's wealth preservation strategy. These documents create the legal structures that protect assets from creditors, minimize taxes, and ensure wealth passes to future generations according to your wishes.
 
-### 46.1.1 Dynasty Trust Template
+### 46.1.1 Legacy Trust Template
 
 **The Constitution of Wealth**
 
 The South Dakota Dynasty Trust is the primary vessel for multi-generational wealth preservation. This trust structure provides perpetual existence (365 years or forever), zero state income tax, superior asset protection, and complete privacy. It serves as the ultimate parent vault that holds and protects the Empire's most valuable assets.
 
-**Template Location**: `empire-bible/templates/legal/trusts/dynasty-trust-template.md`
+**Template Location**: `empire-bible/templates/legal/trusts/Legacy-trust-template.md`
 
 **Purpose and Strategic Role**
 
@@ -31693,7 +31709,7 @@ The Enterprise Trust template includes the following articles:
 - [ ] Consult with tax advisor
 
 **Document Preparation**:
-- [ ] Review Dynasty Trust template
+- [ ] Review Legacy Trust template
 - [ ] Customize trust provisions with counsel
 - [ ] Complete Schedule A (Trust Estate)
 - [ ] Complete Schedule B (Investment Policy Statement)
@@ -31916,7 +31932,7 @@ Crummey Trusts serve several important functions:
 3. **Asset Protection**: Protect gifts from beneficiary creditors
 4. **Control Maintenance**: Maintain control over how gifts are used
 5. **Education Funding**: Structure distributions for education expenses
-6. **Future Merger**: Can merge into Dynasty Trust sub-trusts when beneficiaries reach certain ages
+6. **Future Merger**: Can merge into Legacy Trust sub-trusts when beneficiaries reach certain ages
 
 **When to Use Crummey Trusts**
 
@@ -31925,7 +31941,7 @@ Crummey Trusts are appropriate when:
 - You want to maintain control over how gifts are used
 - You want to protect gifts from beneficiary creditors
 - You want to structure distributions for education or other purposes
-- You plan to merge trusts into Dynasty Trust sub-trusts later
+- You plan to merge trusts into Legacy Trust sub-trusts later
 
 **Key Features Explained**
 
@@ -31997,7 +32013,7 @@ Some trusts limit withdrawal rights to prevent abuse:
 - Consider beneficiary maturity and responsibility
 - Consider family values and goals
 - Consider whether to allow HEMS distributions before age-based distributions
-- Consider whether to merge into Dynasty Trust sub-trusts instead of outright distributions
+- Consider whether to merge into Legacy Trust sub-trusts instead of outright distributions
 - Discuss with counsel tax implications of different schedules
 
 **Implementation Checklist**:
@@ -32017,7 +32033,7 @@ The Crummey Trust template includes:
 4. **Article IV: Contributions** - Gift acceptance, Crummey notices, withdrawal procedures
 5. **Article V: Distributions** - HEMS distributions, age-based distributions, distribution procedures
 6. **Article VI: Trust Administration** - Accounting, tax elections, trustee compensation
-7. **Article VII: Merger Provisions** - Merger into Dynasty Trust sub-trusts
+7. **Article VII: Merger Provisions** - Merger into Legacy Trust sub-trusts
 8. **Article VIII: General Provisions** - Governing law, amendment procedures
 
 **Crummey Trust Formation Process**
@@ -32030,14 +32046,14 @@ The Crummey Trust template includes:
 6. **Invest Assets**: Trustee invests trust assets according to Investment Policy Statement
 7. **Make Distributions**: Make HEMS distributions as needed
 8. **Age-Based Distributions**: Make scheduled distributions at specified ages
-9. **Merger**: Merge into Dynasty Trust sub-trusts when appropriate
+9. **Merger**: Merge into Legacy Trust sub-trusts when appropriate
 
 **Crummey Trust Implementation Checklist**
 
 **Pre-Formation**:
 - [ ] Identify beneficiaries (children/grandchildren)
 - [ ] Determine distribution schedule for each beneficiary
-- [ ] Select trustee (can be same as Dynasty Trust trustee)
+- [ ] Select trustee (can be same as Legacy Trust trustee)
 - [ ] Consult with estate planning attorney
 - [ ] Consult with tax advisor
 
@@ -34083,7 +34099,7 @@ The Partnership Agreement template includes:
 - [ ] Verify all trusts have proper trustee acceptances
 - [ ] Ensure all trusts have EINs
 - [ ] Confirm all trusts are properly funded
-- [ ] Review Dynasty Trust provisions with trust attorney
+- [ ] Review Legacy Trust provisions with trust attorney
 - [ ] Verify ILIT policies are properly owned by trusts
 - [ ] Send annual Crummey notices for all Crummey Trusts
 - [ ] Review trust administration procedures
@@ -34178,7 +34194,7 @@ The Partnership Agreement template includes:
 All detailed templates referenced in this chapter are located in the `empire-bible/templates/legal/` directory:
 
 **Trust Templates** (`templates/legal/trusts/`):
-- `dynasty-trust-template.md` - Complete Dynasty Trust template
+- `Legacy-trust-template.md` - Complete Legacy Trust template
 - `ilit-template.md` - Irrevocable Life Insurance Trust template
 - `crummey-trust-template.md` - Crummey Trust template
 - `trust-amendment-template.md` - Trust amendment template
@@ -34266,7 +34282,7 @@ All detailed templates referenced in this chapter are located in the `empire-bib
 ## Cross-References
 
 ### Volume II: Legal & Fiduciary Structures
-- [See Volume II, Chapter 4: South Dakota Dynasty Trust] - Complete Dynasty Trust formation guide
+- [See Volume II, Chapter 4: South Dakota Dynasty Trust] - Complete Legacy Trust formation guide
 - [See Volume II, Chapter 5: Trust Administration Manual] - Ongoing trust administration
 - [See Volume II, Chapter 6: Subsidiary Trust Structures] - ILIT and Crummey Trust formation
 - [See Volume II, Chapter 7: Entity Formation & Compliance Bible] - Complete entity formation guide
@@ -34300,7 +34316,7 @@ All detailed templates referenced in this chapter are located in the `empire-bib
 
 Chapter 46 provides a comprehensive guide to all legal documents and agreements required for the Ohu Family Enterprise. This chapter covers:
 
-1. **Trust Documents**: Dynasty Trusts, ILITs, Crummey Trusts, and trust administration documents
+1. **Trust Documents**: Legacy Trusts, ILITs, Crummey Trusts, and trust administration documents
 2. **Entity Documents**: LLC Operating Agreements, Corporate Bylaws, Employment Agreements, and buy-sell provisions
 3. **Real Estate Forms**: Purchase Agreements, Lease Agreements, and Option Contracts
 4. **Business Contracts**: Master Services Agreements, IP Licensing Agreements, and Partnership Agreements
@@ -34320,6 +34336,7 @@ All templates are located in the `empire-bible/templates/legal/` directory and s
 ---
 
 **Chapter 46 Complete: 15,000+ words | 50+ pages**
+
 
 
 
@@ -37497,14 +37514,14 @@ The Ohu Family Enterprise is designed to last 365 years, but the individual busi
 
 This chapter details the rigorous process of exiting an asset. It is not an admission of defeat; it is the realization of value. A successful exit requires years of preparation, ensuring that the business is transferable, valuable, and durable without its current owner.
 
-We distinguish between **Dynasty Assets** (Core HoldCos, Real Estate, IP) which are rarely sold, and **Growth Assets** (Service OpCos, SaaS tools) which are built to be monetized.
+We distinguish between **Legacy Assets** (Core HoldCos, Real Estate, IP) which are rarely sold, and **Growth Assets** (Service OpCos, SaaS tools) which are built to be monetized.
 
 ## 45.1 Exit Strategy Development
 
 ### Exit Options Analysis
 
 **Knowing the Destination**
-Before we build, we know how we might leave. Every Operating Company (OpCo) in the Ohu Family Enterprise is classified at acquisition as either a **Dynasty Asset** (hold forever) or a **Growth Asset** (build to sell). This classification determines our exit strategy from day one.
+Before we build, we know how we might leave. Every Operating Company (OpCo) in the Ohu Family Enterprise is classified at acquisition as either a **Legacy Asset** (hold forever) or a **Growth Asset** (build to sell). This classification determines our exit strategy from day one.
 
 The exit strategy is not a last-minute decision. It is embedded in the business plan, communicated to key employees, and reflected in how we structure operations, financials, and governance. A business built for sale looks fundamentally different from a business built to hold.
 
@@ -37721,7 +37738,7 @@ A mature HVAC OpCo with $8M revenue, $1.6M EBITDA, and 45 employees has been in 
 
 **Family Succession:**
 - **Structure:** Transfer ownership to family members over time
-- **Best For:** Dynasty Assets that we want to keep in the family
+- **Best For:** Legacy Assets that we want to keep in the family
 - **Considerations:** Requires careful estate planning and family governance
 
 **Liquidation:**
@@ -38483,7 +38500,7 @@ State taxes can add 5-13% to total tax burden. State tax planning is critical.
 Large exit proceeds can create estate tax issues. Estate planning should be integrated with exit planning.
 
 **Strategies:**
-- **Dynasty Trust:** Move proceeds to Dynasty Trust (see Volume II, Chapter 4)
+- **Legacy Trust:** Move proceeds to Legacy Trust (see Volume II, Chapter 4)
 - **Gifting:** Use lifetime exemption to gift to heirs
 - **Charitable Planning:** Charitable strategies reduce estate
 - **Life Insurance:** Use life insurance for estate liquidity
@@ -38514,7 +38531,7 @@ Large exit proceeds can create estate tax issues. Estate planning should be inte
 **Post-Close:**
 - [ ] Execute Opportunity Zone investment (if applicable)
 - [ ] Implement tax loss harvesting strategies
-- [ ] Fund Dynasty Trust and estate planning vehicles
+- [ ] Fund Legacy Trust and estate planning vehicles
 - [ ] Execute charitable giving strategies (DAF, etc.)
 - [ ] Plan for ongoing tax optimization
 
@@ -39255,7 +39272,7 @@ Money from a sale does not sit idle. It flows back into The Enterprise Trust wat
 **Updating the Map**
 A major liquidity event changes the estate significantly. Estate planning must be updated immediately.
 
-**1. Dynasty Trust Funding**
+**1. Legacy Trust Funding**
 
 **Purpose:**
 Move proceeds into the South Dakota Dynasty Trust (see Volume II, Chapter 4) to protect wealth for future generations.
@@ -39310,7 +39327,7 @@ A portion of proceeds flows to the Origin Eyes Foundation to fund impact project
 
 **Foundation Funding:**
 - **Allocation:** Typically 5-10% of after-tax proceeds
-- **Purpose:** Fund impact projects aligned with Dynasty values
+- **Purpose:** Fund impact projects aligned with Legacy values
 - **Strategy:** Systematic giving through Foundation structure
 - **Benefits:** Tax deduction, legacy impact, family engagement
 
@@ -39449,7 +39466,7 @@ Take time to rest, reflect, and recharge after exit.
 **Immediate (Month 1):**
 - [ ] Pay taxes and fees
 - [ ] Establish liquidity reserve
-- [ ] Fund Dynasty Trust
+- [ ] Fund Legacy Trust
 - [ ] Execute tax optimization strategies (OZ, DAF, etc.)
 
 **Months 2-6:**
@@ -39462,7 +39479,7 @@ Take time to rest, reflect, and recharge after exit.
 - [ ] Continue acquisition cycle
 - [ ] Monitor investments
 - [ ] Plan next ventures
-- [ ] Continue Dynasty building
+- [ ] Continue Legacy building
 
 ## Case Study: Successful Exit
 
@@ -39553,6 +39570,7 @@ This case study demonstrates the power of systematic exit planning and execution
 ---
 
 **Chapter 45 Complete: 12,000+ words | 40+ pages**
+
 
 
 
@@ -41227,7 +41245,7 @@ By following these playbooks, you will ensure consistent, high-quality service d
 
 Volume I established the Vision. Volume II built the Fortress. Volume III builds the **Engine**.
 
-A dynasty without revenue is just a philosophy club. To sustain a 365-year vision, you need massive, consistent, and growing cash flow. You need to generate enough capital to fund the trust, acquire assets, and support the family's lifestyle without dipping into principal.
+A Legacy without revenue is just a philosophy club. To sustain a 365-year vision, you need massive, consistent, and growing cash flow. You need to generate enough capital to fund the trust, acquire assets, and support the family's lifestyle without dipping into principal.
 
 This volume is the tactical playbook for Legacy Codex's three primary revenue engines:
 1.  **Professional Services**: High-cash-flow, skill-based businesses (Notary, Tax, Consulting).
@@ -41271,6 +41289,7 @@ This volume is dense with tactical details. Do not attempt to launch everything 
 3.  Acquire the physical assets (Book 6).
 
 **Revenue is vanity, profit is sanity, but cash flow is reality.** Let's get to work.
+
 
 
 
@@ -42114,7 +42133,7 @@ _________________________            _________________________
 
 **PNR Holdings LLC**:
 - Member-Managed
-- Dynasty Trust as 99.999% member
+- Legacy Trust as 99.999% member
 - You as 0.001% member (for REPS)
 - Manager: You
 
@@ -43383,7 +43402,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
 - **1 Year**: Annual compliance and operations
 - **3 Years**: Strategic planning and growth
 - **5 Years**: Long-term strategy and succession
-- **10+ Years**: Dynasty planning and legacy
+- **10+ Years**: Legacy planning and legacy
 
 **Planning Areas**:
 
@@ -43411,7 +43430,7 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Succession planning
    - Legacy planning
 
-**OHU-PNR Planning**: Plan for 365+ year dynasty, ensuring compliance and structure support long-term goals.
+**OHU-PNR Planning**: Plan for 365+ year Legacy, ensuring compliance and structure support long-term goals.
 
 #### Strategic Considerations
 
@@ -43439,9 +43458,9 @@ Multi-year planning ensures long-term compliance and strategic alignment. This s
    - Family needs
    - Succession planning
    - Legacy planning
-   - Dynasty planning
+   - Legacy planning
 
-**OHU-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports dynasty goals.
+**OHU-PNR Considerations**: Consider all strategic factors in multi-year planning, ensuring structure supports Legacy goals.
 
 ---
 
@@ -43608,6 +43627,7 @@ By following this guide, you will ensure your entities are properly formed, docu
 **END OF CHAPTER 7**
 
 *This chapter provides the complete guide to entity formation and compliance. Follow these procedures meticulously to ensure proper entity structure and ongoing compliance. Review this chapter when forming new entities and annually for compliance maintenance.*
+
 
 
 
@@ -47460,7 +47480,7 @@ The Three-Horizon Model is our primary strategic framework. It recognizes that t
 
 **Example**: Years 3-10 focus on acquiring 10-20 rental properties, scaling directory portfolio to 20+ sites, and developing RegIntel Advisors into a $500K+ consulting practice. These assets generate income while appreciating in value.
 
-#### Horizon 3: Generational (10-365 Years) - Dynasty Preservation
+#### Horizon 3: Generational (10-365 Years) - Legacy Preservation
 
 **Objective**: Preserve and grow the Empire across multiple generations, ensuring perpetual wealth.
 
@@ -47566,10 +47586,10 @@ The three horizons are not sequential phases; they operate simultaneously. Howev
 - Build for long-term appreciation
 - Maintain cash flow from assets
 
-#### Horizon 3 Implementation: Dynasty Preservation Strategies
+#### Horizon 3 Implementation: Legacy Preservation Strategies
 
 **Year 1-5: Structure Establishment**
-- Establish and fund Dynasty Trust
+- Establish and fund Legacy Trust
 - Create Family Council
 - Develop governance documents
 - Begin family education programs
@@ -48043,7 +48063,7 @@ Every investment (regardless of size) must meet these criteria:
 - [ ] **Vision Alignment**: Aligns with 365-Year Vision
   - Supports long-term Empire goals
   - Strengthens multi-generational position
-  - Passes Dynasty Test
+  - Passes Legacy Test
 
 - [ ] **Strategic Fit**: Fits within Empire strategy
   - Aligns with Three-Horizon Model
@@ -48162,7 +48182,7 @@ Every investment must have a clear exit strategy defined before investment:
 
 ## 2.4 Growth vs. Preservation Balance
 
-The eternal tension in dynasty building: when to accelerate growth and when to consolidate and preserve. This section provides the framework for making these decisions.
+The eternal tension in Legacy building: when to accelerate growth and when to consolidate and preserve. This section provides the framework for making these decisions.
 
 ### When to Accelerate Growth
 
@@ -48499,6 +48519,7 @@ When consolidating, use these strategies to strengthen the Empire:
 **Chapter 2 Complete**
 
 *This chapter provides the strategic frameworks that guide all Empire decisions. Review these frameworks annually and apply them to every major decision.*
+
 
 
 
@@ -49259,7 +49280,7 @@ We do not hope our children learn our values; we **train them**. The **[Family] 
 
 ## 3.3 Succession Philosophy
 
-Succession is the most critical test of a dynasty. Will the Empire survive the transition from one generation to the next? Our philosophy balances merit-based management with birthright ownership.
+Succession is the most critical test of a Legacy. Will the Empire survive the transition from one generation to the next? Our philosophy balances merit-based management with birthright ownership.
 
 ### Merit-Based Management / Birthright Ownership
 
@@ -49906,6 +49927,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 
 
+
 ---
 
 
@@ -50025,7 +50047,7 @@ Volume I provides the foundation for all subsequent volumes:
 
 **Volumes VIII-X: Growth, Resources, Troubleshooting**
 - All volumes reference Volume I principles
-- All decisions align with Dynasty Manifesto
+- All decisions align with Legacy Manifesto
 - All systems support 365-year vision
 
 ### The Living Document
@@ -50066,7 +50088,7 @@ Volume I is successful when:
 1. Read Chapter 1 completely
 2. Customize the 365-year vision statement for your family
 3. Complete values assessment for all family members
-4. Schedule Family Council meeting to review and adopt Dynasty Manifesto
+4. Schedule Family Council meeting to review and adopt Legacy Manifesto
 
 **First Month:**
 1. Implement strategic frameworks in monthly planning
@@ -50158,7 +50180,7 @@ Family Legacy Framework addresses the human dimension of empire-buildingâ€”
 ## Volume I Success Metrics
 
 **Implementation Success:**
-- [ ] Dynasty Manifesto adopted by Family Council
+- [ ] Legacy Manifesto adopted by Family Council
 - [ ] Strategic frameworks implemented in monthly planning
 - [ ] Values transmission programs active for all children
 - [ ] Succession plan developed with identified successors
@@ -50208,11 +50230,12 @@ Volume I provides the foundation. Volume II begins the implementation. The journ
 
 
 
+
 ---
 
 
 
-# Chapter 1: The Dynasty Manifesto
+# Chapter 1: The Legacy Manifesto
 
 # Chapter 1: The Enterprise Manifesto
 
@@ -50220,7 +50243,7 @@ Volume I provides the foundation. Volume II begins the implementation. The journ
 
 Welcome to the **Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
 
-In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Dynasty**. A dynasty is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
+In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Legacy**. A Legacy is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
 
 This chapter establishes the philosophical bedrock upon which every other volume of this Bible rests. Without this foundation, our trusts, entities, and technologies are merely tools without purpose. With it, they become the instruments of our immortality.
 
@@ -50243,7 +50266,7 @@ Legacy Codex is founded on the **365-Year Vision**. This number is not arbitrary
 **Why 365 Years?**
 
 The number 365 represents:
-- **One year for each day**: A reminder that dynasty building is a daily practice, not an annual event
+- **One year for each day**: A reminder that Legacy building is a daily practice, not an annual event
 - **Maximum legal perpetuity**: South Dakota allows trusts to exist for 365 years, the longest in the United States
 - **Multi-generational span**: Approximately 12-15 generations, ensuring our vision outlives any single person's memory
 - **Symbolic completeness**: A full cycle, representing the complete transformation from founders to perpetual institution
@@ -50588,7 +50611,7 @@ Traditional definitions of wealth focus solely on financial assets. We reject th
   - Real estate (residential, commercial, land)
   - Business equity (ownership in operating companies)
   - Intellectual property (trademarks, copyrights, domain portfolios)
-  - Trust assets (Dynasty Trust principal)
+  - Trust assets (Legacy Trust principal)
 - **Measurement**: Net Asset Value (NAV), calculated quarterly
 - **Goal**: Compound annual growth rate (CAGR) of 15%+ on the portfolio, averaged over 10-year periods
 
@@ -51044,6 +51067,7 @@ In extreme emergencies, Operational Guidelines may be temporarily suspended by:
 
 
 
+
 ---
 
 
@@ -51058,7 +51082,7 @@ Once your South Dakota Dynasty Trust is formed and funded, proper administration
 
 Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For Legacy Codex Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
 
-This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your dynasty trust operates effectively and achieves its long-term goals.
+This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your Legacy trust operates effectively and achieves its long-term goals.
 
 ---
 
@@ -51068,7 +51092,7 @@ Annual administration is the foundation of effective trust management. This sect
 
 ### Tax Filing Obligations Detailed Guide
 
-Trust tax compliance is complex and failure to comply can result in significant penalties. This section provides a comprehensive guide to all tax filing requirements for your dynasty trust.
+Trust tax compliance is complex and failure to comply can result in significant penalties. This section provides a comprehensive guide to all tax filing requirements for your Legacy trust.
 
 #### Form 3520 Requirements
 
@@ -51672,7 +51696,7 @@ Distribution decisions are among the most important trustee functions. This sect
 
 ### HEMS Standard Interpretation
 
-The HEMS (Health, Education, Maintenance, Support) standard is the most common distribution standard for dynasty trusts. Understanding how to interpret and apply this standard is critical for proper trust administration.
+The HEMS (Health, Education, Maintenance, Support) standard is the most common distribution standard for Legacy trusts. Understanding how to interpret and apply this standard is critical for proper trust administration.
 
 #### Health Expenses
 
@@ -51951,7 +51975,7 @@ The HEMS (Health, Education, Maintenance, Support) standard is the most common d
 
 ### Age-Based Distribution Triggers
 
-Many dynasty trusts include age-based distribution triggers that provide beneficiaries with increasing access to trust assets as they mature. This section covers distribution schedules, trigger events, and documentation requirements.
+Many Legacy trusts include age-based distribution triggers that provide beneficiaries with increasing access to trust assets as they mature. This section covers distribution schedules, trigger events, and documentation requirements.
 
 #### Distribution Schedule
 
@@ -52900,6 +52924,7 @@ By following this manual, you will ensure proper trust administration that prese
 
 
 
+
 ---
 
 
@@ -52924,7 +52949,7 @@ The ILIT is a powerful tool for estate tax elimination. By removing life insuran
 
 ### Complete Formation Guide
 
-Forming an ILIT requires careful planning and execution. This section covers the complete formation process, document requirements, funding process, and integration with your Dynasty Trust.
+Forming an ILIT requires careful planning and execution. This section covers the complete formation process, document requirements, funding process, and integration with your Legacy Trust.
 
 #### Formation Process
 
@@ -52957,7 +52982,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Administrative capabilities
 - Cost considerations
 
-**Recommendation**: Use South Dakota Trust Company as trustee for consistency with Dynasty Trust.
+**Recommendation**: Use South Dakota Trust Company as trustee for consistency with Legacy Trust.
 
 **Step 3: Draft Trust Document**
 
@@ -52973,7 +52998,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 **Key Provisions**:
 - Crummey withdrawal rights (30 days minimum)
 - Discretionary distributions
-- Integration with Dynasty Trust
+- Integration with Legacy Trust
 - Perpetual existence (if desired)
 
 **Step 4: Execute Trust Document**
@@ -53070,12 +53095,12 @@ Forming an ILIT requires careful planning and execution. This section covers the
    - Document payments
    - Maintain records
 
-#### Integration with Dynasty Trust
+#### Integration with Legacy Trust
 
 **Integration Strategy**:
 
-- ILIT as sub-trust of Dynasty Trust
-- Death benefits flow to Dynasty Trust
+- ILIT as sub-trust of Legacy Trust
+- Death benefits flow to Legacy Trust
 - Unified administration
 - Coordinated planning
 
@@ -53085,7 +53110,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Unified beneficiary structure
 - Tax efficiency
 
-**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
+**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Legacy Trust for distribution to beneficiaries.
 
 ### Crummey Power Mechanics
 
@@ -53450,10 +53475,10 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Provides control
 - Aligns with trust purpose
 
-**Option 3: Dynasty Trust Integration**
+**Option 3: Legacy Trust Integration**
 
 **Process**:
-- Distribute to Dynasty Trust
+- Distribute to Legacy Trust
 - Unified administration
 - Coordinated planning
 
@@ -53462,7 +53487,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Coordinated distributions
 - Unified beneficiary structure
 
-**OHU-PNR Recommendation**: Distribute to Dynasty Trust for unified administration.
+**OHU-PNR Recommendation**: Distribute to Legacy Trust for unified administration.
 
 #### Tax Considerations
 
@@ -53508,7 +53533,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53523,7 +53548,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53538,7 +53563,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53553,7 +53578,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -53920,7 +53945,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 - **Trustee Discretion**: If trustee has discretion
 - **Beneficiary Request**: If beneficiary requests
 
-**OHU-PNR Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
+**OHU-PNR Merger**: Automatic merger at age 25 into Legacy Trust sub-trust.
 
 **Merger Considerations**:
 
@@ -53941,7 +53966,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 2. **Merger Planning**
    - Plan merger process
    - Review trust terms
-   - Coordinate with Dynasty Trust
+   - Coordinate with Legacy Trust
 
 3. **Merger Execution**
    - Execute merger documents
@@ -53965,7 +53990,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 **Gift Tax**:
 
 - **Merger**: Generally not a taxable gift
-- **Asset Transfer**: Transfer to Dynasty Trust
+- **Asset Transfer**: Transfer to Legacy Trust
 - **Tax Implications**: Minimal gift tax implications
 
 **Income Tax**:
@@ -54724,7 +54749,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 - [ ] Create Children's Crummey Trusts for each child
 - [ ] Consider CRT for charitable giving
 - [ ] Evaluate GRATs for business interests
-- [ ] Coordinate all trusts with Dynasty Trust
+- [ ] Coordinate all trusts with Legacy Trust
 - [ ] Implement annual gifting strategies
 
 ### Cross-References
@@ -54736,6 +54761,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 ---
 
 **END OF CHAPTER 6**
+
 
 
 
@@ -54757,7 +54783,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 
 If Volume I: Foundation & Philosophy is the "soul" of the Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"â€”the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
 
-You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Dynasty Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
+You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Legacy Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
 
 1.  **Perpetual Existence**: Structures that do not expire when you do.
 2.  **Asset Protection**: Ironclad shields against creditors, lawsuits, and predators.
@@ -54810,6 +54836,7 @@ The strategies in this volume involve sophisticated legal and tax concepts. Whil
 
 
 
+
 ---
 
 
@@ -54832,7 +54859,7 @@ This chapter will guide you through every aspect of the South Dakota Dynasty Tru
 
 ### Comprehensive State Comparison
 
-When selecting a jurisdiction for your dynasty trust, the choice is critical. The jurisdiction determines the trust's lifespan, tax treatment, asset protection capabilities, and privacy provisions. South Dakota has emerged as the premier dynasty trust jurisdiction, but understanding why requires a detailed comparison with other leading trust jurisdictions: Nevada, Wyoming, and Alaska.
+When selecting a jurisdiction for your Legacy trust, the choice is critical. The jurisdiction determines the trust's lifespan, tax treatment, asset protection capabilities, and privacy provisions. South Dakota has emerged as the premier Legacy trust jurisdiction, but understanding why requires a detailed comparison with other leading trust jurisdictions: Nevada, Wyoming, and Alaska.
 
 #### South Dakota vs. Nevada: The Perpetuity Advantage
 
@@ -54880,12 +54907,12 @@ Both states have zero state income taxâ€”another tie.
 
 **Asset Protection**
 
-Wyoming offers excellent asset protection, but South Dakota's trust law is more mature and has been tested in more cases. South Dakota has a longer history of dynasty trust administration.
+Wyoming offers excellent asset protection, but South Dakota's trust law is more mature and has been tested in more cases. South Dakota has a longer history of Legacy trust administration.
 
 **Trust Administration**
 
 - **Wyoming**: Fewer established trust companies
-- **South Dakota**: More trust companies with extensive experience in dynasty trusts
+- **South Dakota**: More trust companies with extensive experience in Legacy trusts
 
 **Trust Law Development**
 
@@ -54987,7 +55014,7 @@ Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in
 **30-Year Savings**: $1.8 million
 **100-Year Savings**: $6.1 million
 
-**Cumulative Impact**: Over multiple generations, state income tax savings can exceed $20-30 million for a well-funded dynasty trust.
+**Cumulative Impact**: Over multiple generations, state income tax savings can exceed $20-30 million for a well-funded Legacy trust.
 
 #### Estate Tax Benefits
 
@@ -54997,13 +55024,13 @@ Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu transfer $10 million to a South Dakota Dynasty Trust.
 
-**Without Dynasty Trust**:
+**Without Legacy Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
 - At Judith Huchukwuyem Ohu's death: $10M estate - $13.61M exemption = $0 estate tax (within exemption)
 - At first child's death: $10M + appreciation = potential estate tax
 - **Problem**: Each generation faces potential estate tax as exemption amounts change
 
-**With Dynasty Trust**:
+**With Legacy Trust**:
 - At Ikechukwu's death: $0 in estate (already in trust) = $0 estate tax
 - At Judith Huchukwuyem Ohu's death: $0 in estate = $0 estate tax
 - At first child's death: $0 in estate = $0 estate tax
@@ -55036,12 +55063,12 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu want to provide for their children and grandchildren.
 
-**Without Dynasty Trust**:
+**Without Legacy Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
 - Transfer to grandchildren: Subject to GST tax at 40%
 - **Problem**: Limited exemption, GST tax on excess
 
-**With Dynasty Trust**:
+**With Legacy Trust**:
 - Properly structured trust allocates GST exemption to trust
 - Trust can benefit children, grandchildren, and future generations
 - No GST tax on distributions to any generation
@@ -55051,7 +55078,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 Assuming $20 million transfer with GST exemption allocation:
 - **Without Proper Planning**: $6.39M subject to GST tax = $2.56M tax
-- **With Dynasty Trust**: $0 GST tax (exemption allocated)
+- **With Legacy Trust**: $0 GST tax (exemption allocated)
 - **Savings**: $2.56 million
 
 **Multi-Generational Impact**: Over multiple generations, GST tax savings can exceed $10-20 million.
@@ -55143,8 +55170,8 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 - Public records search reveals ownership
 - Value and location publicly known
 
-**With Dynasty Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
+**With Legacy Trust**:
+- Property titled: "South Dakota Trust Company, as Trustee of [Your Legacy Trust]"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -55264,7 +55291,7 @@ Include trust protector with power to modify trust terms. This allows adaptation
 Use multiple trusts for different asset classes or purposes. This creates additional barriers for creditors.
 
 **Strategy**: 
-- Dynasty Trust holds LLC interests
+- Legacy Trust holds LLC interests
 - LLCs hold operating assets
 - Multiple layers of protection
 
@@ -55291,7 +55318,7 @@ Real Property
 ```
 
 **Protection Layers**:
-1. **Dynasty Trust**: Spendthrift provisions, discretionary distributions
+1. **Legacy Trust**: Spendthrift provisions, discretionary distributions
 2. **Wyoming LLC**: Charging order protection
 3. **Series LLC**: Asset segregation
 4. **Real Property**: Protected by multiple layers
@@ -55355,15 +55382,15 @@ Selecting the right trust company is one of the most critical decisions in formi
 **1. Experience and Track Record**
 
 **Criteria**:
-- Minimum 10 years of dynasty trust experience
+- Minimum 10 years of Legacy trust experience
 - Track record of administering trusts for 20+ years
 - Experience with trusts of similar size and complexity
 - No significant regulatory actions or lawsuits
 
 **Questions to Ask**:
-- How long have you been administering dynasty trusts?
-- What is your oldest active dynasty trust?
-- How many dynasty trusts do you currently administer?
+- How long have you been administering Legacy trusts?
+- What is your oldest active Legacy trust?
+- How many Legacy trusts do you currently administer?
 - Have you faced any regulatory actions or lawsuits?
 
 **Red Flags**:
@@ -55483,9 +55510,9 @@ Selecting the right trust company is one of the most critical decisions in formi
 **Initial Screening Questions**:
 
 1. **Experience**:
-   - How long have you been administering dynasty trusts?
-   - What is your oldest active dynasty trust?
-   - How many dynasty trusts do you currently administer?
+   - How long have you been administering Legacy trusts?
+   - What is your oldest active Legacy trust?
+   - How many Legacy trusts do you currently administer?
 
 2. **Services**:
    - What services do you provide?
@@ -55583,21 +55610,21 @@ Selecting the right trust company is one of the most critical decisions in formi
 1. **South Dakota Trust Company**
    - Established: 1983
    - Assets: $10+ billion
-   - Experience: Extensive dynasty trust experience
+   - Experience: Extensive Legacy trust experience
    - Fees: Competitive
    - **Strengths**: Longest track record, extensive experience
 
 2. **First National Trust & Wealth Management**
    - Established: 1987
    - Assets: $5+ billion
-   - Experience: Strong dynasty trust experience
+   - Experience: Strong Legacy trust experience
    - Fees: Competitive
    - **Strengths**: Strong service, good technology
 
 3. **Dakota Trust Company**
    - Established: 2000
    - Assets: $2+ billion
-   - Experience: Good dynasty trust experience
+   - Experience: Good Legacy trust experience
    - Fees: Competitive
    - **Strengths**: Personalized service, flexible
 
@@ -55700,7 +55727,7 @@ Documents evidencing initial funding of the trust.
 
 **Step 1: Engage Attorney**
 
-- Select attorney experienced in dynasty trusts
+- Select attorney experienced in Legacy trusts
 - Discuss trust structure and goals
 - Review attorney's trust document template
 - Agree on scope of work and fees
@@ -56078,7 +56105,7 @@ Based on the Ohu Family Enterprise structure:
 
 ## Section 4.3: Trust Document Provisions - Line by Line
 
-The trust document is the foundation of your dynasty trust. Every provision matters, and understanding each provision is essential for effective trust administration. This section provides a detailed analysis of mandatory provisions, optional provisions, protective mechanisms, and amendment procedures.
+The trust document is the foundation of your Legacy trust. Every provision matters, and understanding each provision is essential for effective trust administration. This section provides a detailed analysis of mandatory provisions, optional provisions, protective mechanisms, and amendment procedures.
 
 ### Mandatory Provisions Analysis
 
@@ -56171,7 +56198,7 @@ Dakota courts.
 
 **7. Perpetual Existence**
 
-**Provision**: For a dynasty trust, perpetual existence must be stated.
+**Provision**: For a Legacy trust, perpetual existence must be stated.
 
 **Example Language**:
 ```
@@ -56241,11 +56268,11 @@ The governing law provision establishes which state's laws apply. This determine
 - Beneficiary rights (what beneficiaries are entitled to)
 - Legal proceedings (where disputes are resolved)
 
-**Best Practice**: Always specify South Dakota as governing law for dynasty trusts.
+**Best Practice**: Always specify South Dakota as governing law for Legacy trusts.
 
 **Perpetual Existence**
 
-The perpetual existence provision establishes that the trust can exist forever. This is the key benefit of a dynasty trust and:
+The perpetual existence provision establishes that the trust can exist forever. This is the key benefit of a Legacy trust and:
 - Allows unlimited generations to benefit
 - Maximizes wealth preservation
 - Avoids trust termination
@@ -56268,7 +56295,7 @@ Some provisions are required by law. Without them, the trust may be invalid or i
 
 Other provisions are necessary for trust functionality. Without them, the trust cannot operate effectively. These include:
 - Trust purpose (guides administration)
-- Perpetual existence (enables dynasty planning)
+- Perpetual existence (enables Legacy planning)
 - Distribution provisions (enables beneficiary benefits)
 - Administrative provisions (enables trust operations)
 
@@ -56312,7 +56339,7 @@ While mandatory provisions are required, optional provisions can enhance trust e
 - May create conflicts with trustees
 - May be challenged by beneficiaries
 
-**Recommendation**: Include for most dynasty trusts to provide flexibility.
+**Recommendation**: Include for most Legacy trusts to provide flexibility.
 
 **2. Directed Trust Provisions**
 
@@ -56372,7 +56399,7 @@ While mandatory provisions are required, optional provisions can enhance trust e
 - May create conflicts
 - May require interpretation
 
-**Recommendation**: Include HEMS standard for most dynasty trusts.
+**Recommendation**: Include HEMS standard for most Legacy trusts.
 
 **5. Beneficiary Removal Provisions**
 
@@ -56422,7 +56449,7 @@ While mandatory provisions are required, optional provisions can enhance trust e
 
 **Investment Policy**: Include for most trusts to provide investment guidance.
 
-**Distribution Standards**: Include HEMS standard for most dynasty trusts.
+**Distribution Standards**: Include HEMS standard for most Legacy trusts.
 
 **Beneficiary Removal**: Include with careful drafting if needed.
 
@@ -56618,7 +56645,7 @@ required by law.
 
 ### Amendment Procedures
 
-While dynasty trusts are typically irrevocable, certain modifications may be possible through trust protector powers or court proceedings. This section covers how to amend trusts, amendment limitations, and the amendment process.
+While Legacy trusts are typically irrevocable, certain modifications may be possible through trust protector powers or court proceedings. This section covers how to amend trusts, amendment limitations, and the amendment process.
 
 #### How to Amend Trust
 
@@ -56669,7 +56696,7 @@ While dynasty trusts are typically irrevocable, certain modifications may be pos
 
 **Limitation**: Cannot amend to terminate trust prematurely (unless all beneficiaries agree and court approves).
 
-**Reason**: Perpetual existence is fundamental to dynasty trust purpose.
+**Reason**: Perpetual existence is fundamental to Legacy trust purpose.
 
 **2. Beneficiary Rights**
 
@@ -56724,7 +56751,7 @@ While dynasty trusts are typically irrevocable, certain modifications may be pos
 
 ## Section 4.4: Trustee Architecture Deep Dive
 
-The trustee architecture determines how your dynasty trust is administered. This section provides detailed guidance on administrative trustees, investment trustees, distribution trustees, and trust protectors.
+The trustee architecture determines how your Legacy trust is administered. This section provides detailed guidance on administrative trustees, investment trustees, distribution trustees, and trust protectors.
 
 ### Administrative Trustee Guide
 
@@ -56794,7 +56821,7 @@ The administrative trustee handles trust compliance, record-keeping, and day-to-
 
 **Criteria**:
 - Minimum 10 years trust administration experience
-- Experience with dynasty trusts
+- Experience with Legacy trusts
 - Experience with similar trusts
 - Track record of success
 
@@ -57234,6 +57261,7 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
 
 
 
@@ -63292,7 +63320,7 @@ Visualize dependencies via an org map that layers U.S. employees atop global pod
 Use a compensation intelligence triad:
 
 1. **Market Benchmarks:** Radford, Mercer, Levels.fyi, and salary surveys (filtered by geography and company size).
-2. **Internal Equity:** tie ranges to Dynasty capability ladders to preserve fairness between U.S. staff and global leads.
+2. **Internal Equity:** tie ranges to Legacy capability ladders to preserve fairness between U.S. staff and global leads.
 3. **Financial Capacity:** embed compensation models into the Financial Tracker with scenario planning (base + bonus + benefits + taxes).
 
 For each role, produce a Compensation Capsule containing:
@@ -63394,7 +63422,7 @@ These gates live in the Dashboard "Capacity Triggers" view. When metrics cross t
 
 U.S. candidates respond to credibility, mission clarity, and growth narratives. Develop a talent brand kit containing:
 
-- Dynasty mission statement and 365-year vision snippet
+- Legacy mission statement and 365-year vision snippet
 - Case studies showing hybrid teams succeeding
 - Culture OS pillars and leadership principles
 - Benefits overview and flexible work policies
@@ -63402,7 +63430,7 @@ U.S. candidates respond to credibility, mission clarity, and growth narratives. 
 Distribute through:
 
 - **Primary Platforms:** LinkedIn Recruiter, BuiltIn, Wellfound, niche boards (e.g., Accountingfly for finance roles, Tech Ladies for ops)
-- **Referrals:** Dynasty Alumni Guild, partner firms, advisory board introductions
+- **Referrals:** Legacy Alumni Guild, partner firms, advisory board introductions
 - **Events:** targeted webinars or roundtables where potential hires can observe culture firsthand
 - **University & Professional Associations:** for pipeline roles (e.g., SHRM chapters, AICPA, local bar associations)
 
@@ -63423,7 +63451,7 @@ Share briefs with all interviewers to ensure alignment and accelerate decision-m
 2. **Hiring Manager Intro:** 30-minute conversation focusing on mission fit and communication skills.
 3. **Technical/Functional Assessment:** real-world case or take-home exercise (paid when requiring >2 hours). Evaluate clarity, depth, numeracy, and documentation.
 4. **Panel Interview:** cross-functional panel including virtual team leads to test collaboration readiness.
-5. **Executive Alignment:** final conversation with founding partners or executive sponsor probing strategic thinking and Dynasty Virtues.
+5. **Executive Alignment:** final conversation with founding partners or executive sponsor probing strategic thinking and Legacy Virtues.
 6. **References & Background Checks:** at least two manager references plus compliance checks (FINRA, state licensing, etc. as applicable).
 
 Time-to-offer target: â‰¤28 days. Track each stageâ€™s drop-off rate; if >20% attrition occurs between two stages, audit the process.
@@ -63434,7 +63462,7 @@ Maintain white-glove interactions:
 
 - Personalized updates after each stage
 - Transparent compensation discussion early (no surprises)
-- Access to Dynasty Culture Compendium (videos, documents, leadership bios)
+- Access to Legacy Culture Compendium (videos, documents, leadership bios)
 - Optional shadow session with future peers
 
 Capture candidate experience scores (1-5) to monitor employer brand health.
@@ -63644,7 +63672,7 @@ U.S. hires undergo a comprehensive, blended onboarding experience designed to ac
 - [ ] Set up time tracking (if applicable)
 
 **Pre-Reading & Preparation:**
-- [ ] Send Dynasty Manifesto and Vision Statement
+- [ ] Send Legacy Manifesto and Vision Statement
 - [ ] Share employee handbook and culture guide
 - [ ] Provide org chart and team directory
 - [ ] Send welcome video from founder/CEO
@@ -63663,7 +63691,7 @@ U.S. hires undergo a comprehensive, blended onboarding experience designed to ac
     - First 90-day objectives
     - Q&A session
   - Welcome call with founder/CEO (30 minutes)
-    - Dynasty vision and mission
+    - Legacy vision and mission
     - Personal story and values
     - Expectations for role
   - Review employee handbook and policies (60 minutes)
@@ -63671,7 +63699,7 @@ U.S. hires undergo a comprehensive, blended onboarding experience designed to ac
 
 - **Afternoon (3 hours):**
   - Culture workshop (90 minutes)
-    - Dynasty values deep dive
+    - Legacy values deep dive
     - Behavioral expectations
     - Communication protocols
     - Recognition and feedback culture
@@ -63844,9 +63872,9 @@ U.S. employees access a comprehensive training ecosystem that combines the modul
 
 #### Core Training Modules (All U.S. Employees)
 
-**Module 1: Dynasty Culture & Values (4 hours)**
+**Module 1: Legacy Culture & Values (4 hours)**
 - **Content:**
-  - Dynasty Manifesto and 365-year vision deep dive
+  - Legacy Manifesto and 365-year vision deep dive
   - Core values: Radical Ownership, Relentless Iteration, Transparent Scorecards, Compassionate Candor
   - Behavioral expectations and examples
   - Communication culture and protocols
@@ -64456,7 +64484,7 @@ Provide rotational assignments, mentorship pairings, and executive sponsorship. 
 
 - Quarterly Spot Bonuses tied to cross-functional wins.
 - Annual incentive plans linked to revenue, profitability, or compliance metrics.
-- Recognition rituals: â€œDynasty Heraldâ€ newsletter featuring standout behaviors, peer kudos channel, leadership AMA shoutouts.
+- Recognition rituals: â€œLegacy Heraldâ€ newsletter featuring standout behaviors, peer kudos channel, leadership AMA shoutouts.
 - Benefits optimization: review utilization data quarterly to adjust offerings (wellness stipends, caregiving support, educational budgets).
 
 ---
@@ -64551,6 +64579,7 @@ Next, Chapter 27 will scale the view to organization-wide development, integrati
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** North Star Dashboard v3, Financial Tracker, Cross-volume references complete
+
 
 
 
@@ -65039,7 +65068,7 @@ Culture is not just valuesâ€”it's specific behaviors that are expected, rew
 - Refine based on feedback
 - Publish updated version
 
-Publish a Dynasty Behavioral Codex with explicit "always/never" statements for key contexts (meetings, documentation, conflict). Enforcement follows a lightweight triage protocol that is fair, transparent, progressive, compassionate, and data-driven.
+Publish a Legacy Behavioral Codex with explicit "always/never" statements for key contexts (meetings, documentation, conflict). Enforcement follows a lightweight triage protocol that is fair, transparent, progressive, compassionate, and data-driven.
 
 ### 27.1.4 Communication Culture
 
@@ -65176,7 +65205,7 @@ Recognition is not a nice-to-haveâ€”it's a critical component of culture th
 - **Frequent:** Recognition happens weekly, not annually
 - **Specific:** Recognize specific behaviors, not generic praise
 - **Public:** Most recognition is public to amplify impact
-- **Values-Aligned:** Recognition ties to Dynasty virtues
+- **Values-Aligned:** Recognition ties to Legacy virtues
 - **Data-Driven:** Track recognition impact on engagement and retention
 
 **Recognition Types:**
@@ -65192,7 +65221,7 @@ Recognition is not a nice-to-haveâ€”it's a critical component of culture th
 Monthly newsletter highlighting:
 - **Top Wins:** Major accomplishments and achievements
 - **Automation Breakthroughs:** Process improvements and innovations
-- **Culture Exemplars:** Team members embodying Dynasty virtues
+- **Culture Exemplars:** Team members embodying Legacy virtues
 - **Metrics & Milestones:** Key performance indicators and achievements
 - **Team Spotlights:** Individual and team features
 
@@ -65208,7 +65237,7 @@ Monthly newsletter highlighting:
 - Creates sense of community
 - Documents organizational progress
 
-**2. Dynasty Tokens (Peer Recognition Points)**
+**2. Legacy Tokens (Peer Recognition Points)**
 Internal points system for peer-to-peer recognition:
 - **Earning:** Peers nominate each other for virtue embodiment
 - **Redemption:** Tokens redeemable for:
@@ -65260,7 +65289,7 @@ Tied to cross-functional wins and exceptional performance:
 
 **5. Annual Excellence Awards**
 Formal recognition at annual offsite:
-- **Virtue Champion:** Exemplifies Dynasty virtues
+- **Virtue Champion:** Exemplifies Legacy virtues
 - **Innovation Award:** Significant process improvement
 - **Team Player:** Exceptional collaboration
 - **Growth Award:** Significant development and learning
@@ -65593,11 +65622,11 @@ Post-implementation:
 4. Build the Change Registry and train leaders on the CLEAR model.
 5. Schedule quarterly OD health reviews combining Dashboard analytics, engagement scores, and financial outcomes.
 
-Organizational development is never "complete." Treat this chapter as an adaptive systemâ€”review quarterly, integrate insights from other volumes, and ensure every process reinforces Dynasty sovereignty, scalability, and stewardship.
+Organizational development is never "complete." Treat this chapter as an adaptive systemâ€”review quarterly, integrate insights from other volumes, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -65633,7 +65662,7 @@ Organizational development is never "complete." Treat this chapter as an adaptiv
 ### Cross-Volume Integration
 
 **Volume I (Foundation):**
-- Align OD with Dynasty vision and values
+- Align OD with Legacy vision and values
 - Support strategic architecture execution
 - Enable three-horizon model
 
@@ -65670,7 +65699,7 @@ Organizational development is the engine that transforms individual talent into 
 
 The systems in this chapterâ€”culture architecture, leadership development, performance management, and change managementâ€”work together to create an organization that is adaptive, high-performing, and aligned with The Enterprise vision. They integrate with the North Star Dashboard v3 and Financial Tracker to ensure every investment is measured, optimized, and justified.
 
-Remember: Organizational development is never "complete." It's a continuous process of improvement, adaptation, and growth. Review these systems quarterly, integrate insights from across Legacy Codex, and ensure every process reinforces Dynasty sovereignty, scalability, and stewardship.
+Remember: Organizational development is never "complete." It's a continuous process of improvement, adaptation, and growth. Review these systems quarterly, integrate insights from across Legacy Codex, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
 
 The next volume (Volume VI: Family Governance & Succession) will detail how to structure family governance, manage family dynamics, and ensure multi-generational continuity of the Ohu Family Enterprise.
 
@@ -65681,6 +65710,7 @@ The next volume (Volume VI: Family Governance & Succession) will detail how to s
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** North Star Dashboard v3, Financial Tracker, Cross-volume references complete
+
 
 
 
@@ -65736,7 +65766,7 @@ Virtual team building is not about finding "cheap labor." It's about accessing g
 
 We are not looking for "cheap labor." We are looking for "global talent." The distinction is critical. We treat our virtual assistants (VAs) and remote team members as professionals, invest in their growth, and integrate them into the empire's culture. When executed properly, virtual teams become your competitive advantageâ€”delivering high-quality work at a fraction of the cost while providing flexibility and scalability that traditional hiring cannot match.
 
-This chapter is organized into four comprehensive sections: VA Recruitment Mastery (Section 25.1), VA Training Systems (Section 25.2), VA Management Framework (Section 25.3), and VA Scaling Strategies (Section 25.4). Each section includes detailed workflows, templates, metrics, and integration points with the broader Dynasty systems.
+This chapter is organized into four comprehensive sections: VA Recruitment Mastery (Section 25.1), VA Training Systems (Section 25.2), VA Management Framework (Section 25.3), and VA Scaling Strategies (Section 25.4). Each section includes detailed workflows, templates, metrics, and integration points with the broader Legacy systems.
 
 ---
 
@@ -65789,7 +65819,7 @@ This chapter is organized into four comprehensive sections: VA Recruitment Maste
 - **Best Practices:**
   - Use specific search filters (location, industry, skills)
   - Personalize connection requests
-  - Share Dynasty vision and culture in outreach
+  - Share Legacy vision and culture in outreach
   - Conduct thorough background checks
 - **Integration:** Track executive search costs separately in Financial Tracker. Monitor executive hire success rates and retention in Dashboard.
 
@@ -66081,7 +66111,7 @@ The screening process is a funnel designed to filter candidates progressively, s
 **Evaluation Criteria:**
 - **Communication:** Clear, articulate, professional
 - **Attitude:** Positive, ownership mindset, growth-oriented
-- **Cultural Fit:** Aligns with Dynasty values
+- **Cultural Fit:** Aligns with Legacy values
 - **Technical Skills:** Demonstrates required competencies
 - **Enthusiasm:** Genuine interest in the role
 
@@ -66407,7 +66437,7 @@ Track these metrics in the North Star Dashboard v3 under "Human Capital > Recrui
 
 **Documentation:**
 - [ ] Send Empire Handbook (PDF)
-- [ ] Share Dynasty Manifesto and Vision Statement
+- [ ] Share Legacy Manifesto and Vision Statement
 - [ ] Provide org chart and team directory
 - [ ] Share relevant SOPs for their role
 - [ ] Send welcome video from founder/manager
@@ -66511,9 +66541,9 @@ Track these metrics in the North Star Dashboard v3 under "Human Capital > Recrui
 
 #### Core Training Modules (All VAs)
 
-**Module 1: Dynasty Culture & Values (2 hours)**
+**Module 1: Legacy Culture & Values (2 hours)**
 - **Content:**
-  - Dynasty Manifesto and 365-year vision
+  - Legacy Manifesto and 365-year vision
   - Core values: Radical Ownership, Relentless Iteration, Transparent Scorecards, Compassionate Candor
   - Behavioral expectations
   - Communication culture
@@ -67329,7 +67359,7 @@ Employee: _________________ Date: _______
 - **Performance:** Consistently exceeds expectations (4.5+ rating)
 - **Skills:** Demonstrates next-level competencies
 - **Impact:** Contributes beyond role (process improvements, training others)
-- **Culture:** Embodies Dynasty values
+- **Culture:** Embodies Legacy values
 - **Tenure:** Minimum time in current role (varies by level)
 
 **Promotion Process:**
@@ -67718,7 +67748,7 @@ Create a matrix showing:
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -67761,7 +67791,7 @@ Create a matrix showing:
 ### Cross-Volume Integration
 
 **Volume I (Foundation):**
-- Align hiring with Dynasty values and vision
+- Align hiring with Legacy values and vision
 - Integrate with strategic architecture
 - Support three-horizon model execution
 
@@ -67863,6 +67893,7 @@ The next chapter (Chapter 26: US Team Development) will detail how to build a co
 
 
 
+
 ---
 
 
@@ -67873,7 +67904,7 @@ The next chapter (Chapter 26: US Team Development) will detail how to build a co
 
 ## Introduction
 
-Real estate is the ultimate wealth preservation vehicle, but traditional financing (20% down, bank qualification) is a bottleneck. To build a dynasty-scale portfolio, you must master **Creative Financing**. This allows you to acquire assets based on the *deal's* merit, not just your personal credit or cash reserves.
+Real estate is the ultimate wealth preservation vehicle, but traditional financing (20% down, bank qualification) is a bottleneck. To build a Legacy-scale portfolio, you must master **Creative Financing**. This allows you to acquire assets based on the *deal's* merit, not just your personal credit or cash reserves.
 
 For Obuke LLC, creative financing is the primary acquisition strategy. It allows for infinite returns (when acquisition cost is zero or low), rapid scaling, and solving problems for sellers that banks cannot touch. This chapter details the mechanics of Subject-To, Seller Financing, and Private Moneyâ€”the "Trifecta" of creative acquisition.
 
@@ -68074,6 +68105,7 @@ Creative financing is not a "trick"; it is a sophisticated toolkit for solving r
 ---
 
 **END OF CHAPTER 16**
+
 
 
 
@@ -70563,7 +70595,7 @@ This appendix serves as the central directory for critical contacts. In a crisis
 | **Business Attorney** | [Name] | [Phone] | [Email] | Contracts, Lawsuits |
 | **Financial Advisor** | [Name] | [Phone] | [Email] | Investments, Cash |
 | **Insurance Broker** | [Name] | [Phone] | [Email] | Claims, Coverage |
-| **Trust Officer** | [Name] | [Phone] | [Email] | Dynasty Trust Admin |
+| **Trust Officer** | [Name] | [Phone] | [Email] | Legacy Trust Admin |
 
 ---
 
@@ -70603,6 +70635,7 @@ This appendix serves as the central directory for critical contacts. In a crisis
 ---
 
 **Appendix C Complete**
+
 
 
 
@@ -70706,7 +70739,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 #### Book 1: Empire Vision & Principles
 
 **Chapter 1: The Enterprise Manifesto**
-- **Section 1.1:** Linked to Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Dynasty Trust), Volume VI Chapter 31 (Family Council).
+- **Section 1.1:** Linked to Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Legacy Trust), Volume VI Chapter 31 (Family Council).
 - **Section 1.2:** Linked to Chapter 2.1 (Strategic Alignment), Chapter 3.2 (Values Transmission), Volume II Chapter 7 (Entity Structure).
 - **Section 1.3:** Linked to Chapter 2.1 (Horizon Metrics), Chapter 3.1 (Family Goals), Volume III (Revenue Metrics).
 - **Section 1.4:** Linked to Chapter 2.2 (Risk Philosophy), Chapter 3.3 (Succession), Volume VI Chapter 31 (Family Council).
@@ -70898,7 +70931,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
     - Crisis Management: Vol X, Ch 53
 - **D**
     - Directory Empire: Vol III, Ch 13-15
-    - Dynasty Trust: Vol II, Ch 4-6; Vol VI, Ch 34
+    - Legacy Trust: Vol II, Ch 4-6; Vol VI, Ch 34
 - **E**
     - Estate Planning: Vol VI, Ch 34
     - Exit Strategy: Vol VIII, Ch 45
@@ -70956,13 +70989,14 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 
 
 
+
 ---
 
 ---
 
 **END OF LEGACY CODEX COMPILATION**
 
-*This document was automatically compiled on November 23, 2025 at 17:50:44*
+*This document was automatically compiled on November 23, 2025 at 17:58:04*
 
 ---
 

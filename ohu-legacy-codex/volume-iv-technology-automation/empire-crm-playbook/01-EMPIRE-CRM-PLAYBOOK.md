@@ -1,4 +1,4 @@
-﻿# Empire Dynasty CRM Playbook
+﻿# Empire Legacy CRM Playbook
 ## Your Complete Revenue Operating System
 
 ---
@@ -8,10 +8,10 @@
 1. [Empire-Level CRM Foundations](#empire-level-crm-foundations)
 2. [Customer Lifecycle Architecture](#customer-lifecycle-architecture)
 3. [Pipeline Maps & Stage Definitions](#pipeline-maps--stage-definitions)
-4. [Dynasty-Level Automations](#dynasty-level-automations)
+4. [Legacy-Level Automations](#Legacy-level-automations)
 5. [Lead Routing & Assignment](#lead-routing--assignment)
 6. [Advanced Segmentation](#advanced-segmentation)
-7. [Dynasty Intelligence Dashboards](#dynasty-intelligence-dashboards)
+7. [Legacy Intelligence Dashboards](#Legacy-intelligence-dashboards)
 8. [SOP Library Integration](#sop-library-integration)
 9. [Offer â†’ Pipeline Mapping](#offer--pipeline-mapping)
 10. [AppSumo Stack Integrations](#appsumo-stack-integrations)
@@ -52,7 +52,7 @@ Your CRM is not softwareâ€”it's the central nervous system of your revenue 
 ### The Enterprise Customer Journey
 
 ```
-LEAD â†’ DYNASTY MEMBER â†’ LOYALIST â†’ EXPANSION â†’ AMBASSADOR
+LEAD â†’ Legacy MEMBER â†’ LOYALIST â†’ EXPANSION â†’ AMBASSADOR
 ```
 
 ### Stage Definitions
@@ -73,7 +73,7 @@ LEAD â†’ DYNASTY MEMBER â†’ LOYALIST â†’ EXPANSION â†’ AMBAS
 - Engagement level
 - Time in stage
 
-#### 2. DYNASTY MEMBER
+#### 2. Legacy MEMBER
 **Definition**: First-time customer who has made an initial purchase
 **Entry Criteria**: First transaction completed
 **Exit Criteria**: Makes second purchase OR becomes Loyalist
@@ -215,7 +215,7 @@ For each stage, define:
 
 ---
 
-## âš™ï¸ Dynasty-Level Automations
+## âš™ï¸ Legacy-Level Automations
 
 ### 1. Lead Capture Automation
 
@@ -269,7 +269,7 @@ For each stage, define:
 4. Assign customer success owner
 5. Create onboarding tasks
 6. Start onboarding email sequence
-7. Update customer lifecycle stage to "DYNASTY MEMBER"
+7. Update customer lifecycle stage to "Legacy MEMBER"
 
 ### 5. Customer Success Automation
 
@@ -411,7 +411,7 @@ IF lead_score < 50
 
 ---
 
-##  Dynasty Intelligence Dashboards
+##  Legacy Intelligence Dashboards
 
 ### Dashboard 1: Pipeline Health
 
@@ -725,13 +725,14 @@ For each offer you sell, map it to:
 ## Next Steps
 
 1. **Read**: [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md) to assess your current CRM
-2. **Design**: Use [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md) to build your pipeline
+2. **Design**: Use [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md) to build your pipeline
 3. **Process**: Implement [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) SOPs
 4. **Execute**: Follow [05-14-DAY-IMPLEMENTATION-PLAN.md](./05-14-DAY-IMPLEMENTATION-PLAN.md)
 
 ---
 
-*Built for Empire Dynasty. Designed for scale. Optimized for revenue.*
+*Built for Empire Legacy. Designed for scale. Optimized for revenue.*
+
 
 
 

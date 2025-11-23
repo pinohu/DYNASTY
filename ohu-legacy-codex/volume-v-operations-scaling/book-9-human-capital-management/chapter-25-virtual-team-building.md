@@ -8,7 +8,7 @@ Virtual team building is not about finding "cheap labor." It's about accessing g
 
 We are not looking for "cheap labor." We are looking for "global talent." The distinction is critical. We treat our virtual assistants (VAs) and remote team members as professionals, invest in their growth, and integrate them into the empire's culture. When executed properly, virtual teams become your competitive advantageâ€”delivering high-quality work at a fraction of the cost while providing flexibility and scalability that traditional hiring cannot match.
 
-This chapter is organized into four comprehensive sections: VA Recruitment Mastery (Section 25.1), VA Training Systems (Section 25.2), VA Management Framework (Section 25.3), and VA Scaling Strategies (Section 25.4). Each section includes detailed workflows, templates, metrics, and integration points with the broader Dynasty systems.
+This chapter is organized into four comprehensive sections: VA Recruitment Mastery (Section 25.1), VA Training Systems (Section 25.2), VA Management Framework (Section 25.3), and VA Scaling Strategies (Section 25.4). Each section includes detailed workflows, templates, metrics, and integration points with the broader Legacy systems.
 
 ---
 
@@ -61,7 +61,7 @@ This chapter is organized into four comprehensive sections: VA Recruitment Maste
 - **Best Practices:**
   - Use specific search filters (location, industry, skills)
   - Personalize connection requests
-  - Share Dynasty vision and culture in outreach
+  - Share Legacy vision and culture in outreach
   - Conduct thorough background checks
 - **Integration:** Track executive search costs separately in Financial Tracker. Monitor executive hire success rates and retention in Dashboard.
 
@@ -353,7 +353,7 @@ The screening process is a funnel designed to filter candidates progressively, s
 **Evaluation Criteria:**
 - **Communication:** Clear, articulate, professional
 - **Attitude:** Positive, ownership mindset, growth-oriented
-- **Cultural Fit:** Aligns with Dynasty values
+- **Cultural Fit:** Aligns with Legacy values
 - **Technical Skills:** Demonstrates required competencies
 - **Enthusiasm:** Genuine interest in the role
 
@@ -679,7 +679,7 @@ Track these metrics in the North Star Dashboard v3 under "Human Capital > Recrui
 
 **Documentation:**
 - [ ] Send Empire Handbook (PDF)
-- [ ] Share Dynasty Manifesto and Vision Statement
+- [ ] Share Legacy Manifesto and Vision Statement
 - [ ] Provide org chart and team directory
 - [ ] Share relevant SOPs for their role
 - [ ] Send welcome video from founder/manager
@@ -783,9 +783,9 @@ Track these metrics in the North Star Dashboard v3 under "Human Capital > Recrui
 
 #### Core Training Modules (All VAs)
 
-**Module 1: Dynasty Culture & Values (2 hours)**
+**Module 1: Legacy Culture & Values (2 hours)**
 - **Content:**
-  - Dynasty Manifesto and 365-year vision
+  - Legacy Manifesto and 365-year vision
   - Core values: Radical Ownership, Relentless Iteration, Transparent Scorecards, Compassionate Candor
   - Behavioral expectations
   - Communication culture
@@ -1601,7 +1601,7 @@ Employee: _________________ Date: _______
 - **Performance:** Consistently exceeds expectations (4.5+ rating)
 - **Skills:** Demonstrates next-level competencies
 - **Impact:** Contributes beyond role (process improvements, training others)
-- **Culture:** Embodies Dynasty values
+- **Culture:** Embodies Legacy values
 - **Tenure:** Minimum time in current role (varies by level)
 
 **Promotion Process:**
@@ -1990,7 +1990,7 @@ Create a matrix showing:
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -2033,7 +2033,7 @@ Create a matrix showing:
 ### Cross-Volume Integration
 
 **Volume I (Foundation):**
-- Align hiring with Dynasty values and vision
+- Align hiring with Legacy values and vision
 - Integrate with strategic architecture
 - Support three-horizon model execution
 
@@ -2132,4 +2132,5 @@ The next chapter (Chapter 26: US Team Development) will detail how to build a co
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** North Star Dashboard v3, Financial Tracker, Cross-volume references complete
+
 

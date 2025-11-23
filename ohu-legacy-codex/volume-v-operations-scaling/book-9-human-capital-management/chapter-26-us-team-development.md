@@ -56,7 +56,7 @@ Visualize dependencies via an org map that layers U.S. employees atop global pod
 Use a compensation intelligence triad:
 
 1. **Market Benchmarks:** Radford, Mercer, Levels.fyi, and salary surveys (filtered by geography and company size).
-2. **Internal Equity:** tie ranges to Dynasty capability ladders to preserve fairness between U.S. staff and global leads.
+2. **Internal Equity:** tie ranges to Legacy capability ladders to preserve fairness between U.S. staff and global leads.
 3. **Financial Capacity:** embed compensation models into the Financial Tracker with scenario planning (base + bonus + benefits + taxes).
 
 For each role, produce a Compensation Capsule containing:
@@ -158,7 +158,7 @@ These gates live in the Dashboard "Capacity Triggers" view. When metrics cross t
 
 U.S. candidates respond to credibility, mission clarity, and growth narratives. Develop a talent brand kit containing:
 
-- Dynasty mission statement and 365-year vision snippet
+- Legacy mission statement and 365-year vision snippet
 - Case studies showing hybrid teams succeeding
 - Culture OS pillars and leadership principles
 - Benefits overview and flexible work policies
@@ -166,7 +166,7 @@ U.S. candidates respond to credibility, mission clarity, and growth narratives. 
 Distribute through:
 
 - **Primary Platforms:** LinkedIn Recruiter, BuiltIn, Wellfound, niche boards (e.g., Accountingfly for finance roles, Tech Ladies for ops)
-- **Referrals:** Dynasty Alumni Guild, partner firms, advisory board introductions
+- **Referrals:** Legacy Alumni Guild, partner firms, advisory board introductions
 - **Events:** targeted webinars or roundtables where potential hires can observe culture firsthand
 - **University & Professional Associations:** for pipeline roles (e.g., SHRM chapters, AICPA, local bar associations)
 
@@ -187,7 +187,7 @@ Share briefs with all interviewers to ensure alignment and accelerate decision-m
 2. **Hiring Manager Intro:** 30-minute conversation focusing on mission fit and communication skills.
 3. **Technical/Functional Assessment:** real-world case or take-home exercise (paid when requiring >2 hours). Evaluate clarity, depth, numeracy, and documentation.
 4. **Panel Interview:** cross-functional panel including virtual team leads to test collaboration readiness.
-5. **Executive Alignment:** final conversation with founding partners or executive sponsor probing strategic thinking and Dynasty Virtues.
+5. **Executive Alignment:** final conversation with founding partners or executive sponsor probing strategic thinking and Legacy Virtues.
 6. **References & Background Checks:** at least two manager references plus compliance checks (FINRA, state licensing, etc. as applicable).
 
 Time-to-offer target: â‰¤28 days. Track each stageâ€™s drop-off rate; if >20% attrition occurs between two stages, audit the process.
@@ -198,7 +198,7 @@ Maintain white-glove interactions:
 
 - Personalized updates after each stage
 - Transparent compensation discussion early (no surprises)
-- Access to Dynasty Culture Compendium (videos, documents, leadership bios)
+- Access to Legacy Culture Compendium (videos, documents, leadership bios)
 - Optional shadow session with future peers
 
 Capture candidate experience scores (1-5) to monitor employer brand health.
@@ -408,7 +408,7 @@ U.S. hires undergo a comprehensive, blended onboarding experience designed to ac
 - [ ] Set up time tracking (if applicable)
 
 **Pre-Reading & Preparation:**
-- [ ] Send Dynasty Manifesto and Vision Statement
+- [ ] Send Legacy Manifesto and Vision Statement
 - [ ] Share employee handbook and culture guide
 - [ ] Provide org chart and team directory
 - [ ] Send welcome video from founder/CEO
@@ -427,7 +427,7 @@ U.S. hires undergo a comprehensive, blended onboarding experience designed to ac
     - First 90-day objectives
     - Q&A session
   - Welcome call with founder/CEO (30 minutes)
-    - Dynasty vision and mission
+    - Legacy vision and mission
     - Personal story and values
     - Expectations for role
   - Review employee handbook and policies (60 minutes)
@@ -435,7 +435,7 @@ U.S. hires undergo a comprehensive, blended onboarding experience designed to ac
 
 - **Afternoon (3 hours):**
   - Culture workshop (90 minutes)
-    - Dynasty values deep dive
+    - Legacy values deep dive
     - Behavioral expectations
     - Communication protocols
     - Recognition and feedback culture
@@ -608,9 +608,9 @@ U.S. employees access a comprehensive training ecosystem that combines the modul
 
 #### Core Training Modules (All U.S. Employees)
 
-**Module 1: Dynasty Culture & Values (4 hours)**
+**Module 1: Legacy Culture & Values (4 hours)**
 - **Content:**
-  - Dynasty Manifesto and 365-year vision deep dive
+  - Legacy Manifesto and 365-year vision deep dive
   - Core values: Radical Ownership, Relentless Iteration, Transparent Scorecards, Compassionate Candor
   - Behavioral expectations and examples
   - Communication culture and protocols
@@ -1220,7 +1220,7 @@ Provide rotational assignments, mentorship pairings, and executive sponsorship. 
 
 - Quarterly Spot Bonuses tied to cross-functional wins.
 - Annual incentive plans linked to revenue, profitability, or compliance metrics.
-- Recognition rituals: â€œDynasty Heraldâ€ newsletter featuring standout behaviors, peer kudos channel, leadership AMA shoutouts.
+- Recognition rituals: â€œLegacy Heraldâ€ newsletter featuring standout behaviors, peer kudos channel, leadership AMA shoutouts.
 - Benefits optimization: review utilization data quarterly to adjust offerings (wellness stipends, caregiving support, educational budgets).
 
 ---
@@ -1315,5 +1315,6 @@ Next, Chapter 27 will scale the view to organization-wide development, integrati
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** North Star Dashboard v3, Financial Tracker, Cross-volume references complete
+
 
 

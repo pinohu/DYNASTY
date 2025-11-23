@@ -1,4 +1,4 @@
-# Three-Horizon Planning Template
+﻿# Three-Horizon Planning Template
 
 ## Planning Period
 
@@ -27,9 +27,9 @@
 
 | Stream | Current MRR | Target MRR | Status | Actions Needed |
 |--------|------------|-----------|--------|----------------|
-| [Stream 1] | $[X] | $[X] | [✓/✗] | [Actions] |
-| [Stream 2] | $[X] | $[X] | [✓/✗] | [Actions] |
-| [Stream 3] | $[X] | $[X] | [✓/✗] | [Actions] |
+| [Stream 1] | $[X] | $[X] | [âœ“/âœ—] | [Actions] |
+| [Stream 2] | $[X] | $[X] | [âœ“/âœ—] | [Actions] |
+| [Stream 3] | $[X] | $[X] | [âœ“/âœ—] | [Actions] |
 
 ### Key Initiatives
 
@@ -74,9 +74,9 @@
 
 | Asset | Value | Cash Flow | Status | Actions Needed |
 |-------|-------|-----------|--------|----------------|
-| [Asset 1] | $[X] | $[X]/mo | [✓/✗] | [Actions] |
-| [Asset 2] | $[X] | $[X]/mo | [✓/✗] | [Actions] |
-| [Asset 3] | $[X] | $[X]/mo | [✓/✗] | [Actions] |
+| [Asset 1] | $[X] | $[X]/mo | [âœ“/âœ—] | [Actions] |
+| [Asset 2] | $[X] | $[X]/mo | [âœ“/âœ—] | [Actions] |
+| [Asset 3] | $[X] | $[X]/mo | [âœ“/âœ—] | [Actions] |
 
 ### Acquisition Pipeline
 
@@ -106,7 +106,7 @@
 
 ---
 
-## HORIZON 3: Dynasty Preservation (10-365 Years)
+## HORIZON 3: Legacy Preservation (10-365 Years)
 
 ### Current Status
 
@@ -155,19 +155,19 @@
 
 ## Cross-Horizon Integration
 
-### Horizon 1 → Horizon 2
+### Horizon 1 â†’ Horizon 2
 
 **Cash Flow Funding Assets**: $[X] this period
 **Target**: $[X] this period
 **Status**: [ ] On Track [ ] Behind [ ] Ahead
 
-### Horizon 2 → Horizon 3
+### Horizon 2 â†’ Horizon 3
 
 **Assets Transferred to Trust**: $[X] this period
 **Target**: $[X] this period
 **Status**: [ ] On Track [ ] Behind [ ] Ahead
 
-### Horizon 3 → Horizon 1
+### Horizon 3 â†’ Horizon 1
 
 **Trust Providing Security**: [Assessment]
 **Enabling Risk-Taking**: [Assessment]
@@ -215,4 +215,5 @@
 ---
 
 **Note**: This template should be completed monthly and reviewed quarterly in Family Council meetings.
+
 

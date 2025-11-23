@@ -80,7 +80,7 @@ Volume VI provides the "Constitution" for Legacy Codex. It shifts focus from the
 
 ## Integration Points
 
-- **Volume I (Vision):** Governance structures directly enforce the "Dynasty Manifesto" and "Constitution."
+- **Volume I (Vision):** Governance structures directly enforce the "Legacy Manifesto" and "Constitution."
 - **Volume II (Legal):** The Family Council acts as the "Distribution Committee" and "Trust Protector" advisor for the structures in Volume II.
 - **Volume V (Operations):** Succession planning ties into the leadership development pipelines established in Chapter 27.
 
@@ -88,6 +88,7 @@ Volume VI provides the "Constitution" for Legacy Codex. It shifts focus from the
 - **Governance:** Schedule the first formal "Family Council" meeting to ratify bylaws.
 - **Education:** Begin the "Financial Literacy" module for the eldest children immediately.
 - **Estate:** Execute the "Pour-Over Wills" and update beneficiary designations to match Chapter 34.
+
 
 
 

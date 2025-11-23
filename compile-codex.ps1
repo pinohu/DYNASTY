@@ -8,15 +8,15 @@ $chapters = @()
 $chapterOrder = @(
     # Volume I
     @{Path = "ohu-legacy-codex\volume-i-foundation\book-1-empire-vision\volume-i-introduction.md"; Title = "Volume I: Foundation & Philosophy - Introduction"; Order = 1},
-    @{Path = "ohu-legacy-codex\volume-i-foundation\book-1-empire-vision\chapter-1-dynasty-manifesto.md"; Title = "Chapter 1: The Dynasty Manifesto"; Order = 2},
+    @{Path = "ohu-legacy-codex\volume-i-foundation\book-1-empire-vision\chapter-1-legacy-manifesto.md"; Title = "Chapter 1: The Legacy Manifesto"; Order = 2},
     @{Path = "ohu-legacy-codex\volume-i-foundation\book-1-empire-vision\chapter-2-strategic-architecture.md"; Title = "Chapter 2: Strategic Architecture"; Order = 3},
     @{Path = "ohu-legacy-codex\volume-i-foundation\book-1-empire-vision\chapter-3-family-legacy.md"; Title = "Chapter 3: Family Legacy Framework"; Order = 4},
 
     # Volume II
     @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\volume-ii-introduction.md"; Title = "Volume II: Legal & Fiduciary Structures - Introduction"; Order = 5},
-    @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-2-dynasty-trust\chapter-4-south-dakota-dynasty-trust.md"; Title = "Chapter 4: South Dakota Dynasty Trust"; Order = 6},
-    @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-2-dynasty-trust\chapter-5-trust-administration-manual.md"; Title = "Chapter 5: Trust Administration Manual"; Order = 7},
-    @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-2-dynasty-trust\chapter-6-subsidiary-trust-structures.md"; Title = "Chapter 6: Subsidiary Trust Structures"; Order = 8},
+    @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-2-legacy-trust\chapter-4-south-dakota-legacy-trust.md"; Title = "Chapter 4: South Dakota Dynasty Trust"; Order = 6},
+    @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-2-legacy-trust\chapter-5-trust-administration-manual.md"; Title = "Chapter 5: Trust Administration Manual"; Order = 7},
+    @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-2-legacy-trust\chapter-6-subsidiary-trust-structures.md"; Title = "Chapter 6: Subsidiary Trust Structures"; Order = 8},
     @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-3-business-entities\chapter-7-entity-formation-compliance-bible.md"; Title = "Chapter 7: Entity Formation & Compliance Bible"; Order = 9},
     @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-3-business-entities\chapter-8-pnr-holdings-complex.md"; Title = "Chapter 8: The PNR Holdings Complex"; Order = 10},
     @{Path = "ohu-legacy-codex\volume-ii-legal-fiduciary\book-3-business-entities\chapter-9-operating-company-playbooks.md"; Title = "Chapter 9: Operating Company Playbooks"; Order = 11},

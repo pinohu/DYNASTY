@@ -1,9 +1,9 @@
-# Form Index
+﻿# Form Index
 
 ## Legal Forms
 
 ### Trust Documents
-- **Dynasty Trust Formation Documents** [Volume II, Chapter 4, Section 4.2]
+- **Legacy Trust Formation Documents** [Volume II, Chapter 4, Section 4.2]
   - Trust formation checklist
   - Trust company selection criteria
   - Document preparation checklist
@@ -267,7 +267,7 @@
   - Vendor contracts
   - Partnership agreements
   - Non-disclosure agreements
-  - Trust documents (Dynasty, ILIT, Crummey)
+  - Trust documents (Legacy, ILIT, Crummey)
   - Entity documents (Operating Agreements, Bylaws)
   - Real estate forms (Purchase, Lease, Option)
   - Business contracts (MSA, IP License, Loan)
@@ -460,4 +460,5 @@
 **Last Updated**: [Date]
 **Total Forms**: 50+
 **Template Locations**: See volume-specific chapters
+
 

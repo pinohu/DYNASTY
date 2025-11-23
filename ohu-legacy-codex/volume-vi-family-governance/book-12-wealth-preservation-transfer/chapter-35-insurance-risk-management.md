@@ -1,10 +1,10 @@
-# Chapter 35: Insurance & Risk Management
+﻿# Chapter 35: Insurance & Risk Management
 
 ## Introduction
 
-Risk is an inherent part of building and maintaining a business empire. From operational risks to liability exposures, from key person dependencies to catastrophic events, numerous threats could derail your dynasty's 365-year vision. Insurance and risk management are not optional—they are essential components of wealth preservation.
+Risk is an inherent part of building and maintaining a business empire. From operational risks to liability exposures, from key person dependencies to catastrophic events, numerous threats could derail your Legacy's 365-year vision. Insurance and risk management are not optionalâ€”they are essential components of wealth preservation.
 
-This chapter provides a comprehensive framework for identifying, assessing, and managing the risks facing your dynasty, and for selecting and managing insurance coverage that protects your empire. Risk management is not about eliminating risk—it's about understanding risks, making informed decisions, and protecting against catastrophic losses while allowing the business to thrive.
+This chapter provides a comprehensive framework for identifying, assessing, and managing the risks facing your Legacy, and for selecting and managing insurance coverage that protects your empire. Risk management is not about eliminating riskâ€”it's about understanding risks, making informed decisions, and protecting against catastrophic losses while allowing the business to thrive.
 
 Your risk management strategy must address:
 - Personal risks (life, health, disability, long-term care)
@@ -20,7 +20,7 @@ Through this chapter, you will develop:
 - Property and casualty coverage that protects your physical assets
 - Specialized protections for unique risks facing high-net-worth families
 
-Risk management is an ongoing process that evolves as your empire grows and circumstances change. This chapter provides the foundation for building a robust risk management system that protects your dynasty across generations.
+Risk management is an ongoing process that evolves as your empire grows and circumstances change. This chapter provides the foundation for building a robust risk management system that protects your Legacy across generations.
 
 ---
 
@@ -30,7 +30,7 @@ Risk management is an ongoing process that evolves as your empire grows and circ
 
 #### Determining Life Insurance Needs
 
-Life insurance serves multiple purposes in your dynasty plan: providing income replacement, funding estate taxes, ensuring business continuity, and replacing wealth transferred to the next generation. A comprehensive needs analysis identifies all these requirements.
+Life insurance serves multiple purposes in your Legacy plan: providing income replacement, funding estate taxes, ensuring business continuity, and replacing wealth transferred to the next generation. A comprehensive needs analysis identifies all these requirements.
 
 #### Needs Analysis Components
 
@@ -66,7 +66,7 @@ Life insurance serves multiple purposes in your dynasty plan: providing income r
 - Wealth transferred to trust
 - Charitable gifts
 - Gifts to children
-- Dynasty trust funding
+- Legacy trust funding
 - Legacy preservation
 
 #### Needs Analysis Process
@@ -217,7 +217,7 @@ Different life insurance products serve different purposes. Understanding the op
 
 #### Selecting Insurance Carriers
 
-The financial strength and reliability of your insurance carrier is critical—you need confidence that the company will be there when your family needs the benefits.
+The financial strength and reliability of your insurance carrier is criticalâ€”you need confidence that the company will be there when your family needs the benefits.
 
 #### Carrier Evaluation Criteria
 
@@ -683,7 +683,7 @@ Business insurance protects your business operations from various risks, ensurin
 
 #### Comprehensive Property Protection
 
-Property and casualty insurance protects your physical assets—real estate, personal property, vehicles—from damage, theft, and liability. Proper coverage analysis ensures adequate protection.
+Property and casualty insurance protects your physical assetsâ€”real estate, personal property, vehiclesâ€”from damage, theft, and liability. Proper coverage analysis ensures adequate protection.
 
 #### Coverage Analysis Components
 
@@ -1344,19 +1344,19 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **Compared to Taxable Investing**:
 
 **Taxable Account ($5M invested over 10 years)**:
-- Contributions: $500K/year × 10 = $5M
-- Growth @ 10%/year × 20 years = $33.6M
+- Contributions: $500K/year Ã— 10 = $5M
+- Growth @ 10%/year Ã— 20 years = $33.6M
 - Capital gains tax: $6.8M (20%)
 - Ordinary income tax on interest/dividends: $1.2M
 - Estate tax at death (40%): $10.2M
 - **Net to heirs: $15.4M**
 
 **PPLI Account (Same $5M invested)**:
-- Contributions: $500K/year × 10 = $5M
-- Growth @ 10%/year × 20 years = $33.6M
+- Contributions: $500K/year Ã— 10 = $5M
+- Growth @ 10%/year Ã— 20 years = $33.6M
 - Capital gains tax: $0
 - Income tax: $0
-- Estate tax: $0 (owned by Dynasty Trust)
+- Estate tax: $0 (owned by Legacy Trust)
 - **Net to heirs: $33.6M**
 
 **PPLI Advantage: +$18.2M (118% more wealth)**
@@ -1418,7 +1418,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 1. **Guaranteed Insurability** - Lock in perfect health rating before any issues arise
 2. **Decades of Compound Growth** - 60+ years of tax-free accumulation
 3. **Minimal Cost** - $500-$2,000/year per child
-4. **Dynasty Trust Ownership** - Outside children's estates, creditor-protected
+4. **Legacy Trust Ownership** - Outside children's estates, creditor-protected
 5. **Generational Wealth Transfer** - Millions to grandchildren tax-free
 
 #### Recommended Structure
@@ -1427,8 +1427,8 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Policy Type**: Whole Life or Indexed Universal Life
 **Death Benefit**: $500K-$1M initial (can increase later)
-**Owner**: Dynasty Trust (NOT parents, NOT child)
-**Beneficiary**: Child's Crummey Trust → Grandchildren
+**Owner**: Legacy Trust (NOT parents, NOT child)
+**Beneficiary**: Child's Crummey Trust â†’ Grandchildren
 **Annual Premium**: $500-$2,000 per child
 **Total Family Cost**: $2K-$8K/year (for 4 children)
 
@@ -1462,7 +1462,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Dual Purpose**: Insurance + Education Funding
 
-**Ages 10-18**: Pay premiums ($2K/year × 8 years = $16K)
+**Ages 10-18**: Pay premiums ($2K/year Ã— 8 years = $16K)
 **Ages 18-22**: Borrow from cash value for college ($25K/year)
 **Result**: $100K college funding + policy stays in force
 **Ages 22-70**: Policy continues growing tax-free
@@ -1484,8 +1484,8 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Coverage**: $10M-$20M
 **Premium**: $100K-$150K/year (vs $200K-$300K for two separate policies)
-**Owner**: Dynasty Trust ILIT
-**Beneficiary**: Dynasty Trust
+**Owner**: Legacy Trust ILIT
+**Beneficiary**: Legacy Trust
 **Product**: Survivorship IUL or Guaranteed UL
 
 **Use of Death Benefit**:
@@ -1509,13 +1509,13 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - **Net inheritance: $40.8M**
 
 **With Survivorship Life**:
-- $10M death benefit pays to Dynasty Trust
+- $10M death benefit pays to Legacy Trust
 - Trust pays $9.2M estate tax
 - No asset sales needed
 - Business continuity maintained
 - **Net inheritance: $50M + $800K surplus**
 
-**Cost**: $100K-$150K/year × 20 years = $2M-$3M total
+**Cost**: $100K-$150K/year Ã— 20 years = $2M-$3M total
 **Benefit**: $9.2M estate tax paid + $40M more to heirs
 **ROI**: 4:1 to 20:1
 
@@ -1532,7 +1532,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **How It Works**:
 1. Primary and Secondary Principal each gift $18K/year per child (4 children = $72K each)
 2. **Total annual gifts: $144K tax-free**
-3. Gifts go to Dynasty Trust
+3. Gifts go to Legacy Trust
 4. Trust issues Crummey notices to children (they have 30 days to withdraw)
 5. Children don't withdraw (trained not to)
 6. Trust uses gifts to pay ILIT premiums
@@ -1541,7 +1541,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - Annual gifts: $144K
 - 10-year total: $1,440,000
 - Gift tax paid: $0
-- Estate tax savings: $576,000 (40% × $1.44M)
+- Estate tax savings: $576,000 (40% Ã— $1.44M)
 
 #### Additional Funding Sources
 
@@ -1549,7 +1549,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Option 1**: Premium Financing (covered above)
 **Option 2**: Split-dollar arrangement
-**Option 3**: Dynasty Trust distributions (if cash flow positive)
+**Option 3**: Legacy Trust distributions (if cash flow positive)
 **Option 4**: Sale of assets to ILIT (generates cash for premiums)
 
 ### Policy Review & Optimization
@@ -1589,11 +1589,11 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 ## Conclusion
 
-Insurance and risk management are essential components of your dynasty's wealth preservation strategy. By identifying risks, selecting appropriate insurance coverage, and implementing risk management measures, you protect your empire from threats that could derail your 365-year vision.
+Insurance and risk management are essential components of your Legacy's wealth preservation strategy. By identifying risks, selecting appropriate insurance coverage, and implementing risk management measures, you protect your empire from threats that could derail your 365-year vision.
 
 Remember that risk management is:
 - An ongoing process, not a one-time event
-- Integrated with all aspects of your dynasty
+- Integrated with all aspects of your Legacy
 - Balanced between protection and cost
 - Flexible enough to adapt to changes
 - Professional guidance essential
@@ -1605,9 +1605,9 @@ As you implement your risk management strategy:
 - Review and update regularly
 - Work with experienced professionals
 
-The risk management you implement today protects your dynasty tomorrow and for generations to come. Invest in comprehensive protection, and you'll create a foundation for a resilient, sustainable empire.
+The risk management you implement today protects your Legacy tomorrow and for generations to come. Invest in comprehensive protection, and you'll create a foundation for a resilient, sustainable empire.
 
-In the final chapter, we'll explore philanthropy and legacy—how to use your wealth to create lasting impact and build a legacy that extends far beyond financial assets.
+In the final chapter, we'll explore philanthropy and legacyâ€”how to use your wealth to create lasting impact and build a legacy that extends far beyond financial assets.
 
 ---
 
@@ -1615,4 +1615,5 @@ In the final chapter, we'll explore philanthropy and legacy—how to use your we
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 

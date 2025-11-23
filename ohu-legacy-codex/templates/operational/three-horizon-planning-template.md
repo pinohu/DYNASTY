@@ -1,4 +1,4 @@
-# Three-Horizon Planning Template
+﻿# Three-Horizon Planning Template
 ## Strategic Planning Across Time Horizons
 
 Use this template to plan and track initiatives across all three time horizons.
@@ -136,7 +136,7 @@ Use this template to plan and track initiatives across all three time horizons.
 
 ---
 
-## Horizon 3: Generational (10-365 Years) - Dynasty Preservation
+## Horizon 3: Generational (10-365 Years) - Legacy Preservation
 
 ### Current Status
 
@@ -223,7 +223,7 @@ Use this template to plan and track initiatives across all three time horizons.
 ### How Horizon 3 Guides Horizon 1 & 2
 
 **Guiding Principles**:
-1. All decisions must pass Dynasty Test
+1. All decisions must pass Legacy Test
 2. Protect trust structure above all
 3. Preserve family unity
 4. Maintain values across generations
@@ -288,3 +288,4 @@ _________________________________________________________________
 3. Adjust resource allocation as needed
 4. Track progress on all horizons
 5. Update goals based on progress
+

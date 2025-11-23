@@ -1,4 +1,4 @@
-# 14-Day Empire CRM Implementation Plan
+﻿# 14-Day Empire CRM Implementation Plan
 ## Day-by-Day Execution Roadmap
 
 ---
@@ -30,12 +30,12 @@ Before you start, ensure you have:
 - [ ] Team members identified (if applicable)
 - [ ] 2-3 hours per day blocked for 14 days
 - [ ] Access to [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md)
-- [ ] Access to [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+- [ ] Access to [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 - [ ] Access to [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md)
 
 ---
 
-## 📅 Day-by-Day Plan
+## ðŸ“… Day-by-Day Plan
 
 ---
 
@@ -61,7 +61,7 @@ Before you start, ensure you have:
    - Identify top 3 priorities
 
 3. [ ] **Define Customer Lifecycle** (30 min)
-   - Map your journey: Lead → Member → Loyalist → Expansion → Ambassador
+   - Map your journey: Lead â†’ Member â†’ Loyalist â†’ Expansion â†’ Ambassador
    - Document entry/exit criteria for each stage
    - Reference: [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) Section 2
 
@@ -72,7 +72,7 @@ Before you start, ensure you have:
    - Identify target customer for each
 
 5. [ ] **Review Pipeline Options** (30 min)
-   - Read [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+   - Read [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
    - Choose pipeline type(s) for your offers
    - Note which offers use which pipeline
 
@@ -80,7 +80,7 @@ Before you start, ensure you have:
 - CRM account
 - [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md)
 - [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md)
-- [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+- [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 
 ### SOPs to Reference
 - None (planning day)
@@ -192,7 +192,7 @@ Before you start, ensure you have:
 
 #### Morning (2.5 hours)
 1. [ ] **Design Pipeline Stages** (1 hour)
-   - Use [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+   - Use [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
    - List all stages for your pipeline
    - Define entry criteria for each stage
    - Define exit criteria for each stage
@@ -225,7 +225,7 @@ Before you start, ensure you have:
 
 ### Tools Needed
 - CRM admin access
-- [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+- [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 - Document tool (Google Docs/Notion)
 
 ### SOPs to Reference
@@ -402,7 +402,7 @@ Before you start, ensure you have:
      - Send notification
      - Create task
      - Update fields
-   - Reference: [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md) Section 9
+   - Reference: [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md) Section 9
 
 2. [ ] **Set Up Stage Exit Automations** (1 hour)
    - For each stage, set up exit automation:
@@ -426,7 +426,7 @@ Before you start, ensure you have:
 
 ### Tools Needed
 - CRM admin access
-- [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+- [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 - Notification settings
 
 ### SOPs to Reference
@@ -1045,12 +1045,13 @@ Before you start, ensure you have:
 
 - **Playbook**: [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md)
 - **Audit Tool**: [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md)
-- **Pipeline Design**: [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+- **Pipeline Design**: [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 - **SOP Library**: [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md)
 
 ---
 
-*14 days to a dynasty-ready CRM. Let's build your empire.*
+*14 days to a Legacy-ready CRM. Let's build your empire.*
+
 
 
 

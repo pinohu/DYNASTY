@@ -1,4 +1,4 @@
-# Empire Dynasty CRM Quick Start Guide
+﻿# Empire Legacy CRM Quick Start Guide
 ## Get Started in 5 Minutes
 
 ---
@@ -8,13 +8,13 @@
 ### Step 1: Choose Your Path (2 minutes)
 
 **New to CRM?**
-→ Start with [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) Section 1
+â†’ Start with [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) Section 1
 
 **Already Have a CRM?**
-→ Run [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md) first
+â†’ Run [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md) first
 
 **Ready to Build?**
-→ Jump to [05-14-DAY-IMPLEMENTATION-PLAN.md](./05-14-DAY-IMPLEMENTATION-PLAN.md) Day 1
+â†’ Jump to [05-14-DAY-IMPLEMENTATION-PLAN.md](./05-14-DAY-IMPLEMENTATION-PLAN.md) Day 1
 
 ---
 
@@ -29,7 +29,7 @@
 ### [02-CRM-AUDIT-DIAGNOSTIC.md](./02-CRM-AUDIT-DIAGNOSTIC.md)
 **Assessment tool** - Evaluate your current CRM health
 
-### [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+### [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 **Pipeline builder** - Design and build your sales pipeline
 
 ### [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md)
@@ -52,7 +52,7 @@
 3. Follow [05-14-DAY-IMPLEMENTATION-PLAN.md](./05-14-DAY-IMPLEMENTATION-PLAN.md) for remaining setup
 
 ### "I need to build a pipeline"
-1. Read [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+1. Read [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 2. Choose your pipeline type
 3. Build in your CRM
 4. Set up automations from [01-EMPIRE-CRM-PLAYBOOK.md](./01-EMPIRE-CRM-PLAYBOOK.md) Section 4
@@ -70,10 +70,10 @@
 
 ---
 
-## ⚡ 30-Minute Quick Wins
+## âš¡ 30-Minute Quick Wins
 
 ### Win 1: Set Up Basic Pipeline (30 min)
-1. Choose pipeline type from [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md)
+1. Choose pipeline type from [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md)
 2. Create 5-7 stages in your CRM
 3. Set basic entry/exit criteria
 
@@ -149,7 +149,7 @@
 
 ---
 
-## ✅ Pre-Flight Checklist
+## âœ… Pre-Flight Checklist
 
 Before you start:
 - [ ] CRM account set up
@@ -161,19 +161,19 @@ Before you start:
 
 ---
 
-## 🆘 Troubleshooting
+## ðŸ†˜ Troubleshooting
 
 ### "My automations aren't working"
-→ Use [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) - Automation QA SOP
+â†’ Use [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) - Automation QA SOP
 
 ### "My pipeline is confusing"
-→ Review [03-DYNASTY-PIPELINE-DESIGN.md](./03-DYNASTY-PIPELINE-DESIGN.md) Section 12 (Common Mistakes)
+â†’ Review [03-Legacy-PIPELINE-DESIGN.md](./03-Legacy-PIPELINE-DESIGN.md) Section 12 (Common Mistakes)
 
 ### "My data is messy"
-→ Use [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) - Data Hygiene SOP
+â†’ Use [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) - Data Hygiene SOP
 
 ### "My team isn't using CRM"
-→ Review [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) - Team Training section
+â†’ Review [04-SOP-TEMPLATES-LIBRARY.md](./04-SOP-TEMPLATES-LIBRARY.md) - Team Training section
 
 ---
 
@@ -198,7 +198,8 @@ Before you start:
 
 ---
 
-*Built for Empire Dynasty. Designed for action. Optimized for results.*
+*Built for Empire Legacy. Designed for action. Optimized for results.*
+
 
 
 

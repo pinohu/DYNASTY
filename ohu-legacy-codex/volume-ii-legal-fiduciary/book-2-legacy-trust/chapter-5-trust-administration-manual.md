@@ -6,7 +6,7 @@ Once your South Dakota Dynasty Trust is formed and funded, proper administration
 
 Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For Legacy Codex Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
 
-This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your dynasty trust operates effectively and achieves its long-term goals.
+This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your Legacy trust operates effectively and achieves its long-term goals.
 
 ---
 
@@ -16,7 +16,7 @@ Annual administration is the foundation of effective trust management. This sect
 
 ### Tax Filing Obligations Detailed Guide
 
-Trust tax compliance is complex and failure to comply can result in significant penalties. This section provides a comprehensive guide to all tax filing requirements for your dynasty trust.
+Trust tax compliance is complex and failure to comply can result in significant penalties. This section provides a comprehensive guide to all tax filing requirements for your Legacy trust.
 
 #### Form 3520 Requirements
 
@@ -620,7 +620,7 @@ Distribution decisions are among the most important trustee functions. This sect
 
 ### HEMS Standard Interpretation
 
-The HEMS (Health, Education, Maintenance, Support) standard is the most common distribution standard for dynasty trusts. Understanding how to interpret and apply this standard is critical for proper trust administration.
+The HEMS (Health, Education, Maintenance, Support) standard is the most common distribution standard for Legacy trusts. Understanding how to interpret and apply this standard is critical for proper trust administration.
 
 #### Health Expenses
 
@@ -899,7 +899,7 @@ The HEMS (Health, Education, Maintenance, Support) standard is the most common d
 
 ### Age-Based Distribution Triggers
 
-Many dynasty trusts include age-based distribution triggers that provide beneficiaries with increasing access to trust assets as they mature. This section covers distribution schedules, trigger events, and documentation requirements.
+Many Legacy trusts include age-based distribution triggers that provide beneficiaries with increasing access to trust assets as they mature. This section covers distribution schedules, trigger events, and documentation requirements.
 
 #### Distribution Schedule
 
@@ -1841,6 +1841,7 @@ By following this manual, you will ensure proper trust administration that prese
 ---
 
 **END OF CHAPTER 5**
+
 
 
 

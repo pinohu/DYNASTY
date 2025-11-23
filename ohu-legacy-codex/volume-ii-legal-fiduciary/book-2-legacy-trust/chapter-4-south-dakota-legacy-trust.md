@@ -14,7 +14,7 @@ This chapter will guide you through every aspect of the South Dakota Dynasty Tru
 
 ### Comprehensive State Comparison
 
-When selecting a jurisdiction for your dynasty trust, the choice is critical. The jurisdiction determines the trust's lifespan, tax treatment, asset protection capabilities, and privacy provisions. South Dakota has emerged as the premier dynasty trust jurisdiction, but understanding why requires a detailed comparison with other leading trust jurisdictions: Nevada, Wyoming, and Alaska.
+When selecting a jurisdiction for your Legacy trust, the choice is critical. The jurisdiction determines the trust's lifespan, tax treatment, asset protection capabilities, and privacy provisions. South Dakota has emerged as the premier Legacy trust jurisdiction, but understanding why requires a detailed comparison with other leading trust jurisdictions: Nevada, Wyoming, and Alaska.
 
 #### South Dakota vs. Nevada: The Perpetuity Advantage
 
@@ -62,12 +62,12 @@ Both states have zero state income taxâ€”another tie.
 
 **Asset Protection**
 
-Wyoming offers excellent asset protection, but South Dakota's trust law is more mature and has been tested in more cases. South Dakota has a longer history of dynasty trust administration.
+Wyoming offers excellent asset protection, but South Dakota's trust law is more mature and has been tested in more cases. South Dakota has a longer history of Legacy trust administration.
 
 **Trust Administration**
 
 - **Wyoming**: Fewer established trust companies
-- **South Dakota**: More trust companies with extensive experience in dynasty trusts
+- **South Dakota**: More trust companies with extensive experience in Legacy trusts
 
 **Trust Law Development**
 
@@ -169,7 +169,7 @@ Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in
 **30-Year Savings**: $1.8 million
 **100-Year Savings**: $6.1 million
 
-**Cumulative Impact**: Over multiple generations, state income tax savings can exceed $20-30 million for a well-funded dynasty trust.
+**Cumulative Impact**: Over multiple generations, state income tax savings can exceed $20-30 million for a well-funded Legacy trust.
 
 #### Estate Tax Benefits
 
@@ -179,13 +179,13 @@ Assume The Enterprise Trust owns PNR Holdings LLC, which generates $2 million in
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu transfer $10 million to a South Dakota Dynasty Trust.
 
-**Without Dynasty Trust**:
+**Without Legacy Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
 - At Judith Huchukwuyem Ohu's death: $10M estate - $13.61M exemption = $0 estate tax (within exemption)
 - At first child's death: $10M + appreciation = potential estate tax
 - **Problem**: Each generation faces potential estate tax as exemption amounts change
 
-**With Dynasty Trust**:
+**With Legacy Trust**:
 - At Ikechukwu's death: $0 in estate (already in trust) = $0 estate tax
 - At Judith Huchukwuyem Ohu's death: $0 in estate = $0 estate tax
 - At first child's death: $0 in estate = $0 estate tax
@@ -218,12 +218,12 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu want to provide for their children and grandchildren.
 
-**Without Dynasty Trust**:
+**Without Legacy Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
 - Transfer to grandchildren: Subject to GST tax at 40%
 - **Problem**: Limited exemption, GST tax on excess
 
-**With Dynasty Trust**:
+**With Legacy Trust**:
 - Properly structured trust allocates GST exemption to trust
 - Trust can benefit children, grandchildren, and future generations
 - No GST tax on distributions to any generation
@@ -233,7 +233,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 Assuming $20 million transfer with GST exemption allocation:
 - **Without Proper Planning**: $6.39M subject to GST tax = $2.56M tax
-- **With Dynasty Trust**: $0 GST tax (exemption allocated)
+- **With Legacy Trust**: $0 GST tax (exemption allocated)
 - **Savings**: $2.56 million
 
 **Multi-Generational Impact**: Over multiple generations, GST tax savings can exceed $10-20 million.
@@ -325,8 +325,8 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 - Public records search reveals ownership
 - Value and location publicly known
 
-**With Dynasty Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
+**With Legacy Trust**:
+- Property titled: "South Dakota Trust Company, as Trustee of [Your Legacy Trust]"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -446,7 +446,7 @@ Include trust protector with power to modify trust terms. This allows adaptation
 Use multiple trusts for different asset classes or purposes. This creates additional barriers for creditors.
 
 **Strategy**: 
-- Dynasty Trust holds LLC interests
+- Legacy Trust holds LLC interests
 - LLCs hold operating assets
 - Multiple layers of protection
 
@@ -473,7 +473,7 @@ Real Property
 ```
 
 **Protection Layers**:
-1. **Dynasty Trust**: Spendthrift provisions, discretionary distributions
+1. **Legacy Trust**: Spendthrift provisions, discretionary distributions
 2. **Wyoming LLC**: Charging order protection
 3. **Series LLC**: Asset segregation
 4. **Real Property**: Protected by multiple layers
@@ -537,15 +537,15 @@ Selecting the right trust company is one of the most critical decisions in formi
 **1. Experience and Track Record**
 
 **Criteria**:
-- Minimum 10 years of dynasty trust experience
+- Minimum 10 years of Legacy trust experience
 - Track record of administering trusts for 20+ years
 - Experience with trusts of similar size and complexity
 - No significant regulatory actions or lawsuits
 
 **Questions to Ask**:
-- How long have you been administering dynasty trusts?
-- What is your oldest active dynasty trust?
-- How many dynasty trusts do you currently administer?
+- How long have you been administering Legacy trusts?
+- What is your oldest active Legacy trust?
+- How many Legacy trusts do you currently administer?
 - Have you faced any regulatory actions or lawsuits?
 
 **Red Flags**:
@@ -665,9 +665,9 @@ Selecting the right trust company is one of the most critical decisions in formi
 **Initial Screening Questions**:
 
 1. **Experience**:
-   - How long have you been administering dynasty trusts?
-   - What is your oldest active dynasty trust?
-   - How many dynasty trusts do you currently administer?
+   - How long have you been administering Legacy trusts?
+   - What is your oldest active Legacy trust?
+   - How many Legacy trusts do you currently administer?
 
 2. **Services**:
    - What services do you provide?
@@ -765,21 +765,21 @@ Selecting the right trust company is one of the most critical decisions in formi
 1. **South Dakota Trust Company**
    - Established: 1983
    - Assets: $10+ billion
-   - Experience: Extensive dynasty trust experience
+   - Experience: Extensive Legacy trust experience
    - Fees: Competitive
    - **Strengths**: Longest track record, extensive experience
 
 2. **First National Trust & Wealth Management**
    - Established: 1987
    - Assets: $5+ billion
-   - Experience: Strong dynasty trust experience
+   - Experience: Strong Legacy trust experience
    - Fees: Competitive
    - **Strengths**: Strong service, good technology
 
 3. **Dakota Trust Company**
    - Established: 2000
    - Assets: $2+ billion
-   - Experience: Good dynasty trust experience
+   - Experience: Good Legacy trust experience
    - Fees: Competitive
    - **Strengths**: Personalized service, flexible
 
@@ -882,7 +882,7 @@ Documents evidencing initial funding of the trust.
 
 **Step 1: Engage Attorney**
 
-- Select attorney experienced in dynasty trusts
+- Select attorney experienced in Legacy trusts
 - Discuss trust structure and goals
 - Review attorney's trust document template
 - Agree on scope of work and fees
@@ -1260,7 +1260,7 @@ Based on the Ohu Family Enterprise structure:
 
 ## Section 4.3: Trust Document Provisions - Line by Line
 
-The trust document is the foundation of your dynasty trust. Every provision matters, and understanding each provision is essential for effective trust administration. This section provides a detailed analysis of mandatory provisions, optional provisions, protective mechanisms, and amendment procedures.
+The trust document is the foundation of your Legacy trust. Every provision matters, and understanding each provision is essential for effective trust administration. This section provides a detailed analysis of mandatory provisions, optional provisions, protective mechanisms, and amendment procedures.
 
 ### Mandatory Provisions Analysis
 
@@ -1353,7 +1353,7 @@ Dakota courts.
 
 **7. Perpetual Existence**
 
-**Provision**: For a dynasty trust, perpetual existence must be stated.
+**Provision**: For a Legacy trust, perpetual existence must be stated.
 
 **Example Language**:
 ```
@@ -1423,11 +1423,11 @@ The governing law provision establishes which state's laws apply. This determine
 - Beneficiary rights (what beneficiaries are entitled to)
 - Legal proceedings (where disputes are resolved)
 
-**Best Practice**: Always specify South Dakota as governing law for dynasty trusts.
+**Best Practice**: Always specify South Dakota as governing law for Legacy trusts.
 
 **Perpetual Existence**
 
-The perpetual existence provision establishes that the trust can exist forever. This is the key benefit of a dynasty trust and:
+The perpetual existence provision establishes that the trust can exist forever. This is the key benefit of a Legacy trust and:
 - Allows unlimited generations to benefit
 - Maximizes wealth preservation
 - Avoids trust termination
@@ -1450,7 +1450,7 @@ Some provisions are required by law. Without them, the trust may be invalid or i
 
 Other provisions are necessary for trust functionality. Without them, the trust cannot operate effectively. These include:
 - Trust purpose (guides administration)
-- Perpetual existence (enables dynasty planning)
+- Perpetual existence (enables Legacy planning)
 - Distribution provisions (enables beneficiary benefits)
 - Administrative provisions (enables trust operations)
 
@@ -1494,7 +1494,7 @@ While mandatory provisions are required, optional provisions can enhance trust e
 - May create conflicts with trustees
 - May be challenged by beneficiaries
 
-**Recommendation**: Include for most dynasty trusts to provide flexibility.
+**Recommendation**: Include for most Legacy trusts to provide flexibility.
 
 **2. Directed Trust Provisions**
 
@@ -1554,7 +1554,7 @@ While mandatory provisions are required, optional provisions can enhance trust e
 - May create conflicts
 - May require interpretation
 
-**Recommendation**: Include HEMS standard for most dynasty trusts.
+**Recommendation**: Include HEMS standard for most Legacy trusts.
 
 **5. Beneficiary Removal Provisions**
 
@@ -1604,7 +1604,7 @@ While mandatory provisions are required, optional provisions can enhance trust e
 
 **Investment Policy**: Include for most trusts to provide investment guidance.
 
-**Distribution Standards**: Include HEMS standard for most dynasty trusts.
+**Distribution Standards**: Include HEMS standard for most Legacy trusts.
 
 **Beneficiary Removal**: Include with careful drafting if needed.
 
@@ -1800,7 +1800,7 @@ required by law.
 
 ### Amendment Procedures
 
-While dynasty trusts are typically irrevocable, certain modifications may be possible through trust protector powers or court proceedings. This section covers how to amend trusts, amendment limitations, and the amendment process.
+While Legacy trusts are typically irrevocable, certain modifications may be possible through trust protector powers or court proceedings. This section covers how to amend trusts, amendment limitations, and the amendment process.
 
 #### How to Amend Trust
 
@@ -1851,7 +1851,7 @@ While dynasty trusts are typically irrevocable, certain modifications may be pos
 
 **Limitation**: Cannot amend to terminate trust prematurely (unless all beneficiaries agree and court approves).
 
-**Reason**: Perpetual existence is fundamental to dynasty trust purpose.
+**Reason**: Perpetual existence is fundamental to Legacy trust purpose.
 
 **2. Beneficiary Rights**
 
@@ -1906,7 +1906,7 @@ While dynasty trusts are typically irrevocable, certain modifications may be pos
 
 ## Section 4.4: Trustee Architecture Deep Dive
 
-The trustee architecture determines how your dynasty trust is administered. This section provides detailed guidance on administrative trustees, investment trustees, distribution trustees, and trust protectors.
+The trustee architecture determines how your Legacy trust is administered. This section provides detailed guidance on administrative trustees, investment trustees, distribution trustees, and trust protectors.
 
 ### Administrative Trustee Guide
 
@@ -1976,7 +1976,7 @@ The administrative trustee handles trust compliance, record-keeping, and day-to-
 
 **Criteria**:
 - Minimum 10 years trust administration experience
-- Experience with dynasty trusts
+- Experience with Legacy trusts
 - Experience with similar trusts
 - Track record of success
 
@@ -2416,6 +2416,7 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
 
 
 

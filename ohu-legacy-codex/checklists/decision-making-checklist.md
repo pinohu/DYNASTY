@@ -1,4 +1,4 @@
-# Decision-Making Checklist
+﻿# Decision-Making Checklist
 ## For Major Empire Decisions
 
 Use this checklist before making any decision involving capital allocation >$50,000, new business launches, major hiring, or strategic initiatives.
@@ -25,7 +25,7 @@ Use this checklist before making any decision involving capital allocation >$50,
 - [ ] **Strategic Data Collected**:
   - [ ] Alignment with 365-Year Vision
   - [ ] Multi-generational impact analysis
-  - [ ] Dynasty Test evaluation
+  - [ ] Legacy Test evaluation
   - [ ] Strategic fit assessment
 
 - [ ] **Legal/Compliance Data Collected**:
@@ -64,7 +64,7 @@ Use this checklist before making any decision involving capital allocation >$50,
 - [ ] Ethical boundaries checked
 - [ ] Values Assessment Checklist completed (if major decision)
 
-**Values Alignment**: [ ] ✅ Strong [ ] WARNING: Moderate [ ] ❌ Weak
+**Values Alignment**: [ ] âœ… Strong [ ] WARNING: Moderate [ ] âŒ Weak
 
 ---
 
@@ -230,3 +230,4 @@ _________________________________________________________________
 3. Document everything
 4. Review and learn from each decision
 5. Improve process continuously
+

@@ -38,13 +38,13 @@ Each template includes:
 
 Trust documents form the foundation of the Ohu Family Enterprise's wealth preservation strategy. These documents create the legal structures that protect assets from creditors, minimize taxes, and ensure wealth passes to future generations according to your wishes.
 
-### 46.1.1 Dynasty Trust Template
+### 46.1.1 Legacy Trust Template
 
 **The Constitution of Wealth**
 
 The South Dakota Dynasty Trust is the primary vessel for multi-generational wealth preservation. This trust structure provides perpetual existence (365 years or forever), zero state income tax, superior asset protection, and complete privacy. It serves as the ultimate parent vault that holds and protects the Empire's most valuable assets.
 
-**Template Location**: `empire-bible/templates/legal/trusts/dynasty-trust-template.md`
+**Template Location**: `empire-bible/templates/legal/trusts/Legacy-trust-template.md`
 
 **Purpose and Strategic Role**
 
@@ -288,7 +288,7 @@ The Enterprise Trust template includes the following articles:
 - [ ] Consult with tax advisor
 
 **Document Preparation**:
-- [ ] Review Dynasty Trust template
+- [ ] Review Legacy Trust template
 - [ ] Customize trust provisions with counsel
 - [ ] Complete Schedule A (Trust Estate)
 - [ ] Complete Schedule B (Investment Policy Statement)
@@ -511,7 +511,7 @@ Crummey Trusts serve several important functions:
 3. **Asset Protection**: Protect gifts from beneficiary creditors
 4. **Control Maintenance**: Maintain control over how gifts are used
 5. **Education Funding**: Structure distributions for education expenses
-6. **Future Merger**: Can merge into Dynasty Trust sub-trusts when beneficiaries reach certain ages
+6. **Future Merger**: Can merge into Legacy Trust sub-trusts when beneficiaries reach certain ages
 
 **When to Use Crummey Trusts**
 
@@ -520,7 +520,7 @@ Crummey Trusts are appropriate when:
 - You want to maintain control over how gifts are used
 - You want to protect gifts from beneficiary creditors
 - You want to structure distributions for education or other purposes
-- You plan to merge trusts into Dynasty Trust sub-trusts later
+- You plan to merge trusts into Legacy Trust sub-trusts later
 
 **Key Features Explained**
 
@@ -592,7 +592,7 @@ Some trusts limit withdrawal rights to prevent abuse:
 - Consider beneficiary maturity and responsibility
 - Consider family values and goals
 - Consider whether to allow HEMS distributions before age-based distributions
-- Consider whether to merge into Dynasty Trust sub-trusts instead of outright distributions
+- Consider whether to merge into Legacy Trust sub-trusts instead of outright distributions
 - Discuss with counsel tax implications of different schedules
 
 **Implementation Checklist**:
@@ -612,7 +612,7 @@ The Crummey Trust template includes:
 4. **Article IV: Contributions** - Gift acceptance, Crummey notices, withdrawal procedures
 5. **Article V: Distributions** - HEMS distributions, age-based distributions, distribution procedures
 6. **Article VI: Trust Administration** - Accounting, tax elections, trustee compensation
-7. **Article VII: Merger Provisions** - Merger into Dynasty Trust sub-trusts
+7. **Article VII: Merger Provisions** - Merger into Legacy Trust sub-trusts
 8. **Article VIII: General Provisions** - Governing law, amendment procedures
 
 **Crummey Trust Formation Process**
@@ -625,14 +625,14 @@ The Crummey Trust template includes:
 6. **Invest Assets**: Trustee invests trust assets according to Investment Policy Statement
 7. **Make Distributions**: Make HEMS distributions as needed
 8. **Age-Based Distributions**: Make scheduled distributions at specified ages
-9. **Merger**: Merge into Dynasty Trust sub-trusts when appropriate
+9. **Merger**: Merge into Legacy Trust sub-trusts when appropriate
 
 **Crummey Trust Implementation Checklist**
 
 **Pre-Formation**:
 - [ ] Identify beneficiaries (children/grandchildren)
 - [ ] Determine distribution schedule for each beneficiary
-- [ ] Select trustee (can be same as Dynasty Trust trustee)
+- [ ] Select trustee (can be same as Legacy Trust trustee)
 - [ ] Consult with estate planning attorney
 - [ ] Consult with tax advisor
 
@@ -2678,7 +2678,7 @@ The Partnership Agreement template includes:
 - [ ] Verify all trusts have proper trustee acceptances
 - [ ] Ensure all trusts have EINs
 - [ ] Confirm all trusts are properly funded
-- [ ] Review Dynasty Trust provisions with trust attorney
+- [ ] Review Legacy Trust provisions with trust attorney
 - [ ] Verify ILIT policies are properly owned by trusts
 - [ ] Send annual Crummey notices for all Crummey Trusts
 - [ ] Review trust administration procedures
@@ -2773,7 +2773,7 @@ The Partnership Agreement template includes:
 All detailed templates referenced in this chapter are located in the `empire-bible/templates/legal/` directory:
 
 **Trust Templates** (`templates/legal/trusts/`):
-- `dynasty-trust-template.md` - Complete Dynasty Trust template
+- `Legacy-trust-template.md` - Complete Legacy Trust template
 - `ilit-template.md` - Irrevocable Life Insurance Trust template
 - `crummey-trust-template.md` - Crummey Trust template
 - `trust-amendment-template.md` - Trust amendment template
@@ -2861,7 +2861,7 @@ All detailed templates referenced in this chapter are located in the `empire-bib
 ## Cross-References
 
 ### Volume II: Legal & Fiduciary Structures
-- [See Volume II, Chapter 4: South Dakota Dynasty Trust] - Complete Dynasty Trust formation guide
+- [See Volume II, Chapter 4: South Dakota Dynasty Trust] - Complete Legacy Trust formation guide
 - [See Volume II, Chapter 5: Trust Administration Manual] - Ongoing trust administration
 - [See Volume II, Chapter 6: Subsidiary Trust Structures] - ILIT and Crummey Trust formation
 - [See Volume II, Chapter 7: Entity Formation & Compliance Bible] - Complete entity formation guide
@@ -2895,7 +2895,7 @@ All detailed templates referenced in this chapter are located in the `empire-bib
 
 Chapter 46 provides a comprehensive guide to all legal documents and agreements required for the Ohu Family Enterprise. This chapter covers:
 
-1. **Trust Documents**: Dynasty Trusts, ILITs, Crummey Trusts, and trust administration documents
+1. **Trust Documents**: Legacy Trusts, ILITs, Crummey Trusts, and trust administration documents
 2. **Entity Documents**: LLC Operating Agreements, Corporate Bylaws, Employment Agreements, and buy-sell provisions
 3. **Real Estate Forms**: Purchase Agreements, Lease Agreements, and Option Contracts
 4. **Business Contracts**: Master Services Agreements, IP Licensing Agreements, and Partnership Agreements
@@ -2915,5 +2915,6 @@ All templates are located in the `empire-bible/templates/legal/` directory and s
 ---
 
 **Chapter 46 Complete: 15,000+ words | 50+ pages**
+
 
 

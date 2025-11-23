@@ -2,7 +2,7 @@
 
 ## Volume Overview
 
-**Volume VI: Family Governance & Succession** provides comprehensive frameworks for governing your dynasty, educating the next generation, planning succession, preserving wealth, managing risks, and building a lasting philanthropic legacy.
+**Volume VI: Family Governance & Succession** provides comprehensive frameworks for governing your Legacy, educating the next generation, planning succession, preserving wealth, managing risks, and building a lasting philanthropic legacy.
 
 **Total Content**: ~235 pages, 70,500+ words
 
@@ -165,5 +165,6 @@ Volume VI is complete and ready for:
 ---
 
 **Volume VI Complete**: November 18, 2025
+
 
 

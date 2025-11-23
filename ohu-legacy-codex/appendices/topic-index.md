@@ -114,13 +114,13 @@
   - Financial analysis (Quality of Earnings)
   - Legal review
 
-- **Dynasty Preservation** [Volume I, Chapter 2, Section 2.1]
+- **Legacy Preservation** [Volume I, Chapter 2, Section 2.1]
   - Horizon 3 strategies (10-365 years)
   - Perpetual trust structure
   - Asset protection strategy
   - Wealth preservation metrics
 
-- **Dynasty Trust** [Volume II, Chapter 4]
+- **Legacy Trust** [Volume II, Chapter 4]
   - South Dakota Dynasty Trust
   - Trust formation process
   - Trust document provisions
@@ -203,7 +203,7 @@
 - **Horizon Model** [Volume I, Chapter 2, Section 2.1]
   - Horizon 1: Cash Flow (0-3 years)
   - Horizon 2: Asset Accumulation (3-10 years)
-  - Horizon 3: Dynasty Preservation (10-365 years)
+  - Horizon 3: Legacy Preservation (10-365 years)
   - Simultaneous operation
 
 ## I
@@ -245,7 +245,7 @@
   - SuiteDash command center setup
 
 - **Legal Documents** [Volume IX, Chapter 46]
-  - Dynasty Trust template
+  - Legacy Trust template
   - Trustee architecture provisions
   - Beneficiary structure
   - Trust purpose and powers
@@ -257,7 +257,7 @@
   - SuiteDash command center setup
 
 - **Legal Documents** [Volume IX, Chapter 46]
-  - Dynasty Trust template
+  - Legacy Trust template
   - Trustee architecture provisions
   - Beneficiary structure
   - Trust purpose and powers
@@ -269,13 +269,13 @@
   - Multi-generational thinking
 
 - **Legal Documents** [Volume IX, Chapter 46]
-  - Trust documents (Dynasty, ILIT, Crummey)
+  - Trust documents (Legacy, ILIT, Crummey)
   - Entity documents (Operating Agreements, Bylaws)
   - Real estate forms (Purchase, Lease, Option)
   - Business contracts (MSA, IP License, Loan)
 
 - **Legal Structure** [Volume II]
-  - Dynasty Trust structure
+  - Legacy Trust structure
   - Entity architecture
   - Asset protection layers
   - Tax optimization
@@ -403,7 +403,7 @@
 - **Three-Horizon Model** [Volume I, Chapter 2, Section 2.1]
   - Horizon 1: Cash Flow
   - Horizon 2: Asset Accumulation
-  - Horizon 3: Dynasty Preservation
+  - Horizon 3: Legacy Preservation
   - Implementation strategies
 
 - **Trust Administration** [Volume II, Chapter 5]
@@ -823,6 +823,7 @@
 **Last Updated**: [Date]
 **Total Topics**: 60+
 **Cross-References**: See cross-reference-guide.md
+
 
 
 

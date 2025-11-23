@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Succession planning is the process of transitioning leadership and ownership of your dynasty from one generation to the next. It's one of the most critical and challenging aspects of multi-generational wealth preservation. Statistics are stark: only 30% of family businesses survive the transition to the second generation, and just 10% make it to the third generation. The primary cause of failure? Inadequate succession planning.
+Succession planning is the process of transitioning leadership and ownership of your Legacy from one generation to the next. It's one of the most critical and challenging aspects of multi-generational wealth preservation. Statistics are stark: only 30% of family businesses survive the transition to the second generation, and just 10% make it to the third generation. The primary cause of failure? Inadequate succession planning.
 
 This chapter provides a comprehensive framework for planning and executing successful generational transitions. Succession planning is not a one-time eventâ€”it's an ongoing process that begins years before the actual transition and continues long after. It involves identifying and developing successors, planning ownership transfers, ensuring knowledge transfer, and preparing for both planned and emergency successions.
 
@@ -525,7 +525,7 @@ Ownership transition is separate from leadership succession. You can transfer ow
 - Gift tax considerations
 
 **Trust Transfers**
-- Transfer to dynasty trust
+- Transfer to Legacy trust
 - Asset protection benefits
 - Tax optimization
 - Control mechanisms
@@ -631,7 +631,7 @@ Ownership transfers can trigger significant taxes. Careful planning can minimize
 - Separate exemption ($13.61M per person, 2024)
 - Rates up to 40%
 - Complex planning
-- Dynasty trust considerations
+- Legacy trust considerations
 
 **Income Tax**
 - Capital gains on appreciated assets
@@ -653,7 +653,7 @@ Ownership transfers can trigger significant taxes. Careful planning can minimize
 - Use exemption during lifetime
 - Lock in current exemption amounts
 - Future exemption reductions
-- Dynasty trust funding
+- Legacy trust funding
 - Irrevocable transfers
 
 **Valuation Discounts**
@@ -700,7 +700,7 @@ The legal structure used for ownership transfers affects taxes, control, asset p
 - Common choice
 
 **Trusts**
-- Dynasty trust benefits
+- Legacy trust benefits
 - Asset protection
 - Control mechanisms
 - Tax optimization
@@ -1444,7 +1444,7 @@ After immediate actions, focus shifts to stabilizing the business and family sit
 
 ## Conclusion
 
-Succession planning is one of the most critical aspects of building a multi-generational dynasty. It's not a one-time event but an ongoing process that begins years before transition and continues long after. Effective succession planning ensures that your empire not only survives but thrives across generations.
+Succession planning is one of the most critical aspects of building a multi-generational Legacy. It's not a one-time event but an ongoing process that begins years before transition and continues long after. Effective succession planning ensures that your empire not only survives but thrives across generations.
 
 Remember that succession planning is about:
 - Ensuring continuity and sustainability
@@ -1460,7 +1460,7 @@ As you implement succession planning:
 - Invest in developmentâ€”prepare successors well
 - Plan for emergenciesâ€”be ready for the unexpected
 
-The succession planning you do today will determine whether your dynasty survives for 365 years or ends with your generation. Invest the time and effort to plan well, and you'll create a legacy that extends far beyond your lifetime.
+The succession planning you do today will determine whether your Legacy survives for 365 years or ends with your generation. Invest the time and effort to plan well, and you'll create a legacy that extends far beyond your lifetime.
 
 In the next chapter, we'll explore estate planning integrationâ€”how to coordinate your succession plans with comprehensive estate planning to maximize wealth preservation and minimize taxes.
 
@@ -1470,5 +1470,6 @@ In the next chapter, we'll explore estate planning integrationâ€”how to coo
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
 
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The greatest threat to a dynasty is not market competition, regulatory change, or economic downturnâ€”it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
+The greatest threat to a Legacy is not market competition, regulatory change, or economic downturnâ€”it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
 
 **Volume VI: Family Governance & Succession** provides the constitutional framework for the OHU-PNR family. It transforms a group of related individuals into a disciplined, aligned, and high-performing governing body.
 
@@ -15,6 +15,7 @@ Here, we establish the "Family Council" (Chapter 31), the supreme decision-makin
 Governance without structure is toothless. This book integrates your estate plan (Chapter 34) with The Enterprise trust, ensuring that legal mechanisms support family goals. We also cover risk management (Chapter 35) to protect against catastrophic loss, and philanthropic strategy (Chapter 36) to unite the family around a shared purpose beyond profit.
 
 By implementing the systems in this volume, you are building the "software" that runs on the "hardware" of your legal and financial structures. You are ensuring that the OHU-PNR name stands for unity, integrity, and excellence for 365 years.
+
 
 
 

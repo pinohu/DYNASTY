@@ -12,7 +12,7 @@ Welcome to the **Legacy Codex**. This is the comprehensive operating manual for 
 *The philosophical and strategic bedrock of the empire.*
 
 - **Book 1: Empire Vision & Principles**
-    - [Chapter 1: The Enterprise Manifesto](volume-i-foundation/book-1-empire-vision/chapter-1-dynasty-manifesto.md)
+    - [Chapter 1: The Enterprise Manifesto](volume-i-foundation/book-1-empire-vision/chapter-1-Legacy-manifesto.md)
     - [Chapter 2: Strategic Architecture](volume-i-foundation/book-1-empire-vision/chapter-2-strategic-architecture.md)
     - [Chapter 3: Family Legacy Framework](volume-i-foundation/book-1-empire-vision/chapter-3-family-legacy.md)
 
@@ -20,9 +20,9 @@ Welcome to the **Legacy Codex**. This is the comprehensive operating manual for 
 *The fortress that protects the wealth.*
 
 - **Book 2: The Enterprise Trust Complex**
-    - [Chapter 4: South Dakota Dynasty Trust - Complete Implementation](volume-ii-legal-fiduciary/book-2-dynasty-trust/chapter-4-south-dakota-dynasty-trust.md)
-    - [Chapter 5: Trust Administration Manual](volume-ii-legal-fiduciary/book-2-dynasty-trust/chapter-5-trust-administration-manual.md)
-    - [Chapter 6: Subsidiary Trust Structures](volume-ii-legal-fiduciary/book-2-dynasty-trust/chapter-6-subsidiary-trust-structures.md)
+    - [Chapter 4: South Dakota Dynasty Trust - Complete Implementation](volume-ii-legal-fiduciary/book-2-Legacy-trust/chapter-4-south-dakota-Legacy-trust.md)
+    - [Chapter 5: Trust Administration Manual](volume-ii-legal-fiduciary/book-2-Legacy-trust/chapter-5-trust-administration-manual.md)
+    - [Chapter 6: Subsidiary Trust Structures](volume-ii-legal-fiduciary/book-2-Legacy-trust/chapter-6-subsidiary-trust-structures.md)
 - **Book 3: Business Entity Architecture**
     - [Chapter 7: Entity Formation & Compliance Bible](volume-ii-legal-fiduciary/book-3-business-entities/chapter-7-entity-formation-compliance-bible.md)
     - [Chapter 8: The PNR Holdings Complex](volume-ii-legal-fiduciary/book-3-business-entities/chapter-8-pnr-holdings-complex.md)
@@ -154,6 +154,7 @@ Welcome to the **Legacy Codex**. This is the comprehensive operating manual for 
 **Status**: All Volumes Complete âœ…
 **Final Verification**: Complete
 **Production Ready**: Yes & Linked
+
 
 
 

@@ -20,7 +20,7 @@ Through this chapter, you will develop:
 - Values perpetuation mechanisms that ensure your principles endure
 - A philanthropic vision that extends across 365 years
 
-Philanthropy is not about giving away wealthâ€”it's about leveraging wealth to create change, build community, and leave the world better than you found it. This chapter shows you how to build a philanthropic legacy that serves your dynasty and the world for generations to come.
+Philanthropy is not about giving away wealthâ€”it's about leveraging wealth to create change, build community, and leave the world better than you found it. This chapter shows you how to build a philanthropic legacy that serves your Legacy and the world for generations to come.
 
 ---
 
@@ -1250,11 +1250,11 @@ Cultural reinforcement ensures your values become deeply embedded in family cult
 
 ## Conclusion
 
-Philanthropy and legacy are not separate from your dynastyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. Legacy Codex's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
+Philanthropy and legacy are not separate from your Legacyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. Legacy Codex's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
 
 Remember that building a philanthropic legacy is:
 - An ongoing journey, not a destination
-- Integrated with all aspects of your dynasty
+- Integrated with all aspects of your Legacy
 - About impact, not just giving
 - A family endeavor that builds unity
 - A legacy that extends across generations
@@ -1266,7 +1266,7 @@ As you build your philanthropic legacy:
 - Create traditions that reinforce values
 - Think in terms of generations, not years
 
-The philanthropic legacy you build today will shape how your dynasty is remembered for 365 years and beyond. Invest in creating lasting impact, and you'll build a legacy that extends far beyond financial wealthâ€”a legacy of values, impact, and positive change.
+The philanthropic legacy you build today will shape how your Legacy is remembered for 365 years and beyond. Invest in creating lasting impact, and you'll build a legacy that extends far beyond financial wealthâ€”a legacy of values, impact, and positive change.
 
 ---
 
@@ -1294,5 +1294,6 @@ The philanthropic legacy you build today will shape how your dynasty is remember
 **Total Volume VI**: ~235 pages, 70,500+ words âœ…
 
 **Status**: Production-ready and complete. Ready for submission to Agent 12.
+
 
 

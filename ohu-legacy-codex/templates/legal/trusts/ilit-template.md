@@ -173,8 +173,8 @@ The Trustee shall:
 
 Upon the death of the Insured, the death benefits shall be distributed as follows:
 
-**Option A - Distribution to Dynasty Trust**:
-The death benefits shall be distributed to the [DYNASTY TRUST NAME], to be held and administered in accordance with the terms of that Trust.
+**Option A - Distribution to Legacy Trust**:
+The death benefits shall be distributed to the [Legacy TRUST NAME], to be held and administered in accordance with the terms of that Trust.
 
 **Option B - Distribution to Children's Trusts**:
 The death benefits shall be distributed equally among the following sub-trusts:
@@ -474,5 +474,6 @@ Date: _______________
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 

@@ -220,7 +220,7 @@ templates/
 - **Use hyphens**: Separate words with hyphens (not underscores or spaces)
 - **Be descriptive**: Name should clearly indicate template purpose
 - **Examples**:
-  - `dynasty-trust-template.md` âœ“
+  - `Legacy-trust-template.md` âœ“
   - `profit-loss-monthly.md` âœ“
   - `sop-client-onboarding.md` âœ“
   - `email-client-welcome.md` âœ“
@@ -388,5 +388,6 @@ If stuck on a template:
 ---
 
 *This guide is version 1.0 and was created for the Legacy Codex.*
+
 
 

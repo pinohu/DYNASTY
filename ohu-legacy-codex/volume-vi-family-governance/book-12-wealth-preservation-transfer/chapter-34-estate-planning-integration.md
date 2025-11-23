@@ -4,7 +4,7 @@
 
 Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
-This chapter integrates estate planning with the broader dynasty framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a dynasty requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
+This chapter integrates estate planning with the broader Legacy framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a Legacy requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 
 Your estate plan must coordinate with:
 - The South Dakota Dynasty Trust structure
@@ -19,9 +19,9 @@ Through this chapter, you will develop:
 - Advanced planning techniques for multi-generational wealth transfer
 - Tax minimization strategies that preserve wealth
 - Asset protection layers that shield your empire from threats
-- An integrated estate plan that works seamlessly with your dynasty structure
+- An integrated estate plan that works seamlessly with your Legacy structure
 
-Estate planning is not a one-time eventâ€”it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your dynasty for generations.
+Estate planning is not a one-time eventâ€”it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your Legacy for generations.
 
 ---
 
@@ -210,7 +210,7 @@ Many assets pass outside of your will and trust through beneficiary designations
 - Spouse as primary
 - Trust as primary (when appropriate)
 - Children as contingent
-- Dynasty trust consideration
+- Legacy trust consideration
 - Tax optimization
 
 **Contingent Beneficiaries**
@@ -223,7 +223,7 @@ Many assets pass outside of your will and trust through beneficiary designations
 **Trust as Beneficiary**
 - Retirement account trusts
 - Life insurance trusts (ILIT)
-- Dynasty trust funding
+- Legacy trust funding
 - Asset protection
 - Tax optimization
 
@@ -268,7 +268,7 @@ How assets are titled affects how they pass at death, their protection from cred
 **Trust Ownership**
 - Revocable living trust
 - Irrevocable trusts
-- Dynasty trust
+- Legacy trust
 - Asset protection
 - Tax benefits
 
@@ -326,7 +326,7 @@ Proper documentation ensures your estate plan works as intended, provides clarit
 
 **Trust Documents**
 - Revocable living trust
-- Dynasty trust
+- Legacy trust
 - Irrevocable life insurance trust (ILIT)
 - Other trusts
 - Trust amendments
@@ -383,7 +383,7 @@ Proper documentation ensures your estate plan works as intended, provides clarit
 
 #### Multi-Generational Wealth Transfer
 
-Generation-skipping transfer (GST) tax planning allows you to transfer wealth to grandchildren and beyond while minimizing taxes. This is essential for a 365-year dynasty vision.
+Generation-skipping transfer (GST) tax planning allows you to transfer wealth to grandchildren and beyond while minimizing taxes. This is essential for a 365-year Legacy vision.
 
 #### GST Tax Basics
 
@@ -395,7 +395,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 - Professional guidance essential
 
 **Exemption Allocation**
-- Allocate to dynasty trust
+- Allocate to Legacy trust
 - Maximize exemption use
 - Lock in current exemption
 - Future exemption uncertainty
@@ -410,7 +410,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 
 #### Generation-Skipping Strategies
 
-**Dynasty Trust Funding**
+**Legacy Trust Funding**
 - Fund with GST exemption
 - Multi-generational benefits
 - Tax-free growth
@@ -425,7 +425,7 @@ Generation-skipping transfer (GST) tax planning allows you to transfer wealth to
 - Strategic gifting
 
 **Trust Structures**
-- Dynasty trust
+- Legacy trust
 - Generation-skipping trusts
 - Perpetual trusts (in some states)
 - Multi-generational planning
@@ -615,11 +615,11 @@ A private foundation provides a structured vehicle for charitable giving that ca
 - Impact focus
 - Legacy preservation
 
-### Dynasty Trust Maximization
+### Legacy Trust Maximization
 
-#### Optimizing Your Dynasty Trust
+#### Optimizing Your Legacy Trust
 
-The South Dakota Dynasty Trust is the cornerstone of your 365-year dynasty plan. Maximizing its effectiveness requires careful planning and ongoing management.
+The South Dakota Dynasty Trust is the cornerstone of your 365-year Legacy plan. Maximizing its effectiveness requires careful planning and ongoing management.
 
 #### Trust Maximization Strategies
 
@@ -805,7 +805,7 @@ GST tax planning is essential for multi-generational wealth transfer, allowing y
 #### GST Tax Strategies
 
 **Exemption Allocation**
-- Allocate to dynasty trust
+- Allocate to Legacy trust
 - Maximize exemption use
 - Lock in current exemption
 - Future uncertainty
@@ -819,7 +819,7 @@ GST tax planning is essential for multi-generational wealth transfer, allowing y
 - Strategic gifting
 
 **Trust Structures**
-- Dynasty trust
+- Legacy trust
 - Generation-skipping trusts
 - Perpetual trusts
 - Multi-generational planning
@@ -1117,11 +1117,11 @@ Privacy strategies protect your family's financial information and business affa
 
 ## Conclusion
 
-Estate planning integration is essential for preserving your dynasty's wealth across 365 years. By coordinating wills, trusts, business entities, and advanced planning techniques, you create a comprehensive system that minimizes taxes, protects assets, and ensures your legacy endures.
+Estate planning integration is essential for preserving your Legacy's wealth across 365 years. By coordinating wills, trusts, business entities, and advanced planning techniques, you create a comprehensive system that minimizes taxes, protects assets, and ensures your legacy endures.
 
 Remember that estate planning is:
 - An ongoing process, not a one-time event
-- Integrated with all aspects of your dynasty
+- Integrated with all aspects of your Legacy
 - Coordinated with business and family planning
 - Flexible enough to adapt to changes
 - Professional guidance essential
@@ -1133,7 +1133,7 @@ As you implement your estate plan:
 - Communicate with family
 - Plan for the long term
 
-The estate planning you do today will determine how much wealth survives for future generations. Invest in comprehensive planning, and you'll create a foundation for a 365-year dynasty.
+The estate planning you do today will determine how much wealth survives for future generations. Invest in comprehensive planning, and you'll create a foundation for a 365-year Legacy.
 
 In the next chapter, we'll explore insurance and risk managementâ€”protecting your empire from the many risks that could threaten its survival.
 
@@ -1174,6 +1174,7 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
     -   Current Age: 5
 
 *All beneficiary distributions and trust rights are subject to the terms defined in the South Dakota Dynasty Trust agreement.*
+
 
 
 

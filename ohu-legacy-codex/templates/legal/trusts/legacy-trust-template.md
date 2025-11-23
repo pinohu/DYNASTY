@@ -26,7 +26,7 @@ This template provides a complete South Dakota Dynasty Trust Agreement for the L
 
 ## TRUST IDENTIFICATION
 
-**Trust Name**: [TRUST NAME] Dynasty Trust  
+**Trust Name**: [TRUST NAME] Legacy Trust  
 **Governing Law**: South Dakota  
 **Trust Company**: [TRUST COMPANY NAME]  
 **Date of Execution**: [DATE]  
@@ -743,6 +743,7 @@ Date: _______________
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 
 

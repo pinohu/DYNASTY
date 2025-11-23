@@ -123,7 +123,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 **Role**: Drafting the Trust and Estate Plan. Estate attorneys create the legal documents that protect and transfer wealth across generations.
 
 **Key Responsibilities**:
-- Drafting trust documents (Dynasty Trust, ILIT, etc.)
+- Drafting trust documents (Legacy Trust, ILIT, etc.)
 - Creating estate plans
 - Coordinating with trust company
 - Updating documents as needed
@@ -138,7 +138,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 - Specialized in complex estate planning
 - Understanding of multi-generational planning
 
-**Dynasty Experience**:
+**Legacy Experience**:
 - Proven track record with multi-generational trusts
 - Experience with South Dakota Dynasty Trusts
 - Understanding of Directed Trust structures
@@ -164,7 +164,7 @@ Legal services are critical for protecting the Ohu Family Enterprise's assets, e
 
 **Estate Attorney Evaluation Checklist**:
 - [ ] Verify specialization in HNW estate planning
-- [ ] Review track record with Dynasty Trusts
+- [ ] Review track record with Legacy Trusts
 - [ ] Check references from similar clients
 - [ ] Test responsiveness (call and see response time)
 - [ ] Review sample documents (anonymized)
@@ -1601,7 +1601,7 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **First National Trust Company** (Example)
    - Assets under Administration: $2B+
-   - Specialization: Directed Trusts, Dynasty Trusts
+   - Specialization: Directed Trusts, Legacy Trusts
    - Fee Structure: Flat annual fee
    - Contact: [To be researched]
 
@@ -1624,13 +1624,13 @@ All professional service providers should be selected, engaged, and managed usin
 **Recommended Providers** (Research Required):
 1. **Specialized Estate Planning Firm** (Example)
    - Specialization: HNW Estate Planning
-   - Experience: 20+ years, 100+ Dynasty Trusts
+   - Experience: 20+ years, 100+ Legacy Trusts
    - Fee Structure: Hourly or fixed-fee
    - Contact: [To be researched]
 
 **Selection Process**:
 - Research HNW estate planning attorneys
-- Verify Dynasty Trust experience
+- Verify Legacy Trust experience
 - Interview candidates
 - Check references
 - Review sample documents
@@ -1873,7 +1873,7 @@ All professional service providers should be selected, engaged, and managed usin
 
 #### Trust Company Selection: Real-World Example
 
-**Scenario**: Selecting a South Dakota trust company for a $10M Dynasty Trust.
+**Scenario**: Selecting a South Dakota trust company for a $10M Legacy Trust.
 
 **Step 1: Initial Research**
 - Identified 8 South Dakota trust companies with $1B+ AUM
@@ -2897,4 +2897,5 @@ All professional service providers should be selected, engaged, and managed usin
 ---
 
 **Chapter 49 Complete: 11,559 words | 40+ pages**
+
 

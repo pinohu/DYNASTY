@@ -1,4 +1,4 @@
-# Trust Formation Checklist
+﻿# Trust Formation Checklist
 ## Complete Step-by-Step Guide for South Dakota Dynasty Trust Formation
 
 Use this checklist to ensure complete and proper trust formation.
@@ -17,7 +17,7 @@ Use this checklist to ensure complete and proper trust formation.
 
 - [ ] **Legal Counsel Engaged**: 
   - Attorney: _______________
-  - Experience: [ ] Dynasty Trusts [ ] General Trusts [ ] Limited
+  - Experience: [ ] Legacy Trusts [ ] General Trusts [ ] Limited
   - Date Engaged: _______________
 
 - [ ] **Tax Advisor Engaged**: 
@@ -397,6 +397,7 @@ Use this checklist to ensure complete and proper trust formation.
 3. Communicate with beneficiaries
 4. Monitor trust operations
 5. Review annually
+
 
 
 

@@ -1,5 +1,5 @@
-# Trust Company Selection Checklist
-## Comprehensive Evaluation for Dynasty Trust Administration
+﻿# Trust Company Selection Checklist
+## Comprehensive Evaluation for Legacy Trust Administration
 
 Use this checklist to evaluate and select a trust company for your South Dakota Dynasty Trust.
 
@@ -11,21 +11,21 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 ---
 
-## Section 1: Dynasty Trust Experience
+## Section 1: Legacy Trust Experience
 
 ### Experience Metrics
 
-- [ ] **Number of Dynasty Trusts**: _______________ trusts under administration
-  - **Target**: 100+ dynasty trusts
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+- [ ] **Number of Legacy Trusts**: _______________ trusts under administration
+  - **Target**: 100+ Legacy trusts
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
-- [ ] **Years of Experience**: _______________ years administering dynasty trusts
+- [ ] **Years of Experience**: _______________ years administering Legacy trusts
   - **Target**: 10+ years
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
 - [ ] **Average Trust Size**: $_______________
   - **Target**: Similar to your trust size
-  - **Status**: [ ] ✅ Appropriate [ ] WARNING: Different [ ] ❌ Mismatch
+  - **Status**: [ ] âœ… Appropriate [ ] WARNING: Different [ ] âŒ Mismatch
 
 - [ ] **Track Record**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -33,17 +33,17 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 ### Specialization
 
-- [ ] **Dynasty Trust Focus**: 
-  - [ ] Specializes in dynasty trusts
-  - [ ] Dynasty trusts are primary business
-  - [ ] Has dedicated dynasty trust team
-  - [ ] Offers dynasty-specific services
+- [ ] **Legacy Trust Focus**: 
+  - [ ] Specializes in Legacy trusts
+  - [ ] Legacy trusts are primary business
+  - [ ] Has dedicated Legacy trust team
+  - [ ] Offers Legacy-specific services
 
 - [ ] **General Trust Practice**: 
-  - [ ] Dynasty trusts are side business
+  - [ ] Legacy trusts are side business
   - [ ] General trust practice
-  - [ ] Limited dynasty expertise
-  - **Status**: [ ] ✅ Specialized [ ] WARNING: General [ ] ❌ Limited
+  - [ ] Limited Legacy expertise
+  - **Status**: [ ] âœ… Specialized [ ] WARNING: General [ ] âŒ Limited
 
 **Experience Score**: _______________/10
 
@@ -56,11 +56,11 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 - [ ] **Rating Agency**: _______________
 - [ ] **Rating**: _______________
   - **Target**: A+ or better
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
 - [ ] **Capital**: $_______________
   - **Target**: $50M+ in capital
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
 - [ ] **Financial History**: 
   - [ ] Strong and stable
@@ -78,7 +78,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
   - [ ] Assets held in segregated accounts
   - [ ] FDIC/SIPC insurance where applicable
   - [ ] Strong protection mechanisms
-  - **Status**: [ ] ✅ Strong [ ] WARNING: Adequate [ ] ❌ Weak
+  - **Status**: [ ] âœ… Strong [ ] WARNING: Adequate [ ] âŒ Weak
 
 **Financial Stability Score**: _______________/10
 
@@ -90,7 +90,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Retention Rate**: _______________%
   - **Target**: 95%+
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
 - [ ] **Client Satisfaction**: 
   - [ ] Excellent (9-10/10)
@@ -103,7 +103,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Response Time**: _______________ hours
   - **Target**: 24 hours or less
-  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
+  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
 
 - [ ] **Communication Quality**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -275,12 +275,12 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 ### Weighted Scores
 
-- **Experience (25%)**: _______________ × 0.25 = _______________
-- **Financial Stability (20%)**: _______________ × 0.20 = _______________
-- **Service Quality (20%)**: _______________ × 0.20 = _______________
-- **Fees (15%)**: _______________ × 0.15 = _______________
-- **Technology (10%)**: _______________ × 0.10 = _______________
-- **Compliance (10%)**: _______________ × 0.10 = _______________
+- **Experience (25%)**: _______________ Ã— 0.25 = _______________
+- **Financial Stability (20%)**: _______________ Ã— 0.20 = _______________
+- **Service Quality (20%)**: _______________ Ã— 0.20 = _______________
+- **Fees (15%)**: _______________ Ã— 0.15 = _______________
+- **Technology (10%)**: _______________ Ã— 0.10 = _______________
+- **Compliance (10%)**: _______________ Ã— 0.10 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -346,6 +346,7 @@ _________________________________________________________________
 3. Select top choice
 4. Negotiate terms
 5. Execute agreement
+
 
 
 

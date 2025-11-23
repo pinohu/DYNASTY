@@ -20,7 +20,7 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 ### Hour-by-Hour Schedule: Day 1
 
 **6:00 AM - 7:00 AM: Vision Alignment**
-- Review your Dynasty Manifesto (Volume I, Chapter 1)
+- Review your Legacy Manifesto (Volume I, Chapter 1)
 - Write down your 30-day, 90-day, and 365-day goals
 - Create your "Why" statementâ€”the emotional driver that will sustain you through challenges
 - Document your success metrics: What does "winning" look like in 30 days?
@@ -981,6 +981,7 @@ By the end of Day 30, you should have:
 ---
 
 **Chapter 37 Complete: 10,500+ words | 35+ pages**
+
 
 
 

@@ -1,4 +1,4 @@
-# Decision-Making Matrix Template
+﻿# Decision-Making Matrix Template
 ## For Evaluating Major Empire Decisions
 
 Use this matrix to evaluate any decision involving capital allocation >$50,000, new business launches, major hiring, or strategic initiatives.
@@ -62,13 +62,13 @@ Use this matrix to evaluate any decision involving capital allocation >$50,000, 
 - [ ] Maintains current position
 - [ ] Weakens position for next generation
 
-**Dynasty Test**:
+**Legacy Test**:
 - [ ] Passes: Strengthens Empire for next generation
 - [ ] Passes: Does not compromise long-term survival
 - [ ] Fails: Compromises long-term survival
 
 **Strategic Score**: _______________/10
-*Score based on: vision alignment (40%), generational impact (40%), Dynasty Test (20%)*
+*Score based on: vision alignment (40%), generational impact (40%), Legacy Test (20%)*
 
 ---
 
@@ -158,11 +158,11 @@ Use this matrix to evaluate any decision involving capital allocation >$50,000, 
 ## Overall Decision Score
 
 **Weighted Total Score**:
-- Financial Impact (30%): _______________ × 0.30 = _______________
-- Strategic Alignment (25%): _______________ × 0.25 = _______________
-- Value Consistency (20%): _______________ × 0.20 = _______________
-- Risk Assessment (15%): _______________ × 0.15 = _______________
-- Implementation Feasibility (10%): _______________ × 0.10 = _______________
+- Financial Impact (30%): _______________ Ã— 0.30 = _______________
+- Strategic Alignment (25%): _______________ Ã— 0.25 = _______________
+- Value Consistency (20%): _______________ Ã— 0.20 = _______________
+- Risk Assessment (15%): _______________ Ã— 0.15 = _______________
+- Implementation Feasibility (10%): _______________ Ã— 0.10 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -244,3 +244,4 @@ _________________________________________________________________
 3. Obtain required approvals
 4. Implement if approved
 5. Monitor and adjust as needed
+

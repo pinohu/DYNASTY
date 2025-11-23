@@ -4,7 +4,7 @@
 
 ### Legal Advisors
 - **Trust Attorney** [Volume II, Chapter 4]
-  - Specialization: Dynasty Trust formation and administration
+  - Specialization: Legacy Trust formation and administration
   - Services: Trust document preparation, legal compliance
   - Location: [To be filled]
   - Contact: [To be filled]
@@ -49,7 +49,7 @@
 
 ### Trust Companies
 - **South Dakota Trust Company** [Volume II, Chapter 4, Section 4.2; Volume IX, Chapter 49]
-  - Specialization: Dynasty Trust administration
+  - Specialization: Legacy Trust administration
   - Services: Administrative trustee services, trust administration
   - Location: South Dakota
   - Contact: [To be filled]
@@ -227,6 +227,7 @@
 **Last Updated**: [Date]
 **Total Contacts**: [To be updated as contacts are added]
 **Note**: Contact information should be maintained securely and updated regularly
+
 
 
 

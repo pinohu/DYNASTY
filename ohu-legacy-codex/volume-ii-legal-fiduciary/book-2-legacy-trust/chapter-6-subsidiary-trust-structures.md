@@ -16,7 +16,7 @@ The ILIT is a powerful tool for estate tax elimination. By removing life insuran
 
 ### Complete Formation Guide
 
-Forming an ILIT requires careful planning and execution. This section covers the complete formation process, document requirements, funding process, and integration with your Dynasty Trust.
+Forming an ILIT requires careful planning and execution. This section covers the complete formation process, document requirements, funding process, and integration with your Legacy Trust.
 
 #### Formation Process
 
@@ -49,7 +49,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Administrative capabilities
 - Cost considerations
 
-**Recommendation**: Use South Dakota Trust Company as trustee for consistency with Dynasty Trust.
+**Recommendation**: Use South Dakota Trust Company as trustee for consistency with Legacy Trust.
 
 **Step 3: Draft Trust Document**
 
@@ -65,7 +65,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 **Key Provisions**:
 - Crummey withdrawal rights (30 days minimum)
 - Discretionary distributions
-- Integration with Dynasty Trust
+- Integration with Legacy Trust
 - Perpetual existence (if desired)
 
 **Step 4: Execute Trust Document**
@@ -162,12 +162,12 @@ Forming an ILIT requires careful planning and execution. This section covers the
    - Document payments
    - Maintain records
 
-#### Integration with Dynasty Trust
+#### Integration with Legacy Trust
 
 **Integration Strategy**:
 
-- ILIT as sub-trust of Dynasty Trust
-- Death benefits flow to Dynasty Trust
+- ILIT as sub-trust of Legacy Trust
+- Death benefits flow to Legacy Trust
 - Unified administration
 - Coordinated planning
 
@@ -177,7 +177,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Unified beneficiary structure
 - Tax efficiency
 
-**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Dynasty Trust for distribution to beneficiaries.
+**OHU-PNR Structure**: ILIT as sub-trust of South Dakota Dynasty Trust, death benefits flow to Legacy Trust for distribution to beneficiaries.
 
 ### Crummey Power Mechanics
 
@@ -542,10 +542,10 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Provides control
 - Aligns with trust purpose
 
-**Option 3: Dynasty Trust Integration**
+**Option 3: Legacy Trust Integration**
 
 **Process**:
-- Distribute to Dynasty Trust
+- Distribute to Legacy Trust
 - Unified administration
 - Coordinated planning
 
@@ -554,7 +554,7 @@ Death benefit administration ensures proper distribution of life insurance proce
 - Coordinated distributions
 - Unified beneficiary structure
 
-**OHU-PNR Recommendation**: Distribute to Dynasty Trust for unified administration.
+**OHU-PNR Recommendation**: Distribute to Legacy Trust for unified administration.
 
 #### Tax Considerations
 
@@ -600,7 +600,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -615,7 +615,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -630,7 +630,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -645,7 +645,7 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
-- **Merger**: Merges into Dynasty Trust sub-trust at age 25
+- **Merger**: Merges into Legacy Trust sub-trust at age 25
 - **Crummey Rights**: 30-day withdrawal period
 
 **Customization**:
@@ -1012,7 +1012,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 - **Trustee Discretion**: If trustee has discretion
 - **Beneficiary Request**: If beneficiary requests
 
-**OHU-PNR Merger**: Automatic merger at age 25 into Dynasty Trust sub-trust.
+**OHU-PNR Merger**: Automatic merger at age 25 into Legacy Trust sub-trust.
 
 **Merger Considerations**:
 
@@ -1033,7 +1033,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 2. **Merger Planning**
    - Plan merger process
    - Review trust terms
-   - Coordinate with Dynasty Trust
+   - Coordinate with Legacy Trust
 
 3. **Merger Execution**
    - Execute merger documents
@@ -1057,7 +1057,7 @@ Merger into The Enterprise Trust provides unified administration and coordinated
 **Gift Tax**:
 
 - **Merger**: Generally not a taxable gift
-- **Asset Transfer**: Transfer to Dynasty Trust
+- **Asset Transfer**: Transfer to Legacy Trust
 - **Tax Implications**: Minimal gift tax implications
 
 **Income Tax**:
@@ -1816,7 +1816,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 - [ ] Create Children's Crummey Trusts for each child
 - [ ] Consider CRT for charitable giving
 - [ ] Evaluate GRATs for business interests
-- [ ] Coordinate all trusts with Dynasty Trust
+- [ ] Coordinate all trusts with Legacy Trust
 - [ ] Implement annual gifting strategies
 
 ### Cross-References
@@ -1828,6 +1828,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 ---
 
 **END OF CHAPTER 6**
+
 
 
 

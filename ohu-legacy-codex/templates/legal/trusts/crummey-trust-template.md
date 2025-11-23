@@ -208,9 +208,9 @@ Notwithstanding Section 4.1, the Trust Estate shall not be invested in:
 
 ## ARTICLE V: MERGER PROVISION
 
-### Section 5.1: Merger into Dynasty Trust
+### Section 5.1: Merger into Legacy Trust
 
-When the Beneficiary reaches age 25, this Trust shall merge into the [DYNASTY TRUST NAME], and the Beneficiary's interest shall be held in a sub-trust of The Enterprise Trust.
+When the Beneficiary reaches age 25, this Trust shall merge into the [Legacy TRUST NAME], and the Beneficiary's interest shall be held in a sub-trust of The Enterprise Trust.
 
 **Merger Date**: The merger shall occur on the Beneficiary's 25th birthday, or as soon as practicable thereafter.
 
@@ -323,8 +323,8 @@ If the Beneficiary dies before the Trust terminates, the remaining Trust assets 
 **Option A - Other Children**:
 Equally among the Grantor's other children, per stirpes.
 
-**Option B - Dynasty Trust**:
-To the [DYNASTY TRUST NAME] to be held for the benefit of the Beneficiary's descendants, per stirpes.
+**Option B - Legacy Trust**:
+To the [Legacy TRUST NAME] to be held for the benefit of the Beneficiary's descendants, per stirpes.
 
 **Option C - Specific Contingent Beneficiaries**:
 [SPECIFY CONTINGENT BENEFICIARIES]
@@ -466,7 +466,7 @@ Date: _______________
 
 - **Crummey Notices**: Must send notices within 7 days of contribution, withdrawal period is 30 days
 
-- **Merger**: Trust merges into Dynasty Trust at age 25 - coordinate with Dynasty Trust administration
+- **Merger**: Trust merges into Legacy Trust at age 25 - coordinate with Legacy Trust administration
 
 - **Investment Strategy**: Consider age-appropriate investments - more aggressive when young, more conservative as distribution dates approach
 
@@ -479,6 +479,7 @@ Date: _______________
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 
 

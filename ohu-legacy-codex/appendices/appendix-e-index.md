@@ -13,7 +13,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 #### Book 1: Empire Vision & Principles
 
 **Chapter 1: The Enterprise Manifesto**
-- **Section 1.1:** Linked to Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Dynasty Trust), Volume VI Chapter 31 (Family Council).
+- **Section 1.1:** Linked to Chapter 2.1 (Three-Horizon Model), Chapter 3.1 (Family Mission), Volume II Chapter 4 (Legacy Trust), Volume VI Chapter 31 (Family Council).
 - **Section 1.2:** Linked to Chapter 2.1 (Strategic Alignment), Chapter 3.2 (Values Transmission), Volume II Chapter 7 (Entity Structure).
 - **Section 1.3:** Linked to Chapter 2.1 (Horizon Metrics), Chapter 3.1 (Family Goals), Volume III (Revenue Metrics).
 - **Section 1.4:** Linked to Chapter 2.2 (Risk Philosophy), Chapter 3.3 (Succession), Volume VI Chapter 31 (Family Council).
@@ -205,7 +205,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
     - Crisis Management: Vol X, Ch 53
 - **D**
     - Directory Empire: Vol III, Ch 13-15
-    - Dynasty Trust: Vol II, Ch 4-6; Vol VI, Ch 34
+    - Legacy Trust: Vol II, Ch 4-6; Vol VI, Ch 34
 - **E**
     - Estate Planning: Vol VI, Ch 34
     - Exit Strategy: Vol VIII, Ch 45
@@ -258,6 +258,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 ---
 
 **Appendix E Complete**
+
 
 
 

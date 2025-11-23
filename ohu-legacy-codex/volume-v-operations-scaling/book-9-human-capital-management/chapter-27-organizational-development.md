@@ -476,7 +476,7 @@ Culture is not just valuesâ€”it's specific behaviors that are expected, rew
 - Refine based on feedback
 - Publish updated version
 
-Publish a Dynasty Behavioral Codex with explicit "always/never" statements for key contexts (meetings, documentation, conflict). Enforcement follows a lightweight triage protocol that is fair, transparent, progressive, compassionate, and data-driven.
+Publish a Legacy Behavioral Codex with explicit "always/never" statements for key contexts (meetings, documentation, conflict). Enforcement follows a lightweight triage protocol that is fair, transparent, progressive, compassionate, and data-driven.
 
 ### 27.1.4 Communication Culture
 
@@ -613,7 +613,7 @@ Recognition is not a nice-to-haveâ€”it's a critical component of culture th
 - **Frequent:** Recognition happens weekly, not annually
 - **Specific:** Recognize specific behaviors, not generic praise
 - **Public:** Most recognition is public to amplify impact
-- **Values-Aligned:** Recognition ties to Dynasty virtues
+- **Values-Aligned:** Recognition ties to Legacy virtues
 - **Data-Driven:** Track recognition impact on engagement and retention
 
 **Recognition Types:**
@@ -629,7 +629,7 @@ Recognition is not a nice-to-haveâ€”it's a critical component of culture th
 Monthly newsletter highlighting:
 - **Top Wins:** Major accomplishments and achievements
 - **Automation Breakthroughs:** Process improvements and innovations
-- **Culture Exemplars:** Team members embodying Dynasty virtues
+- **Culture Exemplars:** Team members embodying Legacy virtues
 - **Metrics & Milestones:** Key performance indicators and achievements
 - **Team Spotlights:** Individual and team features
 
@@ -645,7 +645,7 @@ Monthly newsletter highlighting:
 - Creates sense of community
 - Documents organizational progress
 
-**2. Dynasty Tokens (Peer Recognition Points)**
+**2. Legacy Tokens (Peer Recognition Points)**
 Internal points system for peer-to-peer recognition:
 - **Earning:** Peers nominate each other for virtue embodiment
 - **Redemption:** Tokens redeemable for:
@@ -697,7 +697,7 @@ Tied to cross-functional wins and exceptional performance:
 
 **5. Annual Excellence Awards**
 Formal recognition at annual offsite:
-- **Virtue Champion:** Exemplifies Dynasty virtues
+- **Virtue Champion:** Exemplifies Legacy virtues
 - **Innovation Award:** Significant process improvement
 - **Team Player:** Exceptional collaboration
 - **Growth Award:** Significant development and learning
@@ -1030,11 +1030,11 @@ Post-implementation:
 4. Build the Change Registry and train leaders on the CLEAR model.
 5. Schedule quarterly OD health reviews combining Dashboard analytics, engagement scores, and financial outcomes.
 
-Organizational development is never "complete." Treat this chapter as an adaptive systemâ€”review quarterly, integrate insights from other volumes, and ensure every process reinforces Dynasty sovereignty, scalability, and stewardship.
+Organizational development is never "complete." Treat this chapter as an adaptive systemâ€”review quarterly, integrate insights from other volumes, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
 
 ---
 
-## Integration with Dynasty Systems
+## Integration with Legacy Systems
 
 ### North Star Dashboard v3 Integration
 
@@ -1070,7 +1070,7 @@ Organizational development is never "complete." Treat this chapter as an adaptiv
 ### Cross-Volume Integration
 
 **Volume I (Foundation):**
-- Align OD with Dynasty vision and values
+- Align OD with Legacy vision and values
 - Support strategic architecture execution
 - Enable three-horizon model
 
@@ -1107,7 +1107,7 @@ Organizational development is the engine that transforms individual talent into 
 
 The systems in this chapterâ€”culture architecture, leadership development, performance management, and change managementâ€”work together to create an organization that is adaptive, high-performing, and aligned with The Enterprise vision. They integrate with the North Star Dashboard v3 and Financial Tracker to ensure every investment is measured, optimized, and justified.
 
-Remember: Organizational development is never "complete." It's a continuous process of improvement, adaptation, and growth. Review these systems quarterly, integrate insights from across Legacy Codex, and ensure every process reinforces Dynasty sovereignty, scalability, and stewardship.
+Remember: Organizational development is never "complete." It's a continuous process of improvement, adaptation, and growth. Review these systems quarterly, integrate insights from across Legacy Codex, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
 
 The next volume (Volume VI: Family Governance & Succession) will detail how to structure family governance, manage family dynamics, and ensure multi-generational continuity of the Ohu Family Enterprise.
 
@@ -1118,6 +1118,7 @@ The next volume (Volume VI: Family Governance & Succession) will detail how to s
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** North Star Dashboard v3, Financial Tracker, Cross-volume references complete
+
 
 
 
