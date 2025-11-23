@@ -191,6 +191,55 @@ Going national.
 
 ---
 
+## Section 18.5: Operational Scenarios (War Stories)
+
+Management is about handling exceptions. Here is how Obuke LLC handles common crises.
+
+### Scenario A: The Midnight Emergency
+
+**Situation**: At 2:00 AM on a Tuesday, a tenant calls: "Water is pouring through the ceiling!"
+
+**The Wrong Way**: You panic, drive over there yourself, and try to fix it with duct tape.
+**The Obuke Way**:
+1.  **Tenant Action**: Tenant is instructed (by lease) to shut off the main water valve immediately. (Show them where this is at move-in).
+2.  **Triage**: Does water stop? Yes. Is life in danger? No.
+3.  **Dispatch**: You text/call your 24/7 Plumber (from your Vendor List).
+4.  **Resolution**: Plumber arrives at 8 AM (emergency rates avoided if water is off).
+5.  **Cost**: Plumber bills you $300.
+6.  **Result**: You slept through the night (mostly).
+
+### Scenario B: The Late Payer
+
+**Situation**: Rent is due on the 1st. It is the 6th, and no payment has arrived.
+
+**The Wrong Way**: You text the tenant: "Hey, just checking in on rent?" (Weakness).
+**The Obuke Way**:
+1.  **Day 1**: Automated email reminder.
+2.  **Day 5 (Grace Period Ends)**: System automatically adds $50 late fee.
+3.  **Day 6**: "Pay or Quit" Notice is posted on the door. (This is a legal requirement, not a personal attack).
+4.  **Tenant Call**: "I get paid on Friday!"
+5.  **Your Response**: "That's fine. The late fee is already applied. As long as full payment (Rent + Late Fee) is in by Friday, we won't file for eviction. If not, the filing goes out Monday."
+6.  **Result**: Tenant prioritizes your rent over their cable bill.
+
+### Example: Tenant Screening Matrix
+
+How to make objective decisions without emotion.
+
+| Criteria | Standard | Applicant A | Applicant B |
+| :--- | :--- | :--- | :--- |
+| **Income** | 3x Rent ($4,500) | $5,000 (Job) | $10,000 (Self-Employed) |
+| **Credit** | 600+ | 620 | 550 |
+| **Evictions** | 0 | 0 | 1 (Dismissed) |
+| **Pets** | Max 1 | 1 Dog | 3 Cats |
+| **Move-In** | Within 30 Days | Next Week | 2 Months |
+| **Decision** | -- | **APPROVE** | **DENY** |
+
+**Why?**
+-   **Applicant A** meets all criteria. Lower income but stable.
+-   **Applicant B** has higher income but risky credit, too many pets, and a history of landlord disputes (even if dismissed, it's a flag). Plus, waiting 2 months costs you $3,000 in vacancy.
+
+---
+
 ## Chapter 18 Summary
 
 Property management is not a passive activity. It is active business management. Whether you do it yourself or hire it out, you must own the *standards* and the *results*.
@@ -207,8 +256,6 @@ Property management is not a passive activity. It is active business management.
 - [ ] Build your "Preferred Vendor List."
 - [ ] Review your current portfolio for "Dead Equity."
 
----
-
 ### Cross-References
 
 - [See Chapter 16] Creative Financing Mastery
@@ -223,4 +270,3 @@ Property management is not a passive activity. It is active business management.
 **END OF BOOK 6: REAL ESTATE INVESTMENT OPERATIONS**
 
 **END OF VOLUME III: REVENUE GENERATION ENGINES**
-

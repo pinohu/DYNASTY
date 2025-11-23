@@ -4,7 +4,7 @@
 
 Real estate is the ultimate wealth preservation vehicle, but traditional financing (20% down, bank qualification) is a bottleneck. To build a Legacy-scale portfolio, you must master **Creative Financing**. This allows you to acquire assets based on the *deal's* merit, not just your personal credit or cash reserves.
 
-For Obuke LLC, creative financing is the primary acquisition strategy. It allows for infinite returns (when acquisition cost is zero or low), rapid scaling, and solving problems for sellers that banks cannot touch. This chapter details the mechanics of Subject-To, Seller Financing, and Private Moneyâ€”the "Trifecta" of creative acquisition.
+For Obuke LLC, creative financing is the primary acquisition strategy. It allows for infinite returns (when acquisition cost is zero or low), rapid scaling, and solving problems for sellers that banks cannot touch. This chapter details the mechanics of Subject-To, Seller Financing, and Private Money—the "Trifecta" of creative acquisition.
 
 ---
 
@@ -177,6 +177,82 @@ Combining methods for maximum flexibility.
 
 ---
 
+## Section 16.5: The "SubTo" Deal Example (Live Case Study)
+
+To fully understand the power of Subject-To, let's walk through a concrete example with actual numbers. This scenario demonstrates how you can acquire a cash-flowing asset with minimal capital.
+
+### The Situation (The Lead)
+
+**Seller**: John Smith
+**Reason for Selling**: Job transfer to another state. Needs to move in 30 days.
+**Property**: 3 Bed / 2 Bath single-family home in a B-class neighborhood.
+**Market Value**: $250,000 (if listed on MLS with an agent).
+**Mortgage Balance**: $220,000.
+**Interest Rate**: 3.25% (locked in 2021).
+**Problem**: If John sells on MLS, he pays 6% agent fees ($15,000) + 2% closing costs ($5,000).
+**Net to Seller**: $250k - $20k costs - $220k loan = $10k profit.
+**Time**: MLS sales take 60-90 days. John needs to leave in 30.
+
+### The Offer (The Solution)
+
+You approach John as Obuke LLC and offer to take over his payments.
+
+**The "SubTo" Proposal**:
+1.  **Purchase Price**: $225,000 (We cover his loan balance + $5k cash to him).
+2.  **Terms**: Subject-To existing mortgage.
+3.  **Cash to Seller**: $5,000 moving money (solves his immediate need).
+4.  **Closing Costs**: We pay all closing costs ($3,000).
+5.  **Closing Date**: 14 days (solves his time constraint).
+
+### The Acquisition Cost (Entry Fee)
+
+How much cash do you need to close this deal?
+
+-   **Cash to Seller**: $5,000
+-   **Closing Costs**: $3,000 (Title, recording, attorney)
+-   **Insurance Premium**: $1,000 (First year)
+-   **Agent Commissions**: $0 (Direct to seller)
+-   **Total Entry Fee**: **$9,000**
+
+*Note: A traditional 20% down purchase of a $250k home would cost $50,000+.*
+
+### The Numbers (Cash Flow Analysis)
+
+Now, let's look at the monthly profitability.
+
+**Expense (Mortgage Payment)**:
+-   Principal & Interest: $957 (based on $220k @ 3.25%)
+-   Taxes: $300/mo
+-   Insurance: $100/mo
+-   **Total PITI**: **$1,357/mo**
+
+**Income (Rental)**:
+-   Market Rent: **$2,100/mo**
+
+**Cash Flow**:
+-   Rent: $2,100
+-   PITI: -$1,357
+-   Vacancy/Maintenance (10%): -$210
+-   **Net Cash Flow**: **$533/mo**
+
+### Return on Investment (ROI)
+
+-   **Annual Cash Flow**: $533 x 12 = $6,396
+-   **Total Cash Invested**: $9,000
+-   **Cash-on-Cash Return**: $6,396 / $9,000 = **71%**
+
+### The Verdict
+
+By using Subject-To, you:
+1.  Solved John's problem (fast closing, no fees).
+2.  Acquired a $250k asset for $9k out of pocket.
+3.  Locked in a 3.25% interest rate in a high-rate environment.
+4.  Achieved a 71% annual return (vs. 8-10% in the stock market).
+
+This is why we use Creative Financing.
+
+---
+
 ## Chapter 16 Summary
 
 Creative financing is not a "trick"; it is a sophisticated toolkit for solving real estate problems. By mastering SubTo, Seller Finance, and Private Money, Obuke LLC can acquire assets regardless of interest rates or bank lending criteria.
@@ -203,5 +279,3 @@ Creative financing is not a "trick"; it is a sophisticated toolkit for solving r
 ---
 
 **END OF CHAPTER 16**
-
-
