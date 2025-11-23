@@ -181,11 +181,11 @@
 ## Family Contacts
 
 ### Family Members
-- **Chimenime Xavier** [Volume I, Chapter 3, Section 3.1]
+- **Ikechukwu Polycarp Nnamdi Ohu** [Volume I, Chapter 3, Section 3.1]
   - Role: Founder & CEO
   - Contact: [To be filled]
 
-- **Judith** [Volume I, Chapter 3, Section 3.1]
+- **Judith Huchukwuyem Ohu** [Volume I, Chapter 3, Section 3.1]
   - Role: Co-Founder & COO
   - Contact: [To be filled]
 
@@ -201,7 +201,7 @@
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
-- **Chimenime Xavier [Primary Principal]** [Volume I, Chapter 3, Section 3.1]
+- **Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]** [Volume I, Chapter 3, Section 3.1]
   - Role: Next-Generation Leader
   - Contact: [To be filled]
 
@@ -227,5 +227,6 @@
 **Last Updated**: [Date]
 **Total Contacts**: [To be updated as contacts are added]
 **Note**: Contact information should be maintained securely and updated regularly
+
 
 

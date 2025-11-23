@@ -1,4 +1,4 @@
-# Chapter 19 Implementation Guide: SuiteDash Command Center
+﻿# Chapter 19 Implementation Guide: SuiteDash Command Center
 
 **Objective**: Transform SuiteDash into the central operating system for the The Legacy Codex.
 **Timeline**: 4 Weeks (Phase 1-6)
@@ -11,21 +11,21 @@
 ### 1.1 Account Setup
 - [ ] **Create Account**: Sign up for SuiteDash Platinum Plan.
 - [ ] **Company Profile**:
-  - Navigate to `Settings` → `Company Profile`.
+  - Navigate to `Settings` â†’ `Company Profile`.
   - Upload Logo (PNR Holdings).
   - Set Brand Colors.
   - Configure Address (Wyoming Registered Agent).
   - Set Timezone (EST) and Currency (USD).
 - [ ] **Domain Setup**:
   - Configure Custom Domain (e.g., `portal.pnrholdings.com`) or use `pnrholdings.suitedash.com`.
-  - Verify Email Sending Domain (SPF/DKIM) in `Settings` → `Email Settings`.
+  - Verify Email Sending Domain (SPF/DKIM) in `Settings` â†’ `Email Settings`.
 
 ### 1.2 User Roles
 - [ ] **Create Admin Users**:
   - Create Admin account for yourself.
-  - Create Admin account for Judith.
+  - Create Admin account for Judith Huchukwuyem Ohu.
 - [ ] **Define Roles**:
-  - Navigate to `Settings` → `Users & Permissions`.
+  - Navigate to `Settings` â†’ `Users & Permissions`.
   - Verify/Create roles: `Admin`, `Manager`, `Staff`, `Client`.
 
 ---
@@ -59,7 +59,7 @@ Use the provided `custom_fields.csv` as a reference.
   - `Customer_CAC` (Number)
   - `Profit_Margin_Percent` (Number)
 
-*Note: Navigate to `Custom Fields` → `Manage Custom Fields` to add these.*
+*Note: Navigate to `Custom Fields` â†’ `Manage Custom Fields` to add these.*
 
 ---
 
@@ -68,7 +68,7 @@ Use the provided `custom_fields.csv` as a reference.
 ### 3.1 Configure Pipeline
 Use the provided `pipeline_stages.csv` as a reference.
 - [ ] **Create Pipeline**: "CLOSER Sales Framework"
-  - Navigate to `CRM` → `Deals` → `Pipelines`.
+  - Navigate to `CRM` â†’ `Deals` â†’ `Pipelines`.
 - [ ] **Add Stages**:
   1. **CLARIFY** (10%)
   2. **LABEL** (20%)
@@ -110,7 +110,7 @@ Use the provided `pipeline_stages.csv` as a reference.
 
 ### 5.1 Payment Gateway
 - [ ] **Connect Stripe/PayPal**:
-  - Navigate to `Settings` → `Integrations`.
+  - Navigate to `Settings` â†’ `Integrations`.
   - Connect Stripe account for credit card processing.
 - [ ] **Configure Tax Settings**:
   - Set up default tax rates if applicable.
@@ -164,4 +164,5 @@ Use `email_templates.md` for content.
 - `automation_workflows.md`: Automation logic.
 - `invoice_templates.md`: Invoice configuration.
 - `chapter-19-suitedash-command-center.md`: Full reference guide.
+
 

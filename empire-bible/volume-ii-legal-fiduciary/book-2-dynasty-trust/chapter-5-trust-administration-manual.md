@@ -1694,8 +1694,8 @@ Trust Protector succession ensures continuity of oversight. This section covers 
 
 **Legacy Codex Trust Succession**:
 
-- **Initial**: Chimenime Xavier
-- **Successor**: Judith
+- **Initial**: Ikechukwu Polycarp Nnamdi Ohu
+- **Successor**: Judith Huchukwuyem Ohu
 - **Future**: Children (when appropriate)
 
 #### Selection Process
@@ -1841,5 +1841,6 @@ By following this manual, you will ensure proper trust administration that prese
 ---
 
 **END OF CHAPTER 5**
+
 
 

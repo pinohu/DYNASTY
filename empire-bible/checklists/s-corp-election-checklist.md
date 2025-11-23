@@ -1,4 +1,4 @@
-# S-Corp Election Checklist
+﻿# S-Corp Election Checklist
 
 ## Purpose
 To ensure CXI LLC properly elects S-Corporation status with the IRS.
@@ -11,7 +11,7 @@ To ensure CXI LLC properly elects S-Corporation status with the IRS.
 
 ## 1. Eligibility Check
 - [ ] **Domestic**: Is the entity a domestic LLC? (Yes)
-- [ ] **Shareholders**: Are all members individuals or eligible trusts? (Yes, PNR Holdings is a disregarded entity owned by a Trust, usually eligible, but verify with CPA. Often S-Corps are owned by individuals. *Correction*: An LLC owned by a Partnership (PNR) cannot be an S-Corp. **CRITICAL**: CXI LLC must be owned by Ikechukwu/Judith directly or by a QSST/ESBT trust to be an S-Corp. *Adjustment*: If PNR owns it, PNR must be the S-Corp, or CXI must be owned by you directly. *Assumption for this checklist*: You own CXI directly or via eligible trust.*)
+- [ ] **Shareholders**: Are all members individuals or eligible trusts? (Yes, PNR Holdings is a disregarded entity owned by a Trust, usually eligible, but verify with CPA. Often S-Corps are owned by individuals. *Correction*: An LLC owned by a Partnership (PNR) cannot be an S-Corp. **CRITICAL**: CXI LLC must be owned by Ikechukwu/Judith Huchukwuyem Ohu directly or by a QSST/ESBT trust to be an S-Corp. *Adjustment*: If PNR owns it, PNR must be the S-Corp, or CXI must be owned by you directly. *Assumption for this checklist*: You own CXI directly or via eligible trust.*)
 - [ ] **Number**: Are there fewer than 100 shareholders? (Yes)
 - [ ] **Stock**: Is there only one class of stock? (Yes)
 
@@ -34,4 +34,5 @@ To ensure CXI LLC properly elects S-Corporation status with the IRS.
 **Status**:
 [ ] Filed
 [ ] Accepted (Received CP261 Notice)
+
 

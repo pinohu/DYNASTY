@@ -34,7 +34,7 @@ Forming an ILIT requires careful planning and execution. This section covers the
 - Estate tax risk
 - Beneficiary needs
 
-**OHU-PNR ILIT**: Judith's $500,000 IUL policy should be held in an ILIT to remove it from estate.
+**OHU-PNR ILIT**: Judith Huchukwuyem Ohu's $500,000 IUL policy should be held in an ILIT to remove it from estate.
 
 **Step 2: Select Trustee**
 
@@ -417,7 +417,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 
 **ILIT Use**: Excellent for ILITs, provides growth potential.
 
-**OHU-PNR Policy**: Judith's $500,000 IUL policy is ideal for ILIT.
+**OHU-PNR Policy**: Judith Huchukwuyem Ohu's $500,000 IUL policy is ideal for ILIT.
 
 #### Selection Criteria
 
@@ -473,7 +473,7 @@ Selecting the right life insurance policy is critical for ILIT success. This sec
 
 **OHU-PNR Recommendations**:
 
-- **Current Policy**: Judith's $500,000 IUL is appropriate
+- **Current Policy**: Judith Huchukwuyem Ohu's $500,000 IUL is appropriate
 - **Additional Coverage**: Consider additional coverage if needed
 - **Premium Management**: Manage premiums within annual exclusion
 - **Policy Review**: Review policy performance annually
@@ -638,10 +638,10 @@ Each child should have their own Crummey Trust with terms customized to their ne
 - Personal development support
 - Achievement milestones
 
-**Chimenime Xavier [Primary Principal] Trust**:
+**Ikechukwu Polycarp Nnamdi Ohu [Primary Principal] Trust**:
 
 **Trust Terms**:
-- **Beneficiary**: Chimenime Xavier [Primary Principal]
+- **Beneficiary**: Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]
 - **Trustee**: [Trustee Name]
 - **Distribution Standard**: HEMS until age 25
 - **Age-Based Distributions**: 25% at 25, 50% at 30, 100% at 35
@@ -710,7 +710,7 @@ Annual gifting to Children's Crummey Trusts maximizes annual exclusion benefits 
 
 - **Per Child**: $18,000 per year
 - **Total Family**: $72,000 per year
-- **Gift Source**: Chimenime Xavier and Judith (each $18,000 per child)
+- **Gift Source**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu (each $18,000 per child)
 
 **Gifting Strategy**:
 
@@ -1812,7 +1812,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 
 ### Action Items
 
-- [ ] Form ILIT for Judith's IUL policy
+- [ ] Form ILIT for Judith Huchukwuyem Ohu's IUL policy
 - [ ] Create Children's Crummey Trusts for each child
 - [ ] Consider CRT for charitable giving
 - [ ] Evaluate GRATs for business interests
@@ -1828,5 +1828,6 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 ---
 
 **END OF CHAPTER 6**
+
 
 

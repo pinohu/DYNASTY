@@ -4,7 +4,7 @@
 
 The South Dakota Dynasty Trust represents the cornerstone of the The Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
-Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Xavier Familyâ€”Chimenime Xavier and Judith, with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Chimenime Xavier [Primary Principal]â€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
+Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]â€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
 This chapter will guide you through every aspect of the South Dakota Dynasty Trust, from understanding why South Dakota is the optimal jurisdiction, through the complete formation process, to detailed analysis of trust provisions and trustee architecture. By the end of this chapter, you will have the knowledge and tools necessary to implement this powerful wealth preservation structure.
 
@@ -177,17 +177,17 @@ Assume the Dynasty Trust owns PNR Holdings LLC, which generates $2 million in an
 
 **Example: $10 Million Estate Transfer**
 
-**Scenario**: Chimenime Xavier and Judith transfer $10 million to a South Dakota Dynasty Trust.
+**Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu transfer $10 million to a South Dakota Dynasty Trust.
 
 **Without Dynasty Trust**:
 - At Ikechukwu's death: $10M estate - $13.61M exemption (2024) = $0 estate tax (within exemption)
-- At Judith's death: $10M estate - $13.61M exemption = $0 estate tax (within exemption)
+- At Judith Huchukwuyem Ohu's death: $10M estate - $13.61M exemption = $0 estate tax (within exemption)
 - At first child's death: $10M + appreciation = potential estate tax
 - **Problem**: Each generation faces potential estate tax as exemption amounts change
 
 **With Dynasty Trust**:
 - At Ikechukwu's death: $0 in estate (already in trust) = $0 estate tax
-- At Judith's death: $0 in estate = $0 estate tax
+- At Judith Huchukwuyem Ohu's death: $0 in estate = $0 estate tax
 - At first child's death: $0 in estate = $0 estate tax
 - **Benefit**: Assets never enter any beneficiary's estate
 
@@ -216,7 +216,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Example: Three-Generation Transfer**
 
-**Scenario**: Chimenime Xavier and Judith want to provide for their children and grandchildren.
+**Scenario**: Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu want to provide for their children and grandchildren.
 
 **Without Dynasty Trust**:
 - Transfer to children: Uses $13.61M exemption each = $27.22M total
@@ -1286,8 +1286,8 @@ and shall be identified by Tax ID Number [EIN].
 
 **Example Language**:
 ```
-This trust is established by Chimenime Xavier 
-and Judith, as Grantors (with Chimenime Xavier retaining sole administrative control).
+This trust is established by Ikechukwu Polycarp Nnamdi Ohu 
+and Judith Huchukwuyem Ohu, as Grantors (with Ikechukwu Polycarp Nnamdi Ohu retaining sole administrative control).
 ```
 
 **Why Required**: Identifies who established the trust and has standing to challenge trust provisions.
@@ -1302,7 +1302,7 @@ The primary beneficiaries of this trust are:
 - [Beneficiary 1]
 - [Beneficiary 2]
 - [Beneficiary 3]
-- Chimenime Xavier [Primary Principal]
+- Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]
 
 Future beneficiaries include descendants of the primary 
 beneficiaries, per stirpes.
@@ -1318,7 +1318,7 @@ beneficiaries, per stirpes.
 ```
 The Administrative Trustee shall be South Dakota Trust Company.
 The Investment Trustee shall be [Investment Advisor Name].
-The Distribution Trustee shall be Chimenime Xavier, 
+The Distribution Trustee shall be Ikechukwu Polycarp Nnamdi Ohu, 
 and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
 
@@ -2416,5 +2416,6 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
 
 

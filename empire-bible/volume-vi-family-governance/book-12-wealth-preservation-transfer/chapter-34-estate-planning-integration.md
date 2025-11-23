@@ -1,8 +1,8 @@
-# Chapter 34: Estate Planning Integration
+﻿# Chapter 34: Estate Planning Integration
 
 ## Introduction
 
-Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the The Legacy Codex, estate planning is not merely about avoiding taxes—it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
+Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the The Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
 This chapter integrates estate planning with the broader dynasty framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a dynasty requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 
@@ -21,7 +21,7 @@ Through this chapter, you will develop:
 - Asset protection layers that shield your empire from threats
 - An integrated estate plan that works seamlessly with your dynasty structure
 
-Estate planning is not a one-time event—it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your dynasty for generations.
+Estate planning is not a one-time eventâ€”it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your dynasty for generations.
 
 ---
 
@@ -506,7 +506,7 @@ Family Limited Partnerships (FLPs) provide both business and estate planning ben
 #### FLP Structure
 
 **General Partner**
-- You and Judith as general partners
+- You and Judith Huchukwuyem Ohu as general partners
 - Maintain control
 - Management authority
 - Limited liability
@@ -1135,7 +1135,7 @@ As you implement your estate plan:
 
 The estate planning you do today will determine how much wealth survives for future generations. Invest in comprehensive planning, and you'll create a foundation for a 365-year dynasty.
 
-In the next chapter, we'll explore insurance and risk management—protecting your empire from the many risks that could threaten its survival.
+In the next chapter, we'll explore insurance and risk managementâ€”protecting your empire from the many risks that could threaten its survival.
 
 ---
 
@@ -1143,4 +1143,36 @@ In the next chapter, we'll explore insurance and risk management—protecting yo
 - Word Count: ~12,000 words
 - Pages: ~40 pages
 - Status: Production-ready
+
+---
+
+## Appendix: Family Beneficiary Roster (Official)
+
+**Primary Principals (Founders)**:
+1.  **Ikechukwu Polycarp Nnamdi Ohu** (Primary Principal)
+2.  **Judith Huchukwuyem Ohu** (Secondary Principal, Spouse)
+
+**Primary Beneficiaries (The Second Generation)**:
+1.  **Ivan Osemeke Ohu** (First Son)
+    -   Role: Primary Beneficiary
+    -   Birthday: September 14
+    -   Current Age: 9
+
+2.  **Jeremy Chiwuikem Ohu** (Second Son)
+    -   Role: Primary Beneficiary
+    -   Birthday: December 13
+    -   Current Age: 7
+
+3.  **Kikachukwu Theodore Ohu** (Third Son)
+    -   Role: Primary Beneficiary
+    -   Birthday: May 15
+    -   Current Age: 6
+
+4.  **Chimenime Xavier Ikechukwu Ohu** (Fourth Son)
+    -   Role: Primary Beneficiary
+    -   Birthday: October 9
+    -   Current Age: 5
+
+*All beneficiary distributions and trust rights are subject to the terms defined in the South Dakota Dynasty Trust agreement.*
+
 

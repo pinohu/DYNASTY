@@ -63,7 +63,7 @@ This certifies that the **The Legacy Codex** has been completed to production-re
 
 **âœ… COMPLETE AND PRODUCTION-READY**
 
-The Legacy Codex is a comprehensive, integrated operating system ready for implementation. All volumes have been written, verified, and integrated into a cohesive framework designed to guide the Xavier Family for the next 365 years.
+The Legacy Codex is a comprehensive, integrated operating system ready for implementation. All volumes have been written, verified, and integrated into a cohesive framework designed to guide the Ohu Family for the next 365 years.
 
 ---
 
@@ -74,4 +74,5 @@ The Legacy Codex is a comprehensive, integrated operating system ready for imple
 ---
 
 *This certificate verifies that the The Legacy Codex meets all completion criteria and is ready for use.*
+
 
