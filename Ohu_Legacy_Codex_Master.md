@@ -54869,7 +54869,7 @@ The strategies in this volume involve sophisticated legal and tax concepts. Whil
 
 The South Dakota Dynasty Trust represents the cornerstone of the Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
-Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]â€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
+Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries Ivan Osemeke Ohu, Jeremy Chiwuikem Ohu, Kikachukwu Theodore Ohu, Chimenime Xavier Ikechukwu Ohu, and Ikechukwu Polycarp Nnamdi Ohuâ€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
 This chapter will guide you through every aspect of the South Dakota Dynasty Trust, from understanding why South Dakota is the optimal jurisdiction, through the complete formation process, to detailed analysis of trust provisions and trustee architecture. By the end of this chapter, you will have the knowledge and tools necessary to implement this powerful wealth preservation structure.
 
@@ -55186,12 +55186,12 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 **Example: Real Estate Privacy**
 
 **Without Trust**:
-- Property titled: "[Principal Names]"
+- Property titled: "Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu"
 - Public records search reveals ownership
 - Value and location publicly known
 
 **With Dynasty Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
+- Property titled: "South Dakota Trust Company, as Trustee of The Ohu Family Dynasty Trust"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -55244,7 +55244,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Beneficiary Lawsuit**
 
-**Scenario**: [Beneficiary 2] (beneficiary) faces a $500,000 judgment from a business dispute.
+**Scenario**: Jeremy Chiwuikem Ohu (beneficiary) faces a $500,000 judgment from a business dispute.
 
 **Without Charging Order Protection**:
 - Creditor could potentially access Jeremy's share of trust assets
@@ -55273,7 +55273,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Divorce Protection**
 
-**Scenario**: [Beneficiary 3] (beneficiary) divorces. Spouse claims interest in trust.
+**Scenario**: Kikachukwu Theodore Ohu (beneficiary) divorces. Spouse claims interest in trust.
 
 **Without Spendthrift Provisions**:
 - Spouse could potentially claim portion of trust interest
@@ -56140,7 +56140,7 @@ Certain provisions are required by law or are essential for trust effectiveness.
 **Example Language**:
 ```
 This trust shall be known as "Legacy Codex Trust" 
-and shall be identified by Tax ID Number [EIN].
+and shall be identified by Tax ID Number To Be Assigned.
 ```
 
 **Why Required**: Legal identification is necessary for tax purposes, asset titling, and legal proceedings.
@@ -56164,10 +56164,11 @@ and Judith Huchukwuyem Ohu, as Grantors (with Ikechukwu Polycarp Nnamdi Ohu reta
 **Example Language**:
 ```
 The primary beneficiaries of this trust are:
-- [Beneficiary 1]
-- [Beneficiary 2]
-- [Beneficiary 3]
-- Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]
+- Ivan Osemeke Ohu
+- Jeremy Chiwuikem Ohu
+- Kikachukwu Theodore Ohu
+- Chimenime Xavier Ikechukwu Ohu
+- Ikechukwu Polycarp Nnamdi Ohu
 
 Future beneficiaries include descendants of the primary 
 beneficiaries, per stirpes.
@@ -56182,7 +56183,7 @@ beneficiaries, per stirpes.
 **Example Language**:
 ```
 The Administrative Trustee shall be South Dakota Trust Company.
-The Investment Trustee shall be [Investment Advisor Name].
+The Investment Trustee shall be Ikechukwu Polycarp Nnamdi Ohu (Initial).
 The Distribution Trustee shall be Ikechukwu Polycarp Nnamdi Ohu, 
 and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
@@ -57281,6 +57282,7 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
 
 
 
@@ -70711,6 +70713,13 @@ $$ \text{Value} = \text{EBITDA} \times \text{Multiple} $$
 
 ## Introduction
 
+## Instructions
+This Appendix is a living document. **PRINT THIS OUT** and keep a physical copy in your safe.
+- **Red Fields**: Critical emergency numbers. Fill these immediately.
+- **Update Frequency**: Review and update this list Quarterly (Jan, Apr, Jul, Oct).
+- **Digital Access**: Ensure your spouse and Successor Trustee have access to the digital version.
+
+
 This appendix serves as the central directory for critical contacts. In a crisis, you should not have to search through emails or phones to find these numbers. Keep this list updated quarterly and ensure key family members and executives have access.
 
 ---
@@ -70720,11 +70729,11 @@ This appendix serves as the central directory for critical contacts. In a crisis
 | Role | Name | Phone | Email | Notes |
 |------|------|-------|-------|-------|
 | **Emergency Services** | **911** | N/A | N/A | Police/Fire/Ambulance |
-| **Hospital (ER)** | [Local Hospital] | [Phone] | [Address] | Nearest Level 1 Trauma |
-| **Family Doctor** | [Name] | [Phone] | [Email] | Primary Care |
-| **Security Company** | [Company] | [Phone] | [Account #] | Home/Office Alarm |
-| **IT Emergency** | [MSP Name] | [Phone] | [Email] | 24/7 Support Line |
-| **Bank Fraud** | [Bank Name] | [Phone] | [Email] | Lost cards/Fraud |
+| **Hospital (ER)** | _________________________ | _________________________ | _________________________ | Nearest Level 1 Trauma |
+| **Family Doctor** | South Dakota Trust Company | _________________________ | [Email] | Primary Care |
+| **Security Company** | [Company] | _________________________ | [Account #] | Home/Office Alarm |
+| **IT Emergency** | [MSP Name] | _________________________ | [Email] | 24/7 Support Line |
+| **Bank Fraud** | [Bank Name] | _________________________ | [Email] | Lost cards/Fraud |
 
 ---
 
@@ -70732,12 +70741,12 @@ This appendix serves as the central directory for critical contacts. In a crisis
 
 | Role | Firm/Name | Phone | Email | Key Contact For |
 |------|-----------|-------|-------|-----------------|
-| **CPA / Tax** | [Name] | [Phone] | [Email] | Tax filing, IRS notices |
-| **Estate Attorney** | [Name] | [Phone] | [Email] | Trust issues, Wills |
-| **Business Attorney** | [Name] | [Phone] | [Email] | Contracts, Lawsuits |
-| **Financial Advisor** | [Name] | [Phone] | [Email] | Investments, Cash |
-| **Insurance Broker** | [Name] | [Phone] | [Email] | Claims, Coverage |
-| **Trust Officer** | [Name] | [Phone] | [Email] | Dynasty Trust Admin |
+| **CPA / Tax** | South Dakota Trust Company | _________________________ | [Email] | Tax filing, IRS notices |
+| **Estate Attorney** | South Dakota Trust Company | _________________________ | [Email] | Trust issues, Wills |
+| **Business Attorney** | South Dakota Trust Company | _________________________ | [Email] | Contracts, Lawsuits |
+| **Financial Advisor** | South Dakota Trust Company | _________________________ | [Email] | Investments, Cash |
+| **Insurance Broker** | South Dakota Trust Company | _________________________ | [Email] | Claims, Coverage |
+| **Trust Officer** | South Dakota Trust Company | _________________________ | [Email] | Primary Administrative Trustee |
 
 ---
 
@@ -70745,12 +70754,12 @@ This appendix serves as the central directory for critical contacts. In a crisis
 
 | Service | Company | Account # | Support Contact |
 |---------|---------|-----------|-----------------|
-| **Payroll** | [Provider] | [ID] | [Phone/Email] |
+| **Payroll** | [Provider] | Admin Account | [Phone/Email] |
 | **Banking** | [Bank] | [Last 4] | [Banker Name] |
-| **Web Hosting** | [Host] | [ID] | [Support Link] |
-| **CRM** | SuiteDash | [ID] | [Support Link] |
+| **Web Hosting** | [Host] | Admin Account | help.suitedash.com |
+| **CRM** | SuiteDash | Admin Account | help.suitedash.com |
 | **Marketing** | [Agency] | [Contract] | [Acct Manager] |
-| **Property Mgmt** | [Company] | [ID] | [Manager Name] |
+| **Property Mgmt** | [Company] | Admin Account | [Manager Name] |
 
 ---
 
@@ -70759,8 +70768,8 @@ This appendix serves as the central directory for critical contacts. In a crisis
 | Agency | Purpose | Website | Phone |
 |--------|---------|---------|-------|
 | **IRS** | Federal Tax | irs.gov | 800-829-4933 |
-| **SOS (State)** | Entity Filings | [State SOS URL] | [Phone] |
-| **State Tax** | State Tax | [State Tax URL] | [Phone] |
+| **SOS (State)** | Entity Filings | [State SOS URL] | _________________________ |
+| **State Tax** | State Tax | [State Tax URL] | _________________________ |
 | **SBA** | Small Business | sba.gov | 800-827-5722 |
 | **USPTO** | Trademarks | uspto.gov | 800-786-9199 |
 
@@ -70770,13 +70779,14 @@ This appendix serves as the central directory for critical contacts. In a crisis
 
 | Association | Membership ID | Login URL | Benefits |
 |-------------|---------------|-----------|----------|
-| **Chamber** | [ID] | [URL] | Networking, Local |
-| **Industry Org** | [ID] | [URL] | Certifications |
-| **Alumni** | [ID] | [URL] | Networking |
+| **Chamber** | Admin Account | [URL] | Networking, Local |
+| **Industry Org** | Admin Account | [URL] | Certifications |
+| **Alumni** | Admin Account | [URL] | Networking |
 
 ---
 
 **Appendix C Complete**
+
 
 
 
@@ -71141,7 +71151,7 @@ This appendix serves as the master navigation tool for Legacy Codex. It maps the
 
 **END OF LEGACY CODEX COMPILATION**
 
-*This document was automatically compiled on November 23, 2025 at 18:14:15*
+*This document was automatically compiled on November 23, 2025 at 18:35:52*
 
 ---
 

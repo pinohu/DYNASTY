@@ -4,7 +4,7 @@
 
 The South Dakota Dynasty Trust represents the cornerstone of the Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
-Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]â€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
+Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries Ivan Osemeke Ohu, Jeremy Chiwuikem Ohu, Kikachukwu Theodore Ohu, Chimenime Xavier Ikechukwu Ohu, and Ikechukwu Polycarp Nnamdi Ohuâ€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
 This chapter will guide you through every aspect of the South Dakota Dynasty Trust, from understanding why South Dakota is the optimal jurisdiction, through the complete formation process, to detailed analysis of trust provisions and trustee architecture. By the end of this chapter, you will have the knowledge and tools necessary to implement this powerful wealth preservation structure.
 
@@ -321,12 +321,12 @@ Assets held in the trust are titled in the trust's name, not your personal name.
 **Example: Real Estate Privacy**
 
 **Without Trust**:
-- Property titled: "[Principal Names]"
+- Property titled: "Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu"
 - Public records search reveals ownership
 - Value and location publicly known
 
 **With Dynasty Trust**:
-- Property titled: "South Dakota Trust Company, as Trustee of [Your Dynasty Trust]"
+- Property titled: "South Dakota Trust Company, as Trustee of The Ohu Family Dynasty Trust"
 - Public records show trust ownership only
 - Personal names not disclosed
 - Beneficiaries not disclosed
@@ -379,7 +379,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Beneficiary Lawsuit**
 
-**Scenario**: [Beneficiary 2] (beneficiary) faces a $500,000 judgment from a business dispute.
+**Scenario**: Jeremy Chiwuikem Ohu (beneficiary) faces a $500,000 judgment from a business dispute.
 
 **Without Charging Order Protection**:
 - Creditor could potentially access Jeremy's share of trust assets
@@ -408,7 +408,7 @@ South Dakota Dynasty Trusts provide exceptional creditor protection through mult
 
 **Example: Divorce Protection**
 
-**Scenario**: [Beneficiary 3] (beneficiary) divorces. Spouse claims interest in trust.
+**Scenario**: Kikachukwu Theodore Ohu (beneficiary) divorces. Spouse claims interest in trust.
 
 **Without Spendthrift Provisions**:
 - Spouse could potentially claim portion of trust interest
@@ -1275,7 +1275,7 @@ Certain provisions are required by law or are essential for trust effectiveness.
 **Example Language**:
 ```
 This trust shall be known as "Legacy Codex Trust" 
-and shall be identified by Tax ID Number [EIN].
+and shall be identified by Tax ID Number To Be Assigned.
 ```
 
 **Why Required**: Legal identification is necessary for tax purposes, asset titling, and legal proceedings.
@@ -1299,10 +1299,11 @@ and Judith Huchukwuyem Ohu, as Grantors (with Ikechukwu Polycarp Nnamdi Ohu reta
 **Example Language**:
 ```
 The primary beneficiaries of this trust are:
-- [Beneficiary 1]
-- [Beneficiary 2]
-- [Beneficiary 3]
-- Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]
+- Ivan Osemeke Ohu
+- Jeremy Chiwuikem Ohu
+- Kikachukwu Theodore Ohu
+- Chimenime Xavier Ikechukwu Ohu
+- Ikechukwu Polycarp Nnamdi Ohu
 
 Future beneficiaries include descendants of the primary 
 beneficiaries, per stirpes.
@@ -1317,7 +1318,7 @@ beneficiaries, per stirpes.
 **Example Language**:
 ```
 The Administrative Trustee shall be South Dakota Trust Company.
-The Investment Trustee shall be [Investment Advisor Name].
+The Investment Trustee shall be Ikechukwu Polycarp Nnamdi Ohu (Initial).
 The Distribution Trustee shall be Ikechukwu Polycarp Nnamdi Ohu, 
 and upon his death or incapacity, a successor Distribution Trustee appointed by the Trust Protector.
 ```
@@ -2416,6 +2417,7 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
 
 
 
