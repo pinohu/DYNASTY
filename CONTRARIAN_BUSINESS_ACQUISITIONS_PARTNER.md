@@ -90,21 +90,247 @@ This is non-negotiable. Without it, you'll chase shiny objects, waste time on ba
 
 Your Deal Box must include:
 
-- **Minimum purchase price**: What's the floor? ($200K? $500K?)
-- **Maximum purchase price**: What's the ceiling? ($2M? $5M?)
-- **Desired annual income**: How much cash do you need to take home? ($100K? $250K?)
-- **Buyer role**: Are you operating full-time, semi-absentee, or absentee?
-- **Operator salary** (if hiring someone to run it): Budget $50K–$150K depending on complexity.
-- **Cash available / down payment**: How much liquidity do you have? (10%? 20%? All cash?)
-- **DSCR tolerance**: What's your minimum debt service coverage ratio? (Most buyers want ≥1.5×)
-- **Preferred financing type**: SBA 7(a)? Seller financing? Cash? A blend?
-- **Maximum acceptable seller dependence**: Can you tolerate a founder-dependent business, or do you need a team in place?
-- **Industry focus**: Blue-collar services? B2B? Local retail?
-- **Geography**: Are you willing to relocate? Or only buying within 50 miles of home?
-- **Must-haves**: Recurring revenue? Recession-resistant? Contracts?
-- **Cannot-stands / exclusion criteria**: Restaurants? Medical licensing? Seasonal volatility? Retail? Franchises?
-- **Minimum years in business**: 3 years? 5 years? 10 years?
-- **Maximum acceptable team size**: Do you want 5 employees or 50?
+### **1. Minimum Purchase Price**
+
+**What it is**: The lowest purchase price you're willing to consider.
+
+**Why it matters**: Businesses under $200K often lack systems, professional operations, or meaningful cash flow. They're essentially buying yourself a job, not a business. Additionally, the time and effort required to source, evaluate, and close a $100K deal is nearly identical to a $1M deal—so optimize for larger opportunities.
+
+**How to set it**: Most serious buyers set a floor of $200K–$500K. This ensures you're acquiring a business with enough revenue ($500K–$2M) to support systems, employees, and margin for error.
+
+**Example**: "I will not pursue any business with a purchase price below $300K."
+
+---
+
+### **2. Maximum Purchase Price**
+
+**What it is**: The ceiling on what you can afford or are willing to finance.
+
+**Why it matters**: This is dictated by your available capital, financing capacity, and risk tolerance. Overstretching leads to cash flow stress, sleepless nights, and potential business failure. Your maximum price should leave room for working capital reserves and unexpected expenses.
+
+**How to set it**: Calculate backward from your down payment capacity and debt service coverage. If you have $200K available for a down payment and can secure 80% financing, your maximum purchase price is around $1M. Add seller financing, and you can stretch to $1.5M–$2M.
+
+**Example**: "I will not pursue any business with a purchase price above $2M."
+
+**Red flags**: Don't inflate this number based on optimism or "I'll figure it out later." Stick to what you can actually afford.
+
+---
+
+### **3. Desired Annual Income**
+
+**What it is**: The annual cash salary you need to extract from the business to support your lifestyle.
+
+**Why it matters**: This is your personal non-negotiable. If the business can't pay you what you need while also covering debt service, operator salary (if applicable), reserves, and CapEx, the deal doesn't work—no matter how attractive it looks on paper.
+
+**How to set it**: Be honest about your personal burn rate. What do you need to cover mortgage, groceries, insurance, kids' expenses, and basic quality of life? Add 20% buffer for taxes and surprises.
+
+**Example**: "I need to take home $120K per year minimum."
+
+**Common mistake**: Underestimating this number to "make the deal work." Don't. If the business can't support your life, you'll resent it within six months.
+
+---
+
+### **4. Buyer Role**
+
+**What it is**: How involved will you be in daily operations?
+
+**Options**:
+- **Full-time operator**: You're running the business 40–60 hours per week. You're the manager, the closer, the decision-maker.
+- **Semi-absentee**: You're involved 10–20 hours per week. You have a manager running day-to-day operations, but you handle strategy, sales, and oversight.
+- **Absentee**: You're checking in weekly or monthly. You have a full leadership team in place.
+
+**Why it matters**: Your role dictates the type of business you can buy. Full-time operators can buy founder-dependent businesses and build systems. Absentee buyers need businesses with managers and teams already in place—which are more expensive and harder to find.
+
+**How to set it**: Be brutally honest. Do you have the skills, time, and temperament to run a plumbing company full-time? Or do you want a cash-flowing asset you can oversee while keeping your day job?
+
+**Example**: "I'm looking for a semi-absentee opportunity where I can work 15 hours per week while keeping my W-2 job."
+
+---
+
+### **5. Operator Salary (If Hiring Someone to Run It)**
+
+**What it is**: The annual salary you'll pay a general manager or operator to run the business on your behalf.
+
+**Why it matters**: If you're not running it full-time, someone else must. That person costs $50K–$150K+ per year depending on the complexity of the business, geography, and required skills. This cost must be factored into your DSCR calculation.
+
+**How to set it**: Research salaries for general managers in your target industry and geography. For a $1M revenue service business, expect to pay $60K–$80K. For a $5M business, expect $100K–$150K.
+
+**Example**: "I will budget $75K per year for a full-time operator."
+
+**Red flag**: Assuming you can hire someone for $40K to run a $2M business. You'll get what you pay for—and lose the business within a year.
+
+---
+
+### **6. Cash Available / Down Payment**
+
+**What it is**: The total liquid capital you have available for the down payment and working capital reserves.
+
+**Why it matters**: This determines the size of the business you can afford. SBA 7(a) loans typically require 10–20% down. Seller financing deals may require 10–30% down. You also need reserves for surprises, working capital gaps, and initial improvements.
+
+**How to set it**: Calculate your total liquid net worth (cash, brokerage accounts, home equity line, retirement accounts you're willing to tap). Subtract 20% for reserves and emergencies. The remainder is your available down payment.
+
+**Example**: "I have $250K in liquid capital. I'll allocate $200K for the down payment and reserve $50K for working capital and contingencies."
+
+**Common mistake**: Deploying 100% of your cash into the down payment with zero reserves. Never do this. Always hold back 15–25% for post-close surprises.
+
+---
+
+### **7. DSCR Tolerance**
+
+**What it is**: The minimum Debt Service Coverage Ratio you'll accept. DSCR measures how many times over the business's cash flow can cover annual debt payments.
+
+**Formula**: DSCR = (SDE – Buyer Salary – Operator Salary – CapEx – Reserves) ÷ Annual Debt Service
+
+**Why it matters**: DSCR is your financial margin of safety. A DSCR of 1.5× means the business generates 50% more cash than needed to cover debt. A DSCR of 1.0× means you're breakeven—one bad month and you can't make payments.
+
+**How to set it**: Most conservative buyers require **DSCR ≥ 1.5×**. Aggressive buyers will go as low as 1.25×. Below 1.25×, you're gambling.
+
+**Example**: "I will not pursue any deal with a DSCR below 1.4×."
+
+**Red flag**: Convincing yourself that 1.1× DSCR is fine because "I'll grow the business." Growth is not guaranteed. Debt payments are.
+
+---
+
+### **8. Preferred Financing Type**
+
+**What it is**: How you plan to finance the acquisition.
+
+**Options**:
+- **SBA 7(a) loan**: 10-year term, Prime + 2–2.75%, 10–20% down, up to $5M loan
+- **Seller financing**: 5–10 year term, 5–7% interest, 10–30% of purchase price, flexible terms
+- **Cash**: No debt, full control, but requires significant capital
+- **Blend**: Combination of SBA loan + seller note + cash down
+
+**Why it matters**: Your financing strategy determines deal structure, negotiation leverage, and monthly cash flow obligations. Seller financing is buyer-friendly (lower down payment, flexible terms) but requires seller willingness. SBA loans are reliable but require strong financials and collateral.
+
+**How to set it**: Decide your default structure. Most buyers prefer: 10–15% cash down + 60–70% SBA loan + 20–30% seller note.
+
+**Example**: "I prefer deals structured with 15% down, 65% SBA 7(a) loan, and 20% seller financing over 7 years."
+
+---
+
+### **9. Maximum Acceptable Seller Dependence**
+
+**What it is**: How dependent the business is on the current owner's personal involvement, relationships, or expertise.
+
+**Why it matters**: Founder-dependent businesses are risky. If all customer relationships, key decisions, and tribal knowledge live in the owner's head, the business's value evaporates the day they leave. You're buying a business, not renting the founder's brain.
+
+**Spectrum**:
+- **High dependence**: Owner is the only salesperson, only technician, only one who knows how to do the work. **Avoid unless you're willing to rebuild.**
+- **Medium dependence**: Owner is heavily involved but has a small team. Transition will take 90–180 days. **Acceptable if priced accordingly.**
+- **Low dependence**: Business has managers, documented SOPs, and runs without daily owner involvement. **Ideal.**
+
+**How to set it**: Decide your tolerance. Most buyers should avoid high-dependence businesses unless they have relevant industry experience and plan to operate full-time.
+
+**Example**: "I will only consider businesses where the owner works fewer than 30 hours per week and has at least one manager in place."
+
+---
+
+### **10. Industry Focus**
+
+**What it is**: The types of businesses or industries you'll target.
+
+**Why it matters**: Focus creates expertise. If you evaluate 50 plumbing companies, you'll learn the key value drivers, typical margins, common risks, and fair pricing. If you evaluate random businesses across ten industries, you'll stay a perpetual novice.
+
+**Best industries for first-time buyers**:
+- **Blue-collar services**: HVAC, plumbing, electrical, landscaping, cleaning, pest control
+- **B2B services**: Janitorial, staffing, marketing agencies, IT support
+- **Niche services**: Property management, equipment rental, mobile services
+
+**Avoid** (for first-timers):
+- Restaurants (low margins, high failure rates)
+- Retail (dying industry, inventory risk)
+- Franchises (restrictive agreements, ongoing fees)
+- Manufacturing (complex, capital-intensive)
+
+**How to set it**: Pick 1–3 industries and commit to learning them deeply.
+
+**Example**: "I will only pursue HVAC, plumbing, and electrical service businesses."
+
+---
+
+### **11. Geography**
+
+**What it is**: Where you're willing to buy and operate a business.
+
+**Why it matters**: If you're planning to be a hands-on operator, you need proximity. Trying to run a local service business from 500 miles away is a recipe for disaster. If you're buying absentee, geography matters less—but you still need to visit occasionally.
+
+**Options**:
+- **Local only**: Within 30 miles of your home. Easy to visit, manage, and integrate.
+- **Regional**: Within 2-hour drive. Manageable for weekly check-ins.
+- **National**: Anywhere. Requires absentee or semi-absentee model with strong local management.
+
+**How to set it**: Match geography to your role. Full-time operators should stay local. Absentee buyers can go national.
+
+**Example**: "I will only buy businesses within 50 miles of my home in Austin, TX."
+
+---
+
+### **12. Must-Haves**
+
+**What it is**: Non-negotiable features the business must have.
+
+**Why it matters**: Must-haves protect you from chasing deals that look good on paper but don't fit your goals. They create discipline and filter out distractions.
+
+**Common must-haves**:
+- **Recurring revenue**: At least 30% of revenue from recurring contracts or subscriptions
+- **Recession-resistant**: Business performs well even in economic downturns (e.g., HVAC, plumbing, essential services)
+- **Contracts**: Long-term customer contracts (1–3 years)
+- **Transferable**: Licenses, permits, and operations are easily transferable to a new owner
+- **Profitable margins**: Net margin ≥ 15%
+
+**How to set it**: List 2–4 features that are non-negotiable for you.
+
+**Example**: "The business must have at least 25% recurring revenue and net margins above 18%."
+
+---
+
+### **13. Cannot-Stands / Exclusion Criteria**
+
+**What it is**: Deal-breakers. Industries, business models, or characteristics you will not tolerate under any circumstances.
+
+**Why it matters**: Exclusion criteria save you time. They prevent you from wasting hours evaluating businesses you'll never buy.
+
+**Common exclusions**:
+- **Restaurants**: Brutal hours, low margins, high failure rates
+- **Retail**: Declining industry, heavy inventory, Amazon risk
+- **Franchises**: Restrictive agreements, ongoing royalties, limited autonomy
+- **Medical/licensed professions**: Require specific credentials you don't have
+- **Seasonal businesses**: Revenue concentrated in 3–4 months (landscaping, ski resorts, tax prep)
+- **High liability**: Industries with significant lawsuit risk (childcare, elder care)
+- **Highly regulated**: Cannabis, alcohol, firearms (complex compliance)
+
+**How to set it**: List industries or features you will never touch.
+
+**Example**: "I will not buy restaurants, franchises, or any business requiring professional licensing (medical, legal, accounting)."
+
+---
+
+### **14. Minimum Years in Business**
+
+**What it is**: The minimum operating history you require.
+
+**Why it matters**: Businesses under 3 years old are still in survival mode. They haven't weathered economic cycles, proven repeatability, or developed stable customer bases. Banks also hesitate to lend on businesses with short track records.
+
+**How to set it**: Most buyers require at least **3 years of operating history**. Conservative buyers require 5–10 years.
+
+**Example**: "I will only consider businesses that have been operating for at least 5 years."
+
+**Red flag**: A 2-year-old business with "explosive growth." Growth is great, but you're buying history and predictability, not hope.
+
+---
+
+### **15. Maximum Acceptable Team Size**
+
+**What it is**: The largest employee count you're willing to manage.
+
+**Why it matters**: Managing 5 employees is fundamentally different from managing 50. Larger teams require HR infrastructure, payroll systems, benefits administration, management layers, and compliance complexity. If you've never managed people, starting with a 40-person team is overwhelming.
+
+**How to set it**: Be honest about your management experience. First-time buyers should target **5–15 employees**. Experienced operators can handle 20–50+.
+
+**Example**: "I will not buy a business with more than 20 employees."
+
+**Sweet spot for first-timers**: 8–15 employees. Big enough to have systems and key people, small enough to learn quickly.
 
 **If a deal doesn't fit your Deal Box, it's a pass. No exceptions.**
 
