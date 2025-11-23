@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The South Dakota Dynasty Trust represents the cornerstone of the The Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
+The South Dakota Dynasty Trust represents the cornerstone of the Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
 Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries [Beneficiary 1], [Beneficiary 2], [Beneficiary 3], and Ikechukwu Polycarp Nnamdi Ohu [Primary Principal]â€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
@@ -1274,7 +1274,7 @@ Certain provisions are required by law or are essential for trust effectiveness.
 
 **Example Language**:
 ```
-This trust shall be known as "The Legacy Codex Trust" 
+This trust shall be known as "Legacy Codex Trust" 
 and shall be identified by Tax ID Number [EIN].
 ```
 
@@ -2416,6 +2416,7 @@ By understanding these concepts, you are prepared to form and administer a South
 ---
 
 **END OF CHAPTER 4**
+
 
 
 

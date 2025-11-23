@@ -1,4 +1,4 @@
-# Cold Call Introduction Script
+﻿# Cold Call Introduction Script
 
 ## Purpose
 
@@ -175,5 +175,6 @@ This script provides a proven framework for cold calling prospects to introduce 
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 

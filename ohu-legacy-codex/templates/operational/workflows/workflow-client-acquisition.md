@@ -1,4 +1,4 @@
-# Client Acquisition Workflow
+﻿# Client Acquisition Workflow
 
 ## Purpose
 
@@ -138,4 +138,5 @@ Applies to all sales and business development activities for [COMPANY NAME].
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+

@@ -1,4 +1,4 @@
-# Monthly Cash Flow Statement Template
+﻿# Monthly Cash Flow Statement Template
 
 ## Purpose
 
@@ -110,7 +110,7 @@ This template provides a comprehensive monthly Cash Flow Statement for tracking 
 | Petty Cash | $[AMOUNT] | $[AMOUNT] | $[AMOUNT] |
 | **Total Cash** | **$[AMOUNT]** | **$[AMOUNT]** | **$[AMOUNT]** |
 
-**Reconciliation**: Cash at End of Period = Total Cash from Bank Statements ✓
+**Reconciliation**: Cash at End of Period = Total Cash from Bank Statements âœ“
 
 ---
 
@@ -207,7 +207,7 @@ This template provides a comprehensive monthly Cash Flow Statement for tracking 
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
 ```
 
 ## Example
@@ -233,4 +233,5 @@ This template provides a comprehensive monthly Cash Flow Statement for tracking 
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 

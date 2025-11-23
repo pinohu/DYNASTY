@@ -1,4 +1,4 @@
-# Facebook/Meta Ads Copy Template
+﻿# Facebook/Meta Ads Copy Template
 
 ## Purpose
 
@@ -114,7 +114,8 @@ This template provides frameworks for writing effective Facebook and Instagram a
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 
 
 

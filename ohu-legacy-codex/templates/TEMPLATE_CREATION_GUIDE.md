@@ -1,8 +1,8 @@
-# Template Creation Guide
+﻿# Template Creation Guide
 
 ## Overview
 
-This guide provides systematic instructions for creating the remaining 1,000+ templates for the The Legacy Codex. Use this guide to ensure consistency, completeness, and quality across all templates.
+This guide provides systematic instructions for creating the remaining 1,000+ templates for the Legacy Codex. Use this guide to ensure consistency, completeness, and quality across all templates.
 
 ## Template Creation Process
 
@@ -193,24 +193,24 @@ Templates must be saved in the correct directory:
 
 ```
 templates/
-├── legal/
-│   ├── trusts/
-│   ├── entities/
-│   ├── real-estate/
-│   └── contracts/
-├── financial/
-│   ├── statements/
-│   ├── budgets/
-│   ├── forecasts/
-│   └── tax/
-├── operational/
-│   ├── sops/
-│   ├── workflows/
-│   └── processes/
-└── marketing/
-    ├── emails/
-    ├── scripts/
-    └── proposals/
+â”œâ”€â”€ legal/
+â”‚   â”œâ”€â”€ trusts/
+â”‚   â”œâ”€â”€ entities/
+â”‚   â”œâ”€â”€ real-estate/
+â”‚   â””â”€â”€ contracts/
+â”œâ”€â”€ financial/
+â”‚   â”œâ”€â”€ statements/
+â”‚   â”œâ”€â”€ budgets/
+â”‚   â”œâ”€â”€ forecasts/
+â”‚   â””â”€â”€ tax/
+â”œâ”€â”€ operational/
+â”‚   â”œâ”€â”€ sops/
+â”‚   â”œâ”€â”€ workflows/
+â”‚   â””â”€â”€ processes/
+â””â”€â”€ marketing/
+    â”œâ”€â”€ emails/
+    â”œâ”€â”€ scripts/
+    â””â”€â”€ proposals/
 ```
 
 ## File Naming Conventions
@@ -220,10 +220,10 @@ templates/
 - **Use hyphens**: Separate words with hyphens (not underscores or spaces)
 - **Be descriptive**: Name should clearly indicate template purpose
 - **Examples**:
-  - `dynasty-trust-template.md` ✓
-  - `profit-loss-monthly.md` ✓
-  - `sop-client-onboarding.md` ✓
-  - `email-client-welcome.md` ✓
+  - `dynasty-trust-template.md` âœ“
+  - `profit-loss-monthly.md` âœ“
+  - `sop-client-onboarding.md` âœ“
+  - `email-client-welcome.md` âœ“
 
 ## Version Control
 
@@ -387,5 +387,6 @@ If stuck on a template:
 
 ---
 
-*This guide is version 1.0 and was created for the The Legacy Codex.*
+*This guide is version 1.0 and was created for the Legacy Codex.*
+
 

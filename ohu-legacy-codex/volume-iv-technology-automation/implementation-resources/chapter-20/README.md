@@ -1,6 +1,6 @@
-# Chapter 20 Implementation Resources
+﻿# Chapter 20 Implementation Resources
 
-This directory contains the implementation resources for **Chapter 20: Automation Architecture** of the The Legacy Codex.
+This directory contains the implementation resources for **Chapter 20: Automation Architecture** of the Legacy Codex.
 
 ## Contents
 
@@ -18,3 +18,4 @@ This directory contains the implementation resources for **Chapter 20: Automatio
 3.  Follow Phase 2 to deploy Activepieces using the provided Docker and Nginx files.
 4.  Use `custom-functions.js` when implementing code steps in Activepieces or Make.com.
 5.  Refer to `integration-map.md` to understand how data flows between systems.
+

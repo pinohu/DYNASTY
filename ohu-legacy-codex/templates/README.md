@@ -1,31 +1,31 @@
-# EMPIRE TEMPLATES & FORMS LIBRARY
+﻿# EMPIRE TEMPLATES & FORMS LIBRARY
 
 ## Overview
 
-This directory contains all production-ready templates, forms, and fillable documents referenced throughout the The Legacy Codex. The library includes over 1,000 templates organized by category.
+This directory contains all production-ready templates, forms, and fillable documents referenced throughout the Legacy Codex. The library includes over 1,000 templates organized by category.
 
 ## Directory Structure
 
 ```
 templates/
-├── legal/
-│   ├── trusts/
-│   ├── entities/
-│   ├── real-estate/
-│   └── contracts/
-├── financial/
-│   ├── statements/
-│   ├── budgets/
-│   ├── forecasts/
-│   └── tax/
-├── operational/
-│   ├── sops/
-│   ├── workflows/
-│   └── processes/
-└── marketing/
-    ├── emails/
-    ├── scripts/
-    └── proposals/
+â”œâ”€â”€ legal/
+â”‚   â”œâ”€â”€ trusts/
+â”‚   â”œâ”€â”€ entities/
+â”‚   â”œâ”€â”€ real-estate/
+â”‚   â””â”€â”€ contracts/
+â”œâ”€â”€ financial/
+â”‚   â”œâ”€â”€ statements/
+â”‚   â”œâ”€â”€ budgets/
+â”‚   â”œâ”€â”€ forecasts/
+â”‚   â””â”€â”€ tax/
+â”œâ”€â”€ operational/
+â”‚   â”œâ”€â”€ sops/
+â”‚   â”œâ”€â”€ workflows/
+â”‚   â””â”€â”€ processes/
+â””â”€â”€ marketing/
+    â”œâ”€â”€ emails/
+    â”œâ”€â”€ scripts/
+    â””â”€â”€ proposals/
 ```
 
 ## Template Standards
@@ -60,4 +60,5 @@ See `TEMPLATE_INDEX.md` for complete listing of all templates.
 
 - **v1.0** (2024): Initial template library creation
 - Templates updated annually for legal/tax changes
+
 

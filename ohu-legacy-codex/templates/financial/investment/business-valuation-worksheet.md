@@ -1,4 +1,4 @@
-# Business Valuation Worksheet
+﻿# Business Valuation Worksheet
 
 ## Purpose
 
@@ -185,7 +185,7 @@ This template helps estimate the value of a business using multiple valuation me
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
 ```
 
 ## Example
@@ -209,6 +209,7 @@ This template helps estimate the value of a business using multiple valuation me
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 
 

@@ -1,4 +1,4 @@
-# Real Estate Property Analysis Worksheet
+﻿# Real Estate Property Analysis Worksheet
 
 ## Purpose
 
@@ -119,18 +119,18 @@ This template helps evaluate real estate investment opportunities by calculating
 
 ### Return on Investment (ROI)
 
-**ROI** = (Annual Cash Flow / Total Cash Invested) × 100
-**ROI** = ($[AMOUNT] / $[AMOUNT]) × 100 = **[PERCENTAGE]%**
+**ROI** = (Annual Cash Flow / Total Cash Invested) Ã— 100
+**ROI** = ($[AMOUNT] / $[AMOUNT]) Ã— 100 = **[PERCENTAGE]%**
 
 ### Capitalization Rate (Cap Rate)
 
-**Cap Rate** = (Net Operating Income / Purchase Price) × 100
-**Cap Rate** = ($[AMOUNT] / $[AMOUNT]) × 100 = **[PERCENTAGE]%**
+**Cap Rate** = (Net Operating Income / Purchase Price) Ã— 100
+**Cap Rate** = ($[AMOUNT] / $[AMOUNT]) Ã— 100 = **[PERCENTAGE]%**
 
 ### Cash-on-Cash Return
 
-**Cash-on-Cash** = (Annual Cash Flow / Total Cash Invested) × 100
-**Cash-on-Cash** = ($[AMOUNT] / $[AMOUNT]) × 100 = **[PERCENTAGE]%**
+**Cash-on-Cash** = (Annual Cash Flow / Total Cash Invested) Ã— 100
+**Cash-on-Cash** = ($[AMOUNT] / $[AMOUNT]) Ã— 100 = **[PERCENTAGE]%**
 
 ### Debt Service Coverage Ratio (DSCR)
 
@@ -205,7 +205,7 @@ This template helps evaluate real estate investment opportunities by calculating
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
 ```
 
 ## Example
@@ -229,6 +229,7 @@ This template helps evaluate real estate investment opportunities by calculating
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 
 

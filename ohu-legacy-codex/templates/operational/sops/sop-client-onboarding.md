@@ -1,4 +1,4 @@
-# SOP: Client Onboarding Process
+﻿# SOP: Client Onboarding Process
 
 ## Purpose
 
@@ -310,5 +310,6 @@ If issues arise during onboarding:
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 

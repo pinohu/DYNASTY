@@ -1,4 +1,4 @@
-# Business Deduction Tracker
+﻿# Business Deduction Tracker
 
 ## Purpose
 
@@ -164,7 +164,7 @@ This template helps track business expenses throughout the year to maximize tax 
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
 ```
 
 ## Example
@@ -188,6 +188,7 @@ This template helps track business expenses throughout the year to maximize tax 
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 
 

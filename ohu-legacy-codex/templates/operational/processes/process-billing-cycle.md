@@ -1,4 +1,4 @@
-# Billing Cycle Process Map
+﻿# Billing Cycle Process Map
 
 ## Purpose
 
@@ -7,7 +7,7 @@ This process map outlines the complete billing cycle from invoice generation thr
 ## Process Overview
 
 ```
-Service Delivery → Invoice Generation → Invoice Delivery → Payment Monitoring → Payment Application → Reconciliation → Collections (if needed)
+Service Delivery â†’ Invoice Generation â†’ Invoice Delivery â†’ Payment Monitoring â†’ Payment Application â†’ Reconciliation â†’ Collections (if needed)
 ```
 
 ## Detailed Process Steps
@@ -209,7 +209,8 @@ Service Delivery → Invoice Generation → Invoice Delivery → Payment Monitor
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 
 
 

@@ -1,7 +1,7 @@
-# Wyoming LLC Formation Checklist
+﻿# Wyoming LLC Formation Checklist
 
 ## Purpose
-This checklist ensures complete and proper formation of Wyoming LLCs for the The Legacy Codex.
+This checklist ensures complete and proper formation of Wyoming LLCs for the Legacy Codex.
 
 ## Pre-Formation
 
@@ -85,4 +85,5 @@ This checklist ensures complete and proper formation of Wyoming LLCs for the The
 - EIN can be obtained immediately online
 - Operating Agreement should be created within 90 days of formation
 - All documents should be retained permanently
+
 

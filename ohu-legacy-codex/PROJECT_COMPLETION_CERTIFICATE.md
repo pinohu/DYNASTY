@@ -1,10 +1,10 @@
-﻿# The Legacy Codex: Project Completion Certificate
+﻿# Legacy Codex: Project Completion Certificate
 
 ## Certificate of Completion
 
-This certifies that the **The Legacy Codex** has been completed to production-ready standards.
+This certifies that the **Legacy Codex** has been completed to production-ready standards.
 
-**Project Name**: The Legacy Codex  
+**Project Name**: Legacy Codex  
 **Completion Date**: November 18, 2025  
 **Status**: âœ… **COMPLETE**
 
@@ -63,7 +63,7 @@ This certifies that the **The Legacy Codex** has been completed to production-re
 
 **âœ… COMPLETE AND PRODUCTION-READY**
 
-The Legacy Codex is a comprehensive, integrated operating system ready for implementation. All volumes have been written, verified, and integrated into a cohesive framework designed to guide the Ohu Family for the next 365 years.
+Legacy Codex is a comprehensive, integrated operating system ready for implementation. All volumes have been written, verified, and integrated into a cohesive framework designed to guide the Ohu Family for the next 365 years.
 
 ---
 
@@ -73,6 +73,7 @@ The Legacy Codex is a comprehensive, integrated operating system ready for imple
 
 ---
 
-*This certificate verifies that the The Legacy Codex meets all completion criteria and is ready for use.*
+*This certificate verifies that the Legacy Codex meets all completion criteria and is ready for use.*
+
 
 

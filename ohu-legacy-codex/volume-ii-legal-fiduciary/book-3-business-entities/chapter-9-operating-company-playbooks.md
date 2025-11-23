@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Operating companies are the revenue-generating engines of the The Legacy Codex. This chapter provides comprehensive playbooks for each operating company: RegIntel Advisors (consulting), Notroom Services (professional services), TaxEar Advisory (tax practice), and Directory Companies (digital assets).
+Operating companies are the revenue-generating engines of the Legacy Codex. This chapter provides comprehensive playbooks for each operating company: RegIntel Advisors (consulting), Notroom Services (professional services), TaxEar Advisory (tax practice), and Directory Companies (digital assets).
 
 Each playbook covers service offerings, pricing strategies, client acquisition, service delivery, quality control, compliance requirements, and growth strategies. By following these playbooks, you will ensure consistent, high-quality service delivery while maximizing revenue and profitability.
 
@@ -1566,5 +1566,6 @@ By following these playbooks, you will ensure consistent, high-quality service d
 **END OF CHAPTER 9**
 
 **END OF VOLUME II: LEGAL & FIDUCIARY STRUCTURES**
+
 
 

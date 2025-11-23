@@ -1,8 +1,8 @@
-# Chapter 54: Continuous Optimization
+﻿# Chapter 54: Continuous Optimization
 
 ## Introduction
 
-In the The Legacy Codex, "good enough" is the enemy of "great." The completion of a system or the launch of a business is not the finish line—it is the starting line for optimization. Continuous Optimization is the disciplined, relentless pursuit of incremental improvement. It is the application of the Japanese concept of *Kaizen* to every facet of the empire.
+In the Legacy Codex, "good enough" is the enemy of "great." The completion of a system or the launch of a business is not the finish lineâ€”it is the starting line for optimization. Continuous Optimization is the disciplined, relentless pursuit of incremental improvement. It is the application of the Japanese concept of *Kaizen* to every facet of the empire.
 
 This chapter provides the framework for systematically elevating the performance of your businesses, systems, finances, and organization. It moves beyond troubleshooting (fixing what is broken) to optimization (perfecting what is working).
 
@@ -136,3 +136,4 @@ Repeat. Forever.
 ---
 
 **Chapter 54 Complete**
+

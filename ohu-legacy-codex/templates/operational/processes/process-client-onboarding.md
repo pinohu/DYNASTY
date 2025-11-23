@@ -1,4 +1,4 @@
-# Client Onboarding Process Map
+﻿# Client Onboarding Process Map
 
 ## Purpose
 
@@ -7,7 +7,7 @@ This process map provides a visual and detailed breakdown of the client onboardi
 ## Process Overview
 
 ```
-Contract Signed → Welcome → Information Collection → Kickoff → Setup → Training → First Delivery → Check-In → Complete
+Contract Signed â†’ Welcome â†’ Information Collection â†’ Kickoff â†’ Setup â†’ Training â†’ First Delivery â†’ Check-In â†’ Complete
 ```
 
 ## Detailed Process Steps
@@ -226,7 +226,8 @@ Contract Signed → Welcome → Information Collection → Kickoff → Setup →
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 
 
 

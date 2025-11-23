@@ -4,7 +4,7 @@
 
 Accounting looks backward; Financial Planning & Analysis (FP&A) looks forward. Accounting tells you what happened; FP&A tells you what *will* happen and how to change it.
 
-This chapter details the systems for budgeting, forecasting, and analyzing the financial health of the The Legacy Codex. It transforms raw accounting data into strategic intelligence that enables proactive decision-making, risk management, and capital allocation.
+This chapter details the systems for budgeting, forecasting, and analyzing the financial health of the Legacy Codex. It transforms raw accounting data into strategic intelligence that enables proactive decision-making, risk management, and capital allocation.
 
 FP&A is not about creating pretty spreadsheetsâ€”it's about building a financial planning system that gives you the foresight to make better decisions, allocate capital wisely, and navigate uncertainty with confidence. When executed properly, FP&A becomes your competitive advantage, allowing you to see opportunities and threats before your competitors do.
 
@@ -689,4 +689,5 @@ The next chapter (Chapter 30: Tax Strategy Implementation) will detail how to op
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** Financial Tracker, Dashboard, Cross-volume references complete
+
 

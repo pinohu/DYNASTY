@@ -1,4 +1,4 @@
-# Intellectual Property License Agreement Template
+﻿# Intellectual Property License Agreement Template
 
 ## Purpose
 
@@ -254,7 +254,7 @@ Licensee shall use Licensed IP trademarks in accordance with:
 
 (a) Licensor's trademark usage guidelines;
 
-(b) Proper trademark notices (™, ®, etc.);
+(b) Proper trademark notices (â„¢, Â®, etc.);
 
 (c) Licensor's style guide (if any);
 
@@ -489,7 +489,7 @@ Date: _______________
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex. All legal templates must be reviewed by qualified counsel before use.*
+*This template is version 1.0 and was created for the Legacy Codex. All legal templates must be reviewed by qualified counsel before use.*
 ```
 
 ## Example
@@ -515,4 +515,5 @@ Date: _______________
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 

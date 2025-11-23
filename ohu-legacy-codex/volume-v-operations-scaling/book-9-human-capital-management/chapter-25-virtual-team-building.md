@@ -1,12 +1,12 @@
-# Chapter 25: Virtual Team Building
+﻿# Chapter 25: Virtual Team Building
 
 ## Introduction
 
-The Legacy Codex is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
+Legacy Codex is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
 
-Virtual team building is not about finding "cheap labor." It's about accessing global talent pools, creating 24/5 operational coverage, and building a scalable workforce that grows with your empire. The systems in this chapter have been battle-tested across hundreds of virtual team members, refined through iteration, and integrated with the North Star Dashboard v3 and Empire Automation – Financial Tracker to ensure every hire is tracked, measured, and optimized.
+Virtual team building is not about finding "cheap labor." It's about accessing global talent pools, creating 24/5 operational coverage, and building a scalable workforce that grows with your empire. The systems in this chapter have been battle-tested across hundreds of virtual team members, refined through iteration, and integrated with the North Star Dashboard v3 and Empire Automation â€“ Financial Tracker to ensure every hire is tracked, measured, and optimized.
 
-We are not looking for "cheap labor." We are looking for "global talent." The distinction is critical. We treat our virtual assistants (VAs) and remote team members as professionals, invest in their growth, and integrate them into the empire's culture. When executed properly, virtual teams become your competitive advantage—delivering high-quality work at a fraction of the cost while providing flexibility and scalability that traditional hiring cannot match.
+We are not looking for "cheap labor." We are looking for "global talent." The distinction is critical. We treat our virtual assistants (VAs) and remote team members as professionals, invest in their growth, and integrate them into the empire's culture. When executed properly, virtual teams become your competitive advantageâ€”delivering high-quality work at a fraction of the cost while providing flexibility and scalability that traditional hiring cannot match.
 
 This chapter is organized into four comprehensive sections: VA Recruitment Mastery (Section 25.1), VA Training Systems (Section 25.2), VA Management Framework (Section 25.3), and VA Scaling Strategies (Section 25.4). Each section includes detailed workflows, templates, metrics, and integration points with the broader Dynasty systems.
 
@@ -103,7 +103,7 @@ A generic job post attracts generic candidates. Your post must filter out the no
 
 **2. The Hook (First Paragraph)**
 - **Purpose:** Capture attention and set expectations
-- **Example:** "We're building a $10M+ empire and need a world-class Executive Assistant who wants to grow with us. This isn't just a job—it's a career opportunity with a family-owned business that values long-term relationships."
+- **Example:** "We're building a $10M+ empire and need a world-class Executive Assistant who wants to grow with us. This isn't just a jobâ€”it's a career opportunity with a family-owned business that values long-term relationships."
 - **Key Elements:**
   - Vision (what you're building)
   - Role importance (why it matters)
@@ -275,7 +275,7 @@ The screening process is a funnel designed to filter candidates progressively, s
 - **Personality:** Professional yet personable, enthusiasm, confidence
 - **Presentation:** Clean background, good lighting, professional appearance
 
-**Why It Works:** Video reveals what text cannot—personality, communication style, and cultural fit. It also tests their ability to use modern tools.
+**Why It Works:** Video reveals what text cannotâ€”personality, communication style, and cultural fit. It also tests their ability to use modern tools.
 
 **Stage 4: Test Project (Eliminates 40-50%)**
 
@@ -1013,11 +1013,11 @@ Applies to all customer invoices for services rendered. Excludes vendor invoices
 - [ ] Invoice number is sequential and correct
 
 ## Common Mistakes
-- ❌ Wrong client selected
-- ❌ Incorrect pricing applied
-- ❌ Missing line items
-- ❌ Wrong payment terms
-- ❌ Invoice not synced to QBO
+- âŒ Wrong client selected
+- âŒ Incorrect pricing applied
+- âŒ Missing line items
+- âŒ Wrong payment terms
+- âŒ Invoice not synced to QBO
 
 ## Troubleshooting
 **Issue:** Invoice not syncing to QBO
@@ -1411,7 +1411,7 @@ When: Soon
 - **Use:** Estimate future tasks, identify bottlenecks
 
 **Quality-Adjusted Productivity:**
-- **Calculation:** (Tasks completed × Quality score) / Hours worked
+- **Calculation:** (Tasks completed Ã— Quality score) / Hours worked
 - **Use:** Balance speed and quality
 
 #### Productivity Improvement
@@ -1972,10 +1972,10 @@ Create a matrix showing:
 #### ROI Tracking
 
 **Calculate VA ROI:**
-- Value of work completed (your hourly rate × hours saved)
+- Value of work completed (your hourly rate Ã— hours saved)
 - Minus VA cost (salary + overhead)
 - Equals net value
-- ROI = (Net Value / VA Cost) × 100
+- ROI = (Net Value / VA Cost) Ã— 100
 
 **Target ROI:**
 - Entry VAs: 3-5x ROI
@@ -2009,7 +2009,7 @@ Create a matrix showing:
 - Cost tracking
 - Quality metrics
 
-### Empire Automation – Financial Tracker Integration
+### Empire Automation â€“ Financial Tracker Integration
 
 **Budget Tracking:**
 - Recruitment and onboarding costs
@@ -2119,7 +2119,7 @@ Create a matrix showing:
 
 ## Conclusion
 
-Virtual team building is not a cost center—it's a competitive advantage. When executed properly, virtual teams provide access to global talent, 24/5 operational coverage, and scalable workforce that grows with your empire. The systems in this chapter have been battle-tested and refined to ensure every hire is tracked, measured, and optimized.
+Virtual team building is not a cost centerâ€”it's a competitive advantage. When executed properly, virtual teams provide access to global talent, 24/5 operational coverage, and scalable workforce that grows with your empire. The systems in this chapter have been battle-tested and refined to ensure every hire is tracked, measured, and optimized.
 
 Remember: We are not looking for "cheap labor." We are looking for "global talent." Treat your VAs as professionals, invest in their growth, and integrate them into your culture. The result will be a high-performing team that extends your capabilities and accelerates your empire's growth.
 
@@ -2132,3 +2132,4 @@ The next chapter (Chapter 26: US Team Development) will detail how to build a co
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** North Star Dashboard v3, Financial Tracker, Cross-volume references complete
+

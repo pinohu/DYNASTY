@@ -1,4 +1,4 @@
-# Google Ads Copy Template
+﻿# Google Ads Copy Template
 
 ## Purpose
 
@@ -149,7 +149,8 @@ Test one element at a time:
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 
 
 

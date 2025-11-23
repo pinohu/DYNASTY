@@ -1,4 +1,4 @@
-# Volume III: Revenue Generation Engines
+﻿# Volume III: Revenue Generation Engines
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Volume I established the Vision. Volume II built the Fortress. Volume III builds
 
 A dynasty without revenue is just a philosophy club. To sustain a 365-year vision, you need massive, consistent, and growing cash flow. You need to generate enough capital to fund the trust, acquire assets, and support the family's lifestyle without dipping into principal.
 
-This volume is the tactical playbook for the Legacy Codex's three primary revenue engines:
+This volume is the tactical playbook for Legacy Codex's three primary revenue engines:
 1.  **Professional Services**: High-cash-flow, skill-based businesses (Notary, Tax, Consulting).
 2.  **Digital Assets**: Scalable, low-overhead directory businesses.
 3.  **Real Estate**: The bedrock of long-term wealth and tax efficiency.
@@ -50,4 +50,5 @@ This volume is dense with tactical details. Do not attempt to launch everything 
 3.  Acquire the physical assets (Book 6).
 
 **Revenue is vanity, profit is sanity, but cash flow is reality.** Let's get to work.
+
 

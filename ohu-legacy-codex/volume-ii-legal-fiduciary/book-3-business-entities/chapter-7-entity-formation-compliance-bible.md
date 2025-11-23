@@ -4,7 +4,7 @@
 
 Proper entity formation and ongoing compliance are fundamental to protecting your business assets and maintaining legal standing. This chapter provides a comprehensive guide to forming Wyoming entities, creating proper documentation, establishing inter-entity agreements, and maintaining compliance calendars.
 
-For the The Legacy Codex, proper entity structure provides asset protection, tax optimization, and operational flexibility. Understanding how to form entities correctly, document them properly, and maintain compliance ensures your business structure remains effective and protected.
+For the Legacy Codex, proper entity structure provides asset protection, tax optimization, and operational flexibility. Understanding how to form entities correctly, document them properly, and maintain compliance ensures your business structure remains effective and protected.
 
 This chapter covers every aspect of entity formation and compliance, from initial formation through ongoing maintenance. By following this guide, you will ensure your entities are properly formed, documented, and maintained for long-term success.
 
@@ -2325,5 +2325,6 @@ By following this guide, you will ensure your entities are properly formed, docu
 **END OF CHAPTER 7**
 
 *This chapter provides the complete guide to entity formation and compliance. Follow these procedures meticulously to ensure proper entity structure and ongoing compliance. Review this chapter when forming new entities and annually for compliance maintenance.*
+
 
 

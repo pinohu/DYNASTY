@@ -4,7 +4,7 @@
 
 A business empire without a prepared family is a ticking time bomb. History is littered with dynasties that crumbled because the wealth grew faster than the family's ability to manage it. The Vanderbilts, the Rockefellers' early generations, and countless others serve as cautionary tales of wealth without wisdom.
 
-Chapter 3 establishes the **Human Operating System** of the Legacy Codex. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
+Chapter 3 establishes the **Human Operating System** of Legacy Codex. It defines who we are, how we raise our children, and how we pass the torch. Our goal is not just to leave money to our children, but to leave children who are worthy of the money.
 
 This chapter addresses four critical questions:
 1. **Who are we as a family?** (Section 3.1: The the Ohu Family Mission)
@@ -1389,6 +1389,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 **Chapter 3 Complete**
 
 *This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empireâ€”without prepared family members, no amount of wealth or business success will preserve The Enterprise across generations.*
+
 
 
 

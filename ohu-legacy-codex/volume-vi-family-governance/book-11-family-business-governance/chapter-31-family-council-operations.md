@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Family Council serves as the constitutional body that governs the The Legacy Codexâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
+The Family Council serves as the constitutional body that governs the Legacy Codexâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
 
 This chapter provides a complete operational framework for establishing and running a Family Council that will guide your dynasty for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
 
@@ -1152,6 +1152,7 @@ In the next chapter, we'll explore how to educate your children in business prin
 - Word Count: ~10,500 words
 - Pages: ~35 pages
 - Status: Production-ready
+
 
 
 

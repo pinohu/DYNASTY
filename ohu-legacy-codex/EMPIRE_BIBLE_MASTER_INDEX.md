@@ -1,8 +1,8 @@
-﻿# The Legacy Codex: Master Index
+﻿# Legacy Codex: Master Index
 
 ## Introduction
 
-Welcome to the **The Legacy Codex**. This is the comprehensive operating manual for building, managing, and preserving a multi-generational family empire. It is designed to guide the Ohu Family for the next 365 years.
+Welcome to the **Legacy Codex**. This is the comprehensive operating manual for building, managing, and preserving a multi-generational family empire. It is designed to guide the Ohu Family for the next 365 years.
 
 **Total Scope:** 10 Volumes | 18 Books | 54+ Chapters | ~1,500+ Pages
 
@@ -154,6 +154,7 @@ Welcome to the **The Legacy Codex**. This is the comprehensive operating manual 
 **Status**: All Volumes Complete âœ…
 **Final Verification**: Complete
 **Production Ready**: Yes & Linked
+
 
 
 

@@ -1,8 +1,8 @@
-# Appendix B: Calculators & Tools
+﻿# Appendix B: Calculators & Tools
 
 ## Introduction
 
-This appendix provides the logic and frameworks for the essential financial calculators used in the The Legacy Codex. While these are presented here as formulas and concepts, they should be implemented as spreadsheets (Excel/Google Sheets) or built into your SuiteDash portal for daily use.
+This appendix provides the logic and frameworks for the essential financial calculators used in the Legacy Codex. While these are presented here as formulas and concepts, they should be implemented as spreadsheets (Excel/Google Sheets) or built into your SuiteDash portal for daily use.
 
 ---
 
@@ -132,4 +132,5 @@ $$ \text{Value} = \text{EBITDA} \times \text{Multiple} $$
 ---
 
 **Appendix B Complete**
+
 

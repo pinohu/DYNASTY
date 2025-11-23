@@ -4,7 +4,7 @@
 
 If SuiteDash is the brain, **Automation** is the nervous system that fires the signals. Automation is the only way to scale a service business without scaling headcount linearly. It allows you to perform the work of 10 people with a team of 2.
 
-This chapter details the "No-Code" automation architecture for the Legacy Codex. We will use a combination of **KonnectzIT** (for cost-effective, high-volume tasks), **Activepieces** (for self-hosted reliability), and **Make.com** (for complex logic). By layering these tools, we create a redundant, powerful system that handles everything from lead intake to client onboarding.
+This chapter details the "No-Code" automation architecture for Legacy Codex. We will use a combination of **KonnectzIT** (for cost-effective, high-volume tasks), **Activepieces** (for self-hosted reliability), and **Make.com** (for complex logic). By layering these tools, we create a redundant, powerful system that handles everything from lead intake to client onboarding.
 
 ---
 
@@ -299,7 +299,7 @@ Theory is good; recipes are better. Below are the specific, copy-paste automatio
 
 ## Chapter 20 Summary
 
-Automation is leverage. By building a robust architecture using KonnectzIT, Activepieces, and Make, you create a system that works 24/7/365 without complaint. This infrastructure allows the Legacy Codex to scale revenue without scaling chaos.
+Automation is leverage. By building a robust architecture using KonnectzIT, Activepieces, and Make, you create a system that works 24/7/365 without complaint. This infrastructure allows Legacy Codex to scale revenue without scaling chaos.
 
 **Key Takeaways**:
 1.  **Right Tool for the Job**: Use KonnectzIT for simple/cheap tasks, Make for complex logic, Activepieces for backup.
@@ -316,4 +316,5 @@ Automation is leverage. By building a robust architecture using KonnectzIT, Acti
 ---
 
 **END OF CHAPTER 20**
+
 

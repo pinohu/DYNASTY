@@ -1,6 +1,6 @@
-# Chapter 21 Implementation Resources
+﻿# Chapter 21 Implementation Resources
 
-This directory contains the implementation resources for **Chapter 21: AI Implementation Strategy**. These files provide the templates, code, and guides needed to deploy AI across the The Legacy Codex.
+This directory contains the implementation resources for **Chapter 21: AI Implementation Strategy**. These files provide the templates, code, and guides needed to deploy AI across the Legacy Codex.
 
 ## Files
 
@@ -20,4 +20,5 @@ This directory contains the implementation resources for **Chapter 21: AI Implem
 2.  **Get API Keys**: Sign up for OpenAI and Anthropic to get your API keys.
 3.  **Use Prompts**: Copy and paste prompts from `ai_prompts.md` into your AI tools or automation workflows.
 4.  **Deploy Code**: Use `api_integration.py` as a starting point for custom AI scripts or backend integrations.
+
 

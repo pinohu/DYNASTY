@@ -1,7 +1,7 @@
-# KonnectzIT Workflows
+﻿# KonnectzIT Workflows
 
 ## Overview
-KonnectzIT is the primary automation hub for the The Legacy Codex. It handles real-time data synchronization between SuiteDash and external tools.
+KonnectzIT is the primary automation hub for the Legacy Codex. It handles real-time data synchronization between SuiteDash and external tools.
 
 ## Setup Checklist
 - [ ] **Create Account**: Log in to KonnectzIT.
@@ -52,4 +52,5 @@ KonnectzIT is the primary automation hub for the The Legacy Codex. It handles re
 - **Retry Logic**: Enable auto-retry for failed API calls (3 attempts).
 - **Notifications**: Send email/Slack alert on workflow failure.
 - **Logging**: Maintain a log of all failed executions for review.
+
 

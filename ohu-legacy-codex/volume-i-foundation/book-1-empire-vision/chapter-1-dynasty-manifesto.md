@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the **The Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
+Welcome to the **Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
 
 In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Dynasty**. A dynasty is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
 
@@ -22,7 +22,7 @@ These questions are not rhetorical exercises. They are the decision-making frame
 
 ### The Philosophy of "Forever"
 
-The Legacy Codex is founded on the **365-Year Vision**. This number is not arbitrary. It represents a commitment that extends beyond the lifespan of any single individual, spanning roughly 12 to 15 generations. It aligns with the maximum perpetuity periods allowed by the most favorable trust jurisdictions (such as South Dakota), signaling our intent to create wealth that is **perpetual**.
+Legacy Codex is founded on the **365-Year Vision**. This number is not arbitrary. It represents a commitment that extends beyond the lifespan of any single individual, spanning roughly 12 to 15 generations. It aligns with the maximum perpetuity periods allowed by the most favorable trust jurisdictions (such as South Dakota), signaling our intent to create wealth that is **perpetual**.
 
 **Why 365 Years?**
 
@@ -357,7 +357,7 @@ Every major decision (capital allocation >$50,000, new business launch, major hi
 
 ## 1.3 Success Metrics & Definitions
 
-In the Legacy Codex, "Wealth" is a four-dimensional concept. We track our success across four capitals, because financial wealth without human, intellectual, and social capital is incomplete and unsustainable.
+In Legacy Codex, "Wealth" is a four-dimensional concept. We track our success across four capitals, because financial wealth without human, intellectual, and social capital is incomplete and unsustainable.
 
 ### Defining "Wealth" in The Enterprise Context
 
@@ -562,7 +562,7 @@ We use a weighted scoring system to evaluate overall Empire health:
 
 ## 1.4 The Empire Constitution
 
-This Constitution serves as the supreme law of the Legacy Codex. It is divided into **Foundational Laws** (Immutable) and **Operational Guidelines** (Amendable). This Constitution takes precedence over all other documents, except where superseded by applicable law.
+This Constitution serves as the supreme law of Legacy Codex. It is divided into **Foundational Laws** (Immutable) and **Operational Guidelines** (Amendable). This Constitution takes precedence over all other documents, except where superseded by applicable law.
 
 ### Article I: Foundational Laws (Immutable)
 
@@ -822,6 +822,7 @@ In extreme emergencies, Operational Guidelines may be temporarily suspended by:
 **Chapter 1 Complete**
 
 *This chapter establishes the philosophical foundation for the entire Empire. Every subsequent volume builds upon these principles. Review this chapter annually to ensure alignment with Empire operations.*
+
 
 
 

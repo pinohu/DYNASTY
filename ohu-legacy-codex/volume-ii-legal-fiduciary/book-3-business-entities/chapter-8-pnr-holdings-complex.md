@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The PNR Holdings Complex serves as the master treasury and capital allocation hub for the The Legacy Codex. This chapter provides comprehensive guidance on operating PNR Holdings LLC as the master operations center, CXI LLC as the S-Corporation management hub, Obuke LLC as the real estate empire, and ToriMedia as the IP fortress.
+The PNR Holdings Complex serves as the master treasury and capital allocation hub for the Legacy Codex. This chapter provides comprehensive guidance on operating PNR Holdings LLC as the master operations center, CXI LLC as the S-Corporation management hub, Obuke LLC as the real estate empire, and ToriMedia as the IP fortress.
 
 Each entity in the complex serves a specific purpose: PNR Holdings manages treasury and capital allocation, CXI provides shared services and payroll optimization, Obuke holds and manages real estate assets, and ToriMedia protects and monetizes intellectual property. Understanding how to operate each entity effectively is essential for maximizing the empire's financial performance and tax efficiency.
 
@@ -2184,5 +2184,6 @@ By following this guide, you will ensure optimal operation of your entity struct
 ---
 
 **END OF CHAPTER 8**
+
 
 

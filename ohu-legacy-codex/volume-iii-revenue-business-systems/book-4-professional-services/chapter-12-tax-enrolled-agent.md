@@ -1,8 +1,8 @@
-# Chapter 12: Tax & Enrolled Agent Services
+﻿# Chapter 12: Tax & Enrolled Agent Services
 
 ## Introduction
 
-TaxEar Advisory LLC represents the "high authority" pillar of the The Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
+TaxEar Advisory LLC represents the "high authority" pillar of the Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
 
 This status elevates the entire brand ecosystem. It allows you to offer high-margin advisory services, defend your own real estate strategies (like REPS and Cost Segregation), and capture the recurring revenue of tax preparation and bookkeeping. This chapter outlines the path from exam preparation to building a scalable tax practice.
 
@@ -62,7 +62,7 @@ The Special Enrollment Examination (SEE) is a three-part exam. Passing it is the
 
 ## Section 12.2: Tax Practice Development
 
-Once licensed, you need clients. But not just any clients—you want high-value clients.
+Once licensed, you need clients. But not just any clientsâ€”you want high-value clients.
 
 ### Niche Selection
 
@@ -354,3 +354,4 @@ TaxEar Advisory is the prestige brand. The EA license gives you a seat at the ta
 **END OF CHAPTER 12**
 
 **END OF BOOK 4: PROFESSIONAL SERVICES MASTERY**
+

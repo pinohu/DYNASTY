@@ -4,7 +4,7 @@
 
 ### The Fortress of the Empire
 
-If Volume I: Foundation & Philosophy is the "soul" of the The Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"â€”the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
+If Volume I: Foundation & Philosophy is the "soul" of the Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"â€”the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
 
 You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Dynasty Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
 
@@ -54,5 +54,6 @@ The structures you build here are the vessels that will carry your legacy across
 ## Implementation Warning
 
 The strategies in this volume involve sophisticated legal and tax concepts. While this Bible provides the blueprint, **execution requires qualified professionals**. Do not attempt to draft your own trust documents or file complex entity elections without professional review. Use this volume to direct your advisors, not to replace them.
+
 
 

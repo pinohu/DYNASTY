@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The language of empire building involves specialized terminology from law, finance, technology, and business. This glossary defines key terms used throughout the Legacy Codex to ensure clarity and common understanding among family members and team members.
+The language of empire building involves specialized terminology from law, finance, technology, and business. This glossary defines key terms used throughout Legacy Codex to ensure clarity and common understanding among family members and team members.
 
 ---
 
@@ -66,5 +66,6 @@ The language of empire building involves specialized terminology from law, finan
 ---
 
 **Appendix D Complete**
+
 
 

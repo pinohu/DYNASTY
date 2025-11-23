@@ -1,4 +1,4 @@
-# Monthly Profit & Loss Statement Template
+﻿# Monthly Profit & Loss Statement Template
 
 ## Purpose
 
@@ -231,7 +231,7 @@ This template provides a comprehensive monthly Profit & Loss (P&L) statement for
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
 ```
 
 ## Example
@@ -257,4 +257,5 @@ This template provides a comprehensive monthly Profit & Loss (P&L) statement for
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 

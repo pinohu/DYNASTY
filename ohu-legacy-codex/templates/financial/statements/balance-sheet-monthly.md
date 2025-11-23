@@ -1,4 +1,4 @@
-# Monthly Balance Sheet Template
+﻿# Monthly Balance Sheet Template
 
 ## Purpose
 
@@ -139,7 +139,7 @@ This template provides a comprehensive monthly Balance Sheet for tracking assets
 **Equity**: $[AMOUNT]  
 **Liabilities + Equity**: $[AMOUNT]  
 
-**Balance Check**: Assets = Liabilities + Equity ✓
+**Balance Check**: Assets = Liabilities + Equity âœ“
 
 ---
 
@@ -177,7 +177,7 @@ This template provides a comprehensive monthly Balance Sheet for tracking assets
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
 ```
 
 ## Example
@@ -203,4 +203,5 @@ This template provides a comprehensive monthly Balance Sheet for tracking assets
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 

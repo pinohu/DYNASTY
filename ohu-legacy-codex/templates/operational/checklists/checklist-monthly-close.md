@@ -1,4 +1,4 @@
-# Monthly Close Checklist
+﻿# Monthly Close Checklist
 
 ## Purpose
 
@@ -226,5 +226,6 @@ This checklist ensures all monthly closing tasks are completed accurately and ti
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 

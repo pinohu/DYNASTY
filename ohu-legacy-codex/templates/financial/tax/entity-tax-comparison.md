@@ -1,4 +1,4 @@
-# Entity Tax Comparison Worksheet
+﻿# Entity Tax Comparison Worksheet
 
 ## Purpose
 
@@ -107,9 +107,9 @@ This template helps compare tax implications of different entity structures (LLC
 ## ADDITIONAL CONSIDERATIONS
 
 ### Liability Protection
-- [ ] LLC: ✅ Limited liability
-- [ ] S-Corp: ✅ Limited liability
-- [ ] C-Corp: ✅ Limited liability
+- [ ] LLC: âœ… Limited liability
+- [ ] S-Corp: âœ… Limited liability
+- [ ] C-Corp: âœ… Limited liability
 
 ### Compliance Requirements
 - [ ] LLC: Minimal (varies by state)
@@ -143,7 +143,7 @@ This template helps compare tax implications of different entity structures (LLC
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex. Tax analysis should be reviewed by qualified tax professionals.*
+*This template is version 1.0 and was created for the Legacy Codex. Tax analysis should be reviewed by qualified tax professionals.*
 ```
 
 ## Example
@@ -167,6 +167,7 @@ This template helps compare tax implications of different entity structures (LLC
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 
 
 

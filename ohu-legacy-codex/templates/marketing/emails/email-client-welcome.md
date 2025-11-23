@@ -1,4 +1,4 @@
-# Client Welcome Email Template
+﻿# Client Welcome Email Template
 
 ## Purpose
 
@@ -263,5 +263,6 @@ Best regards,
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 

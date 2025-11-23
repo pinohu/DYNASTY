@@ -4,7 +4,7 @@
 
 Strategic architecture is the bridge between vision and execution. While Chapter 1 established *why* we build the Empire and *what* values guide us, this chapter defines *how* we build it strategically.
 
-The Legacy Codex operates across three time horizons simultaneously. We must generate cash flow today while accumulating assets for tomorrow, all while preserving the foundation for generations to come. This requires a sophisticated strategic framework that balances immediate needs with long-term preservation.
+Legacy Codex operates across three time horizons simultaneously. We must generate cash flow today while accumulating assets for tomorrow, all while preserving the foundation for generations to come. This requires a sophisticated strategic framework that balances immediate needs with long-term preservation.
 
 This chapter provides the strategic decision-making frameworks that guide every major choice in the Empire:
 1. **The Three-Horizon Model** (Section 2.1): How we balance immediate, medium-term, and generational goals
@@ -1105,4 +1105,5 @@ When consolidating, use these strategies to strengthen the Empire:
 **Chapter 2 Complete**
 
 *This chapter provides the strategic frameworks that guide all Empire decisions. Review these frameworks annually and apply them to every major decision.*
+
 

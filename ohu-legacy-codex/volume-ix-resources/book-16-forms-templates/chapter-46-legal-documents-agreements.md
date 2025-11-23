@@ -6,7 +6,7 @@ The strength of the Ohu Family Enterprise lies not just in its assets, but in th
 
 This chapter serves as the central repository and user guide for the Empire's legal infrastructure. It does not replace legal counsel; rather, it provides the standardized templates and key clause explanations that allow you to direct your counsel efficiently. By understanding these templates and their purposes, you can work with your attorneys more effectively, reduce legal costs, and ensure consistency across all your legal structures.
 
-**Critical Disclaimer**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. The Legacy Codex assumes no liability for the use of these templates without proper legal review. Laws vary by state and change frequentlyâ€”what works in one jurisdiction may not work in another.
+**Critical Disclaimer**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. Legacy Codex assumes no liability for the use of these templates without proper legal review. Laws vary by state and change frequentlyâ€”what works in one jurisdiction may not work in another.
 
 We cover the four pillars of legal documentation: **Trusts** (Wealth Preservation), **Entities** (Business Operations), **Real Estate** (Asset Holding), and **Contracts** (Revenue Generation). Each section provides detailed template explanations, customization instructions, implementation checklists, and best practices.
 
@@ -2915,4 +2915,5 @@ All templates are located in the `empire-bible/templates/legal/` directory and s
 ---
 
 **Chapter 46 Complete: 15,000+ words | 50+ pages**
+
 

@@ -1,4 +1,4 @@
-# Single Member LLC Operating Agreement
+﻿# Single Member LLC Operating Agreement
 
 **THIS OPERATING AGREEMENT** is made and entered into as of [Date], by and between **[LLC Name]**, a Wyoming Limited Liability Company (the "Company"), and **[Member Name]** (the "Member").
 
@@ -12,7 +12,7 @@ The name of the Company is **[LLC Name]**. The principal place of business is [A
 The Company may engage in any lawful business for which limited liability companies may be organized under the Act.
 
 ## 4. Member
-The sole Member of the Company is **[Member Name]** (e.g., The Legacy Codex Trust).
+The sole Member of the Company is **[Member Name]** (e.g., Legacy Codex Trust).
 
 ## 5. Management
 The Company shall be **Manager-Managed**.
@@ -48,4 +48,5 @@ __________________________
 
 __________________________
 [Manager Name]
+
 

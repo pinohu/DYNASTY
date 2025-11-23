@@ -6,7 +6,7 @@ While the South Dakota Dynasty Trust serves as the foundation of your wealth pre
 
 Each of these trusts serves a specific purpose in your overall estate planning strategy. The ILIT removes life insurance from your estate, Children's Crummey Trusts facilitate annual exclusion gifting, CRTs provide charitable giving with income benefits, and GRATs transfer appreciating assets with minimal gift tax.
 
-For the The Legacy Codex, these subsidiary trusts work together with The Enterprise Trust to create a comprehensive wealth preservation and transfer strategy. Understanding how to form, fund, and administer each trust is essential for maximizing their benefits.
+For the Legacy Codex, these subsidiary trusts work together with The Enterprise Trust to create a comprehensive wealth preservation and transfer strategy. Understanding how to form, fund, and administer each trust is essential for maximizing their benefits.
 
 ---
 
@@ -1828,6 +1828,7 @@ Each trust serves a specific purpose in your overall estate planning strategy, w
 ---
 
 **END OF CHAPTER 6**
+
 
 
 

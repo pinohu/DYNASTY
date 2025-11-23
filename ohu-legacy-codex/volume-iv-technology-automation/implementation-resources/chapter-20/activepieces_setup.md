@@ -1,7 +1,7 @@
-# Activepieces Self-Hosting Setup Guide
+﻿# Activepieces Self-Hosting Setup Guide
 
 ## Overview
-Activepieces serves as the backup automation platform for the The Legacy Codex. Self-hosting ensures data sovereignty, cost control, and reliability.
+Activepieces serves as the backup automation platform for the Legacy Codex. Self-hosting ensures data sovereignty, cost control, and reliability.
 
 ## Prerequisites
 - **Server**: VPS (DigitalOcean, AWS, etc.) with 2+ vCPUs, 4GB+ RAM.
@@ -89,4 +89,5 @@ docker-compose up -d
 ## Maintenance
 - **Backup**: Regularly backup the `postgres_data` volume.
 - **Updates**: Run `docker-compose pull && docker-compose up -d` to update.
+
 

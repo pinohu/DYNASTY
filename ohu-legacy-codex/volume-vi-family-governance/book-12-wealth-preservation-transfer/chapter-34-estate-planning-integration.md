@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the The Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
+Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
 This chapter integrates estate planning with the broader dynasty framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a dynasty requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 
@@ -1174,6 +1174,7 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
     -   Current Age: 5
 
 *All beneficiary distributions and trust rights are subject to the terms defined in the South Dakota Dynasty Trust agreement.*
+
 
 
 

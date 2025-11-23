@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Volume X represents the "immune system" and the "evolutionary engine" of the The Legacy Codex. While previous volumes focused on building, structuring, and operating the empire, this volume focuses on **protecting it from decay** and **propelling it toward perfection**.
+Volume X represents the "immune system" and the "evolutionary engine" of the Legacy Codex. While previous volumes focused on building, structuring, and operating the empire, this volume focuses on **protecting it from decay** and **propelling it toward perfection**.
 
 No system is perfect. Entropy is the natural enemy of order. Without active troubleshooting and continuous optimization, even the most robust empires will eventually stagnate and decline. This volume provides the protocols to detect issues early, resolve conflicts decisively, and continuously upgrade every aspect of the operation.
 
@@ -42,4 +42,5 @@ The goal of this volume is not just resilience (bouncing back), but **anti-fragi
 ---
 
 *Volume X serves as the guardian of the Empire's longevity and the engine of its future growth.*
+
 

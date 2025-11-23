@@ -1,8 +1,8 @@
-# Master Services Agreement Template
+﻿# Master Services Agreement Template
 
 ## Purpose
 
-This template provides a comprehensive Master Services Agreement for inter-entity service arrangements within the The Legacy Codex structure. This agreement governs the provision of management, administrative, and other services from CXI LLC (the management company) to operating entities.
+This template provides a comprehensive Master Services Agreement for inter-entity service arrangements within the Legacy Codex structure. This agreement governs the provision of management, administrative, and other services from CXI LLC (the management company) to operating entities.
 
 **IMPORTANT**: This template must be reviewed and customized by qualified legal counsel before execution. Pricing and terms must comply with transfer pricing regulations.
 
@@ -512,7 +512,7 @@ Service Fees are established based on:
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex. All legal templates must be reviewed by qualified counsel before use.*
+*This template is version 1.0 and was created for the Legacy Codex. All legal templates must be reviewed by qualified counsel before use.*
 ```
 
 ## Example
@@ -536,4 +536,5 @@ Service Fees are established based on:
 **Version**: 1.0  
 **Last Updated**: [DATE]  
 **Next Review**: [DATE + 1 YEAR]
+
 

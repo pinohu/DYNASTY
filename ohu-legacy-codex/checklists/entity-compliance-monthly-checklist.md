@@ -1,7 +1,7 @@
-# Entity Compliance Monthly Checklist
+﻿# Entity Compliance Monthly Checklist
 
 ## Purpose
-This checklist ensures monthly compliance for all entities in the The Legacy Codex.
+This checklist ensures monthly compliance for all entities in the Legacy Codex.
 
 ## Daily Tasks
 
@@ -105,4 +105,5 @@ This checklist ensures monthly compliance for all entities in the The Legacy Cod
 - Documentation must be complete
 - Issues must be addressed promptly
 - Records must be maintained
+
 

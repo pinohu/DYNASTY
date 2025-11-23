@@ -4,7 +4,7 @@
 
 Finance is the language of business. If you do not speak it fluently, you cannot rule your empire. Accounting is not just about taxes; it is about visibility, control, and decision-making. A robust accounting system tells you the truth about your business performance, allowing you to double down on what works and cut what doesn't.
 
-This chapter details the setup and operation of the financial nervous system of the The Legacy Codex. We utilize **QuickBooks Online (QBO)** as our core ledger, integrated with our operational tools (SuiteDash, Financial Tracker, North Star Dashboard v3) for seamless data flow. This system provides real-time financial visibility, ensures compliance, and enables data-driven decision-making.
+This chapter details the setup and operation of the financial nervous system of the Legacy Codex. We utilize **QuickBooks Online (QBO)** as our core ledger, integrated with our operational tools (SuiteDash, Financial Tracker, North Star Dashboard v3) for seamless data flow. This system provides real-time financial visibility, ensures compliance, and enables data-driven decision-making.
 
 The "Financial Truth Engine" is what we call our accounting systemâ€”it tells you exactly what's happening in your business, when it's happening, and why. Without it, you're flying blind. With it, you have the visibility and control needed to scale from startup to $10M+ and beyond.
 
@@ -846,4 +846,5 @@ The next chapter (Chapter 29: Financial Planning & Analysis) will detail how to 
 - **Pages:** ~40 pages
 - **Status:** Production-ready
 - **Integration:** QuickBooks Online, SuiteDash, Financial Tracker, Dashboard complete
+
 

@@ -4,7 +4,7 @@
 
 Once your South Dakota Dynasty Trust is formed and funded, proper administration becomes critical to its success. This chapter provides a comprehensive manual for trust administration, covering annual requirements, distribution standards, investment policies, and trust protector operations.
 
-Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For the Legacy Codex Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
+Effective trust administration ensures compliance with all legal and tax requirements, proper distribution to beneficiaries, sound investment management, and ongoing trust protection. For Legacy Codex Trust, proper administration will preserve wealth for 365+ years while providing for beneficiaries' needs.
 
 This manual serves as your complete guide to trust administration, providing step-by-step procedures, templates, checklists, and best practices. By following this manual, you will ensure your dynasty trust operates effectively and achieves its long-term goals.
 
@@ -1841,6 +1841,7 @@ By following this manual, you will ensure proper trust administration that prese
 ---
 
 **END OF CHAPTER 5**
+
 
 
 

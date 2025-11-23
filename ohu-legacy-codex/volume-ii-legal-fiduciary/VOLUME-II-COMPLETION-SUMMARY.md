@@ -7,7 +7,7 @@
 
 ## EXECUTIVE SUMMARY
 
-Volume II establishes the "Fortress" of the The Legacy Codex. It moves beyond the philosophical foundation of Volume I into the concrete legal and fiduciary structures required to protect and perpetuate wealth for 365 years.
+Volume II establishes the "Fortress" of the Legacy Codex. It moves beyond the philosophical foundation of Volume I into the concrete legal and fiduciary structures required to protect and perpetuate wealth for 365 years.
 
 This volume provides the blueprints for the **South Dakota Dynasty Trust** (the vault) and the **PNR Holdings Complex** (the engine), ensuring that the empire is legally robust, tax-efficient, and protected from external threats.
 
@@ -47,4 +47,5 @@ This volume provides the blueprints for the **South Dakota Dynasty Trust** (the 
 With the legal foundation secure, the next phase is **Volume III: Revenue Generation Engines**. We will move from *protecting* wealth to *generating* it at scale.
 
 **Proceed to Volume III.**
+
 

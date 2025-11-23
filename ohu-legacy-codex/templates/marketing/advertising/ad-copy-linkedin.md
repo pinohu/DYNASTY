@@ -1,4 +1,4 @@
-# LinkedIn Ads Copy Template
+﻿# LinkedIn Ads Copy Template
 
 ## Purpose
 
@@ -57,9 +57,9 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 > "Our latest study of [NUMBER] [TARGET AUDIENCE] reveals [KEY FINDING].
 > 
 > Key insights:
-> • [INSIGHT 1]
-> • [INSIGHT 2]
-> • [INSIGHT 3]
+> â€¢ [INSIGHT 1]
+> â€¢ [INSIGHT 2]
+> â€¢ [INSIGHT 3]
 > 
 > Download the full report to see how this impacts your business."
 
@@ -75,9 +75,9 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 > "[CLIENT NAME], a [INDUSTRY] company, was struggling with [PROBLEM].
 > 
 > After implementing our [SOLUTION], they achieved:
-> • [RESULT 1]
-> • [RESULT 2]
-> • [RESULT 3]
+> â€¢ [RESULT 1]
+> â€¢ [RESULT 2]
+> â€¢ [RESULT 3]
 > 
 > Read the full case study to see how we can help your business."
 
@@ -93,9 +93,9 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 > "Learn how [TARGET AUDIENCE] are [ACHIEVING RESULT] in this free webinar.
 > 
 > You'll discover:
-> • [LEARNING POINT 1]
-> • [LEARNING POINT 2]
-> • [LEARNING POINT 3]
+> â€¢ [LEARNING POINT 1]
+> â€¢ [LEARNING POINT 2]
+> â€¢ [LEARNING POINT 3]
 > 
 > Featuring [SPEAKER NAME], [TITLE]. Limited seats available."
 
@@ -149,7 +149,8 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 
 ---
 
-*This template is version 1.0 and was created for the The Legacy Codex.*
+*This template is version 1.0 and was created for the Legacy Codex.*
+
 
 
 
