@@ -1,4 +1,5 @@
 import { create } from "zustand";
+import { supabase } from "@/lib/supabase";
 
 interface BusinessData {
   companyName: string;
@@ -134,6 +135,7 @@ interface Roadmap {
 }
 
 interface HormoziStore {
+  // Data
   businessData: BusinessData;
   grandSlamOffer: GrandSlamOffer;
   leadGeneration: LeadGeneration;
@@ -142,6 +144,14 @@ interface HormoziStore {
   scalingPath: ScalingPath;
   iceProjects: ICEProject[];
   roadmap: Roadmap;
+  
+  // Cloud Sync State
+  isSyncing: boolean;
+  lastSynced: Date | null;
+  error: string | null;
+  profileId: string | null;
+
+  // Setters
   setBusinessData: (data: Partial<BusinessData>) => void;
   setGrandSlamOffer: (data: Partial<GrandSlamOffer>) => void;
   setLeadGeneration: (data: Partial<LeadGeneration>) => void;
@@ -150,6 +160,10 @@ interface HormoziStore {
   setScalingPath: (data: Partial<ScalingPath>) => void;
   setICEProjects: (projects: ICEProject[]) => void;
   setRoadmap: (data: Partial<Roadmap>) => void;
+
+  // Cloud Actions
+  saveToCloud: () => Promise<void>;
+  loadFromCloud: (profileId: string) => Promise<void>;
 }
 
 const defaultBusinessData: BusinessData = {
@@ -165,8 +179,10 @@ const loadFromStorage = (): Partial<HormoziStore> => {
   if (typeof window === "undefined") return {};
   try {
     const stored = localStorage.getItem("hormozi-framework-storage");
-    if (!stored) return {};
-    return JSON.parse(stored) as Partial<HormoziStore>;
+    const profileId = localStorage.getItem("empire-profile-id");
+    if (!stored) return { profileId: profileId || null };
+    const parsed = JSON.parse(stored);
+    return { ...parsed, profileId: profileId || null };
   } catch (error) {
     console.error("Failed to parse stored data, resetting to defaults:", error);
     localStorage.removeItem("hormozi-framework-storage");
@@ -176,13 +192,19 @@ const loadFromStorage = (): Partial<HormoziStore> => {
 
 const saveToStorage = (state: HormoziStore) => {
   if (typeof window === "undefined") return;
-  localStorage.setItem("hormozi-framework-storage", JSON.stringify(state));
+  // Filter out functions and sync state before saving
+  const { isSyncing, lastSynced, error, profileId, ...dataToSave } = state;
+  localStorage.setItem("hormozi-framework-storage", JSON.stringify(dataToSave));
+  if (state.profileId) {
+      localStorage.setItem("empire-profile-id", state.profileId);
+  }
 };
 
-export const useHormoziStore = create<HormoziStore>()((set) => {
+export const useHormoziStore = create<HormoziStore>()((set, get) => {
   const initialState = loadFromStorage();
   
   return {
+      // Initial State
       businessData: initialState.businessData || defaultBusinessData,
       grandSlamOffer: initialState.grandSlamOffer || {
         currentOffer: "",
@@ -225,6 +247,14 @@ export const useHormoziStore = create<HormoziStore>()((set) => {
         month2: { weeks: [], reflection: [] },
         month3: { weeks: [], reflection: [] },
       },
+      
+      // Cloud State
+      isSyncing: false,
+      lastSynced: null,
+      error: null,
+      profileId: initialState.profileId || null,
+
+      // Setters
       setBusinessData: (data) =>
         set((state) => {
           const newState = {
@@ -294,7 +324,86 @@ export const useHormoziStore = create<HormoziStore>()((set) => {
           saveToStorage(newState);
           return newState;
         }),
+
+      // Cloud Actions
+      saveToCloud: async () => {
+          const state = get();
+          set({ isSyncing: true, error: null });
+
+          try {
+            // Extract data to save
+            const { isSyncing, lastSynced, error, profileId, ...dataToSave } = state;
+            const payload = {
+                company_name: state.businessData.companyName,
+                industry: state.businessData.industry,
+                current_offer: state.businessData.currentOffer,
+                data: dataToSave
+            };
+
+            let result;
+            
+            if (state.profileId) {
+                // Update existing
+                result = await supabase
+                    .from('business_profiles')
+                    .update(payload)
+                    .eq('id', state.profileId)
+                    .select()
+                    .single();
+            } else {
+                // Insert new
+                result = await supabase
+                    .from('business_profiles')
+                    .insert([payload])
+                    .select()
+                    .single();
+            }
+
+            if (result.error) throw result.error;
+
+            set({ 
+                isSyncing: false, 
+                lastSynced: new Date(),
+                profileId: result.data.id 
+            });
+            
+            // Persist the new ID
+            saveToStorage({ ...state, profileId: result.data.id });
+
+          } catch (err: any) {
+              console.error("Cloud sync error:", err);
+              set({ isSyncing: false, error: err.message });
+          }
+      },
+
+      loadFromCloud: async (profileId: string) => {
+          set({ isSyncing: true, error: null });
+          try {
+              const { data, error } = await supabase
+                  .from('business_profiles')
+                  .select('*')
+                  .eq('id', profileId)
+                  .single();
+              
+              if (error) throw error;
+
+              // Merge cloud data with store
+              const cloudState = data.data as Partial<HormoziStore>;
+              set({ 
+                  ...cloudState, 
+                  profileId: data.id,
+                  isSyncing: false,
+                  lastSynced: new Date(data.updated_at)
+              });
+              
+              // Update local storage
+              saveToStorage({ ...get(), ...cloudState, profileId: data.id });
+
+          } catch (err: any) {
+              console.error("Cloud load error:", err);
+              set({ isSyncing: false, error: err.message });
+          }
+      }
     };
   }
 );
-

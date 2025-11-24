@@ -226,6 +226,7 @@ Transaction Coordination is the glue that holds the real estate empire together.
 - [See Chapter 16] Creative Financing Mastery (SubTo deals)
 - [See Volume II, Chapter 9] Operating Company Playbooks (Transaction Coordination)
 - [See Volume IV, Chapter 19] SuiteDash Command Center
+- [See Chapter 12.5] The Polymath Service Catalog (Detailed Pricing & Packaging)
 
 ---
 

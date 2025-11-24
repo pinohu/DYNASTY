@@ -27,6 +27,7 @@ This book focuses on **Horizon 1 (Cash Flow)**. It details how to maximize reven
 *   **Chapter 10**: Notary & RON Services Empire
 *   **Chapter 11**: Transaction Coordination Domination
 *   **Chapter 12**: Tax & Enrolled Agent Services
+*   **Chapter 12.5**: The Polymath Service Catalog & Empire Ecosystem
 
 #### Book 5: Directory Empire Blueprint
 This book focuses on **Horizon 2 (Asset Accumulation)**. It details the "Digital Real Estate" strategy.

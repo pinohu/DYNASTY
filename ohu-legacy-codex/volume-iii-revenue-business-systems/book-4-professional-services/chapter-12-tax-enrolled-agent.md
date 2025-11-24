@@ -368,6 +368,7 @@ TaxEar Advisory is the prestige brand. The EA license gives you a seat at the ta
 - [See Volume II, Chapter 9] Operating Company Playbooks (TaxEar Advisory)
 - [See Volume V, Chapter 30] Tax Strategy Implementation
 - [See Volume II, Chapter 7] Entity Formation & Compliance (S-Corp optimization)
+- [See Chapter 12.5] The Polymath Service Catalog (Detailed Pricing & Packaging)
 
 ---
 

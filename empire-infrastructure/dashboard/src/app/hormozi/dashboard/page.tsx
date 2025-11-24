@@ -1,6 +1,8 @@
 "use client";
 
+import { useEffect, useState } from "react";
 import { useHormoziStore } from "@/lib/hormozi-store";
+import { supabase } from "@/lib/supabase";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -14,8 +16,13 @@ import {
   Calendar,
   ArrowRight,
   Download,
+  Cloud,
+  Loader2,
+  Save,
+  LogOut
 } from "lucide-react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 export default function HormoziDashboard() {
   const {
@@ -27,7 +34,41 @@ export default function HormoziDashboard() {
     scalingPath,
     iceProjects,
     roadmap,
+    saveToCloud,
+    loadFromCloud,
+    isSyncing,
+    lastSynced,
+    profileId
   } = useHormoziStore();
+
+  const [user, setUser] = useState<any>(null);
+  const router = useRouter();
+
+  useEffect(() => {
+    // Check auth status
+    supabase.auth.getUser().then(({ data }) => {
+      setUser(data.user);
+      if (data.user) {
+        // If we have a user, try to load their profile if we don't have one loaded
+        // In a real app, we'd query the 'business_profiles' table for a record owned by this user
+        // For now, we rely on the store's profileId or creating a new one
+      }
+    });
+  }, []);
+
+  const handleSave = async () => {
+    if (!user) {
+      router.push("/auth/login");
+      return;
+    }
+    await saveToCloud();
+  };
+
+  const handleLogout = async () => {
+    await supabase.auth.signOut();
+    setUser(null);
+    router.refresh();
+  };
 
   const exportData = () => {
     const data = {
@@ -72,7 +113,8 @@ export default function HormoziDashboard() {
   return (
     <div className="min-h-screen bg-slate-50 dark:bg-slate-950">
       <div className="container mx-auto px-4 py-8">
-        <div className="mb-8 flex items-center justify-between">
+        {/* Header & Cloud Sync Bar */}
+        <div className="mb-8 flex flex-col md:flex-row md:items-center justify-between gap-4">
           <div>
             <h1 className="mb-2 text-4xl font-bold text-slate-900 dark:text-slate-50">
               Hormozi Framework Dashboard
@@ -81,10 +123,34 @@ export default function HormoziDashboard() {
               Complete overview of your business optimization plan
             </p>
           </div>
-          <Button onClick={exportData}>
-            <Download className="mr-2 h-4 w-4" />
-            Export Data
-          </Button>
+          
+          <div className="flex items-center gap-2">
+            {user ? (
+                <>
+                    <div className="text-xs text-right mr-2 hidden md:block">
+                        <div className="font-medium text-slate-900">{user.email}</div>
+                        <div className="text-slate-500">
+                            {lastSynced ? `Synced: ${lastSynced.toLocaleTimeString()}` : 'Not synced'}
+                        </div>
+                    </div>
+                    <Button onClick={handleSave} disabled={isSyncing}>
+                        {isSyncing ? <Loader2 className="mr-2 h-4 w-4 animate-spin" /> : <Save className="mr-2 h-4 w-4" />}
+                        {isSyncing ? 'Saving...' : 'Save to Cloud'}
+                    </Button>
+                    <Button variant="outline" size="icon" onClick={handleLogout} title="Logout">
+                        <LogOut className="h-4 w-4" />
+                    </Button>
+                </>
+            ) : (
+                <Button onClick={() => router.push("/auth/login")} variant="secondary">
+                    <Cloud className="mr-2 h-4 w-4" />
+                    Login to Sync
+                </Button>
+            )}
+            <Button variant="ghost" size="icon" onClick={exportData} title="Export JSON">
+                <Download className="h-4 w-4" />
+            </Button>
+          </div>
         </div>
 
         <Card className="mb-6">
@@ -339,4 +405,3 @@ export default function HormoziDashboard() {
     </div>
   );
 }
-

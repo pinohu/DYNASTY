@@ -312,6 +312,7 @@ Notroom Services is the cash flow ignition switch. By combining the high-touch s
 - [See Chapter 12] Tax & Enrolled Agent Services
 - [See Volume II, Chapter 9] Operating Company Playbooks (Notroom Services)
 - [See Volume IV, Chapter 19] SuiteDash Command Center
+- [See Chapter 12.5] The Polymath Service Catalog (Detailed Pricing & Packaging)
 
 ---
 

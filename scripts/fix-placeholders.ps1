@@ -70,3 +70,4 @@ $ac = $ac -replace "\[Support Link\]", "help.suitedash.com"
 $ac | Set-Content $appendixCPath -Encoding UTF8
 Write-Host "Updated Appendix C with instructions and recommendations."
 
+
