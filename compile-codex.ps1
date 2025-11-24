@@ -1,5 +1,6 @@
 # Legacy Codex Compilation Script
 # Compiles all chapters into master document
+# Version: 3.1 (Book-Ready Format)
 
 $outputFile = "Ohu_Legacy_Codex_Master.md"
 $chapters = @()
@@ -102,10 +103,12 @@ $coverPage = @"
 **Author**: Ikechukwu Ohu
 **Date**: November 23, 2025
 **Implementation Start**: December 1, 2025
-**Version**: 3.0 (Rebranded Complete)
+**Version**: 3.6 (Book-Ready Edition)
 **Compilation Date**: $(Get-Date -Format "MMMM dd, yyyy")
 **Total Chapters Compiled**: $($chapterOrder.Count)
-**Status**: Complete Compilation (All 54 chapters written)
+
+**Principals**: Ikechukwu Polycarp Nnamdi Ohu & Judith Huchukwuyem Ohu
+**Beneficiaries**: Ivan, Jeremy, Kikachukwu, Chimenime
 
 ---
 
@@ -125,8 +128,7 @@ This master document represents the complete compilation of **The Ohu Legacy Cod
 - Volume IX: Resources & References - ✅ Complete
 - Volume X: Troubleshooting & Optimization - ✅ Complete
 
----
-
+<div style="page-break-after: always;"></div>
 "@
 
 # Compile chapters
@@ -157,21 +159,28 @@ foreach ($appendix in $appendices) {
     $toc += "- [$($appendix.Title)](#$link)`n"
 }
 
-$compiledContent += $toc + "`n`n---`n`n"
+$compiledContent += $toc + "`n`n<div style='page-break-after: always;'></div>`n`n"
 
 # Read and append each chapter
 foreach ($chapter in $chapterOrder | Sort-Object Order) {
     if (Test-Path $chapter.Path) {
         Write-Host "Compiling: $($chapter.Title)"
         $content = Get-Content $chapter.Path -Raw
+        
+        # Remove existing H1 title if present to avoid duplicates
+        if ($content -match "^# ") {
+            # Remove first line (the existing header)
+            $content = $content -replace "^# .*?`r?`n", ""
+        }
+        
         $compiledContent += "`n`n# $($chapter.Title)`n`n"
         $compiledContent += $content
-        $compiledContent += "`n`n---`n`n"
+        $compiledContent += "`n`n<div style='page-break-after: always;'></div>`n`n"
     } else {
         Write-Host "Missing: $($chapter.Path)"
         $compiledContent += "`n`n# $($chapter.Title)`n`n"
         $compiledContent += "**[MISSING FILE: $($chapter.Path)]**"
-        $compiledContent += "`n`n---`n`n"
+        $compiledContent += "`n`n<div style='page-break-after: always;'></div>`n`n"
     }
 }
 
@@ -182,14 +191,20 @@ foreach ($appendix in $appendices) {
     if (Test-Path $appendix.Path) {
         Write-Host "Compiling: $($appendix.Title)"
         $content = Get-Content $appendix.Path -Raw
+        
+        # Remove existing H1 title if present
+        if ($content -match "^# ") {
+            $content = $content -replace "^# .*?`r?`n", ""
+        }
+        
         $compiledContent += "`n`n# $($appendix.Title)`n`n"
         $compiledContent += $content
-        $compiledContent += "`n`n---`n`n"
+        $compiledContent += "`n`n<div style='page-break-after: always;'></div>`n`n"
     } else {
         Write-Host "Missing: $($appendix.Path)"
         $compiledContent += "`n`n# $($appendix.Title)`n`n"
         $compiledContent += "**[MISSING FILE: $($appendix.Path)]**"
-        $compiledContent += "`n`n---`n`n"
+        $compiledContent += "`n`n<div style='page-break-after: always;'></div>`n`n"
     }
 }
 
@@ -209,4 +224,3 @@ $compiledContent | Out-File -FilePath $outputFile -Encoding UTF8
 
 Write-Host "`nCompilation complete! Output saved to: $outputFile"
 Write-Host "Total size: $([math]::Round((Get-Item $outputFile).Length/1KB, 2)) KB"
-
