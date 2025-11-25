@@ -271,3 +271,5 @@ Write-Host "`nCompilation complete! Output saved to: $outputFile"
 Write-Host "Total size: $([math]::Round((Get-Item $outputFile).Length/1KB, 2)) KB"
 
 
+
+

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Transaction Coordination (TC) is the operational backbone of the real estate industry. While agents focus on sales and relationships, TCs ensure the deal actually closes. For Notroom Services LLC, this is a natural evolution from notary work. You are already handling the final documents; moving upstream to manage the entire process captures more value and deepens your integration with real estate investors and agents.
+Transaction Coordination (TC) is the operational backbone of the real estate industry. While agents focus on sales and relationships, TCs ensure the deal actually closes. For Kwode LLC (dba Notroom Services), this is a natural evolution from notary work. You are already handling the final documents; moving upstream to manage the entire process captures more value and deepens your integration with real estate investors and agents.
 
 This chapter focuses specifically on "SubTo" (Subject-To) and creative finance coordination, a high-value niche where standard TCs fear to tread. By mastering the complexities of creative finance paperwork, you position Notroom Services as an indispensable partner to the most active investors in the market.
 

@@ -95,6 +95,31 @@ export const serviceCatalog: ServiceCategory[] = [
         time: "Passive",
         automation: "Robo-Hybrid",
       },
+      {
+        title: "Self-Directed IRA Setup",
+        price: "$2,500",
+        description: "Unlock your retirement funds for Real Estate & Crypto.",
+        features: ["LLC Formation", "Custodian Transfer", "Operating Agreement"],
+        time: "2 hrs",
+        automation: "Legal Templates",
+        highlight: true,
+      },
+      {
+        title: "Mega Backdoor Roth",
+        price: "$1,500",
+        description: "Structure your Solo 401k to stuff $69k/year into Roth.",
+        features: ["Plan Design", "Conversion Forms", "Contribution Math"],
+        time: "1 hr",
+        automation: "Calc Engine",
+      },
+      {
+        title: "Cost Segregation Study",
+        price: "$3,000 - $7,000",
+        description: "Accelerate depreciation to wipe out tax on Real Estate income.",
+        features: ["Engineering Report", "Form 3115", "Audit Defense"],
+        time: "Coordination",
+        automation: "Partner API",
+      },
     ],
   },
   {
@@ -160,4 +185,6 @@ export const serviceCatalog: ServiceCategory[] = [
     ],
   },
 ];
+
+
 

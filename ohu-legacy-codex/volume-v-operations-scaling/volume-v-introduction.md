@@ -12,7 +12,7 @@ This volume is divided into two critical books:
 An empire is only as strong as its people. Here, you will learn to build a "Virtual-First" workforce that leverages global talent arbitrage without sacrificing quality. We detail the systems for recruiting, training, and managing distributed teams (Chapter 25), developing a high-impact U.S. leadership nucleus (Chapter 26), and orchestrating the culture and performance systems that bind them together (Chapter 27).
 
 **Book 10: Financial Management**
-Financial literacy is the language of sovereignty. This book moves beyond basic bookkeeping to establish an enterprise-grade financial operating system. You will implement rigorous accounting controls (Chapter 28), deploy forward-looking FP&A systems to navigate uncertainty (Chapter 29), and execute sophisticated tax strategies to maximize wealth retention (Chapter 30).
+Financial literacy is the language of sovereignty. This book moves beyond basic bookkeeping to establish an enterprise-grade financial operating system. You will implement rigorous accounting controls (Chapter 28), deploy forward-looking FP&A systems to navigate uncertainty (Chapter 29), execute sophisticated tax strategies to maximize wealth retention (Chapter 30), and construct the advanced tax architecture of the ultra-wealthy (Chapter 31).
 
 Together, these books provide the operational "Operating System" (OS) that allows The Enterprise to scale from a single founder to a multi-generational institution. The systems described here are designed to be:
 - **Scalable:** Working as well for 50 employees as for 5.

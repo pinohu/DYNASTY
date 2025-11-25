@@ -1,7 +1,7 @@
 # Notary Fee Schedule Template
 
 ## Purpose
-This template provides a standard fee schedule for Notroom Services LLC, ensuring consistent pricing and profitability.
+This template provides a standard fee schedule for Kwode LLC (dba Notroom Services), ensuring consistent pricing and profitability.
 
 ## Mobile Notary Services
 
@@ -63,5 +63,5 @@ This template provides a standard fee schedule for Notroom Services LLC, ensurin
 ---
 
 **Effective Date**: [Date]
-**Notroom Services LLC**
+**Kwode LLC (dba Notroom Services)**
 

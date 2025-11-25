@@ -1,4 +1,4 @@
-﻿# Chapter 2: Strategic Architecture
+# Chapter 2: Strategic Architecture
 
 ## Introduction
 
@@ -412,7 +412,7 @@ Risk is inherent in all business activities. Our philosophy is not to avoid risk
 - IP in separate holding company
 - Personal assets protected by trusts
 
-**Example**: If Notroom Services LLC faces a lawsuit, it cannot reach PNR Holdings LLC or real estate assets. Risk is isolated.
+**Example**: If Kwode LLC (dba Notroom Services) faces a lawsuit, it cannot reach PNR Holdings LLC or real estate assets. Risk is isolated.
 
 #### Strategy 3: Insurance Protection
 
@@ -1006,29 +1006,29 @@ Different market cycles require different strategies:
 **Evaluate These Factors**:
 
 1. **Cash Flow Status** (Weight: 30%)
-   - Positive for 6+ months? â†’ Accelerate
-   - Negative or declining? â†’ Consolidate
+   - Positive for 6+ months? → Accelerate
+   - Negative or declining? → Consolidate
 
 2. **Reserve Levels** (Weight: 20%)
-   - 12+ months expenses? â†’ Accelerate
-   - <6 months expenses? â†’ Consolidate
+   - 12+ months expenses? → Accelerate
+   - <6 months expenses? → Consolidate
 
 3. **Market Conditions** (Weight: 20%)
-   - Expansion/Recovery phase? â†’ Accelerate
-   - Peak/Contraction phase? â†’ Consolidate
+   - Expansion/Recovery phase? → Accelerate
+   - Peak/Contraction phase? → Consolidate
 
 4. **Operational Health** (Weight: 15%)
-   - Systems working well? â†’ Accelerate
-   - Systems failing? â†’ Consolidate
+   - Systems working well? → Accelerate
+   - Systems failing? → Consolidate
 
 5. **Strategic Opportunities** (Weight: 15%)
-   - High-quality opportunities available? â†’ Accelerate
-   - No clear opportunities? â†’ Consolidate
+   - High-quality opportunities available? → Accelerate
+   - No clear opportunities? → Consolidate
 
 **Decision Rule**:
-- Score 7.5+ â†’ Accelerate Growth
-- Score 5.0-7.4 â†’ Maintain Current Pace
-- Score <5.0 â†’ Consolidate and Preserve
+- Score 7.5+ → Accelerate Growth
+- Score 5.0-7.4 → Maintain Current Pace
+- Score <5.0 → Consolidate and Preserve
 
 ### Defensive Positioning Strategies
 

@@ -1,10 +1,10 @@
-﻿# Chapter 10: Notary & RON Services Empire
+# Chapter 10: Notary & RON Services Empire
 
 ## Introduction
 
 Notary and Remote Online Notarization (RON) services represent the "immediate cash flow" engine of the Legacy Codex. Unlike other business models that require long lead times, notary services can generate revenue within days of launch. This chapter provides a comprehensive blueprint for building a scalable, high-margin notary empire that leverages both traditional mobile services and cutting-edge RON technology.
 
-For Notroom Services LLC, this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
+For Kwode LLC (dba Notroom Services), this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
 
 This chapter covers everything from traditional operations and RON scaling to Loan Signing Agent mastery and pricing optimization.
 

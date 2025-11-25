@@ -1266,7 +1266,7 @@ Risk is inherent in all business activities. Our philosophy is not to avoid risk
 - IP in separate holding company
 - Personal assets protected by trusts
 
-**Example**: If Notroom Services LLC faces a lawsuit, it cannot reach PNR Holdings LLC or real estate assets. Risk is isolated.
+**Example**: If Kwode LLC (dba Notroom Services) faces a lawsuit, it cannot reach PNR Holdings LLC or real estate assets. Risk is isolated.
 
 #### Strategy 3: Insurance Protection
 
@@ -9699,7 +9699,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
 **Option 2: Private Foundation**
 
 **Types**:
-- Family foundation
+- Origin Eyes (501c3)
 - Private foundation
 - Donor-advised fund
 
@@ -15715,7 +15715,7 @@ Practice setup establishes the foundation for TaxEar Advisory. This section cove
 **Setup Requirements**:
 
 **1. Entity Formation**
-- Form TaxEar Advisory LLC
+- Form Kwode LLC (dba TaxEar Advisory)
 - Obtain EIN
 - Set up banking
 - Establish structure

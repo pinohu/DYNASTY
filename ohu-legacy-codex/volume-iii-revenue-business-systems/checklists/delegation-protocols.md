@@ -86,3 +86,5 @@ This document defines the operational separation between **High-Value Strategy (
 
 **Goal**: Reduce your time per client from 20 hours to 2 hours, while maintaining $20k revenue.
 
+
+

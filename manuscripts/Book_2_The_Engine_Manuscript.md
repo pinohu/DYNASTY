@@ -23,7 +23,7 @@ This book is not a theory. It is the foundational operating manual of the Ohu Dy
 
 Notary and Remote Online Notarization (RON) services represent the "immediate cash flow" engine of the Legacy Codex. Unlike other business models that require long lead times, notary services can generate revenue within days of launch. This chapter provides a comprehensive blueprint for building a scalable, high-margin notary empire that leverages both traditional mobile services and cutting-edge RON technology.
 
-For Notroom Services LLC, this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
+For Kwode LLC (dba Notroom Services), this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
 
 This chapter covers everything from traditional operations and RON scaling to Loan Signing Agent mastery and pricing optimization.
 
@@ -345,7 +345,7 @@ Notroom Services is the cash flow ignition switch. By combining the high-touch s
 
 ## Introduction
 
-Transaction Coordination (TC) is the operational backbone of the real estate industry. While agents focus on sales and relationships, TCs ensure the deal actually closes. For Notroom Services LLC, this is a natural evolution from notary work. You are already handling the final documents; moving upstream to manage the entire process captures more value and deepens your integration with real estate investors and agents.
+Transaction Coordination (TC) is the operational backbone of the real estate industry. While agents focus on sales and relationships, TCs ensure the deal actually closes. For Kwode LLC (dba Notroom Services), this is a natural evolution from notary work. You are already handling the final documents; moving upstream to manage the entire process captures more value and deepens your integration with real estate investors and agents.
 
 This chapter focuses specifically on "SubTo" (Subject-To) and creative finance coordination, a high-value niche where standard TCs fear to tread. By mastering the complexities of creative finance paperwork, you position Notroom Services as an indispensable partner to the most active investors in the market.
 
@@ -582,7 +582,7 @@ Transaction Coordination is the glue that holds the real estate empire together.
 
 ## Introduction
 
-TaxEar Advisory LLC represents the "high authority" pillar of the Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
+Kwode LLC (dba TaxEar Advisory) represents the "high authority" pillar of the Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
 
 This status elevates the entire brand ecosystem. It allows you to offer high-margin advisory services, defend your own real estate strategies (like REPS and Cost Segregation), and capture the recurring revenue of tax preparation and bookkeeping. This chapter outlines the path from exam preparation to building a scalable tax practice.
 
@@ -938,7 +938,7 @@ TaxEar Advisory is the prestige brand. The EA license gives you a seat at the ta
 - [ ] Purchase Gleim EA Review System.
 - [ ] Schedule Part 1 Exam (set a date to force accountability).
 - [ ] Apply for PTIN (Preparer Tax Identification Number).
-- [ ] Register TaxEar Advisory LLC (if not done).
+- [ ] Register Kwode LLC (dba TaxEar Advisory) (if not done).
 
 ---
 

@@ -1,4 +1,4 @@
-﻿# THE OHU LEGACY CODEX
+# THE OHU LEGACY CODEX
 ## Architectural Blueprint for Intergenerational Sovereignty
 ### The Definitive Guide to Building, Operating, and Perpetuating a Multi-Generational $10M+ Business Enterprise
 
@@ -301,9 +301,9 @@ This is the single source of truth for the Ohu Family Enterprise.
 
 ## Introduction to Volume I
 
-Volume I: Foundation & Philosophy establishes the philosophical and strategic foundation for the Legacy Codexâ€”a multi-generational business enterprise designed to generate $10M+ in annual revenue while preserving and growing wealth across 365 years.
+Volume I: Foundation & Philosophy establishes the philosophical and strategic foundation for the Legacy Codex—a multi-generational business enterprise designed to generate $10M+ in annual revenue while preserving and growing wealth across 365 years.
 
-This volume is not theoretical philosophyâ€”it is practical architecture. Every principle, every framework, every system connects directly to operational decisions, legal structures, and family governance protocols detailed in subsequent volumes. Volume I provides the foundation upon which all other systems rest.
+This volume is not theoretical philosophy—it is practical architecture. Every principle, every framework, every system connects directly to operational decisions, legal structures, and family governance protocols detailed in subsequent volumes. Volume I provides the foundation upon which all other systems rest.
 
 ### The Purpose of Volume I
 
@@ -517,7 +517,7 @@ Strategic Architecture transforms the philosophical foundation into actionable f
 
 ### Chapter 3: Family Legacy Framework
 
-Family Legacy Framework addresses the human dimension of empire-buildingâ€”ensuring family members are prepared, capable, and aligned with values to steward the empire across 365 years. This chapter defines individual roles, values transmission systems, succession philosophy, and wealth psychology training.
+Family Legacy Framework addresses the human dimension of empire-building—ensuring family members are prepared, capable, and aligned with values to steward the empire across 365 years. This chapter defines individual roles, values transmission systems, succession philosophy, and wealth psychology training.
 
 **Key Concepts:**
 - Individual role definitions for each family member
@@ -637,7 +637,7 @@ Our vision is to create a self-sustaining ecosystem of businesses, assets, and i
 
 1. **Financial Sovereignty** for every generation of the Ohu Family. This means that no descendant should ever be forced into employment out of financial necessity. They may choose to work, but they work from a position of strength, not desperation.
 
-2. **Impactful Service** to our community and the world through our enterprises. Our businessesâ€”from notary services to real estateâ€”solve real problems for real people. We measure our success not just in dollars, but in lives improved.
+2. **Impactful Service** to our community and the world through our enterprises. Our businesses—from notary services to real estate—solve real problems for real people. We measure our success not just in dollars, but in lives improved.
 
 3. **Intellectual and Human Capital Development** that ensures our descendants are not just consumers of wealth, but creators of value. Every generation must contribute to the Empire's growth, not merely consume its fruits.
 
@@ -848,7 +848,7 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 - We work with top-tier legal and tax advisors.
 - We structure transactions to maximize legal tax benefits.
 
-**Example**: We use South Dakota Dynasty Trust laws, S-Corp elections, cost segregation, and 1031 exchangesâ€”all legal, all ethical, all aggressive. We don't cheat; we optimize.
+**Example**: We use South Dakota Dynasty Trust laws, S-Corp elections, cost segregation, and 1031 exchanges—all legal, all ethical, all aggressive. We don't cheat; we optimize.
 
 #### Pillar 10: Discipline
 
@@ -1108,7 +1108,7 @@ These metrics measure our long-term impact and legacy.
 We use a weighted scoring system to evaluate overall Empire health:
 
 **Overall Empire Health Score =**
-- (Survival Metrics Ã— 50%) + (Growth Metrics Ã— 30%) + (Legacy Metrics Ã— 20%)
+- (Survival Metrics × 50%) + (Growth Metrics × 30%) + (Legacy Metrics × 20%)
 
 **Scoring Scale**:
 - 90-100: Excellent (green zone)
@@ -1851,7 +1851,7 @@ Risk is inherent in all business activities. Our philosophy is not to avoid risk
 - IP in separate holding company
 - Personal assets protected by trusts
 
-**Example**: If Notroom Services LLC faces a lawsuit, it cannot reach PNR Holdings LLC or real estate assets. Risk is isolated.
+**Example**: If Kwode LLC (dba Notroom Services) faces a lawsuit, it cannot reach PNR Holdings LLC or real estate assets. Risk is isolated.
 
 #### Strategy 3: Insurance Protection
 
@@ -2445,29 +2445,29 @@ Different market cycles require different strategies:
 **Evaluate These Factors**:
 
 1. **Cash Flow Status** (Weight: 30%)
-   - Positive for 6+ months? â†’ Accelerate
-   - Negative or declining? â†’ Consolidate
+   - Positive for 6+ months? → Accelerate
+   - Negative or declining? → Consolidate
 
 2. **Reserve Levels** (Weight: 20%)
-   - 12+ months expenses? â†’ Accelerate
-   - <6 months expenses? â†’ Consolidate
+   - 12+ months expenses? → Accelerate
+   - <6 months expenses? → Consolidate
 
 3. **Market Conditions** (Weight: 20%)
-   - Expansion/Recovery phase? â†’ Accelerate
-   - Peak/Contraction phase? â†’ Consolidate
+   - Expansion/Recovery phase? → Accelerate
+   - Peak/Contraction phase? → Consolidate
 
 4. **Operational Health** (Weight: 15%)
-   - Systems working well? â†’ Accelerate
-   - Systems failing? â†’ Consolidate
+   - Systems working well? → Accelerate
+   - Systems failing? → Consolidate
 
 5. **Strategic Opportunities** (Weight: 15%)
-   - High-quality opportunities available? â†’ Accelerate
-   - No clear opportunities? â†’ Consolidate
+   - High-quality opportunities available? → Accelerate
+   - No clear opportunities? → Consolidate
 
 **Decision Rule**:
-- Score 7.5+ â†’ Accelerate Growth
-- Score 5.0-7.4 â†’ Maintain Current Pace
-- Score <5.0 â†’ Consolidate and Preserve
+- Score 7.5+ → Accelerate Growth
+- Score 5.0-7.4 → Maintain Current Pace
+- Score <5.0 → Consolidate and Preserve
 
 ### Defensive Positioning Strategies
 
@@ -3946,7 +3946,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 **Chapter 3 Complete**
 
-*This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empireâ€”without prepared family members, no amount of wealth or business success will preserve The Enterprise across generations.*
+*This chapter establishes the human foundation of the Empire. Review and update family roles, education programs, and succession plans annually to ensure they remain relevant and effective. The Family Legacy Framework is the most important part of the Empire—without prepared family members, no amount of wealth or business success will preserve The Enterprise across generations.*
 
 
 
@@ -3966,7 +3966,7 @@ The Family Legacy Framework is not static; it evolves as the family grows and ch
 
 ### The Fortress of the Empire
 
-If Volume I: Foundation & Philosophy is the "soul" of the Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"â€”the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
+If Volume I: Foundation & Philosophy is the "soul" of the Legacy Codex, Volume II: Legal & Fiduciary Structures is its "body"—the protective shell, the skeletal system, and the muscle that allows it to operate in the real world while withstanding external threats.
 
 You have established a 365-year vision. That vision is fragile without a legal architecture designed to span centuries. A standard LLC or a simple living trust is insufficient for a multi-generational empire. You require a **Dynasty Trust Complex** and a **Business Entity Architecture** that work in concert to provide:
 
@@ -3980,13 +3980,13 @@ You have established a 365-year vision. That vision is fragile without a legal a
 This volume is divided into two distinct but interconnected books:
 
 #### Book 2: The Dynasty Trust Complex
-This book details the "Crown Jewel" of your legal structureâ€”the South Dakota Dynasty Trust. You will move beyond basic estate planning into the realm of institutional wealth preservation.
+This book details the "Crown Jewel" of your legal structure—the South Dakota Dynasty Trust. You will move beyond basic estate planning into the realm of institutional wealth preservation.
 -   **Chapter 4** establishes the South Dakota Dynasty Trust, explaining why this specific jurisdiction is non-negotiable for a 365-year vision.
 -   **Chapter 5** provides the operating manual for the trust, ensuring you administer it correctly to maintain its corporate veil.
 -   **Chapter 6** expands into subsidiary trusts like ILITs and GRATs that handle specific asset classes and tax strategies.
 
 #### Book 3: Business Entity Architecture
-This book details the operational machineryâ€”the LLCs and corporations that generate revenue.
+This book details the operational machinery—the LLCs and corporations that generate revenue.
 -   **Chapter 7** covers the formation and compliance of your Wyoming entities.
 -   **Chapter 8** details the specific structure of the PNR Holdings Complex, including CXI LLC, Obuke LLC, and ToriMedia.
 -   **Chapter 9** provides the playbooks for your operating companies, ensuring they are built on solid legal foundations.
@@ -4033,9 +4033,9 @@ The strategies in this volume involve sophisticated legal and tax concepts. Whil
 
 ## Introduction
 
-The South Dakota Dynasty Trust represents the cornerstone of the Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trustâ€”the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
+The South Dakota Dynasty Trust represents the cornerstone of the Legacy Codex's multi-generational wealth preservation strategy. This chapter provides a comprehensive guide to understanding, forming, and administering a South Dakota Dynasty Trust—the ultimate vehicle for protecting and perpetuating wealth across 365+ years.
 
-Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Familyâ€”Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries Ivan Osemeke Ohu, Jeremy Chiwuikem Ohu, Kikachukwu Theodore Ohu, Chimenime Xavier Ikechukwu Ohu, and Ikechukwu Polycarp Nnamdi Ohuâ€”this structure provides the foundation for building wealth that serves generations beyond your lifetime.
+Unlike traditional trusts limited by the rule against perpetuities, South Dakota Dynasty Trusts offer perpetual existence, zero state income tax, superior asset protection, and complete privacy. For families like the Ohu Family—Ikechukwu Polycarp Nnamdi Ohu and Judith Huchukwuyem Ohu, with beneficiaries Ivan Osemeke Ohu, Jeremy Chiwuikem Ohu, Kikachukwu Theodore Ohu, Chimenime Xavier Ikechukwu Ohu, and Ikechukwu Polycarp Nnamdi Ohu—this structure provides the foundation for building wealth that serves generations beyond your lifetime.
 
 This chapter will guide you through every aspect of the South Dakota Dynasty Trust, from understanding why South Dakota is the optimal jurisdiction, through the complete formation process, to detailed analysis of trust provisions and trustee architecture. By the end of this chapter, you will have the knowledge and tools necessary to implement this powerful wealth preservation structure.
 
@@ -4051,11 +4051,11 @@ When selecting a jurisdiction for your Legacy trust, the choice is critical. The
 
 **Rule Against Perpetuities**
 
-South Dakota's most significant advantage over Nevada is its complete abolition of the rule against perpetuities. Nevada has a 365-year limit on trusts, which, while substantial, still imposes a termination date. South Dakota trusts can exist in perpetuityâ€”truly forever.
+South Dakota's most significant advantage over Nevada is its complete abolition of the rule against perpetuities. Nevada has a 365-year limit on trusts, which, while substantial, still imposes a termination date. South Dakota trusts can exist in perpetuity—truly forever.
 
 **Practical Impact**: For a trust established in 2024:
 - **Nevada Trust**: Must terminate by 2389 (365 years)
-- **South Dakota Trust**: No termination dateâ€”perpetual existence
+- **South Dakota Trust**: No termination date—perpetual existence
 
 **State Income Tax**
 
@@ -4089,7 +4089,7 @@ Wyoming, like South Dakota, has abolished the rule against perpetuities, allowin
 
 **State Income Tax**
 
-Both states have zero state income taxâ€”another tie.
+Both states have zero state income tax—another tie.
 
 **Asset Protection**
 
@@ -4119,7 +4119,7 @@ Alaska allows perpetual trusts, matching South Dakota. However, Alaska's trust l
 
 **State Income Tax**
 
-Both states have zero state income taxâ€”a tie.
+Both states have zero state income tax—a tie.
 
 **Asset Protection**
 
@@ -4231,7 +4231,7 @@ Assuming the trust grows to $50 million over 50 years:
 
 **Multi-Generational Impact**: Over 365 years, assuming 5% annual growth:
 - Initial transfer: $10 million
-- Value after 365 years: $10M Ã— (1.05)^365 = $1.2 trillion (theoretical)
+- Value after 365 years: $10M × (1.05)^365 = $1.2 trillion (theoretical)
 - Estate tax without trust: $480 billion (40% of $1.2T)
 - Estate tax with trust: $0
 - **Savings**: $480 billion (theoretical maximum)
@@ -4495,11 +4495,11 @@ Hold some assets outside the United States. This creates jurisdictional barriers
 **Structure**:
 ```
 South Dakota Dynasty Trust
-    â†“
+    ↓
 PNR Holdings LLC (Wyoming)
-    â†“
+    ↓
 Obuke LLC Series 1 (Wyoming)
-    â†“
+    ↓
 Real Property
 ```
 
@@ -9652,7 +9652,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
 **Option 2: Private Foundation**
 
 **Types**:
-- Family foundation
+- Origin Eyes (501c3)
 - Private foundation
 - Donor-advised fund
 
@@ -9887,7 +9887,7 @@ Annuity payment calculations determine GRAT annuity payments. This section cover
 
 **Formula**:
 - **Annuity Payment** = Percentage of initial value
-- **Payment Amount** = Percentage Ã— Initial value
+- **Payment Amount** = Percentage × Initial value
 - **Payment Term** = GRAT term
 
 **Example**:
@@ -10458,10 +10458,10 @@ Series LLCs provide superior asset protection by segregating assets into separat
 
 ```
 Obuke LLC (Parent)
-â”œâ”€â”€ Series 1 (Property A)
-â”œâ”€â”€ Series 2 (Property B)
-â”œâ”€â”€ Series 3 (Property C)
-â””â”€â”€ Series 4-10 (Future Properties)
+├── Series 1 (Property A)
+├── Series 2 (Property B)
+├── Series 3 (Property C)
+└── Series 4-10 (Future Properties)
 ```
 
 **Series Designation**:
@@ -11929,7 +11929,7 @@ By: _________________________    By: _________________________
 
 **Method 1: Revenue-Based Allocation**
 
-**Formula**: Party's allocation = (Party's revenue / Total revenue) Ã— Total shared costs
+**Formula**: Party's allocation = (Party's revenue / Total revenue) × Total shared costs
 
 **Advantages**:
 - Aligns with ability to pay
@@ -11945,7 +11945,7 @@ By: _________________________    By: _________________________
 
 **Method 2: Usage-Based Allocation**
 
-**Formula**: Party's allocation = (Party's usage / Total usage) Ã— Total shared costs
+**Formula**: Party's allocation = (Party's usage / Total usage) × Total shared costs
 
 **Advantages**:
 - Reflects actual usage
@@ -13050,7 +13050,7 @@ Risk management protects the empire from potential losses and ensures long-term 
 
 - **Probability**: Likelihood of occurrence (1-5)
 - **Impact**: Severity of impact (1-5)
-- **Risk Score**: Probability Ã— Impact (1-25)
+- **Risk Score**: Probability × Impact (1-25)
 
 **Risk Matrix**:
 
@@ -15677,7 +15677,7 @@ Practice setup establishes the foundation for TaxEar Advisory. This section cove
 **Setup Requirements**:
 
 **1. Entity Formation**
-- Form TaxEar Advisory LLC
+- Form Kwode LLC (dba TaxEar Advisory)
 - Obtain EIN
 - Set up banking
 - Establish structure
@@ -16346,7 +16346,7 @@ This volume is dense with tactical details. Do not attempt to launch everything 
 
 Notary and Remote Online Notarization (RON) services represent the "immediate cash flow" engine of the Legacy Codex. Unlike other business models that require long lead times, notary services can generate revenue within days of launch. This chapter provides a comprehensive blueprint for building a scalable, high-margin notary empire that leverages both traditional mobile services and cutting-edge RON technology.
 
-For Notroom Services LLC, this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
+For Kwode LLC (dba Notroom Services), this is not just about signing documents; it's about building a professional services infrastructure that serves as the foundation for broader real estate and legal services. By mastering this domain, you create a reliable stream of daily cash flow while building a network of high-value contacts in the real estate and legal sectors.
 
 This chapter covers everything from traditional operations and RON scaling to Loan Signing Agent mastery and pricing optimization.
 
@@ -16670,7 +16670,7 @@ Notroom Services is the cash flow ignition switch. By combining the high-touch s
 
 ## Introduction
 
-Transaction Coordination (TC) is the operational backbone of the real estate industry. While agents focus on sales and relationships, TCs ensure the deal actually closes. For Notroom Services LLC, this is a natural evolution from notary work. You are already handling the final documents; moving upstream to manage the entire process captures more value and deepens your integration with real estate investors and agents.
+Transaction Coordination (TC) is the operational backbone of the real estate industry. While agents focus on sales and relationships, TCs ensure the deal actually closes. For Kwode LLC (dba Notroom Services), this is a natural evolution from notary work. You are already handling the final documents; moving upstream to manage the entire process captures more value and deepens your integration with real estate investors and agents.
 
 This chapter focuses specifically on "SubTo" (Subject-To) and creative finance coordination, a high-value niche where standard TCs fear to tread. By mastering the complexities of creative finance paperwork, you position Notroom Services as an indispensable partner to the most active investors in the market.
 
@@ -16909,7 +16909,7 @@ Transaction Coordination is the glue that holds the real estate empire together.
 
 ## Introduction
 
-TaxEar Advisory LLC represents the "high authority" pillar of the Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
+Kwode LLC (dba TaxEar Advisory) represents the "high authority" pillar of the Legacy Codex. While notary work provides cash flow and transaction coordination provides operational glue, tax services provide *authority*. As an Enrolled Agent (EA), you are not just a service provider; you are a federally licensed tax practitioner with unlimited rights to represent taxpayers before the IRS.
 
 This status elevates the entire brand ecosystem. It allows you to offer high-margin advisory services, defend your own real estate strategies (like REPS and Cost Segregation), and capture the recurring revenue of tax preparation and bookkeeping. This chapter outlines the path from exam preparation to building a scalable tax practice.
 
@@ -16969,7 +16969,7 @@ The Special Enrollment Examination (SEE) is a three-part exam. Passing it is the
 
 ## Section 12.2: Tax Practice Development
 
-Once licensed, you need clients. But not just any clientsâ€”you want high-value clients.
+Once licensed, you need clients. But not just any clients—you want high-value clients.
 
 ### Niche Selection
 
@@ -17265,7 +17265,7 @@ TaxEar Advisory is the prestige brand. The EA license gives you a seat at the ta
 - [ ] Purchase Gleim EA Review System.
 - [ ] Schedule Part 1 Exam (set a date to force accountability).
 - [ ] Apply for PTIN (Preparer Tax Identification Number).
-- [ ] Register TaxEar Advisory LLC (if not done).
+- [ ] Register Kwode LLC (dba TaxEar Advisory) (if not done).
 
 ---
 
@@ -17485,7 +17485,7 @@ How to go from "Zero" to "Revenue."
 
 **The "Directory Development Accelerator"**:
 
-The [Super Directory GPT](https://chatgpt.com/g/g-692381dd555c81918e86748169a027e1-super-directory-gpt) is an AI assistant specifically designed to help you build, optimize, and scale directory businesses. It acts as your directory architect, content strategist, and technical implementation guideâ€”providing end-to-end support for creating successful directory platforms.
+The [Super Directory GPT](https://chatgpt.com/g/g-692381dd555c81918e86748169a027e1-super-directory-gpt) is an AI assistant specifically designed to help you build, optimize, and scale directory businesses. It acts as your directory architect, content strategist, and technical implementation guide—providing end-to-end support for creating successful directory platforms.
 
 ### What the Super Directory GPT Can Do
 
@@ -17525,7 +17525,7 @@ The Super Directory GPT serves as your:
 
 **Category Architecture**:
 - Designs primary and subcategory structures
-- Creates location hierarchies (City â†’ State â†’ National)
+- Creates location hierarchies (City → State → National)
 - Maps service type taxonomies
 - Designs filter and search systems
 
@@ -17803,8 +17803,8 @@ Tell the GPT which mode you want:
 ### Best Practices for GPT Interactions
 
 **Be Specific About Your Niche**:
-- âŒ "Design a directory"
-- âœ… "Design a directory for Tax Resolution Specialists targeting businesses with IRS debt, focusing on major metropolitan areas"
+- ❌ "Design a directory"
+- ✅ "Design a directory for Tax Resolution Specialists targeting businesses with IRS debt, focusing on major metropolitan areas"
 
 **Provide Context**:
 - Share your platform choice (Brilliant Directories, custom, etc.)
@@ -17853,16 +17853,16 @@ Tell the GPT which mode you want:
 ### Limitations & Boundaries
 
 **What the GPT Doesn't Do**:
-- âŒ Build the directory for you (provides instructions)
-- âŒ Access your Brilliant Directories account
-- âŒ Execute content creation directly
-- âŒ Provide legal advice on data scraping or compliance
+- ❌ Build the directory for you (provides instructions)
+- ❌ Access your Brilliant Directories account
+- ❌ Execute content creation directly
+- ❌ Provide legal advice on data scraping or compliance
 
 **What the GPT Does**:
-- âœ… Designs complete directory architectures
-- âœ… Provides detailed implementation instructions
-- âœ… Creates content strategies and templates
-- âœ… Gives step-by-step configuration guidance
+- ✅ Designs complete directory architectures
+- ✅ Provides detailed implementation instructions
+- ✅ Creates content strategies and templates
+- ✅ Gives step-by-step configuration guidance
 
 **Important**: The GPT provides operational guidance. Always ensure compliance with:
 - Data privacy regulations (GDPR, CCPA)
@@ -18411,7 +18411,7 @@ Managing a directory portfolio is about leverage. You leverage software, team, a
 
 Real estate is the ultimate wealth preservation vehicle, but traditional financing (20% down, bank qualification) is a bottleneck. To build a Legacy-scale portfolio, you must master **Creative Financing**. This allows you to acquire assets based on the *deal's* merit, not just your personal credit or cash reserves.
 
-For Obuke LLC, creative financing is the primary acquisition strategy. It allows for infinite returns (when acquisition cost is zero or low), rapid scaling, and solving problems for sellers that banks cannot touch. This chapter details the mechanics of Subject-To, Seller Financing, and Private Money—the "Trifecta" of creative acquisition.
+For Obuke LLC, creative financing is the primary acquisition strategy. It allows for infinite returns (when acquisition cost is zero or low), rapid scaling, and solving problems for sellers that banks cannot touch. This chapter details the mechanics of Subject-To, Seller Financing, and Private Money�the "Trifecta" of creative acquisition.
 
 ---
 
@@ -19384,7 +19384,7 @@ Volume IV success is measured by:
 
 In the Legacy Codex, technology is not just a tool; it is the nervous system that connects every organ of the business. **SuiteDash** is the central brain of this system. It is the "All-in-One" platform that replaces a dozen disconnected tools (Salesforce, Dropbox, DocuSign, Trello, QuickBooks, Slack, etc.) with a single, integrated command center.
 
-For a multi-entity empire like yoursâ€”spanning Notary services, Real Estate, Tax Advisory, and Directoriesâ€”SuiteDash provides the "Single Source of Truth." It allows you to manage clients, projects, invoices, and files for *all* your companies in one place, while keeping them branded separately for the client.
+For a multi-entity empire like yours—spanning Notary services, Real Estate, Tax Advisory, and Directories—SuiteDash provides the "Single Source of Truth." It allows you to manage clients, projects, invoices, and files for *all* your companies in one place, while keeping them branded separately for the client.
 
 This chapter is your implementation guide. It moves beyond the "what" to the "how," detailing the specific configurations, workflows, and automations required to run your empire on autopilot.
 
@@ -19584,7 +19584,7 @@ Money in, Money out.
 
 **The "Implementation Accelerator"**:
 
-The [SuiteDash Super GPT](https://chatgpt.com/g/g-69237560d6bc81919692ad59e30e2a48-suitedash-super-gpt) is an AI assistant designed to help you design, configure, and optimize your SuiteDash implementation. It acts as your Business Operating System architect, automation engineer, and CRM designerâ€”with all solutions built around SuiteDash as the backend.
+The [SuiteDash Super GPT](https://chatgpt.com/g/g-69237560d6bc81919692ad59e30e2a48-suitedash-super-gpt) is an AI assistant designed to help you design, configure, and optimize your SuiteDash implementation. It acts as your Business Operating System architect, automation engineer, and CRM designer—with all solutions built around SuiteDash as the backend.
 
 ### What the GPT Can Do
 
@@ -19616,7 +19616,7 @@ The GPT can design complete systems for:
 - **White-Label Operations**: Reselling SuiteDash portals to clients
 - **Internal Ops**: HR, onboarding, client success, support systems
 
-**For Your Empire**: The GPT can design systems for Notroom (Notary), Obuke (Real Estate), TaxEar (Tax Advisory), and Directory servicesâ€”all integrated within your SuiteDash instance.
+**For Your Empire**: The GPT can design systems for Notroom (Notary), Obuke (Real Estate), TaxEar (Tax Advisory), and Directory services—all integrated within your SuiteDash instance.
 
 ### SuiteDash-Specific Design Capabilities
 
@@ -19630,7 +19630,7 @@ The GPT can design complete systems for:
 
 **Tag Taxonomies**:
 - Designs tag structures for segmentation
-- Creates tag hierarchies (e.g., `#Lead` â†’ `#Lead-Hot`, `#Lead-Warm`)
+- Creates tag hierarchies (e.g., `#Lead` → `#Lead-Hot`, `#Lead-Warm`)
 - Maps tag usage across your entities
 - Defines when to apply/remove tags
 
@@ -19701,13 +19701,13 @@ The GPT can design complete systems for:
 - Builds standard operating pipelines
 
 **Service Delivery Automation**:
-- Designs task completion â†’ next task workflows
+- Designs task completion → next task workflows
 - Creates phase change notifications
 - Maps client-facing project experiences
 - Designs approval workflows and file upload processes
 
 **Delivery Pipelines**:
-- Creates onboarding â†’ delivery â†’ offboarding flows
+- Creates onboarding → delivery → offboarding flows
 - Designs milestone-based automations
 - Maps client portal project views
 - Creates status update workflows
@@ -19724,7 +19724,7 @@ The GPT can design complete systems for:
 
 **Enrollment Automation**:
 - Designs enrollment triggers
-- Creates module completion â†’ unlock next steps workflows
+- Creates module completion → unlock next steps workflows
 - Maps task and call assignments based on progress
 - Designs completion certificates and milestones
 
@@ -19745,8 +19745,8 @@ The GPT can design complete systems for:
 - Maps "done with you" vs "done for you" pricing
 
 **Billing Automations**:
-- Designs payment â†’ tag & portal access changes
-- Creates overdue â†’ reminder workflows
+- Designs payment → tag & portal access changes
+- Creates overdue → reminder workflows
 - Maps access restrictions for non-payment
 - Designs internal alert systems
 
@@ -19808,19 +19808,19 @@ The GPT can design automations and field mappings for:
 
 **Payment Platforms**:
 - **Stripe**: Customers, subscriptions, invoices, webhooks
-- Designs payment â†’ SuiteDash workflows
+- Designs payment → SuiteDash workflows
 - Creates subscription management flows
 - Maps webhook handlers
 
 **Lead Capture & Forms**:
 - **GoZen Forms**: Advanced form integration
-- Designs form â†’ SuiteDash contact creation
+- Designs form → SuiteDash contact creation
 - Maps conditional form logic to SuiteDash fields
 - Creates multi-step form workflows
 
 **Scheduling & Calendars**:
 - **TidyCal / Trafft**: Booking tool integration
-- Designs appointment â†’ SuiteDash project creation
+- Designs appointment → SuiteDash project creation
 - Maps calendar events to SuiteDash tasks
 - Creates reminder workflows
 
@@ -19843,7 +19843,7 @@ The GPT can work in specific "modes" for different needs:
 
 #### Implementation Kit Mode
 **Step-by-step, click-level instructions**:
-- "Go to Settings â†’ XYZ â†’ turn on ABC"
+- "Go to Settings → XYZ → turn on ABC"
 - "Create this form with these fields"
 - "Create this project template with these tasks"
 - Designed for you or a VA to implement without guessing
@@ -19861,7 +19861,7 @@ The GPT can work in specific "modes" for different needs:
 
 #### Funnel Builder Mode
 **End-to-end funnel design**:
-- Lead magnet â†’ nurture â†’ booking â†’ sales call â†’ proposal â†’ onboarding
+- Lead magnet → nurture → booking → sales call → proposal → onboarding
 - Page structures, email sequences, form questions
 - Automation logic tying SuiteDash + email + calendar + payments
 - Evergreen or live launch strategies
@@ -19925,9 +19925,9 @@ The GPT can show you how to use SuiteDash to run a directory:
 
 - **Listing Structure**: Each listing as a Company with custom fields (category, location, featured, rank)
 - **Owner Management**: Owners as Contacts with portal access to edit listings via forms
-- **Workflows**: Payment â†’ listing activation + portal access
+- **Workflows**: Payment → listing activation + portal access
 - **Non-Payment Handling**: Downgrade or de-listing automations
-- **Front-End Integration**: Webhooks or Sheets â†’ website export workflows
+- **Front-End Integration**: Webhooks or Sheets → website export workflows
 
 **Example Request**: "Design a complete directory system in SuiteDash for local business listings with member portals and payment processing."
 
@@ -20002,8 +20002,8 @@ Tell the GPT which mode you want:
 ### Best Practices for GPT Interactions
 
 **Be Specific**:
-- âŒ "Design a CRM"
-- âœ… "Design a CRM for my Tax Advisory business with pipelines for Individual Returns, Business Returns, and Tax Planning, using Circles to separate client types"
+- ❌ "Design a CRM"
+- ✅ "Design a CRM for my Tax Advisory business with pipelines for Individual Returns, Business Returns, and Tax Planning, using Circles to separate client types"
 
 **Provide Context**:
 - Share your current setup
@@ -20052,16 +20052,16 @@ Tell the GPT which mode you want:
 ### Limitations & Boundaries
 
 **What the GPT Doesn't Do**:
-- âŒ Log into your SuiteDash account
-- âŒ Execute automations directly
-- âŒ Provide legal, tax, or regulatory advice
-- âŒ Push live code or host websites
+- ❌ Log into your SuiteDash account
+- ❌ Execute automations directly
+- ❌ Provide legal, tax, or regulatory advice
+- ❌ Push live code or host websites
 
 **What the GPT Does**:
-- âœ… Designs complete system architectures
-- âœ… Provides detailed implementation instructions
-- âœ… Creates automation recipes and workflows
-- âœ… Gives step-by-step configuration guidance
+- ✅ Designs complete system architectures
+- ✅ Provides detailed implementation instructions
+- ✅ Creates automation recipes and workflows
+- ✅ Gives step-by-step configuration guidance
 
 **Important**: The GPT provides operational guidance. Always consult legal, tax, or regulatory professionals for compliance matters.
 
@@ -20450,7 +20450,7 @@ Automation is leverage. By building a robust architecture using KonnectzIT, Acti
 
 ## Introduction
 
-Artificial Intelligence represents the next evolution of automationâ€”moving beyond rule-based workflows to intelligent systems that can understand context, make decisions, and adapt to changing conditions. For the Legacy Codex, AI implementation transforms content creation from a time-consuming manual process into an automated system that scales infinitely, turns customer service into a 24/7 operation without proportional cost increases, and enables data-driven decision-making that optimizes operations continuously.
+Artificial Intelligence represents the next evolution of automation—moving beyond rule-based workflows to intelligent systems that can understand context, make decisions, and adapt to changing conditions. For the Legacy Codex, AI implementation transforms content creation from a time-consuming manual process into an automated system that scales infinitely, turns customer service into a 24/7 operation without proportional cost increases, and enables data-driven decision-making that optimizes operations continuously.
 
 This chapter provides a comprehensive guide to implementing AI across your entire business empire. You'll learn how to select the right AI tools for each use case, integrate ChatGPT and Claude APIs into your automation workflows, manage costs while maximizing value, develop content generation systems that produce high-quality output at scale, build customer service automation that handles routine inquiries while escalating complex issues appropriately, and implement operational AI that analyzes data, predicts outcomes, and optimizes processes.
 
@@ -20464,7 +20464,7 @@ Through this chapter, you will:
 - Develop cost management strategies that maximize ROI while controlling expenses
 - Build monitoring systems that track AI performance and continuously improve outcomes
 
-This is not a theoretical AI guideâ€”it's a practical implementation manual that transforms AI from a buzzword into a competitive advantage. Every integration, every prompt, every workflow serves the purpose of scaling operations to $10M+ revenue while maintaining quality and reducing costs.
+This is not a theoretical AI guide—it's a practical implementation manual that transforms AI from a buzzword into a competitive advantage. Every integration, every prompt, every workflow serves the purpose of scaling operations to $10M+ revenue while maintaining quality and reducing costs.
 
 ---
 
@@ -20539,23 +20539,23 @@ This is not a theoretical AI guideâ€”it's a practical implementation manual
 **Selection Criteria:**
 
 1. **Quality Requirements:**
-   - High quality needed â†’ GPT-4 Turbo or Claude 3 Opus
-   - Standard quality â†’ GPT-3.5 Turbo or Claude 3 Sonnet
-   - Acceptable quality â†’ GPT-3.5 Turbo or Claude 3 Haiku
+   - High quality needed → GPT-4 Turbo or Claude 3 Opus
+   - Standard quality → GPT-3.5 Turbo or Claude 3 Sonnet
+   - Acceptable quality → GPT-3.5 Turbo or Claude 3 Haiku
 
 2. **Cost Constraints:**
-   - Budget unlimited â†’ Best model available
-   - Budget moderate â†’ Balanced model (GPT-3.5 Turbo or Claude 3 Sonnet)
-   - Budget limited â†’ Cost-effective model (GPT-3.5 Turbo or Claude 3 Haiku)
+   - Budget unlimited → Best model available
+   - Budget moderate → Balanced model (GPT-3.5 Turbo or Claude 3 Sonnet)
+   - Budget limited → Cost-effective model (GPT-3.5 Turbo or Claude 3 Haiku)
 
 3. **Volume Requirements:**
-   - Low volume â†’ Premium models acceptable
-   - Medium volume â†’ Balanced models
-   - High volume â†’ Cost-effective models
+   - Low volume → Premium models acceptable
+   - Medium volume → Balanced models
+   - High volume → Cost-effective models
 
 4. **Speed Requirements:**
-   - Not time-sensitive â†’ Any model
-   - Time-sensitive â†’ Faster models (GPT-3.5 Turbo or Claude 3 Haiku)
+   - Not time-sensitive → Any model
+   - Time-sensitive → Faster models (GPT-3.5 Turbo or Claude 3 Haiku)
 
 ### API Implementation
 
@@ -20669,7 +20669,7 @@ async function generateContent(prompt, model = 'claude-3-sonnet-20240229') {
 **KonnectzIT Integration:**
 
 **Step 1: Add API Credentials**
-1. Navigate to KonnectzIT â†’ Connections
+1. Navigate to KonnectzIT → Connections
 2. Add new connection: "OpenAI API"
 3. Enter API key
 4. Test connection
@@ -20694,7 +20694,7 @@ async function generateContent(prompt, model = 'claude-3-sonnet-20240229') {
 **Activepieces Integration:**
 
 **Step 1: Add OpenAI Piece**
-1. Navigate to Activepieces â†’ Pieces
+1. Navigate to Activepieces → Pieces
 2. Search for "OpenAI" or "ChatGPT"
 3. Install OpenAI piece
 4. Configure API key
@@ -20709,7 +20709,7 @@ async function generateContent(prompt, model = 'claude-3-sonnet-20240229') {
 **Make.com Integration:**
 
 **Step 1: Add OpenAI Module**
-1. Navigate to Make.com â†’ Connections
+1. Navigate to Make.com → Connections
 2. Add OpenAI connection
 3. Enter API key
 4. Test connection
@@ -20923,7 +20923,7 @@ class AICostTracker {
 
 1. **Time Savings:**
    - Hours saved per task type
-   - Value of time saved (hourly rate Ã— hours)
+   - Value of time saved (hourly rate × hours)
    - Cumulative time savings
 
 2. **Cost Savings:**
@@ -20932,9 +20932,9 @@ class AICostTracker {
    - Cost avoidance (prevented hiring)
 
 3. **Revenue Impact:**
-   - Increased content output â†’ More traffic â†’ More leads
-   - Faster response times â†’ Higher conversion rates
-   - Better content quality â†’ Higher engagement
+   - Increased content output → More traffic → More leads
+   - Faster response times → Higher conversion rates
+   - Better content quality → Higher engagement
 
 4. **Quality Improvements:**
    - Content quality scores
@@ -20964,7 +20964,7 @@ function calculateAIROI(aiCosts, timeSaved, hourlyRate, revenueImpact) {
 // AI Costs: $1,500/month
 // Time Saved: 100 hours/month @ $50/hour = $5,000
 // Revenue Impact: $2,000/month (from better content/response times)
-// ROI = (($5,000 + $2,000 - $1,500) / $1,500) Ã— 100 = 366%
+// ROI = (($5,000 + $2,000 - $1,500) / $1,500) × 100 = 366%
 ```
 
 **Monthly ROI Report:**
@@ -22061,11 +22061,11 @@ The next section of Volume IV will explore digital marketing systems, showing yo
 
 ## Introduction
 
-Organic marketing is the foundation of sustainable growth for the Legacy Codexâ€”the systematic approach to attracting customers through valuable content, strategic SEO, engaged social media presence, and automated email nurturing. Unlike paid advertising that stops working when you stop paying, organic marketing builds assets that compound over time: ranking content that drives traffic for years, email lists that generate revenue on autopilot, and social media communities that amplify your message.
+Organic marketing is the foundation of sustainable growth for the Legacy Codex—the systematic approach to attracting customers through valuable content, strategic SEO, engaged social media presence, and automated email nurturing. Unlike paid advertising that stops working when you stop paying, organic marketing builds assets that compound over time: ranking content that drives traffic for years, email lists that generate revenue on autopilot, and social media communities that amplify your message.
 
 This chapter provides a comprehensive guide to mastering organic marketing across all your business entities. You'll learn how to dominate search results through strategic SEO, build a content marketing machine that produces valuable content at scale, create social media systems that engage audiences and drive traffic, and implement email marketing automation that nurtures leads into customers while building long-term relationships.
 
-The organic marketing mastery approach means treating marketing not as a cost center, but as an asset-building activity. Every blog post, every social media post, every email builds your marketing assetsâ€”search rankings, email subscribers, social media followers, and brand recognitionâ€”that continue generating value long after the initial effort.
+The organic marketing mastery approach means treating marketing not as a cost center, but as an asset-building activity. Every blog post, every social media post, every email builds your marketing assets—search rankings, email subscribers, social media followers, and brand recognition—that continue generating value long after the initial effort.
 
 Through this chapter, you will:
 - Master SEO strategies that dominate search results for your target keywords
@@ -22075,7 +22075,7 @@ Through this chapter, you will:
 - Develop performance tracking systems that measure and optimize organic marketing ROI
 - Build marketing assets that compound value over time
 
-This is not a basic marketing guideâ€”it's a comprehensive system for building organic marketing assets that drive sustainable growth to $10M+ revenue. Every strategy, every tactic, every system serves the purpose of building marketing assets that generate leads and revenue while reducing dependence on paid advertising.
+This is not a basic marketing guide—it's a comprehensive system for building organic marketing assets that drive sustainable growth to $10M+ revenue. Every strategy, every tactic, every system serves the purpose of building marketing assets that generate leads and revenue while reducing dependence on paid advertising.
 
 ---
 
@@ -22151,10 +22151,10 @@ This is not a basic marketing guideâ€”it's a comprehensive system for build
 **Step 4: Keyword Mapping**
 
 **Map Keywords to Content:**
-- Primary keyword â†’ Main page/service page
-- Secondary keywords â†’ Blog posts/articles
-- Long-tail keywords â†’ FAQ pages/guides
-- Local keywords â†’ Location pages
+- Primary keyword → Main page/service page
+- Secondary keywords → Blog posts/articles
+- Long-tail keywords → FAQ pages/guides
+- Local keywords → Location pages
 
 **Keyword Mapping Template:**
 
@@ -22763,9 +22763,9 @@ Thanks for your time!
 
 | Original Content | Blog Post | Social Media | Email | Video | Infographic | Podcast |
 |------------------|-----------|--------------|-------|-------|-------------|---------|
-| Blog Post | âœ“ | âœ“ | âœ“ | âœ“ | âœ“ | âœ“ |
-| Video | Transcript â†’ Blog | Clips â†’ Social | Summary â†’ Email | âœ“ | Key Points â†’ Infographic | âœ“ |
-| Podcast | Transcript â†’ Blog | Quotes â†’ Social | Summary â†’ Email | Video Version | Key Points â†’ Infographic | âœ“ |
+| Blog Post | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Video | Transcript → Blog | Clips → Social | Summary → Email | ✓ | Key Points → Infographic | ✓ |
+| Podcast | Transcript → Blog | Quotes → Social | Summary → Email | Video Version | Key Points → Infographic | ✓ |
 
 ### Repurposing Strategies
 
@@ -23223,9 +23223,9 @@ Thanks for your time!
 - Build targeted lists
 
 **Examples:**
-- Blog post: "10 Tax Tips" â†’ Upgrade: "Complete Tax Checklist"
-- Blog post: "Notary Guide" â†’ Upgrade: "Notary Services Comparison Chart"
-- Blog post: "Transaction Coordination" â†’ Upgrade: "TC Process Template"
+- Blog post: "10 Tax Tips" → Upgrade: "Complete Tax Checklist"
+- Blog post: "Notary Guide" → Upgrade: "Notary Services Comparison Chart"
+- Blog post: "Transaction Coordination" → Upgrade: "TC Process Template"
 
 **Method 3: Social Media Lead Generation**
 
@@ -23539,7 +23539,7 @@ The next chapter will explore paid advertising playbooks, showing you how to lev
 
 ## Introduction
 
-Paid advertising accelerates growth for the Legacy Codex by putting your message in front of qualified prospects at the exact moment they're searching for your services. While organic marketing builds long-term assets, paid advertising generates immediate resultsâ€”driving traffic, leads, and revenue within days of campaign launch. When executed strategically, paid advertising complements organic efforts, filling gaps in your marketing funnel and scaling revenue faster than organic channels alone.
+Paid advertising accelerates growth for the Legacy Codex by putting your message in front of qualified prospects at the exact moment they're searching for your services. While organic marketing builds long-term assets, paid advertising generates immediate results—driving traffic, leads, and revenue within days of campaign launch. When executed strategically, paid advertising complements organic efforts, filling gaps in your marketing funnel and scaling revenue faster than organic channels alone.
 
 This chapter provides a comprehensive guide to mastering paid advertising across Google Ads, Facebook/Meta, LinkedIn, and other platforms. You'll learn how to structure accounts for maximum performance, create compelling ad copy that converts, design landing pages that turn clicks into customers, implement conversion tracking that measures true ROI, and optimize campaigns continuously to improve performance and reduce costs.
 
@@ -23553,7 +23553,7 @@ Through this chapter, you will:
 - Develop attribution models that accurately measure advertising impact
 - Build scalable advertising systems that grow revenue predictably
 
-This is not a basic advertising tutorialâ€”it's a comprehensive playbook for building profitable paid advertising systems that scale to $10M+ revenue. Every campaign, every ad, every optimization serves the purpose of acquiring customers profitably while building sustainable growth engines.
+This is not a basic advertising tutorial—it's a comprehensive playbook for building profitable paid advertising systems that scale to $10M+ revenue. Every campaign, every ad, every optimization serves the purpose of acquiring customers profitably while building sustainable growth engines.
 
 ---
 
@@ -23966,7 +23966,7 @@ This is not a basic advertising tutorialâ€”it's a comprehensive playbook fo
 **Conversion Tracking Setup:**
 
 **Step 1: Google Ads Conversion Tracking**
-1. Navigate to Google Ads â†’ Tools â†’ Conversions
+1. Navigate to Google Ads → Tools → Conversions
 2. Click "+ New conversion action"
 3. Select conversion type (Website, Phone, App, Import)
 4. Configure conversion details:
@@ -23996,7 +23996,7 @@ This is not a basic advertising tutorialâ€”it's a comprehensive playbook fo
 **Lead Value Calculation:**
 - Average deal value: $5,000
 - Conversion rate: 10% (leads to customers)
-- Lead value: $5,000 Ã— 10% = $500 per lead
+- Lead value: $5,000 × 10% = $500 per lead
 
 **Conversion Value Setup:**
 - Form submission: $500
@@ -24071,7 +24071,7 @@ This is not a basic advertising tutorialâ€”it's a comprehensive playbook fo
 **Image/Video Guidelines:**
 
 **Image Ads:**
-- **Size:** 1200 Ã— 628 pixels (1.91:1 ratio)
+- **Size:** 1200 × 628 pixels (1.91:1 ratio)
 - **Format:** JPG or PNG
 - **File Size:** < 30MB
 - **Content:** Clear, compelling, relevant
@@ -24086,7 +24086,7 @@ This is not a basic advertising tutorialâ€”it's a comprehensive playbook fo
 
 **Carousel Ads:**
 - **Cards:** 2-10 cards per carousel
-- **Images:** 1080 Ã— 1080 pixels (square)
+- **Images:** 1080 × 1080 pixels (square)
 - **Headlines:** Unique per card
 - **Use:** Showcase multiple services or benefits
 
@@ -24265,7 +24265,7 @@ This is not a basic advertising tutorialâ€”it's a comprehensive playbook fo
 
 **Step 2: Visual Assets**
 - **Logo:** High-resolution company logo
-- **Cover Image:** Branded cover image (1192 Ã— 220 pixels)
+- **Cover Image:** Branded cover image (1192 × 220 pixels)
 - **Company Photos:** Office, team, events
 - **Video:** Company introduction video
 
@@ -24417,7 +24417,7 @@ This is not a basic advertising tutorialâ€”it's a comprehensive playbook fo
 
 **Step 1: Create Lead Gen Form**
 1. Navigate to LinkedIn Campaign Manager
-2. Create new campaign â†’ Lead generation
+2. Create new campaign → Lead generation
 3. Create lead gen form
 4. Configure form fields:
    - First Name (auto-filled)
@@ -24614,14 +24614,14 @@ CPA = Total Ad Spend / Number of Conversions
 
 **Formula:**
 ```
-LTV = Average Order Value Ã— Purchase Frequency Ã— Customer Lifespan
+LTV = Average Order Value × Purchase Frequency × Customer Lifespan
 ```
 
 **Example:**
 - Average transaction: $500
 - Purchases per year: 2
 - Customer lifespan: 3 years
-- LTV = $500 Ã— 2 Ã— 3 = $3,000
+- LTV = $500 × 2 × 3 = $3,000
 
 **LTV Optimization:**
 
@@ -24797,7 +24797,7 @@ Sales systems transform the Legacy Codex from a collection of individual sales e
 
 This chapter provides a comprehensive guide to building complete sales systems across all your business entities. You'll learn how to architect sales processes that guide prospects from first contact through closed deal, automate sales tasks that free up time for high-value activities, build sales teams that consistently hit targets, and create customer success systems that maximize lifetime value while generating referrals.
 
-The sales systems development approach means treating sales not as an art, but as a scienceâ€”a systematic process that can be measured, optimized, and scaled. Every process, every script, every automation serves the purpose of increasing conversion rates while reducing sales cycle length and cost per acquisition.
+The sales systems development approach means treating sales not as an art, but as a science—a systematic process that can be measured, optimized, and scaled. Every process, every script, every automation serves the purpose of increasing conversion rates while reducing sales cycle length and cost per acquisition.
 
 Through this chapter, you will:
 - Design sales process architecture that guides prospects through every stage
@@ -24807,7 +24807,7 @@ Through this chapter, you will:
 - Implement sales performance metrics that drive continuous improvement
 - Build sales training programs that ensure consistent execution
 
-This is not a basic sales guideâ€”it's a comprehensive system for building sales operations that scale to $10M+ revenue. Every process, every tool, every system serves the purpose of converting more leads into customers while building sustainable revenue growth.
+This is not a basic sales guide—it's a comprehensive system for building sales operations that scale to $10M+ revenue. Every process, every tool, every system serves the purpose of converting more leads into customers while building sustainable revenue growth.
 
 ---
 
@@ -26032,7 +26032,7 @@ Building a world-class sales team requires strategic hiring, comprehensive train
 
 ## 24.4 Customer Success Systems
 
-Customer success is the foundation of sustainable growth. It's not just about supportâ€”it's about ensuring customers achieve their desired outcomes, which leads to retention, expansion, and referrals. This section covers the complete customer success framework from onboarding to referral generation.
+Customer success is the foundation of sustainable growth. It's not just about support—it's about ensuring customers achieve their desired outcomes, which leads to retention, expansion, and referrals. This section covers the complete customer success framework from onboarding to referral generation.
 
 ### Onboarding Processes
 
@@ -26468,9 +26468,9 @@ Let us begin.
 
 Legacy Codex is built on leverage. You cannot scale a $10M+ empire by doing everything yourself. While technology provides leverage through automation, human capital provides leverage through judgment, creativity, and complex execution. This chapter provides the complete blueprint for building, managing, and scaling a world-class virtual team that operates as an extension of your vision, not just a cost center.
 
-Virtual team building is not about finding "cheap labor." It's about accessing global talent pools, creating 24/5 operational coverage, and building a scalable workforce that grows with your empire. The systems in this chapter have been battle-tested across hundreds of virtual team members, refined through iteration, and integrated with the North Star Dashboard v3 and Empire Automation â€“ Financial Tracker to ensure every hire is tracked, measured, and optimized.
+Virtual team building is not about finding "cheap labor." It's about accessing global talent pools, creating 24/5 operational coverage, and building a scalable workforce that grows with your empire. The systems in this chapter have been battle-tested across hundreds of virtual team members, refined through iteration, and integrated with the North Star Dashboard v3 and Empire Automation – Financial Tracker to ensure every hire is tracked, measured, and optimized.
 
-We are not looking for "cheap labor." We are looking for "global talent." The distinction is critical. We treat our virtual assistants (VAs) and remote team members as professionals, invest in their growth, and integrate them into the empire's culture. When executed properly, virtual teams become your competitive advantageâ€”delivering high-quality work at a fraction of the cost while providing flexibility and scalability that traditional hiring cannot match.
+We are not looking for "cheap labor." We are looking for "global talent." The distinction is critical. We treat our virtual assistants (VAs) and remote team members as professionals, invest in their growth, and integrate them into the empire's culture. When executed properly, virtual teams become your competitive advantage—delivering high-quality work at a fraction of the cost while providing flexibility and scalability that traditional hiring cannot match.
 
 This chapter is organized into four comprehensive sections: VA Recruitment Mastery (Section 25.1), VA Training Systems (Section 25.2), VA Management Framework (Section 25.3), and VA Scaling Strategies (Section 25.4). Each section includes detailed workflows, templates, metrics, and integration points with the broader Legacy systems.
 
@@ -26567,7 +26567,7 @@ A generic job post attracts generic candidates. Your post must filter out the no
 
 **2. The Hook (First Paragraph)**
 - **Purpose:** Capture attention and set expectations
-- **Example:** "We're building a $10M+ empire and need a world-class Executive Assistant who wants to grow with us. This isn't just a jobâ€”it's a career opportunity with a family-owned business that values long-term relationships."
+- **Example:** "We're building a $10M+ empire and need a world-class Executive Assistant who wants to grow with us. This isn't just a job—it's a career opportunity with a family-owned business that values long-term relationships."
 - **Key Elements:**
   - Vision (what you're building)
   - Role importance (why it matters)
@@ -26739,7 +26739,7 @@ The screening process is a funnel designed to filter candidates progressively, s
 - **Personality:** Professional yet personable, enthusiasm, confidence
 - **Presentation:** Clean background, good lighting, professional appearance
 
-**Why It Works:** Video reveals what text cannotâ€”personality, communication style, and cultural fit. It also tests their ability to use modern tools.
+**Why It Works:** Video reveals what text cannot—personality, communication style, and cultural fit. It also tests their ability to use modern tools.
 
 **Stage 4: Test Project (Eliminates 40-50%)**
 
@@ -27477,11 +27477,11 @@ Applies to all customer invoices for services rendered. Excludes vendor invoices
 - [ ] Invoice number is sequential and correct
 
 ## Common Mistakes
-- âŒ Wrong client selected
-- âŒ Incorrect pricing applied
-- âŒ Missing line items
-- âŒ Wrong payment terms
-- âŒ Invoice not synced to QBO
+- ❌ Wrong client selected
+- ❌ Incorrect pricing applied
+- ❌ Missing line items
+- ❌ Wrong payment terms
+- ❌ Invoice not synced to QBO
 
 ## Troubleshooting
 **Issue:** Invoice not syncing to QBO
@@ -27875,7 +27875,7 @@ When: Soon
 - **Use:** Estimate future tasks, identify bottlenecks
 
 **Quality-Adjusted Productivity:**
-- **Calculation:** (Tasks completed Ã— Quality score) / Hours worked
+- **Calculation:** (Tasks completed × Quality score) / Hours worked
 - **Use:** Balance speed and quality
 
 #### Productivity Improvement
@@ -28436,10 +28436,10 @@ Create a matrix showing:
 #### ROI Tracking
 
 **Calculate VA ROI:**
-- Value of work completed (your hourly rate Ã— hours saved)
+- Value of work completed (your hourly rate × hours saved)
 - Minus VA cost (salary + overhead)
 - Equals net value
-- ROI = (Net Value / VA Cost) Ã— 100
+- ROI = (Net Value / VA Cost) × 100
 
 **Target ROI:**
 - Entry VAs: 3-5x ROI
@@ -28473,7 +28473,7 @@ Create a matrix showing:
 - Cost tracking
 - Quality metrics
 
-### Empire Automation â€“ Financial Tracker Integration
+### Empire Automation – Financial Tracker Integration
 
 **Budget Tracking:**
 - Recruitment and onboarding costs
@@ -28583,7 +28583,7 @@ Create a matrix showing:
 
 ## Conclusion
 
-Virtual team building is not a cost centerâ€”it's a competitive advantage. When executed properly, virtual teams provide access to global talent, 24/5 operational coverage, and scalable workforce that grows with your empire. The systems in this chapter have been battle-tested and refined to ensure every hire is tracked, measured, and optimized.
+Virtual team building is not a cost center—it's a competitive advantage. When executed properly, virtual teams provide access to global talent, 24/5 operational coverage, and scalable workforce that grows with your empire. The systems in this chapter have been battle-tested and refined to ensure every hire is tracked, measured, and optimized.
 
 Remember: We are not looking for "cheap labor." We are looking for "global talent." Treat your VAs as professionals, invest in their growth, and integrate them into your culture. The result will be a high-performing team that extends your capabilities and accelerates your empire's growth.
 
@@ -28611,11 +28611,11 @@ The next chapter (Chapter 26: US Team Development) will detail how to build a co
 
 U.S.-based team members anchor The Enterprise's compliance obligations, executive interfaces, and client-facing responsibilities that demand domestic presence. While Chapter 25 established the global virtual backbone, this chapter codifies how to identify, recruit, and develop U.S. talent that integrates seamlessly with distributed pods. The objective is to maintain a lean, high-impact stateside nucleus that owns regulatory stewardship, complex decision-making, and premium relationship management while leveraging global teams for throughput.
 
-The hybrid workforce modelâ€”combining global virtual teams with strategic U.S. hiresâ€”is the optimal structure for scaling a $10M+ empire. Virtual teams provide cost efficiency and 24/5 coverage, while U.S. team members handle functions that require domestic presence: regulatory compliance, executive decision-making, premium client relationships, and strategic leadership. This chapter provides the complete blueprint for building, managing, and scaling this hybrid model.
+The hybrid workforce model—combining global virtual teams with strategic U.S. hires—is the optimal structure for scaling a $10M+ empire. Virtual teams provide cost efficiency and 24/5 coverage, while U.S. team members handle functions that require domestic presence: regulatory compliance, executive decision-making, premium client relationships, and strategic leadership. This chapter provides the complete blueprint for building, managing, and scaling this hybrid model.
 
-We will move through four structured sections matching the outline: key position identification (Section 26.1), recruitment and hiring (Section 26.2), employee development (Section 26.3), and compliance/administration (Section 26.4). Each section includes detailed workflows, templates, metrics, and integration points with the North Star Dashboard v3 for workforce analytics and the Empire Automation â€“ Financial Tracker for budgeting, payroll, and benefits planning. The result is a practical system for spinning up or evolving U.S. teams without bloating headcount or jeopardizing agility.
+We will move through four structured sections matching the outline: key position identification (Section 26.1), recruitment and hiring (Section 26.2), employee development (Section 26.3), and compliance/administration (Section 26.4). Each section includes detailed workflows, templates, metrics, and integration points with the North Star Dashboard v3 for workforce analytics and the Empire Automation – Financial Tracker for budgeting, payroll, and benefits planning. The result is a practical system for spinning up or evolving U.S. teams without bloating headcount or jeopardizing agility.
 
-This chapter assumes you've already implemented the virtual team systems from Chapter 25. The U.S. team complementsâ€”not replacesâ€”your virtual infrastructure. Together, they create a scalable, cost-efficient, and high-performing workforce that can grow with your empire from startup to $10M+ and beyond.
+This chapter assumes you've already implemented the virtual team systems from Chapter 25. The U.S. team complements—not replaces—your virtual infrastructure. Together, they create a scalable, cost-efficient, and high-performing workforce that can grow with your empire from startup to $10M+ and beyond.
 
 ---
 
@@ -28623,7 +28623,7 @@ This chapter assumes you've already implemented the virtual team systems from Ch
 
 ### 26.1.1 Strategic Workforce Mapping
 
-Start with The Enterprise Strategic Workforce Matrixâ€”a grid that cross-references business capabilities against regulatory or client proximity requirements. Capabilities that require U.S. soil (due to licensing, data residency, or relationship expectations) are tagged â€œDomestic Critical.â€ Examples:
+Start with The Enterprise Strategic Workforce Matrix—a grid that cross-references business capabilities against regulatory or client proximity requirements. Capabilities that require U.S. soil (due to licensing, data residency, or relationship expectations) are tagged “Domestic Critical.” Examples:
 
 - **Executive Integration:** Chief of Staff, Strategy Program Manager
 - **Finance & Compliance:** Controller, Tax Lead, Compliance Officer, Payroll Specialist
@@ -28633,7 +28633,7 @@ Start with The Enterprise Strategic Workforce Matrixâ€”a grid that cross-re
 
 For each capability, record:
 
-- **Mission Outcome:** the financial or operational objective (e.g., â€œmaintain GAAP-compliant close inside 5 daysâ€)
+- **Mission Outcome:** the financial or operational objective (e.g., “maintain GAAP-compliant close inside 5 days”)
 - **Interfaces:** stakeholders and pods reliant on the role
 - **Decision Rights:** spending authority, policy ownership
 - **Risks if Vacant:** compliance exposure, revenue impact, operational bottlenecks
@@ -28674,7 +28674,7 @@ For each role, produce a Compensation Capsule containing:
 - Benefits tier (medical, retirement, stipends)
 - Cost center and GL codes
 
-Update capsules annually or when market shifts exceed Â±10%.
+Update capsules annually or when market shifts exceed ±10%.
 
 ### 26.1.4 Timing and Sequencing
 
@@ -28686,21 +28686,21 @@ Tie hiring triggers to data-driven gates that prevent premature hiring (wasting 
 - **Trigger:** MRR > $250K AND transaction volume > 1,000/month
 - **Rationale:** Below this threshold, virtual bookkeeper can handle. Above this, need U.S. Controller for GAAP compliance, month-end close, and financial reporting.
 - **Cost Impact:** $80k-$120k/year (salary + benefits)
-- **ROI Calculation:** Time saved by founder (20+ hours/month) Ã— Founder hourly rate ($200+/hour) = $4,000+/month value
+- **ROI Calculation:** Time saved by founder (20+ hours/month) × Founder hourly rate ($200+/hour) = $4,000+/month value
 - **Dashboard Integration:** Automated alert when metrics cross threshold
 
 **Sales Director Hiring Gate:**
 - **Trigger:** Pipeline value > $2M AND conversion rate < 20%
 - **Rationale:** Need sales leadership to improve conversion and scale revenue
 - **Cost Impact:** $120k-$180k/year
-- **ROI Calculation:** Improved conversion (20% â†’ 30%) Ã— Pipeline value = $200k+ additional revenue
+- **ROI Calculation:** Improved conversion (20% → 30%) × Pipeline value = $200k+ additional revenue
 - **Dashboard Integration:** Track pipeline metrics and conversion rates
 
 **Operations Manager Hiring Gate:**
 - **Trigger:** Team size > 15 people (virtual + U.S.) AND founder spending >30% time on operations
 - **Rationale:** Need dedicated operations leadership to manage team and systems
 - **Cost Impact:** $100k-$150k/year
-- **ROI Calculation:** Founder time freed (15+ hours/week) Ã— Founder rate = $12,000+/month value
+- **ROI Calculation:** Founder time freed (15+ hours/week) × Founder rate = $12,000+/month value
 - **Dashboard Integration:** Track team size and founder time allocation
 
 #### Compliance Gates
@@ -28755,7 +28755,7 @@ Tie hiring triggers to data-driven gates that prevent premature hiring (wasting 
 - Requires executive approval and documented rationale
 - Track exceptions and outcomes for learning
 
-These gates live in the Dashboard "Capacity Triggers" view. When metrics cross thresholds, the system alerts the COO to initiate the recruitment workflow. This data-driven approach ensures you hire at the right timeâ€”not too early (wasting capital) or too late (creating bottlenecks).
+These gates live in the Dashboard "Capacity Triggers" view. When metrics cross thresholds, the system alerts the COO to initiate the recruitment workflow. This data-driven approach ensures you hire at the right time—not too early (wasting capital) or too late (creating bottlenecks).
 
 ---
 
@@ -28797,7 +28797,7 @@ Share briefs with all interviewers to ensure alignment and accelerate decision-m
 5. **Executive Alignment:** final conversation with founding partners or executive sponsor probing strategic thinking and Legacy Virtues.
 6. **References & Background Checks:** at least two manager references plus compliance checks (FINRA, state licensing, etc. as applicable).
 
-Time-to-offer target: â‰¤28 days. Track each stageâ€™s drop-off rate; if >20% attrition occurs between two stages, audit the process.
+Time-to-offer target: ≤28 days. Track each stage’s drop-off rate; if >20% attrition occurs between two stages, audit the process.
 
 ### 26.2.4 Candidate Experience & Communication
 
@@ -29502,14 +29502,14 @@ Every course links to capability ladders with required proficiency levels for pr
 
 ### 26.3.3 Performance Management
 
-Performance management at The Enterprise is not an annual eventâ€”it's a continuous process of goal-setting, feedback, development, and recognition. We adopt the Quarterly OKR + Monthly Check-in model, which provides structure while maintaining flexibility and real-time feedback.
+Performance management at The Enterprise is not an annual event—it's a continuous process of goal-setting, feedback, development, and recognition. We adopt the Quarterly OKR + Monthly Check-in model, which provides structure while maintaining flexibility and real-time feedback.
 
 #### Quarterly OKR Framework
 
 **OKR Structure:**
 - **Objectives:** 3-4 per quarter, qualitative and inspirational
 - **Key Results:** 2-3 per objective, quantitative and measurable
-- **Alignment:** OKRs cascade from Empire â†’ Portfolio â†’ Team â†’ Individual
+- **Alignment:** OKRs cascade from Empire → Portfolio → Team → Individual
 - **Transparency:** All OKRs visible in Dashboard (except confidential ones)
 
 **OKR Setting Process:**
@@ -29817,9 +29817,9 @@ Performance data syncs to the People Ops command center. Promotions require docu
 
 Map explicit growth paths:
 
-- **Leadership Track:** e.g., Controller â†’ Director of Finance â†’ VP Finance
-- **Expert Track:** e.g., Senior Automation Architect â†’ Principal Systems Strategist
-- **Hybrid Track:** e.g., Customer Success Strategist â†’ Program Manager â†’ Portfolio Leader
+- **Leadership Track:** e.g., Controller → Director of Finance → VP Finance
+- **Expert Track:** e.g., Senior Automation Architect → Principal Systems Strategist
+- **Hybrid Track:** e.g., Customer Success Strategist → Program Manager → Portfolio Leader
 
 Provide rotational assignments, mentorship pairings, and executive sponsorship. Use retention analytics (tenure, flight-risk signals) to trigger engagement plans.
 
@@ -29827,7 +29827,7 @@ Provide rotational assignments, mentorship pairings, and executive sponsorship. 
 
 - Quarterly Spot Bonuses tied to cross-functional wins.
 - Annual incentive plans linked to revenue, profitability, or compliance metrics.
-- Recognition rituals: â€œLegacy Heraldâ€ newsletter featuring standout behaviors, peer kudos channel, leadership AMA shoutouts.
+- Recognition rituals: “Legacy Herald” newsletter featuring standout behaviors, peer kudos channel, leadership AMA shoutouts.
 - Benefits optimization: review utilization data quarterly to adjust offerings (wellness stipends, caregiving support, educational budgets).
 
 ---
@@ -29882,7 +29882,7 @@ Post-offboarding, update the Dashboard workforce view and Financial Tracker to a
 
 ### 26.4.5 Risk Management
 
-- Workersâ€™ compensation policies covering remote employees across states
+- Workers’ compensation policies covering remote employees across states
 - EPLI (Employment Practices Liability Insurance)
 - Cyber liability insurance for employees with privileged access
 - Background re-check cadence for sensitive roles (finance, compliance)
@@ -29907,11 +29907,11 @@ When the above checklist remains green across cycles, U.S. team development beco
 
 ## Conclusion
 
-U.S. team development is not about hiring expensive talentâ€”it's about strategically placing high-impact team members in roles that require domestic presence, regulatory expertise, executive interface, or premium client relationships. When combined with the global virtual infrastructure from Chapter 25, this hybrid model creates a scalable, cost-efficient, and high-performing workforce.
+U.S. team development is not about hiring expensive talent—it's about strategically placing high-impact team members in roles that require domestic presence, regulatory expertise, executive interface, or premium client relationships. When combined with the global virtual infrastructure from Chapter 25, this hybrid model creates a scalable, cost-efficient, and high-performing workforce.
 
 The key to success is maintaining a lean, high-impact U.S. nucleus while leveraging global teams for throughput. Every U.S. hire must be justified by data (hiring gates), aligned with strategy (workforce mapping), and integrated with systems (Dashboard and Financial Tracker). When executed properly, the U.S. team becomes a force multiplier, not a cost center.
 
-Remember: The goal is not to build a large U.S. team. The goal is to build the right U.S. teamâ€”one that handles what virtual teams cannot, while virtual teams handle what they do best. Together, they create an unbeatable competitive advantage.
+Remember: The goal is not to build a large U.S. team. The goal is to build the right U.S. team—one that handles what virtual teams cannot, while virtual teams handle what they do best. Together, they create an unbeatable competitive advantage.
 
 Next, Chapter 27 will scale the view to organization-wide development, integrating both virtual and domestic teams into one cohesive system. This chapter will detail how to build culture, develop leaders, manage performance, and drive change across the entire hybrid workforce.
 
@@ -29936,7 +29936,7 @@ Next, Chapter 27 will scale the view to organization-wide development, integrati
 
 ## Introduction
 
-Organizational development (OD) ensures the Empireâ€™s human capital, culture, systems, and strategy continuously reinforce each other. Chapters 25 and 26 detailed how to construct global and U.S. teams. This chapter orchestrates those components into a resilient operating organism that scales without eroding The Enterprise ethos. We will progress through the four outlined domainsâ€”culture architecture, leadership development, performance systems, and change managementâ€”grounding each in actionable playbooks that feed the North Star Dashboard v3 and the Empire Automation â€“ Financial Tracker. The objective is to treat OD as a living engineering discipline: measurable, improvable, and inseparable from financial stewardship.
+Organizational development (OD) ensures the Empire’s human capital, culture, systems, and strategy continuously reinforce each other. Chapters 25 and 26 detailed how to construct global and U.S. teams. This chapter orchestrates those components into a resilient operating organism that scales without eroding The Enterprise ethos. We will progress through the four outlined domains—culture architecture, leadership development, performance systems, and change management—grounding each in actionable playbooks that feed the North Star Dashboard v3 and the Empire Automation – Financial Tracker. The objective is to treat OD as a living engineering discipline: measurable, improvable, and inseparable from financial stewardship.
 
 ---
 
@@ -29944,12 +29944,12 @@ Organizational development (OD) ensures the Empireâ€™s human capital, cultu
 
 ### 27.1.1 Culture OS Blueprint
 
-Culture is not a poster on the wallâ€”it's the operating system that runs your organization. The Enterprise Culture OS is a comprehensive, layered system that codifies values, behaviors, and rituals into actionable frameworks that guide every decision and interaction.
+Culture is not a poster on the wall—it's the operating system that runs your organization. The Enterprise Culture OS is a comprehensive, layered system that codifies values, behaviors, and rituals into actionable frameworks that guide every decision and interaction.
 
 #### The Four Layers of Culture OS
 
 **Layer 1: Foundational Narrative**
-The 365-year manifesto is not just a documentâ€”it's the story that binds the organization together. It must be translated into multiple formats for different audiences and contexts:
+The 365-year manifesto is not just a document—it's the story that binds the organization together. It must be translated into multiple formats for different audiences and contexts:
 
 **Three-Minute Film:**
 - Visual representation of The Enterprise vision
@@ -29981,7 +29981,7 @@ The 365-year manifesto is not just a documentâ€”it's the story that binds t
 - Recognition ties to narrative values
 
 **Layer 2: Virtue Stack**
-The four core virtues are not abstract conceptsâ€”they are behavioral frameworks with specific, observable actions:
+The four core virtues are not abstract concepts—they are behavioral frameworks with specific, observable actions:
 
 **Virtue 1: Radical Ownership**
 - **Definition:** Taking full responsibility for outcomes, regardless of circumstances
@@ -30153,7 +30153,7 @@ The Culture OS lives inside Notion with ownership assigned to the Culture Stewar
 
 ### 27.1.2 Values Integration
 
-The virtue stack is not a posterâ€”it's integrated into every workflow, decision, and interaction. Here's how to embed each virtue into the daily operations of The Enterprise:
+The virtue stack is not a poster—it's integrated into every workflow, decision, and interaction. Here's how to embed each virtue into the daily operations of The Enterprise:
 
 #### Hiring Integration
 
@@ -30183,7 +30183,7 @@ The virtue stack is not a posterâ€”it's integrated into every workflow, dec
 - Each virtue scored 1-5 based on interview responses
 - Evidence-based notes required (specific examples, not generalizations)
 - Minimum 3.5/5.0 average across all virtues to proceed
-- Virtue alignment is non-negotiableâ€”skills can be taught, values cannot
+- Virtue alignment is non-negotiable—skills can be taught, values cannot
 
 #### Onboarding Integration
 
@@ -30262,11 +30262,11 @@ Before making major decisions, ask:
 - Share decision rationale transparently
 - Learn from outcomes and iterate
 
-Embed the virtue stack into workflows via hiring, onboarding, performance, recognition, and decision-making. This ensures values are not just wordsâ€”they're the operating system that guides every action.
+Embed the virtue stack into workflows via hiring, onboarding, performance, recognition, and decision-making. This ensures values are not just words—they're the operating system that guides every action.
 
 ### 27.1.3 Behavior Standards & Enforcement
 
-Culture is not just valuesâ€”it's specific behaviors that are expected, rewarded, and enforced. The Enterprise Behavioral Codex codifies these behaviors into clear "always/never" statements that guide daily actions.
+Culture is not just values—it's specific behaviors that are expected, rewarded, and enforced. The Enterprise Behavioral Codex codifies these behaviors into clear "always/never" statements that guide daily actions.
 
 #### The Behavioral Codex
 
@@ -30539,7 +30539,7 @@ Communication health measures (response times, documentation completeness, meeti
 
 ### 27.1.5 Recognition Systems
 
-Recognition is not a nice-to-haveâ€”it's a critical component of culture that reinforces desired behaviors, builds engagement, and drives retention. The Enterprise Recognition Suite is a comprehensive system that ensures recognition is frequent, meaningful, and tied to values.
+Recognition is not a nice-to-have—it's a critical component of culture that reinforces desired behaviors, builds engagement, and drives retention. The Enterprise Recognition Suite is a comprehensive system that ensures recognition is frequent, meaningful, and tied to values.
 
 #### Recognition Philosophy
 
@@ -30654,8 +30654,8 @@ Formal recognition at annual offsite:
 **Tracked in Dashboard:**
 - Recognition frequency (recognitions per person per month)
 - Recognition distribution (ensuring equity)
-- Engagement correlation (recognition â†’ engagement)
-- Retention correlation (recognition â†’ retention)
+- Engagement correlation (recognition → engagement)
+- Retention correlation (recognition → retention)
 
 **ROI Analysis:**
 - **Engagement Lift:** Measure engagement scores before/after recognition programs
@@ -30669,7 +30669,7 @@ Formal recognition at annual offsite:
 - Engagement lift: >10% increase in engagement scores
 - Retention impact: >5% improvement in retention for recognized employees
 
-All recognition events log into the Tracker to monitor budget adherence and ROI (retention impact, engagement lift). This ensures recognition is not just feel-goodâ€”it's a strategic investment in culture and performance.
+All recognition events log into the Tracker to monitor budget adherence and ROI (retention impact, engagement lift). This ensures recognition is not just feel-good—it's a strategic investment in culture and performance.
 
 ---
 
@@ -30677,7 +30677,7 @@ All recognition events log into the Tracker to monitor budget adherence and ROI 
 
 ### 27.2.1 Competency Model
 
-Leadership at The Enterprise is not about titleâ€”it's about capability. The Leadership Competency Model defines the skills, behaviors, and mindsets required to lead effectively in our distributed, high-performance environment. Every leader, regardless of level, is assessed against these competencies and developed accordingly.
+Leadership at The Enterprise is not about title—it's about capability. The Leadership Competency Model defines the skills, behaviors, and mindsets required to lead effectively in our distributed, high-performance environment. Every leader, regardless of level, is assessed against these competencies and developed accordingly.
 
 #### The Five Pillars of Leadership
 
@@ -30874,7 +30874,7 @@ All dashboards share consistent formatting: definition, owner, target, current v
 ### 27.3.3 Feedback Systems
 
 - **Quarterly Performance Reviews:** RISE model plus culture coefficient. Reviews stored in HRIS and summarized for leadership.
-- **Continuous Feedback:** Loom-based micro-feedback, â€œthank youâ€ and â€œimproveâ€ tags in Slack.
+- **Continuous Feedback:** Loom-based micro-feedback, “thank you” and “improve” tags in Slack.
 - **Peer Calibration Sessions:** cross-team calibration to prevent rating inflation; guided by People Ops.
 - **Customer Feedback Loop:** embed client survey data into performance discussions for relevant roles.
 
@@ -30917,10 +30917,10 @@ Document every change initiative in the Change Registry (Notion database) with s
 
 ### 27.4.2 Communication Strategy
 
-- Launch with a â€œChange Narrativeâ€ memo plus video from the sponsor.
+- Launch with a “Change Narrative” memo plus video from the sponsor.
 - Provide FAQ, timeline, and resource hub.
 - Host AMA sessions and synchronous office hours to unblock concerns.
-- Publish weekly â€œChange Pulseâ€ updates summarizing progress, risks, next steps.
+- Publish weekly “Change Pulse” updates summarizing progress, risks, next steps.
 
 Communication metrics (open rates, attendance, sentiment) inform adjustments.
 
@@ -30964,7 +30964,7 @@ Post-implementation:
 4. Build the Change Registry and train leaders on the CLEAR model.
 5. Schedule quarterly OD health reviews combining Dashboard analytics, engagement scores, and financial outcomes.
 
-Organizational development is never "complete." Treat this chapter as an adaptive systemâ€”review quarterly, integrate insights from other volumes, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
+Organizational development is never "complete." Treat this chapter as an adaptive system—review quarterly, integrate insights from other volumes, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
 
 ---
 
@@ -30986,7 +30986,7 @@ Organizational development is never "complete." Treat this chapter as an adaptiv
 - Change initiative tracking
 - People analytics
 
-### Empire Automation â€“ Financial Tracker Integration
+### Empire Automation – Financial Tracker Integration
 
 **OD Investment Tracking:**
 - Training and development costs
@@ -31037,9 +31037,9 @@ Organizational development is never "complete." Treat this chapter as an adaptiv
 
 ## Conclusion
 
-Organizational development is the engine that transforms individual talent into organizational capability. It's not about programs or initiativesâ€”it's about building systems that continuously develop people, strengthen culture, improve performance, and enable change. When executed properly, OD becomes a competitive advantage that compounds over time.
+Organizational development is the engine that transforms individual talent into organizational capability. It's not about programs or initiatives—it's about building systems that continuously develop people, strengthen culture, improve performance, and enable change. When executed properly, OD becomes a competitive advantage that compounds over time.
 
-The systems in this chapterâ€”culture architecture, leadership development, performance management, and change managementâ€”work together to create an organization that is adaptive, high-performing, and aligned with The Enterprise vision. They integrate with the North Star Dashboard v3 and Financial Tracker to ensure every investment is measured, optimized, and justified.
+The systems in this chapter—culture architecture, leadership development, performance management, and change management—work together to create an organization that is adaptive, high-performing, and aligned with The Enterprise vision. They integrate with the North Star Dashboard v3 and Financial Tracker to ensure every investment is measured, optimized, and justified.
 
 Remember: Organizational development is never "complete." It's a continuous process of improvement, adaptation, and growth. Review these systems quarterly, integrate insights from across Legacy Codex, and ensure every process reinforces Legacy sovereignty, scalability, and stewardship.
 
@@ -31071,7 +31071,7 @@ Finance is the language of business. If you do not speak it fluently, you cannot
 
 This chapter details the setup and operation of the financial nervous system of the Legacy Codex. We utilize **QuickBooks Online (QBO)** as our core ledger, integrated with our operational tools (SuiteDash, Financial Tracker, North Star Dashboard v3) for seamless data flow. This system provides real-time financial visibility, ensures compliance, and enables data-driven decision-making.
 
-The "Financial Truth Engine" is what we call our accounting systemâ€”it tells you exactly what's happening in your business, when it's happening, and why. Without it, you're flying blind. With it, you have the visibility and control needed to scale from startup to $10M+ and beyond.
+The "Financial Truth Engine" is what we call our accounting system—it tells you exactly what's happening in your business, when it's happening, and why. Without it, you're flying blind. With it, you have the visibility and control needed to scale from startup to $10M+ and beyond.
 
 ---
 
@@ -31217,10 +31217,10 @@ Set up bank rules for recurring transactions to save time:
 - Manually review first few matches
 
 **Integration with Other Systems:**
-- **Stripe â†’ QBO:** Automatic import of payment transactions
-- **SuiteDash â†’ QBO:** Invoice sync (invoices created in SuiteDash sync to QBO)
-- **Financial Tracker â†’ QBO:** Budget and forecast data
-- **Dashboard â†’ QBO:** Real-time financial metrics
+- **Stripe → QBO:** Automatic import of payment transactions
+- **SuiteDash → QBO:** Invoice sync (invoices created in SuiteDash sync to QBO)
+- **Financial Tracker → QBO:** Budget and forecast data
+- **Dashboard → QBO:** Real-time financial metrics
 
 ### 28.1.2 Customer & Vendor Setup
 
@@ -31351,7 +31351,7 @@ Rely on bank feeds and integrations to import transactions automatically. Manual
 - **Tool:** Dext (formerly Receipt Bank) or QBO Mobile
 - **Process:** Snap photo of receipt immediately after purchase
 - **Integration:** Receipts automatically attached to transactions in QBO
-- **Rule:** No shoeboxesâ€”all receipts digital
+- **Rule:** No shoeboxes—all receipts digital
 
 **Categorization Standards:**
 - Use consistent account codes
@@ -31843,12 +31843,12 @@ Allocate shared costs to operating entities based on reasonable drivers:
 - Trend analysis and forecasting
 
 **Data Flow:**
-- QBO â†’ Dashboard (automated sync)
+- QBO → Dashboard (automated sync)
 - Real-time updates
 - Historical trends
 - Comparative analysis
 
-### Empire Automation â€“ Financial Tracker Integration
+### Empire Automation – Financial Tracker Integration
 
 **Budget & Forecast:**
 - Annual budgets
@@ -31863,8 +31863,8 @@ Allocate shared costs to operating entities based on reasonable drivers:
 - Reserve planning
 
 **Data Flow:**
-- Financial Tracker â†’ QBO (budget data)
-- QBO â†’ Financial Tracker (actuals)
+- Financial Tracker → QBO (budget data)
+- QBO → Financial Tracker (actuals)
 - Automated reconciliation
 
 ### Cross-Volume Integration
@@ -31898,9 +31898,9 @@ Allocate shared costs to operating entities based on reasonable drivers:
 
 ## Conclusion
 
-The Financial Truth Engineâ€”your accounting and bookkeeping systemâ€”is the foundation of financial control and decision-making. When implemented properly, it provides real-time visibility, ensures compliance, and enables data-driven decisions that drive growth.
+The Financial Truth Engine—your accounting and bookkeeping system—is the foundation of financial control and decision-making. When implemented properly, it provides real-time visibility, ensures compliance, and enables data-driven decisions that drive growth.
 
-Remember: Accounting is not about complianceâ€”it's about control. A well-run accounting system tells you exactly what's happening in your business, when it's happening, and why. Without it, you're flying blind. With it, you have the visibility and control needed to scale from startup to $10M+ and beyond.
+Remember: Accounting is not about compliance—it's about control. A well-run accounting system tells you exactly what's happening in your business, when it's happening, and why. Without it, you're flying blind. With it, you have the visibility and control needed to scale from startup to $10M+ and beyond.
 
 The next chapter (Chapter 29: Financial Planning & Analysis) will detail how to use this financial data for forward-looking planning, budgeting, and analysis that transforms data into strategic intelligence.
 
@@ -31929,9 +31929,9 @@ Accounting looks backward; Financial Planning & Analysis (FP&A) looks forward. A
 
 This chapter details the systems for budgeting, forecasting, and analyzing the financial health of the Legacy Codex. It transforms raw accounting data into strategic intelligence that enables proactive decision-making, risk management, and capital allocation.
 
-FP&A is not about creating pretty spreadsheetsâ€”it's about building a financial planning system that gives you the foresight to make better decisions, allocate capital wisely, and navigate uncertainty with confidence. When executed properly, FP&A becomes your competitive advantage, allowing you to see opportunities and threats before your competitors do.
+FP&A is not about creating pretty spreadsheets—it's about building a financial planning system that gives you the foresight to make better decisions, allocate capital wisely, and navigate uncertainty with confidence. When executed properly, FP&A becomes your competitive advantage, allowing you to see opportunities and threats before your competitors do.
 
-The systems in this chapter integrate with the North Star Dashboard v3 for real-time visibility and the Empire Automation â€“ Financial Tracker for detailed planning and analysis. Together, they create a comprehensive financial intelligence system that supports scaling from startup to $10M+ and beyond.
+The systems in this chapter integrate with the North Star Dashboard v3 for real-time visibility and the Empire Automation – Financial Tracker for detailed planning and analysis. Together, they create a comprehensive financial intelligence system that supports scaling from startup to $10M+ and beyond.
 
 ---
 
@@ -32008,10 +32008,10 @@ Zero-Based Budgeting (ZBB) starts from zero and justifies every dollar. This app
 - **Timing:** Monthly revenue projections
 
 **Example Revenue Build:**
-- **Q1:** 100 leads Ã— 20% conversion Ã— $10K avg deal = $200K
-- **Q2:** 120 leads Ã— 22% conversion Ã— $10K avg deal = $264K
-- **Q3:** 140 leads Ã— 24% conversion Ã— $10K avg deal = $336K
-- **Q4:** 160 leads Ã— 25% conversion Ã— $10K avg deal = $400K
+- **Q1:** 100 leads × 20% conversion × $10K avg deal = $200K
+- **Q2:** 120 leads × 22% conversion × $10K avg deal = $264K
+- **Q3:** 140 leads × 24% conversion × $10K avg deal = $336K
+- **Q4:** 160 leads × 25% conversion × $10K avg deal = $400K
 - **Total:** $1.2M annual revenue
 
 **Expense Budget:**
@@ -32021,10 +32021,10 @@ Zero-Based Budgeting (ZBB) starts from zero and justifies every dollar. This app
 - **Contingency:** 5-10% buffer for unexpected expenses
 
 **Example Expense Build:**
-- **Salaries:** 10 employees Ã— $80K avg = $800K
-- **Software:** $2K/month Ã— 12 = $24K
+- **Salaries:** 10 employees × $80K avg = $800K
+- **Software:** $2K/month × 12 = $24K
 - **Marketing:** 15% of revenue = $180K
-- **Rent:** $5K/month Ã— 12 = $60K
+- **Rent:** $5K/month × 12 = $60K
 - **Other:** $50K
 - **Total:** $1.114M expenses
 - **Net Income:** $86K (7% margin)
@@ -32078,14 +32078,14 @@ A 12-month rolling forecast that updates monthly, always looking 12 months ahead
 
 **Forecast Drivers:**
 Forecast based on drivers, not just hard-coding numbers:
-- **Revenue Drivers:** Leads Ã— Conversion Rate Ã— Average Deal Size
-- **Expense Drivers:** Headcount Ã— Average Salary, Revenue Ã— Marketing %
+- **Revenue Drivers:** Leads × Conversion Rate × Average Deal Size
+- **Expense Drivers:** Headcount × Average Salary, Revenue × Marketing %
 - **Cash Drivers:** Revenue timing, payment terms, expense timing
 
 **Example Revenue Forecast:**
-- **Current Month (Jan):** 100 leads Ã— 20% Ã— $10K = $200K (actual: $195K)
-- **Next Month (Feb):** 110 leads Ã— 21% Ã— $10K = $231K (revised up)
-- **Month 3 (Mar):** 120 leads Ã— 22% Ã— $10K = $264K
+- **Current Month (Jan):** 100 leads × 20% × $10K = $200K (actual: $195K)
+- **Next Month (Feb):** 110 leads × 21% × $10K = $231K (revised up)
+- **Month 3 (Mar):** 120 leads × 22% × $10K = $264K
 - **...continue for 12 months**
 
 **Forecast vs. Budget:**
@@ -32096,9 +32096,9 @@ Forecast based on drivers, not just hard-coding numbers:
 #### Forecast Accuracy
 
 **Target Accuracy:**
-- **Month 1-3:** Â±5% accuracy
-- **Month 4-6:** Â±10% accuracy
-- **Month 7-12:** Â±15% accuracy
+- **Month 1-3:** ±5% accuracy
+- **Month 4-6:** ±10% accuracy
+- **Month 7-12:** ±15% accuracy
 
 **Improving Accuracy:**
 - Track forecast accuracy over time
@@ -32319,47 +32319,47 @@ Financial metrics are the dashboard of your business. They tell you how healthy 
 #### Profitability Metrics
 
 **Gross Margin:**
-- **Formula:** (Revenue - COGS) / Revenue Ã— 100
+- **Formula:** (Revenue - COGS) / Revenue × 100
 - **Target:** >70% for services/SaaS businesses
 - **Why It Matters:** Shows pricing power and cost control
 - **Improvement:** Increase prices, reduce COGS, shift to higher-margin products
 
 **EBITDA Margin:**
-- **Formula:** EBITDA / Revenue Ã— 100
+- **Formula:** EBITDA / Revenue × 100
 - **Target:** >20% for healthy businesses
 - **Why It Matters:** Shows operating efficiency before interest, taxes, depreciation
 - **Improvement:** Increase revenue, reduce operating expenses, improve efficiency
 
 **Net Profit Margin:**
-- **Formula:** Net Income / Revenue Ã— 100
+- **Formula:** Net Income / Revenue × 100
 - **Target:** >15% for sustainable businesses
-- **Why It Matters:** The bottom lineâ€”what you actually keep
+- **Why It Matters:** The bottom line—what you actually keep
 - **Improvement:** All of the above, plus optimize taxes and interest
 
 **Example:**
 - Revenue: $1,000,000
 - COGS: $200,000
 - Gross Profit: $800,000
-- Gross Margin: 80% âœ“
+- Gross Margin: 80% ✓
 - OpEx: $600,000
 - EBITDA: $200,000
-- EBITDA Margin: 20% âœ“
+- EBITDA Margin: 20% ✓
 - Net Income: $150,000
-- Net Profit Margin: 15% âœ“
+- Net Profit Margin: 15% ✓
 
 #### Efficiency Ratios
 
 **CAC Payback Period:**
-- **Formula:** Customer Acquisition Cost / (Monthly Revenue per Customer Ã— Gross Margin %)
+- **Formula:** Customer Acquisition Cost / (Monthly Revenue per Customer × Gross Margin %)
 - **Target:** <12 months
 - **Why It Matters:** How long to earn back acquisition cost
-- **Example:** $1,000 CAC / ($100/month Ã— 80% margin) = 12.5 months
+- **Example:** $1,000 CAC / ($100/month × 80% margin) = 12.5 months
 
 **LTV:CAC Ratio:**
 - **Formula:** Lifetime Value / Customer Acquisition Cost
 - **Target:** >3:1
 - **Why It Matters:** Ensures profitable customer acquisition
-- **Example:** $10,000 LTV / $1,000 CAC = 10:1 âœ“
+- **Example:** $10,000 LTV / $1,000 CAC = 10:1 ✓
 
 **Revenue per Employee:**
 - **Formula:** Annual Revenue / Number of Employees
@@ -32370,7 +32370,7 @@ Financial metrics are the dashboard of your business. They tell you how healthy 
 **Example:**
 - Revenue: $2,000,000
 - Employees: 10
-- Revenue per Employee: $200K âœ“
+- Revenue per Employee: $200K ✓
 
 #### Liquidity Measures
 
@@ -32378,13 +32378,13 @@ Financial metrics are the dashboard of your business. They tell you how healthy 
 - **Formula:** Current Assets / Current Liabilities
 - **Target:** >1.5
 - **Why It Matters:** Ability to pay short-term obligations
-- **Example:** $300K current assets / $150K current liabilities = 2.0 âœ“
+- **Example:** $300K current assets / $150K current liabilities = 2.0 ✓
 
 **Quick Ratio:**
 - **Formula:** (Cash + Accounts Receivable) / Current Liabilities
 - **Target:** >1.0
 - **Why It Matters:** Ability to pay without selling inventory
-- **Example:** ($100K cash + $150K AR) / $150K liabilities = 1.67 âœ“
+- **Example:** ($100K cash + $150K AR) / $150K liabilities = 1.67 ✓
 
 **Cash Runway:**
 - **Formula:** Cash Balance / Monthly Burn Rate
@@ -32455,12 +32455,12 @@ Before spending money on a new project, acquisition, or investment, run the numb
 
 #### ROI (Return on Investment)
 
-**Formula:** (Net Profit / Cost of Investment) Ã— 100
+**Formula:** (Net Profit / Cost of Investment) × 100
 
 **Example:**
 - Investment: $50,000 (new marketing campaign)
 - Net Profit: $75,000 (additional revenue - costs)
-- ROI: ($75,000 / $50,000) Ã— 100 = 150%
+- ROI: ($75,000 / $50,000) × 100 = 150%
 
 **Use Case:** Quick analysis for marketing campaigns, small projects, short-term investments
 
@@ -32484,7 +32484,7 @@ Before spending money on a new project, acquisition, or investment, run the numb
 - Year 2 PV: $50,000 / (1.10)^2 = $41,322
 - Year 3 PV: $60,000 / (1.10)^3 = $45,079
 - Total PV: $122,765
-- NPV: $122,765 - $100,000 = $22,765 âœ“
+- NPV: $122,765 - $100,000 = $22,765 ✓
 
 **Rule:** If NPV > 0, the project adds value. If NPV < 0, it destroys value.
 
@@ -32564,7 +32564,7 @@ How much do we need to sell to cover the investment?
 - Metric calculations automated
 - Alerts for variances and issues
 
-### Empire Automation â€“ Financial Tracker Integration
+### Empire Automation – Financial Tracker Integration
 
 **Budget & Forecast:**
 - Annual budget loaded into tracker
@@ -32599,7 +32599,7 @@ How much do we need to sell to cover the investment?
 
 ## Conclusion
 
-Financial Planning & Analysis transforms accounting data into strategic intelligence. It's not about creating spreadsheetsâ€”it's about building a system that gives you foresight, enables better decisions, and helps you navigate uncertainty with confidence.
+Financial Planning & Analysis transforms accounting data into strategic intelligence. It's not about creating spreadsheets—it's about building a system that gives you foresight, enables better decisions, and helps you navigate uncertainty with confidence.
 
 Remember: The best financial plan is useless if you don't use it. Review your budget and forecast monthly, track your metrics weekly, and use the insights to make better decisions. When executed properly, FP&A becomes your competitive advantage, allowing you to see opportunities and threats before your competitors do.
 
@@ -32630,7 +32630,7 @@ Tax is your single largest expense. In the Legacy Codex, we view tax not as a ma
 
 This chapter details the strategies for implementing the tax planning frameworks outlined in Volume II. It transforms theoretical tax strategies into operational systems that maximize wealth retention through legal optimization.
 
-Tax strategy is not about evasionâ€”it's about optimization. Every dollar saved in taxes is a dollar that can be reinvested in growth, distributed to owners, or preserved for future generations. When executed properly, tax strategy becomes a competitive advantage, allowing you to retain more wealth while operating legally and ethically.
+Tax strategy is not about evasion—it's about optimization. Every dollar saved in taxes is a dollar that can be reinvested in growth, distributed to owners, or preserved for future generations. When executed properly, tax strategy becomes a competitive advantage, allowing you to retain more wealth while operating legally and ethically.
 
 The systems in this chapter integrate with the accounting systems from Chapter 28, the financial planning systems from Chapter 29, and the legal structures from Volume II. Together, they create a comprehensive tax optimization system that supports scaling from startup to $10M+ and beyond.
 
@@ -32652,8 +32652,8 @@ Consider S-Corp when net profit >$60k-$80k. Below this threshold, the administra
 - **SE Tax Rate:** 15.3% (12.4% Social Security + 2.9% Medicare)
 - **S-Corp Savings:** SE tax only on "reasonable compensation," not on distributions
 - **Example:** $100K profit
-  - **LLC (Self-Employed):** $100K Ã— 15.3% = $15,300 SE tax
-  - **S-Corp:** $60K reasonable comp Ã— 15.3% = $9,180 SE tax + $40K distribution (no SE tax)
+  - **LLC (Self-Employed):** $100K × 15.3% = $15,300 SE tax
+  - **S-Corp:** $60K reasonable comp × 15.3% = $9,180 SE tax + $40K distribution (no SE tax)
   - **Savings:** $6,120/year
 
 **Reasonable Compensation Requirement:**
@@ -32689,7 +32689,7 @@ For high-growth startups planning an exit, C-Corp status may qualify for Section
 
 **Tax Benefit:**
 - **Exclusion:** Up to $10M or 10x basis (whichever greater) in gains excluded from federal tax
-- **Example:** $1M investment â†’ $11M exit = $10M tax-free
+- **Example:** $1M investment → $11M exit = $10M tax-free
 - **Massive Savings:** Could save millions in taxes on exit
 
 **C-Corp Drawbacks:**
@@ -32732,7 +32732,7 @@ Pay children (age 7+) a reasonable wage for legitimate work. This shifts income 
 
 **Example:**
 - Child (age 14) does social media management
-- Reasonable wage: $15/hour Ã— 10 hours/week Ã— 50 weeks = $7,500/year
+- Reasonable wage: $15/hour × 10 hours/week × 50 weeks = $7,500/year
 - **Tax Impact:**
   - Business deduction: $7,500 (saves ~$2,000 in taxes at 27% rate)
   - Child tax: $0 (under standard deduction)
@@ -32761,7 +32761,7 @@ Rent your personal home to your business for board meetings for up to 14 days pe
 - **Documentation:** Meeting minutes, rent receipts, business purpose
 
 **Example:**
-- Home office rent: $500/day Ã— 12 days = $6,000/year
+- Home office rent: $500/day × 12 days = $6,000/year
 - **Tax Impact:**
   - Business deduction: $6,000 (saves ~$1,620 at 27% rate)
   - Personal income: $6,000 tax-free (saves ~$1,620 at 27% rate)
@@ -33042,7 +33042,7 @@ States use formulas to determine what portion of your income is taxable in their
 - Payroll in CA: 10% of total
 - Property in CA: 5% of total
 - **Apportionment:** (30% + 10% + 5%) / 3 = 15%
-- **CA Taxable Income:** $1,000,000 Ã— 15% = $150,000
+- **CA Taxable Income:** $1,000,000 × 15% = $150,000
 
 #### Optimization Strategies
 
@@ -33121,7 +33121,7 @@ States use formulas to determine what portion of your income is taxable in their
 
 **Example:**
 - 10,000 business miles/year
-- **Deduction:** 10,000 Ã— $0.67 = $6,700
+- **Deduction:** 10,000 × $0.67 = $6,700
 - **Tax Savings:** $1,809 (at 27% rate)
 - **Cost:** $120/year
 - **Net Benefit:** $1,689/year
@@ -33259,7 +33259,7 @@ Business Purpose: Client relationship building and project planning
 - Compliance alerts
 - Savings opportunities identified
 
-### Empire Automation â€“ Financial Tracker Integration
+### Empire Automation – Financial Tracker Integration
 
 **Tax Planning:**
 - Tax projections and planning
@@ -33268,9 +33268,9 @@ Business Purpose: Client relationship building and project planning
 - Compliance calendar
 
 **Data Flow:**
-- Financial Tracker â†’ Tax projections
-- QBO â†’ Tax data
-- Tax software â†’ Financial Tracker
+- Financial Tracker → Tax projections
+- QBO → Tax data
+- Tax software → Financial Tracker
 
 ### Cross-Volume Integration
 
@@ -33293,7 +33293,7 @@ Business Purpose: Client relationship building and project planning
 
 ## Conclusion
 
-Tax strategy is not about evasionâ€”it's about optimization. Every dollar saved in taxes is a dollar that can be reinvested in growth, distributed to owners, or preserved for future generations. When executed properly, tax strategy becomes a competitive advantage.
+Tax strategy is not about evasion—it's about optimization. Every dollar saved in taxes is a dollar that can be reinvested in growth, distributed to owners, or preserved for future generations. When executed properly, tax strategy becomes a competitive advantage.
 
 Remember: Tax strategy requires planning, not just year-end compliance. Work with a tax professional throughout the year to identify opportunities, implement strategies, and ensure compliance. The systems in this chapter, when integrated with your accounting and financial planning systems, create a comprehensive tax optimization framework that maximizes wealth retention while operating legally and ethically.
 
@@ -33327,7 +33327,7 @@ This concludes Volume V: Operations & Scaling. Together, the human capital manag
 
 ## Introduction
 
-The greatest threat to a Legacy is not market competition, regulatory change, or economic downturnâ€”it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
+The greatest threat to a Legacy is not market competition, regulatory change, or economic downturn—it is internal conflict. The adage "shirtsleeves to shirtsleeves in three generations" exists because most families fail to govern themselves as effectively as they govern their businesses.
 
 **Volume VI: Family Governance & Succession** provides the constitutional framework for the OHU-PNR family. It transforms a group of related individuals into a disciplined, aligned, and high-performing governing body.
 
@@ -33355,11 +33355,11 @@ By implementing the systems in this volume, you are building the "software" that
 
 ## Introduction
 
-The Family Council serves as the constitutional body that governs the Legacy Codexâ€”the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
+The Family Council serves as the constitutional body that governs the Legacy Codex—the formal mechanism through which family members make strategic decisions, resolve conflicts, and ensure the empire's long-term sustainability. Unlike traditional corporate boards that focus solely on shareholder value, the Family Council balances financial objectives with family values, generational continuity, and legacy preservation.
 
 This chapter provides a complete operational framework for establishing and running a Family Council that will guide your Legacy for generations. You will learn how to structure the council, conduct effective meetings, make decisions that align with your 365-year vision, and create communication systems that prevent misunderstandings and conflicts.
 
-The Family Council is not a theoretical conceptâ€”it is a practical governance tool that becomes more critical as your empire grows. When you're making decisions about $250K+ investments, succession planning, or major strategic pivots, having a formal governance structure prevents ad-hoc decision-making that can fracture family relationships or compromise the empire's integrity.
+The Family Council is not a theoretical concept—it is a practical governance tool that becomes more critical as your empire grows. When you're making decisions about $250K+ investments, succession planning, or major strategic pivots, having a formal governance structure prevents ad-hoc decision-making that can fracture family relationships or compromise the empire's integrity.
 
 Through this chapter, you will develop:
 - A complete Family Council structure with bylaws that define membership, voting, and authority
@@ -33375,7 +33375,7 @@ This governance structure is the operating system for your Legacy. It ensures th
 
 ### The Foundation of Family Governance
 
-The Family Council bylaws are the constitutional document for your Legacyâ€”the rules that govern how family decisions are made, who has authority, and how conflicts are resolved. These bylaws must be comprehensive enough to handle complex situations yet flexible enough to adapt as your family and empire evolve.
+The Family Council bylaws are the constitutional document for your Legacy—the rules that govern how family decisions are made, who has authority, and how conflicts are resolved. These bylaws must be comprehensive enough to handle complex situations yet flexible enough to adapt as your family and empire evolve.
 
 Unlike corporate bylaws that focus on legal compliance, Family Council bylaws must address:
 - Family dynamics and relationships
@@ -34484,16 +34484,16 @@ An emergency is any situation that threatens:
 
 ## Conclusion
 
-The Family Council is the governance heart of your Legacyâ€”the mechanism through which family values, business strategy, and generational continuity are maintained. This chapter has provided you with a complete operational framework for establishing and running an effective Family Council.
+The Family Council is the governance heart of your Legacy—the mechanism through which family values, business strategy, and generational continuity are maintained. This chapter has provided you with a complete operational framework for establishing and running an effective Family Council.
 
-Remember that governance is not about controlâ€”it's about creating structures that enable wise decision-making, prevent conflicts, and ensure the empire's long-term sustainability. The most successful family businesses are those with clear governance structures that evolve as the family and business grow.
+Remember that governance is not about control—it's about creating structures that enable wise decision-making, prevent conflicts, and ensure the empire's long-term sustainability. The most successful family businesses are those with clear governance structures that evolve as the family and business grow.
 
 As you implement these systems:
 - Start with the basics: bylaws, meeting structure, decision frameworks
 - Customize to your family's unique dynamics and needs
-- Be patientâ€”effective governance takes time to develop
-- Stay flexibleâ€”adjust processes based on experience
-- Focus on communicationâ€”most conflicts stem from misunderstandings
+- Be patient—effective governance takes time to develop
+- Stay flexible—adjust processes based on experience
+- Focus on communication—most conflicts stem from misunderstandings
 
 The Family Council you establish today will guide decisions that affect generations to come. Invest the time and effort to build it well, and it will serve as a foundation for Legacy success.
 
@@ -34521,9 +34521,9 @@ In the next chapter, we'll explore how to educate your children in business prin
 
 ## Introduction
 
-The greatest threat to multi-generational wealth is not externalâ€”it's the failure to prepare the next generation to manage, grow, and steward the empire you're building. Statistics are sobering: 70% of family businesses fail to survive the transition to the second generation, and 90% fail by the third generation. The primary cause? Insufficient preparation of heirs.
+The greatest threat to multi-generational wealth is not external—it's the failure to prepare the next generation to manage, grow, and steward the empire you're building. Statistics are sobering: 70% of family businesses fail to survive the transition to the second generation, and 90% fail by the third generation. The primary cause? Insufficient preparation of heirs.
 
-This chapter provides a comprehensive, age-appropriate curriculum for educating Ivan, Jeremy, Kikachukwu, and Chimenime (and future generations) in business principles, financial literacy, and entrepreneurial thinking. This is not about forcing your children into the family businessâ€”it's about giving them the knowledge, skills, and mindset to succeed in whatever path they choose, while ensuring they're prepared if they want to join the empire.
+This chapter provides a comprehensive, age-appropriate curriculum for educating Ivan, Jeremy, Kikachukwu, and Chimenime (and future generations) in business principles, financial literacy, and entrepreneurial thinking. This is not about forcing your children into the family business—it's about giving them the knowledge, skills, and mindset to succeed in whatever path they choose, while ensuring they're prepared if they want to join the empire.
 
 The education program outlined here begins at age 5 and continues through adulthood, adapting to each child's developmental stage, interests, and learning style. It combines formal learning with practical experience, theoretical knowledge with hands-on application, and individual development with family legacy understanding.
 
@@ -35171,7 +35171,7 @@ Age 18 marks a significant transition: legal adulthood, potential voting rights 
 
 #### Lifelong Learning Philosophy
 
-Business education doesn't end at 18 or 25â€”it's a lifelong journey. The business landscape evolves constantly, and successful family business members must continuously adapt, learn, and grow. This section outlines ongoing education for adult family members.
+Business education doesn't end at 18 or 25—it's a lifelong journey. The business landscape evolves constantly, and successful family business members must continuously adapt, learn, and grow. This section outlines ongoing education for adult family members.
 
 #### Core Learning Areas
 
@@ -35234,7 +35234,7 @@ Business education doesn't end at 18 or 25â€”it's a lifelong journey. The b
 
 #### The Power of Early Entrepreneurship
 
-There's no substitute for real business experience. Micro-businessesâ€”small, manageable ventures that children can run themselvesâ€”provide hands-on learning that no classroom can match. These businesses teach risk-taking, problem-solving, customer service, and financial management in a safe, supportive environment.
+There's no substitute for real business experience. Micro-businesses—small, manageable ventures that children can run themselves—provide hands-on learning that no classroom can match. These businesses teach risk-taking, problem-solving, customer service, and financial management in a safe, supportive environment.
 
 #### Age-Appropriate Micro-Business Ideas
 
@@ -35460,7 +35460,7 @@ Projects provide focused opportunities to develop specific skills while contribu
 
 #### Developing Leadership Skills
 
-Leadership can't be taught in a classroomâ€”it must be developed through experience. Providing leadership opportunities allows children to develop leadership skills in safe, supportive environments.
+Leadership can't be taught in a classroom—it must be developed through experience. Providing leadership opportunities allows children to develop leadership skills in safe, supportive environments.
 
 #### Leadership Opportunity Types
 
@@ -36085,7 +36085,7 @@ Clear advancement criteria ensure children are ready for increased responsibilit
 
 ## Conclusion
 
-Educating your children in business principles is one of the most important investments you can make in your Legacy's future. This comprehensive education program, spanning from age 5 through adulthood, ensures that Ivan, Jeremy, Kikachukwu, and Chimenimeâ€”and future generationsâ€”are prepared to steward the empire you're building.
+Educating your children in business principles is one of the most important investments you can make in your Legacy's future. This comprehensive education program, spanning from age 5 through adulthood, ensures that Ivan, Jeremy, Kikachukwu, and Chimenime—and future generations—are prepared to steward the empire you're building.
 
 Remember that education is not about forcing your children into the family business. It's about giving them the knowledge, skills, and mindset to succeed in whatever path they choose, while ensuring they're prepared if they want to join the empire. The goal is capable, confident, values-aligned individuals who can make wise decisions about money, business, and life.
 
@@ -36095,11 +36095,11 @@ As you implement this education program:
 - Provide real experiences, not just theory
 - Adapt to each child's interests and learning style
 - Celebrate progress and achievements
-- Be patientâ€”this is a long-term investment
+- Be patient—this is a long-term investment
 
 The education you provide today will compound across generations, ensuring that wealth serves your family rather than corrupting it, and that each generation builds upon the previous one's success.
 
-In the next chapter, we'll explore succession planningâ€”the process of transitioning leadership and ownership to the next generation, ensuring continuity and sustainability for your Legacy.
+In the next chapter, we'll explore succession planning—the process of transitioning leadership and ownership to the next generation, ensuring continuity and sustainability for your Legacy.
 
 ---
 
@@ -36122,7 +36122,7 @@ In the next chapter, we'll explore succession planningâ€”the process of tra
 
 Succession planning is the process of transitioning leadership and ownership of your Legacy from one generation to the next. It's one of the most critical and challenging aspects of multi-generational wealth preservation. Statistics are stark: only 30% of family businesses survive the transition to the second generation, and just 10% make it to the third generation. The primary cause of failure? Inadequate succession planning.
 
-This chapter provides a comprehensive framework for planning and executing successful generational transitions. Succession planning is not a one-time eventâ€”it's an ongoing process that begins years before the actual transition and continues long after. It involves identifying and developing successors, planning ownership transfers, ensuring knowledge transfer, and preparing for both planned and emergency successions.
+This chapter provides a comprehensive framework for planning and executing successful generational transitions. Succession planning is not a one-time event—it's an ongoing process that begins years before the actual transition and continues long after. It involves identifying and developing successors, planning ownership transfers, ensuring knowledge transfer, and preparing for both planned and emergency successions.
 
 Succession planning for the Legacy Codex is particularly complex because it involves:
 - Multiple business entities across different industries
@@ -36138,7 +36138,7 @@ Through this chapter, you will develop:
 - Emergency succession plans for unexpected situations
 - A comprehensive succession timeline that begins now and extends decades into the future
 
-Succession planning is not about controlâ€”it's about ensuring continuity, preserving legacy, and empowering the next generation to build upon your foundation. Done well, succession planning ensures that your empire not only survives but thrives across generations.
+Succession planning is not about control—it's about ensuring continuity, preserving legacy, and empowering the next generation to build upon your foundation. Done well, succession planning ensures that your empire not only survives but thrives across generations.
 
 ---
 
@@ -36175,7 +36175,7 @@ Leadership succession is the process of identifying, developing, and transitioni
 
 #### Identifying Potential Successors
 
-Successor identification begins earlyâ€”ideally when children are teenagers or young adults. It's not about picking favoritesâ€”it's about understanding each child's interests, capabilities, and potential, then providing opportunities for development.
+Successor identification begins early—ideally when children are teenagers or young adults. It's not about picking favorites—it's about understanding each child's interests, capabilities, and potential, then providing opportunities for development.
 
 #### Assessment Criteria
 
@@ -37572,15 +37572,15 @@ Remember that succession planning is about:
 - Empowering the next generation
 
 As you implement succession planning:
-- Start earlyâ€”succession planning begins now
-- Be flexibleâ€”plans will evolve
-- Communicate openlyâ€”transparency prevents conflict
-- Invest in developmentâ€”prepare successors well
-- Plan for emergenciesâ€”be ready for the unexpected
+- Start early—succession planning begins now
+- Be flexible—plans will evolve
+- Communicate openly—transparency prevents conflict
+- Invest in development—prepare successors well
+- Plan for emergencies—be ready for the unexpected
 
 The succession planning you do today will determine whether your Legacy survives for 365 years or ends with your generation. Invest the time and effort to plan well, and you'll create a legacy that extends far beyond your lifetime.
 
-In the next chapter, we'll explore estate planning integrationâ€”how to coordinate your succession plans with comprehensive estate planning to maximize wealth preservation and minimize taxes.
+In the next chapter, we'll explore estate planning integration—how to coordinate your succession plans with comprehensive estate planning to maximize wealth preservation and minimize taxes.
 
 ---
 
@@ -37602,7 +37602,7 @@ In the next chapter, we'll explore estate planning integrationâ€”how to coo
 
 ## Introduction
 
-Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Legacy Codex, estate planning is not merely about avoiding taxesâ€”it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
+Estate planning is the comprehensive process of arranging for the management and disposal of your assets during your life and after your death. For the Legacy Codex, estate planning is not merely about avoiding taxes—it's about preserving wealth across 365 years, ensuring your legacy endures, and providing for generations you'll never meet.
 
 This chapter integrates estate planning with the broader Legacy framework, showing how wills, trusts, business entities, and advanced planning techniques work together to create a comprehensive wealth preservation system. Estate planning for a Legacy requires thinking beyond your lifetime, considering multiple generations, and coordinating complex legal structures.
 
@@ -37621,7 +37621,7 @@ Through this chapter, you will develop:
 - Asset protection layers that shield your empire from threats
 - An integrated estate plan that works seamlessly with your Legacy structure
 
-Estate planning is not a one-time eventâ€”it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your Legacy for generations.
+Estate planning is not a one-time event—it's an ongoing process that must evolve as your wealth grows, laws change, and family circumstances shift. This chapter provides the framework for creating and maintaining an estate plan that serves your Legacy for generations.
 
 ---
 
@@ -38735,7 +38735,7 @@ As you implement your estate plan:
 
 The estate planning you do today will determine how much wealth survives for future generations. Invest in comprehensive planning, and you'll create a foundation for a 365-year Legacy.
 
-In the next chapter, we'll explore insurance and risk managementâ€”protecting your empire from the many risks that could threaten its survival.
+In the next chapter, we'll explore insurance and risk management—protecting your empire from the many risks that could threaten its survival.
 
 ---
 
@@ -38791,9 +38791,9 @@ In the next chapter, we'll explore insurance and risk managementâ€”protecti
 
 ## Introduction
 
-Risk is an inherent part of building and maintaining a business empire. From operational risks to liability exposures, from key person dependencies to catastrophic events, numerous threats could derail your Legacy's 365-year vision. Insurance and risk management are not optionalâ€”they are essential components of wealth preservation.
+Risk is an inherent part of building and maintaining a business empire. From operational risks to liability exposures, from key person dependencies to catastrophic events, numerous threats could derail your Legacy's 365-year vision. Insurance and risk management are not optional—they are essential components of wealth preservation.
 
-This chapter provides a comprehensive framework for identifying, assessing, and managing the risks facing your Legacy, and for selecting and managing insurance coverage that protects your empire. Risk management is not about eliminating riskâ€”it's about understanding risks, making informed decisions, and protecting against catastrophic losses while allowing the business to thrive.
+This chapter provides a comprehensive framework for identifying, assessing, and managing the risks facing your Legacy, and for selecting and managing insurance coverage that protects your empire. Risk management is not about eliminating risk—it's about understanding risks, making informed decisions, and protecting against catastrophic losses while allowing the business to thrive.
 
 Your risk management strategy must address:
 - Personal risks (life, health, disability, long-term care)
@@ -39006,7 +39006,7 @@ Different life insurance products serve different purposes. Understanding the op
 
 #### Selecting Insurance Carriers
 
-The financial strength and reliability of your insurance carrier is criticalâ€”you need confidence that the company will be there when your family needs the benefits.
+The financial strength and reliability of your insurance carrier is critical—you need confidence that the company will be there when your family needs the benefits.
 
 #### Carrier Evaluation Criteria
 
@@ -39472,7 +39472,7 @@ Business insurance protects your business operations from various risks, ensurin
 
 #### Comprehensive Property Protection
 
-Property and casualty insurance protects your physical assetsâ€”real estate, personal property, vehiclesâ€”from damage, theft, and liability. Proper coverage analysis ensures adequate protection.
+Property and casualty insurance protects your physical assets—real estate, personal property, vehicles—from damage, theft, and liability. Proper coverage analysis ensures adequate protection.
 
 #### Coverage Analysis Components
 
@@ -40133,16 +40133,16 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **Compared to Taxable Investing**:
 
 **Taxable Account ($5M invested over 10 years)**:
-- Contributions: $500K/year Ã— 10 = $5M
-- Growth @ 10%/year Ã— 20 years = $33.6M
+- Contributions: $500K/year × 10 = $5M
+- Growth @ 10%/year × 20 years = $33.6M
 - Capital gains tax: $6.8M (20%)
 - Ordinary income tax on interest/dividends: $1.2M
 - Estate tax at death (40%): $10.2M
 - **Net to heirs: $15.4M**
 
 **PPLI Account (Same $5M invested)**:
-- Contributions: $500K/year Ã— 10 = $5M
-- Growth @ 10%/year Ã— 20 years = $33.6M
+- Contributions: $500K/year × 10 = $5M
+- Growth @ 10%/year × 20 years = $33.6M
 - Capital gains tax: $0
 - Income tax: $0
 - Estate tax: $0 (owned by Dynasty Trust)
@@ -40217,7 +40217,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 **Policy Type**: Whole Life or Indexed Universal Life
 **Death Benefit**: $500K-$1M initial (can increase later)
 **Owner**: Dynasty Trust (NOT parents, NOT child)
-**Beneficiary**: Child's Crummey Trust â†’ Grandchildren
+**Beneficiary**: Child's Crummey Trust → Grandchildren
 **Annual Premium**: $500-$2,000 per child
 **Total Family Cost**: $2K-$8K/year (for 4 children)
 
@@ -40251,7 +40251,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 
 **Dual Purpose**: Insurance + Education Funding
 
-**Ages 10-18**: Pay premiums ($2K/year Ã— 8 years = $16K)
+**Ages 10-18**: Pay premiums ($2K/year × 8 years = $16K)
 **Ages 18-22**: Borrow from cash value for college ($25K/year)
 **Result**: $100K college funding + policy stays in force
 **Ages 22-70**: Policy continues growing tax-free
@@ -40304,7 +40304,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - Business continuity maintained
 - **Net inheritance: $50M + $800K surplus**
 
-**Cost**: $100K-$150K/year Ã— 20 years = $2M-$3M total
+**Cost**: $100K-$150K/year × 20 years = $2M-$3M total
 **Benefit**: $9.2M estate tax paid + $40M more to heirs
 **ROI**: 4:1 to 20:1
 
@@ -40330,7 +40330,7 @@ PPLI is a variable universal life insurance policy designed for high-net-worth i
 - Annual gifts: $144K
 - 10-year total: $1,440,000
 - Gift tax paid: $0
-- Estate tax savings: $576,000 (40% Ã— $1.44M)
+- Estate tax savings: $576,000 (40% × $1.44M)
 
 #### Additional Funding Sources
 
@@ -40396,7 +40396,7 @@ As you implement your risk management strategy:
 
 The risk management you implement today protects your Legacy tomorrow and for generations to come. Invest in comprehensive protection, and you'll create a foundation for a resilient, sustainable empire.
 
-In the final chapter, we'll explore philanthropy and legacyâ€”how to use your wealth to create lasting impact and build a legacy that extends far beyond financial assets.
+In the final chapter, we'll explore philanthropy and legacy—how to use your wealth to create lasting impact and build a legacy that extends far beyond financial assets.
 
 ---
 
@@ -40418,7 +40418,7 @@ In the final chapter, we'll explore philanthropy and legacyâ€”how to use yo
 
 ## Introduction
 
-Wealth is not merely about accumulationâ€”it's about impact, purpose, and legacy. For the Legacy Codex, philanthropy is not an afterthought or a tax strategyâ€”it's a core component of your 365-year vision. True legacy extends far beyond financial assets; it encompasses the values you live, the impact you create, and the difference you make in the world.
+Wealth is not merely about accumulation—it's about impact, purpose, and legacy. For the Legacy Codex, philanthropy is not an afterthought or a tax strategy—it's a core component of your 365-year vision. True legacy extends far beyond financial assets; it encompasses the values you live, the impact you create, and the difference you make in the world.
 
 This chapter provides a comprehensive framework for building a philanthropic legacy through the Origin Eyes 501(c)(3) foundation and other charitable initiatives. Philanthropy serves multiple purposes: it creates lasting impact in your community and beyond, provides tax benefits that preserve wealth, teaches your children the value of stewardship, and builds a legacy that extends across generations.
 
@@ -40436,7 +40436,7 @@ Through this chapter, you will develop:
 - Values perpetuation mechanisms that ensure your principles endure
 - A philanthropic vision that extends across 365 years
 
-Philanthropy is not about giving away wealthâ€”it's about leveraging wealth to create change, build community, and leave the world better than you found it. This chapter shows you how to build a philanthropic legacy that serves your Legacy and the world for generations to come.
+Philanthropy is not about giving away wealth—it's about leveraging wealth to create change, build community, and leave the world better than you found it. This chapter shows you how to build a philanthropic legacy that serves your Legacy and the world for generations to come.
 
 ---
 
@@ -40700,7 +40700,7 @@ Family involvement in philanthropy builds unity, transmits values, and ensures y
 
 #### Family Involvement Strategies
 
-**Family Foundation Board**
+**Origin Eyes (501c3) Board**
 - Family board members
 - Governance participation
 - Decision-making involvement
@@ -41666,7 +41666,7 @@ Cultural reinforcement ensures your values become deeply embedded in family cult
 
 ## Conclusion
 
-Philanthropy and legacy are not separate from your Legacyâ€”they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. Legacy Codex's 365-year vision extends far beyond business successâ€”it encompasses creating lasting positive change in your community and the world.
+Philanthropy and legacy are not separate from your Legacy—they are integral to it. True wealth is not measured solely in financial terms but in the impact you create, the values you live, and the legacy you leave. Legacy Codex's 365-year vision extends far beyond business success—it encompasses creating lasting positive change in your community and the world.
 
 Remember that building a philanthropic legacy is:
 - An ongoing journey, not a destination
@@ -41682,7 +41682,7 @@ As you build your philanthropic legacy:
 - Create traditions that reinforce values
 - Think in terms of generations, not years
 
-The philanthropic legacy you build today will shape how your Legacy is remembered for 365 years and beyond. Invest in creating lasting impact, and you'll build a legacy that extends far beyond financial wealthâ€”a legacy of values, impact, and positive change.
+The philanthropic legacy you build today will shape how your Legacy is remembered for 365 years and beyond. Invest in creating lasting impact, and you'll build a legacy that extends far beyond financial wealth—a legacy of values, impact, and positive change.
 
 ---
 
@@ -41698,16 +41698,16 @@ The philanthropic legacy you build today will shape how your Legacy is remembere
 **Volume VI: Family Governance & Succession** is now complete, consisting of:
 
 ### Book 11: Family Business Governance
-- **Chapter 31**: Family Council Operations (~35 pages, 10,500 words) âœ…
-- **Chapter 32**: Children's Business Education (~40 pages, 12,000 words) âœ…
-- **Chapter 33**: Succession Planning (~40 pages, 12,000 words) âœ…
+- **Chapter 31**: Family Council Operations (~35 pages, 10,500 words) ✅
+- **Chapter 32**: Children's Business Education (~40 pages, 12,000 words) ✅
+- **Chapter 33**: Succession Planning (~40 pages, 12,000 words) ✅
 
 ### Book 12: Wealth Preservation & Transfer
-- **Chapter 34**: Estate Planning Integration (~40 pages, 12,000 words) âœ…
-- **Chapter 35**: Insurance & Risk Management (~40 pages, 12,000 words) âœ…
-- **Chapter 36**: Philanthropy & Legacy (~40 pages, 12,000 words) âœ…
+- **Chapter 34**: Estate Planning Integration (~40 pages, 12,000 words) ✅
+- **Chapter 35**: Insurance & Risk Management (~40 pages, 12,000 words) ✅
+- **Chapter 36**: Philanthropy & Legacy (~40 pages, 12,000 words) ✅
 
-**Total Volume VI**: ~235 pages, 70,500+ words âœ…
+**Total Volume VI**: ~235 pages, 70,500+ words ✅
 
 **Status**: Production-ready and complete. Ready for submission to Agent 12.
 
@@ -41773,7 +41773,7 @@ SOPs transform individual knowledge into organizational capability. This chapter
 - SOP Management System (training integration, update procedures, compliance monitoring, continuous improvement)
 
 ### Chapter 41: Quality Management Systems
-Quality is not an accidentâ€”it's the result of systematic design, consistent execution, and continuous improvement. This chapter provides comprehensive quality management systems that preserve and enhance your empire's reputation.
+Quality is not an accident—it's the result of systematic design, consistent execution, and continuous improvement. This chapter provides comprehensive quality management systems that preserve and enhance your empire's reputation.
 
 **Key Topics:**
 - Quality Standards Development (standard definition, measurement criteria, documentation requirements, training programs, enforcement mechanisms)
@@ -41816,12 +41816,12 @@ Volume VII integrates with and builds upon all previous volumes:
 
 Volume VII is successful when:
 
-âœ… You've completed the 30-day quick start with all systems operational
-âœ… You've achieved the 90-day transformation with sustainable operations
-âœ… You've executed Year 1 with consistent growth and profitability
-âœ… You have comprehensive SOPs for all critical processes
-âœ… You have quality management systems ensuring consistent excellence
-âœ… You have performance management systems driving continuous improvement
+✅ You've completed the 30-day quick start with all systems operational
+✅ You've achieved the 90-day transformation with sustainable operations
+✅ You've executed Year 1 with consistent growth and profitability
+✅ You have comprehensive SOPs for all critical processes
+✅ You have quality management systems ensuring consistent excellence
+✅ You have performance management systems driving continuous improvement
 
 ## Next Steps
 
@@ -41858,7 +41858,7 @@ Volume VII: Implementation & Execution is your practical guide to building, laun
 
 The first 30 days of your Ohu Family Enterprise launch are the most critical. This period establishes the foundation upon which everything else builds. Every decision, every system, every relationship formed in these 30 days will compound over the next 365 years. This chapter provides an hour-by-hour, day-by-day roadmap that transforms vision into reality, ensuring you move from concept to cash flow in just one month.
 
-The 30-Day Quick Start is designed around three core principles: **Speed**, **Simplicity**, and **Substance**. Speed because momentum creates its own energy. Simplicity because complexity kills execution. Substance because shortcuts today become problems tomorrow. This is not about cutting cornersâ€”it's about focusing on what matters most and executing with precision.
+The 30-Day Quick Start is designed around three core principles: **Speed**, **Simplicity**, and **Substance**. Speed because momentum creates its own energy. Simplicity because complexity kills execution. Substance because shortcuts today become problems tomorrow. This is not about cutting corners—it's about focusing on what matters most and executing with precision.
 
 **Implementation Schedule**:
 -   **Start Date (Day 1)**: December 1, 2025
@@ -41876,7 +41876,7 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 **6:00 AM - 7:00 AM: Vision Alignment**
 - Review your Legacy Manifesto (Volume I, Chapter 1)
 - Write down your 30-day, 90-day, and 365-day goals
-- Create your "Why" statementâ€”the emotional driver that will sustain you through challenges
+- Create your "Why" statement—the emotional driver that will sustain you through challenges
 - Document your success metrics: What does "winning" look like in 30 days?
 
 **7:00 AM - 8:00 AM: Legal Foundation**
@@ -41914,7 +41914,7 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 - Distribute initial task assignments
 - **Action Item**: Create team directory with roles and contact information
 
-**12:00 PM - 1:00 PM: Lunch Break** (Rest is criticalâ€”you're in a marathon, not a sprint)
+**12:00 PM - 1:00 PM: Lunch Break** (Rest is critical—you're in a marathon, not a sprint)
 
 **1:00 PM - 2:00 PM: Technology Stack Verification**
 - Verify all software subscriptions are active
@@ -42095,16 +42095,16 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 
 By the end of Day 7, you should have:
 
-âœ… All legal entities operational with bank accounts
-âœ… Accounting systems configured and transactions flowing
-âœ… SuiteDash Command Center fully operational
-âœ… At least one automated workflow running end-to-end
-âœ… First paying client acquired and served
-âœ… Team onboarded and productive
-âœ… Marketing generating consistent leads
-âœ… Processes documented and repeatable
-âœ… Clear metrics dashboard showing progress
-âœ… Week 2 plan with specific targets
+✅ All legal entities operational with bank accounts
+✅ Accounting systems configured and transactions flowing
+✅ SuiteDash Command Center fully operational
+✅ At least one automated workflow running end-to-end
+✅ First paying client acquired and served
+✅ Team onboarded and productive
+✅ Marketing generating consistent leads
+✅ Processes documented and repeatable
+✅ Clear metrics dashboard showing progress
+✅ Week 2 plan with specific targets
 
 **If any of these are missing, prioritize completing them before moving to Week 2.**
 
@@ -42112,7 +42112,7 @@ By the end of Day 7, you should have:
 
 ### Week 2 Overview: Building Velocity
 
-Week 2 is about acceleration. You've proven the concept worksâ€”now you scale it. The focus shifts from setup to execution, from learning to doing, from individual effort to systematic operation.
+Week 2 is about acceleration. You've proven the concept works—now you scale it. The focus shifts from setup to execution, from learning to doing, from individual effort to systematic operation.
 
 ### Day 8: Service Launch Expansion
 
@@ -42272,20 +42272,20 @@ Week 2 is about acceleration. You've proven the concept worksâ€”now you sca
 
 By the end of Day 14, you should have:
 
-âœ… Multiple service offerings generating revenue
-âœ… Consistent client acquisition (target: 5-10 clients)
-âœ… Team expanded and productive
-âœ… Processes optimized and automated
-âœ… Marketing generating leads from multiple channels
-âœ… Revenue growing week-over-week
-âœ… Systems handling increased volume
-âœ… Clear path to Week 3 acceleration
+✅ Multiple service offerings generating revenue
+✅ Consistent client acquisition (target: 5-10 clients)
+✅ Team expanded and productive
+✅ Processes optimized and automated
+✅ Marketing generating leads from multiple channels
+✅ Revenue growing week-over-week
+✅ Systems handling increased volume
+✅ Clear path to Week 3 acceleration
 
 ## 37.3 Days 15-21: Optimization
 
 ### Week 3 Overview: Fine-Tuning for Scale
 
-Week 3 is about optimization. You've proven the model works and scaled itâ€”now you make it efficient, profitable, and sustainable. This week focuses on data-driven improvements, system refinement, and preparation for long-term growth.
+Week 3 is about optimization. You've proven the model works and scaled it—now you make it efficient, profitable, and sustainable. This week focuses on data-driven improvements, system refinement, and preparation for long-term growth.
 
 ### Day 15: Performance Analysis
 
@@ -42453,20 +42453,20 @@ Week 3 is about optimization. You've proven the model works and scaled itâ€�
 
 By the end of Day 21, you should have:
 
-âœ… Performance metrics showing improvement trends
-âœ… Systems optimized and running efficiently
-âœ… Team developed and more capable
-âœ… Marketing ROI maximized
-âœ… Processes standardized and consistent
-âœ… Quality standards established and met
-âœ… Profitability improved
-âœ… Clear path to sustainable operations
+✅ Performance metrics showing improvement trends
+✅ Systems optimized and running efficiently
+✅ Team developed and more capable
+✅ Marketing ROI maximized
+✅ Processes standardized and consistent
+✅ Quality standards established and met
+✅ Profitability improved
+✅ Clear path to sustainable operations
 
 ## 37.4 Days 22-30: Stabilization
 
 ### Week 4 Overview: Establishing Routine Excellence
 
-Week 4 is about stabilization. You've built, scaled, and optimizedâ€”now you make it routine. This week focuses on establishing sustainable operations, creating systems that run without constant attention, and preparing for long-term growth.
+Week 4 is about stabilization. You've built, scaled, and optimized—now you make it routine. This week focuses on establishing sustainable operations, creating systems that run without constant attention, and preparing for long-term growth.
 
 ### Day 22: Routine Establishment
 
@@ -42668,16 +42668,16 @@ Week 4 is about stabilization. You've built, scaled, and optimizedâ€”now yo
 
 By the end of Day 30, you should have:
 
-âœ… Routines established and working
-âœ… Quality standards met consistently
-âœ… Systems prepared for scaling
-âœ… Team empowered and productive
-âœ… Financial systems operational
-âœ… Client success systems working
-âœ… Documentation complete
-âœ… 30-day goals achieved
-âœ… 90-day plan ready
-âœ… Sustainable operations established
+✅ Routines established and working
+✅ Quality standards met consistently
+✅ Systems prepared for scaling
+✅ Team empowered and productive
+✅ Financial systems operational
+✅ Client success systems working
+✅ Documentation complete
+✅ 30-day goals achieved
+✅ 90-day plan ready
+✅ Sustainable operations established
 
 ## Implementation Templates
 
@@ -42855,7 +42855,7 @@ The 90-day transformation period is where your Ohu Family Enterprise moves from 
 
 The 90-day transformation is structured around three monthly phases: Month 1 (Foundation Building), Month 2 (Scaling Operations), and Month 3 (Acceleration). Each month builds systematically on the previous, creating exponential growth through compounding systems, processes, and relationships.
 
-Success in the 90-day transformation requires three critical shifts: from doing to leading, from individual effort to systematic operation, and from reactive to proactive management. You're not just building a businessâ€”you're building a machine that runs without you.
+Success in the 90-day transformation requires three critical shifts: from doing to leading, from individual effort to systematic operation, and from reactive to proactive management. You're not just building a business—you're building a machine that runs without you.
 
 ## 38.1 Month 1: Foundation Building
 
@@ -43043,16 +43043,16 @@ Success in the 90-day transformation requires three critical shifts: from doing 
 
 By the end of Month 1, you should have:
 
-âœ… All systems consolidated and optimized
-âœ… Processes standardized and efficient
-âœ… Team developed and productive
-âœ… Financial foundation solid
-âœ… Market presence established
-âœ… Client base growing consistently
-âœ… Efficiency maximized
-âœ… Profitability achieved
-âœ… Scaling preparation complete
-âœ… Month 2 plan ready
+✅ All systems consolidated and optimized
+✅ Processes standardized and efficient
+✅ Team developed and productive
+✅ Financial foundation solid
+✅ Market presence established
+✅ Client base growing consistently
+✅ Efficiency maximized
+✅ Profitability achieved
+✅ Scaling preparation complete
+✅ Month 2 plan ready
 
 ## 38.2 Month 2: Scaling Operations
 
@@ -43232,16 +43232,16 @@ By the end of Month 1, you should have:
 
 By the end of Month 2, you should have:
 
-âœ… Team scaled to handle increased volume
-âœ… Service capacity expanded
-âœ… Service delivery optimized
-âœ… Marketing scaled and generating leads
-âœ… Revenue accelerating consistently
-âœ… Systems handling increased load
-âœ… Processes supporting scale
-âœ… Quality maintained at scale
-âœ… Profitability maintained or improved
-âœ… Month 3 plan ready
+✅ Team scaled to handle increased volume
+✅ Service capacity expanded
+✅ Service delivery optimized
+✅ Marketing scaled and generating leads
+✅ Revenue accelerating consistently
+✅ Systems handling increased load
+✅ Processes supporting scale
+✅ Quality maintained at scale
+✅ Profitability maintained or improved
+✅ Month 3 plan ready
 
 ## 38.3 Month 3: Acceleration
 
@@ -43424,16 +43424,16 @@ By the end of Month 2, you should have:
 
 By the end of Month 3, you should have:
 
-âœ… Performance maximized across all areas
-âœ… Market expanded successfully
-âœ… Team optimized for performance
-âœ… 90-day goals achieved
-âœ… Systems consolidated
-âœ… Processes consolidated
-âœ… Team consolidated
-âœ… Year 1 plan ready
-âœ… Sustainable operations established
-âœ… Foundation for long-term growth complete
+✅ Performance maximized across all areas
+✅ Market expanded successfully
+✅ Team optimized for performance
+✅ 90-day goals achieved
+✅ Systems consolidated
+✅ Processes consolidated
+✅ Team consolidated
+✅ Year 1 plan ready
+✅ Sustainable operations established
+✅ Foundation for long-term growth complete
 
 ## 38.4 Success Metrics & Adjustments
 
@@ -43758,7 +43758,7 @@ Year 1 is where your Ohu Family Enterprise transforms from a successful startup 
 
 The Year 1 Execution Plan is structured around four quarterly phases: Q1 (Launch & Stabilization), Q2 (Growth & Optimization), Q3 (Scale & Diversify), and Q4 (Consolidate & Plan). Each quarter builds systematically on the previous, creating exponential growth through compounding systems, processes, relationships, and market presence.
 
-Success in Year 1 requires maintaining focus on three core objectives: **Revenue Growth**, **Operational Excellence**, and **Foundation Building**. Every decision, every system, every relationship built in Year 1 will compound over the next 364 years. This is not just about building a businessâ€”it's about building a Legacy.
+Success in Year 1 requires maintaining focus on three core objectives: **Revenue Growth**, **Operational Excellence**, and **Foundation Building**. Every decision, every system, every relationship built in Year 1 will compound over the next 364 years. This is not just about building a business—it's about building a Legacy.
 
 ## 39.1 Q1: Launch & Stabilization
 
@@ -43889,22 +43889,22 @@ Q1 builds directly on your 90-day transformation foundation. The focus is on sta
 
 By the end of Q1, you should have:
 
-âœ… Operations stabilized and consistent
-âœ… Revenue streams established and growing
-âœ… Systems operational and optimized
-âœ… Processes standardized and efficient
-âœ… Team stable and productive
-âœ… Financial foundation solid
-âœ… Market presence established
-âœ… Relationships built
-âœ… Q2 plan ready
-âœ… Foundation for growth complete
+✅ Operations stabilized and consistent
+✅ Revenue streams established and growing
+✅ Systems operational and optimized
+✅ Processes standardized and efficient
+✅ Team stable and productive
+✅ Financial foundation solid
+✅ Market presence established
+✅ Relationships built
+✅ Q2 plan ready
+✅ Foundation for growth complete
 
 ## 39.2 Q2: Growth & Optimization
 
 ### Q2 Overview: Months 4-6
 
-Q2 focuses on accelerating growth while optimizing operations. The foundation is solidâ€”now you scale it. This quarter proves your business can grow consistently while maintaining quality and profitability.
+Q2 focuses on accelerating growth while optimizing operations. The foundation is solid—now you scale it. This quarter proves your business can grow consistently while maintaining quality and profitability.
 
 **Q2 Goals:**
 - Revenue: $[target] (50-100% increase from Q1)
@@ -44026,22 +44026,22 @@ Q2 focuses on accelerating growth while optimizing operations. The foundation is
 
 By the end of Q2, you should have:
 
-âœ… Growth accelerated consistently
-âœ… Operations optimized
-âœ… Systems scaled
-âœ… Team expanded
-âœ… Market expanded
-âœ… Efficiency improved
-âœ… Profitability maintained
-âœ… Scaling prepared
-âœ… Q3 plan ready
-âœ… Growth trajectory established
+✅ Growth accelerated consistently
+✅ Operations optimized
+✅ Systems scaled
+✅ Team expanded
+✅ Market expanded
+✅ Efficiency improved
+✅ Profitability maintained
+✅ Scaling prepared
+✅ Q3 plan ready
+✅ Growth trajectory established
 
 ## 39.3 Q3: Scale & Diversify
 
 ### Q3 Overview: Months 7-9
 
-Q3 focuses on scaling operations and diversifying revenue streams. You've proven growth worksâ€”now you scale it systematically and reduce risk through diversification.
+Q3 focuses on scaling operations and diversifying revenue streams. You've proven growth works—now you scale it systematically and reduce risk through diversification.
 
 **Q3 Goals:**
 - Revenue: $[target] (50-100% increase from Q2)
@@ -44164,15 +44164,15 @@ Q3 focuses on scaling operations and diversifying revenue streams. You've proven
 
 By the end of Q3, you should have:
 
-âœ… Services diversified
-âœ… Markets expanded
-âœ… Team specialized
-âœ… Technology upgraded
-âœ… Revenue diversified
-âœ… Risk reduced
-âœ… Scaling achieved
-âœ… Q4 plan ready
-âœ… Diversification complete
+✅ Services diversified
+✅ Markets expanded
+✅ Team specialized
+✅ Technology upgraded
+✅ Revenue diversified
+✅ Risk reduced
+✅ Scaling achieved
+✅ Q4 plan ready
+✅ Diversification complete
 
 ## 39.4 Q4: Consolidate & Plan
 
@@ -44300,15 +44300,15 @@ Q4 focuses on consolidating Year 1 gains, optimizing operations, and planning fo
 
 By the end of Q4, you should have:
 
-âœ… Year 1 gains consolidated
-âœ… Operations optimized
-âœ… Systems refined
-âœ… Processes improved
-âœ… Team strengthened
-âœ… Year 2 strategy developed
-âœ… Year 2 plan ready
-âœ… Foundation for Year 2 complete
-âœ… Ready for exponential growth
+✅ Year 1 gains consolidated
+✅ Operations optimized
+✅ Systems refined
+✅ Processes improved
+✅ Team strengthened
+✅ Year 2 strategy developed
+✅ Year 2 plan ready
+✅ Foundation for Year 2 complete
+✅ Ready for exponential growth
 
 ## Monthly Targets & Activities
 
@@ -44713,7 +44713,7 @@ Standard Operating Procedures (SOPs) are the DNA of your Ohu Family Enterprise. 
 
 SOPs serve three critical functions: **Consistency** (everyone does it the same way), **Scalability** (processes work at any volume), and **Sustainability** (knowledge persists beyond individuals). In a 365-year Legacy, SOPs ensure that the wisdom of today becomes the standard of tomorrow, and the excellence of one generation becomes the foundation of the next.
 
-This chapter covers the complete SOP lifecycle: development, documentation, implementation, training, maintenance, and continuous improvement. Every process in your empireâ€”from client onboarding to financial reporting, from service delivery to team managementâ€”should have a documented, tested, and continuously improved SOP.
+This chapter covers the complete SOP lifecycle: development, documentation, implementation, training, maintenance, and continuous improvement. Every process in your empire—from client onboarding to financial reporting, from service delivery to team management—should have a documented, tested, and continuously improved SOP.
 
 ## 40.1 SOP Development Framework
 
@@ -45011,7 +45011,7 @@ Every SOP must follow a consistent format to ensure usability and maintainabilit
 - All required documents collected
 - Client trained on process
 - Service launched on schedule
-- Client satisfaction score â‰¥ 8/10
+- Client satisfaction score ≥ 8/10
 
 **Documentation:**
 - Client onboarding checklist completed
@@ -45083,7 +45083,7 @@ Every SOP must follow a consistent format to ensure usability and maintainabilit
 **Quality Standards:**
 - Service delivered on time
 - Quality standards met
-- Client satisfaction â‰¥ 8/10
+- Client satisfaction ≥ 8/10
 - Documentation complete
 - Follow-up within 48 hours
 
@@ -45222,7 +45222,7 @@ Every SOP must follow a consistent format to ensure usability and maintainabilit
 - Invoices accurate and complete
 - Payments processed within 2 business days
 - Overdue accounts followed up promptly
-- Collection rate â‰¥ 95%
+- Collection rate ≥ 95%
 
 **Documentation:**
 - Invoice records
@@ -45284,10 +45284,10 @@ Every SOP must follow a consistent format to ensure usability and maintainabilit
 4. **Quality Checkpoint:** Documentation complete
 
 **Quality Standards:**
-- Response time â‰¤ 2 hours
+- Response time ≤ 2 hours
 - Resolution time per priority level
-- Client satisfaction â‰¥ 8/10
-- First contact resolution â‰¥ 80%
+- Client satisfaction ≥ 8/10
+- First contact resolution ≥ 80%
 - Follow-up within 48 hours
 
 **Documentation:**
@@ -45919,11 +45919,11 @@ Every SOP must follow a consistent format to ensure usability and maintainabilit
 
 ## Introduction
 
-Quality is not an accidentâ€”it is the result of systematic design, consistent execution, and continuous improvement. In a Ohu Family Enterprise built to last 365 years, quality management systems ensure that excellence becomes the standard, not the exception. This chapter provides a comprehensive framework for developing, implementing, and maintaining quality management systems that preserve and enhance your empire's reputation across generations.
+Quality is not an accident—it is the result of systematic design, consistent execution, and continuous improvement. In a Ohu Family Enterprise built to last 365 years, quality management systems ensure that excellence becomes the standard, not the exception. This chapter provides a comprehensive framework for developing, implementing, and maintaining quality management systems that preserve and enhance your empire's reputation across generations.
 
 Quality management systems serve four critical functions: **Prevention** (preventing defects before they occur), **Detection** (identifying issues early), **Correction** (fixing problems promptly), and **Improvement** (continuously enhancing quality). These systems transform quality from a goal into a habit, from an aspiration into an expectation, from individual effort into organizational capability.
 
-This chapter covers the complete quality management lifecycle: standards development, quality control processes, continuous improvement methodologies, and customer satisfaction systems. Every aspect of your empireâ€”from service delivery to client communication, from team performance to system reliabilityâ€”should be governed by robust quality management systems.
+This chapter covers the complete quality management lifecycle: standards development, quality control processes, continuous improvement methodologies, and customer satisfaction systems. Every aspect of your empire—from service delivery to client communication, from team performance to system reliability—should be governed by robust quality management systems.
 
 ## 41.1 Quality Standards Development
 
@@ -46027,13 +46027,13 @@ Quality standards are measurable criteria that define what "good" looks like for
 
 **Service Delivery Quality:**
 - **Metric:** Client Satisfaction Score
-- **Target:** â‰¥ 8.5/10
+- **Target:** ≥ 8.5/10
 - **Measurement Method:** Post-service survey
 - **Frequency:** After every service delivery
 
 **Response Time Quality:**
 - **Metric:** Average Response Time
-- **Target:** â‰¤ 2 hours
+- **Target:** ≤ 2 hours
 - **Measurement Method:** System tracking
 - **Frequency:** Daily
 
@@ -47910,12 +47910,12 @@ Key Performance Indicators (KPIs) are measurable values that demonstrate how eff
 
 **Volume VII: Implementation & Execution** is now complete with all 6 chapters:
 
-âœ… **Book 13: Launch Sequences**
+✅ **Book 13: Launch Sequences**
 - Chapter 37: 30-Day Quick Start (10,500+ words, 35+ pages)
 - Chapter 38: 90-Day Transformation (10,500+ words, 35+ pages)
 - Chapter 39: Year 1 Execution Plan (12,000+ words, 40+ pages)
 
-âœ… **Book 14: Operational Excellence**
+✅ **Book 14: Operational Excellence**
 - Chapter 40: Standard Operating Procedures (12,000+ words, 40+ pages)
 - Chapter 41: Quality Management Systems (12,000+ words, 40+ pages)
 - Chapter 42: Performance Management (12,000+ words, 40+ pages)
@@ -47947,7 +47947,7 @@ Volume VII is ready for submission to Agent 12 for quality review and compilatio
 
 Volume VIII: Growth & Exit Strategies represents the "High Gear" of the Ohu Family Enterprise. While previous volumes focused on foundation, operations, and stability, this volume focuses on **velocity** and **realization**. It answers two fundamental questions: "How do we get big fast?" and "How do we harvest value?"
 
-This volume is not just for those looking to sell. It is for every Empire builder who understands that a business built to sell is a business built to last. The disciplines required for a successful exitâ€”clean books, owner independence, recurring revenueâ€”are the exact same disciplines required for a stress-free hold.
+This volume is not just for those looking to sell. It is for every Empire builder who understands that a business built to sell is a business built to last. The disciplines required for a successful exit—clean books, owner independence, recurring revenue—are the exact same disciplines required for a stress-free hold.
 
 We cover the full lifecycle of inorganic growth: from identifying and acquiring targets (Chapter 43), to leveraging partners for scale (Chapter 44), to executing a profitable exit (Chapter 45).
 
@@ -47965,7 +47965,7 @@ This chapter details the "Boring Business" acquisition strategy. It explains how
 -   The First 100 Days of Integration
 
 ### Chapter 44: Strategic Partnerships
-We cannot build everything ourselves. This chapter explores how to leverage other people's assetsâ€”their distribution channels, technology, and customersâ€”to scale our own. It covers the legal and operational structures for Joint Ventures, Strategic Alliances, and Channel Partnerships.
+We cannot build everything ourselves. This chapter explores how to leverage other people's assets—their distribution channels, technology, and customers—to scale our own. It covers the legal and operational structures for Joint Ventures, Strategic Alliances, and Channel Partnerships.
 
 **Key Topics:**
 -   Partner Selection & "Fit Matrix"
@@ -48003,14 +48003,14 @@ Volume VIII relies heavily on the foundations laid in:
 ## Success Criteria
 
 Volume VIII is successfully implemented when:
-âœ… You have a defined "Buy Box" and active deal pipeline.
-âœ… You have executed at least one strategic partnership that drives revenue.
-âœ… Every "Growth Asset" in your portfolio has a clear Exit Strategy and is "Audit Ready."
-âœ… You view the Empire as a portfolio of capital, not just a collection of jobs.
+✅ You have a defined "Buy Box" and active deal pipeline.
+✅ You have executed at least one strategic partnership that drives revenue.
+✅ Every "Growth Asset" in your portfolio has a clear Exit Strategy and is "Audit Ready."
+✅ You view the Empire as a portfolio of capital, not just a collection of jobs.
 
 ## Conclusion
 
-Growth is a choice. You can grow slow, or you can grow fast. Volume VIII gives you the tools to choose speed, safety, and scale. It transforms you from an operator into a capital allocatorâ€”the highest level of the game.
+Growth is a choice. You can grow slow, or you can grow fast. Volume VIII gives you the tools to choose speed, safety, and scale. It transforms you from an operator into a capital allocator—the highest level of the game.
 
 ---
 
@@ -48817,9 +48817,9 @@ We do not rely solely on business-for-sale websites (BizBuySell), which represen
 - **Closed Deals:** 2-4 closed deals per year per market
 
 **Conversion Funnel:**
-- **Prospects â†’ Qualified Leads:** 10-20% conversion
-- **Qualified Leads â†’ LOIs:** 20-30% conversion
-- **LOIs â†’ Closed Deals:** 50-70% conversion (after due diligence)
+- **Prospects → Qualified Leads:** 10-20% conversion
+- **Qualified Leads → LOIs:** 20-30% conversion
+- **LOIs → Closed Deals:** 50-70% conversion (after due diligence)
 
 **Pipeline Management:**
 
@@ -48882,11 +48882,11 @@ Before issuing a Letter of Intent (LOI), we verify the "sanity" of the deal. Thi
   - Red Flag: Profit but no cash (working capital issues)
 
 **Quick Financial Metrics:**
-- Revenue: $1M - $5M? âœ“
-- EBITDA/SDE: $250k - $1M? âœ“
-- Gross Margin: >40%? âœ“
-- Net Margin: >15%? âœ“
-- Recurring Revenue: >30%? âœ“
+- Revenue: $1M - $5M? ✓
+- EBITDA/SDE: $250k - $1M? ✓
+- Gross Margin: >40%? ✓
+- Net Margin: >15%? ✓
+- Recurring Revenue: >30%? ✓
 
 **2. Owner Dependency Assessment (The "Bus Test")**
 
@@ -50144,7 +50144,7 @@ We shift the culture from personality-driven to process-driven.
 
 ## Introduction
 
-In the Ohu Family Enterprise, we do not build alone. While acquisitions (Chapter 43) allow us to own the asset, strategic partnerships allow us to leverage the assets of othersâ€”their distribution channels, their technology, their customer bases, and their brand equity.
+In the Ohu Family Enterprise, we do not build alone. While acquisitions (Chapter 43) allow us to own the asset, strategic partnerships allow us to leverage the assets of others—their distribution channels, their technology, their customer bases, and their brand equity.
 
 This chapter provides the blueprint for structuring, negotiating, and managing high-value partnerships. It moves beyond casual "networking" to formal, contractually binding alliances that generate measurable revenue. We treat partnerships as asset classes: they must have a clear ROI, defined governance, and a robust legal structure.
 
@@ -50474,10 +50474,10 @@ Just like sales, partnership development requires a systematic approach. Not eve
 **Partnership Funnel Metrics:**
 
 **Overall Conversion Rates:**
-- **Identification â†’ Qualification:** 20-30%
-- **Qualification â†’ Proposal:** 40-50%
-- **Proposal â†’ Diligence:** 60-70%
-- **Diligence â†’ Closing:** 80-90%
+- **Identification → Qualification:** 20-30%
+- **Qualification → Proposal:** 40-50%
+- **Proposal → Diligence:** 60-70%
+- **Diligence → Closing:** 80-90%
 
 **Overall Funnel Conversion:** 4-9% (identification to closing)
 
@@ -51285,13 +51285,13 @@ Waterfalls allow for more sophisticated profit distribution that:
 **Waterfall:**
 1. **Return of Capital:** $0 (capital not yet returned)
 2. **Preferred Return:**
-   - Partner A: $500k Ã— 8% = $40k
-   - Partner B: $300k Ã— 8% = $24k
+   - Partner A: $500k × 8% = $40k
+   - Partner B: $300k × 8% = $24k
    - Total: $64k
 3. **Remaining Profits:** $200k - $64k = $136k
 4. **Profit Split:**
-   - Partner A: $136k Ã— 60% = $81.6k
-   - Partner B: $136k Ã— 40% = $54.4k
+   - Partner A: $136k × 60% = $81.6k
+   - Partner B: $136k × 40% = $54.4k
 
 **Total Distributions:**
 - Partner A: $40k + $81.6k = $121.6k
@@ -52848,7 +52848,7 @@ We assign a "Partner Manager" (from the CXI LLC team) to oversee channel partner
 
 ## Conclusion
 
-Strategic partnerships are a powerful tool for scaling the Ohu Family Enterprise. They allow us to leverage the assets of othersâ€”their distribution channels, technology, customer bases, and brand equityâ€”to accelerate our growth and create value.
+Strategic partnerships are a powerful tool for scaling the Ohu Family Enterprise. They allow us to leverage the assets of others—their distribution channels, technology, customer bases, and brand equity—to accelerate our growth and create value.
 
 **Key Takeaways:**
 
@@ -52883,7 +52883,7 @@ Strategic partnerships are a powerful tool for scaling the Ohu Family Enterprise
 4. Execute first partnership
 5. Scale successful partnerships
 
-Partnerships are not just transactions; they are relationships. Invest in building strong, mutually beneficial partnerships that create value for all stakeholdersâ€”us, our partners, and our customers.
+Partnerships are not just transactions; they are relationships. Invest in building strong, mutually beneficial partnerships that create value for all stakeholders—us, our partners, and our customers.
 
 ## Cross-References
 -   [See Volume II, Chapter 7: Entity Formation & Compliance Bible] - Legal structures.
@@ -52905,7 +52905,7 @@ Partnerships are not just transactions; they are relationships. Invest in buildi
 
 ## Introduction
 
-The Ohu Family Enterprise is designed to last 365 years, but the individual businesses within it are not necessarily permanent. We are asset allocators. We buy, build, optimize, andâ€”when the time is rightâ€”we sell specific Operating Companies (OpCos) to recycle capital into higher-yielding opportunities.
+The Ohu Family Enterprise is designed to last 365 years, but the individual businesses within it are not necessarily permanent. We are asset allocators. We buy, build, optimize, and—when the time is right—we sell specific Operating Companies (OpCos) to recycle capital into higher-yielding opportunities.
 
 This chapter details the rigorous process of exiting an asset. It is not an admission of defeat; it is the realization of value. A successful exit requires years of preparation, ensuring that the business is transferable, valuable, and durable without its current owner.
 
@@ -52966,7 +52966,7 @@ When evaluating exit options, we consider five critical factors:
 - Businesses that have reached their growth potential within our ecosystem
 
 **Example Scenario:**
-An HVAC OpCo we acquired 5 years ago has grown from $2M to $6M in revenue. We've implemented the SuiteDash BOS, standardized operations, and built a strong management team. A regional competitor with $50M in revenue is seeking to expand into our market. They offer 6.5x EBITDA ($3.9M EBITDA Ã— 6.5 = $25.35M) with 90% cash at close. This provides capital to acquire three new businesses.
+An HVAC OpCo we acquired 5 years ago has grown from $2M to $6M in revenue. We've implemented the SuiteDash BOS, standardized operations, and built a strong management team. A regional competitor with $50M in revenue is seeking to expand into our market. They offer 6.5x EBITDA ($3.9M EBITDA × 6.5 = $25.35M) with 90% cash at close. This provides capital to acquire three new businesses.
 
 **Implementation Checklist:**
 - [ ] Identify potential strategic acquirers in the industry
@@ -53413,8 +53413,8 @@ Recurring revenue is the single most important valuation driver for service busi
 
 **Example:**
 An HVAC business with $3M revenue and $600K EBITDA:
-- **Before:** 100% project-based â†’ 3.5x multiple â†’ $2.1M valuation
-- **After:** 70% recurring revenue â†’ 6x multiple â†’ $3.6M valuation
+- **Before:** 100% project-based → 3.5x multiple → $2.1M valuation
+- **After:** 70% recurring revenue → 6x multiple → $3.6M valuation
 - **Value Increase:** $1.5M (71% increase)
 
 **2. Owner Independence (Transferability)**
@@ -53523,8 +53523,8 @@ No single customer should represent more than 10% of revenue. Ideally, the top 1
 
 **Example:**
 A property maintenance business with $2M revenue:
-- **Before:** 40% from one customer â†’ 3x multiple â†’ $1.2M valuation (on $400K EBITDA)
-- **After:** No customer >8% â†’ 5.5x multiple â†’ $2.2M valuation
+- **Before:** 40% from one customer → 3x multiple → $1.2M valuation (on $400K EBITDA)
+- **After:** No customer >8% → 5.5x multiple → $2.2M valuation
 - **Value Increase:** $1M (83% increase)
 
 **4. Growth Story (Future Potential)**
@@ -53581,8 +53581,8 @@ Buyers pay for future growth potential, not just current performance. A clear, d
 
 **Example:**
 An HVAC business with $4M revenue, $800K EBITDA, growing 20% annually:
-- **Without Growth Story:** 4x multiple â†’ $3.2M valuation
-- **With Clear Growth Story (path to $8M revenue):** 6x multiple â†’ $4.8M valuation
+- **Without Growth Story:** 4x multiple → $3.2M valuation
+- **With Clear Growth Story (path to $8M revenue):** 6x multiple → $4.8M valuation
 - **Value Increase:** $1.6M (50% increase)
 
 **5. Clean Books (Credibility and Trust)**
@@ -53691,7 +53691,7 @@ Exit taxes can take 20-40% of proceeds. We plan early. Tax planning for business
 - **Federal Capital Gains Tax:** 20% (long-term capital gains) + 3.8% Net Investment Income Tax (NIIT) = 23.8% federal
 - **State Taxes:** Varies by state (0-13.3%), typically 5-10% for most states
 - **Total Tax Rate:** Can easily reach 30-40% of gain
-- **Example:** $5M gain Ã— 35% tax rate = $1.75M in taxes, leaving $3.25M after-tax
+- **Example:** $5M gain × 35% tax rate = $1.75M in taxes, leaving $3.25M after-tax
 
 **Tax Planning Timeline:**
 Tax optimization must begin 3-5 years before exit to take advantage of many strategies. Last-minute tax planning is limited and less effective.
@@ -53718,10 +53718,10 @@ QSBS allows for 100% exclusion of federal capital gains tax on the sale of quali
 - Purchase business for $500K (basis)
 - Hold as C-Corp for 5+ years
 - Sell for $6M
-- QSBS Exclusion: $5M gain Ã— 100% = $5M excluded (up to $10M cap)
+- QSBS Exclusion: $5M gain × 100% = $5M excluded (up to $10M cap)
 - Federal Tax: $0 (100% excluded)
-- State Tax: $5M Ã— 7% = $350K (state dependent)
-- **Savings:** ~$1.19M in federal taxes ($5M Ã— 23.8%)
+- State Tax: $5M × 7% = $350K (state dependent)
+- **Savings:** ~$1.19M in federal taxes ($5M × 23.8%)
 
 **Implementation:**
 - [ ] Evaluate QSBS eligibility 5+ years before planned exit
@@ -55061,7 +55061,7 @@ The strength of the Ohu Family Enterprise lies not just in its assets, but in th
 
 This chapter serves as the central repository and user guide for the Empire's legal infrastructure. It does not replace legal counsel; rather, it provides the standardized templates and key clause explanations that allow you to direct your counsel efficiently. By understanding these templates and their purposes, you can work with your attorneys more effectively, reduce legal costs, and ensure consistency across all your legal structures.
 
-**Critical Disclaimer**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. Legacy Codex assumes no liability for the use of these templates without proper legal review. Laws vary by state and change frequentlyâ€”what works in one jurisdiction may not work in another.
+**Critical Disclaimer**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. Legacy Codex assumes no liability for the use of these templates without proper legal review. Laws vary by state and change frequently—what works in one jurisdiction may not work in another.
 
 We cover the four pillars of legal documentation: **Trusts** (Wealth Preservation), **Entities** (Business Operations), **Real Estate** (Asset Holding), and **Contracts** (Revenue Generation). Each section provides detailed template explanations, customization instructions, implementation checklists, and best practices.
 
@@ -55103,7 +55103,7 @@ The South Dakota Dynasty Trust is the primary vessel for multi-generational weal
 
 **Purpose and Strategic Role**
 
-The Dynasty Trust is not just a legal documentâ€”it's the constitutional framework for your family's financial future. It accomplishes several critical objectives:
+The Dynasty Trust is not just a legal document—it's the constitutional framework for your family's financial future. It accomplishes several critical objectives:
 
 1. **Wealth Preservation**: Assets placed in the trust are protected from creditors, lawsuits, and divorces
 2. **Tax Minimization**: Eliminates estate tax at each generation and avoids state income tax
@@ -55411,7 +55411,7 @@ An ILIT is appropriate when:
 
 **Mechanic**: Beneficiaries have a 30-day window to withdraw gifts (making them "present interest" gifts) to qualify for the annual exclusion.
 
-**Explanation**: To qualify for the annual gift tax exclusion ($18,000 per person in 2024, $36,000 per couple), gifts must be "present interest" giftsâ€”meaning the beneficiary has the right to use the gift immediately. Life insurance premium payments are typically "future interest" gifts (the beneficiary doesn't receive anything until death), which don't qualify for the exclusion.
+**Explanation**: To qualify for the annual gift tax exclusion ($18,000 per person in 2024, $36,000 per couple), gifts must be "present interest" gifts—meaning the beneficiary has the right to use the gift immediately. Life insurance premium payments are typically "future interest" gifts (the beneficiary doesn't receive anything until death), which don't qualify for the exclusion.
 
 Crummey powers solve this by giving beneficiaries the right to withdraw the gift within a specified period (typically 30 days). This makes the gift a "present interest" gift, qualifying it for the annual exclusion, even though beneficiaries typically don't exercise the withdrawal right.
 
@@ -55449,7 +55449,7 @@ Crummey powers solve this by giving beneficiaries the right to withdraw the gift
 
 **Mechanic**: The Grantor must not retain any control over the policy to keep it out of the taxable estate.
 
-**Explanation**: For life insurance to be excluded from your estate, you cannot retain any "incidents of ownership"â€”any right or power over the policy. If you retain incidents of ownership, the death benefit will be included in your estate for estate tax purposes, defeating the purpose of the ILIT.
+**Explanation**: For life insurance to be excluded from your estate, you cannot retain any "incidents of ownership"—any right or power over the policy. If you retain incidents of ownership, the death benefit will be included in your estate for estate tax purposes, defeating the purpose of the ILIT.
 
 **What Constitutes Incidents of Ownership**:
 - Right to change beneficiaries
@@ -55770,13 +55770,13 @@ The Crummey Trust template includes:
 
 ## 46.2 Entity Documents
 
-Entity documents govern the formation, operation, and administration of business entities within the Ohu Family Enterprise. These documents define ownership, management, distributions, and transfer restrictions. Every entityâ€”from the holding company to operating companiesâ€”requires properly drafted entity documents to ensure asset protection, tax efficiency, and operational clarity.
+Entity documents govern the formation, operation, and administration of business entities within the Ohu Family Enterprise. These documents define ownership, management, distributions, and transfer restrictions. Every entity—from the holding company to operating companies—requires properly drafted entity documents to ensure asset protection, tax efficiency, and operational clarity.
 
 ### 46.2.1 LLC Operating Agreements
 
 **The Rulebook for Business**
 
-Every LLC (HoldCo, MgmtCo, OpCo, PropCo) needs a tailored Operating Agreement. This document is the "constitution" of your LLCâ€”it defines how the company operates, how decisions are made, how profits are distributed, and how ownership can be transferred. Without a proper Operating Agreement, your LLC is governed by default state law, which may not align with your strategic objectives.
+Every LLC (HoldCo, MgmtCo, OpCo, PropCo) needs a tailored Operating Agreement. This document is the "constitution" of your LLC—it defines how the company operates, how decisions are made, how profits are distributed, and how ownership can be transferred. Without a proper Operating Agreement, your LLC is governed by default state law, which may not align with your strategic objectives.
 
 **Template Location**: `empire-bible/templates/legal/entities/llc-operating-agreement-wyoming.md`
 
@@ -55846,7 +55846,7 @@ Wyoming is the preferred jurisdiction for Ohu Family Enterprise LLCs due to:
 
 **Provision**: "A creditor's sole remedy against a Member's interest is a charging order. The creditor has no right to participate in management or force distributions."
 
-**Explanation**: Charging order protection is one of the most powerful asset protection features of LLCs. When a member has personal debts, creditors cannot seize the member's LLC interest or force distributions. Instead, creditors can only obtain a "charging order"â€”a lien on distributions that the LLC may never make.
+**Explanation**: Charging order protection is one of the most powerful asset protection features of LLCs. When a member has personal debts, creditors cannot seize the member's LLC interest or force distributions. Instead, creditors can only obtain a "charging order"—a lien on distributions that the LLC may never make.
 
 **How Charging Order Protection Works**:
 
@@ -57965,7 +57965,7 @@ Each section includes:
 
 All templates are located in the `empire-bible/templates/legal/` directory and should be reviewed and customized by qualified legal counsel before use.
 
-**Critical Reminder**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. Laws vary by state and change frequentlyâ€”what works in one jurisdiction may not work in another.
+**Critical Reminder**: All legal templates in this chapter are provided as starting points for discussion with qualified legal counsel. They must be reviewed, customized, and approved by attorneys licensed in the relevant jurisdictions before execution. Laws vary by state and change frequently—what works in one jurisdiction may not work in another.
 
 ---
 
@@ -57990,7 +57990,7 @@ If Legal Documents are the code of the Empire, Financial Models are the dashboar
 
 We move beyond basic bookkeeping to **Financial Intelligence**: predictive models, capital allocation tools, and tax optimization calculators. These templates are designed to be used within the SuiteDash environment or as standalone Excel/Google Sheets tools.
 
-**Critical Disclaimer**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions. Financial models are based on assumptions and estimatesâ€”actual results may vary. Legacy Codex assumes no liability for financial decisions made using these templates without proper professional review.
+**Critical Disclaimer**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions. Financial models are based on assumptions and estimates—actual results may vary. Legacy Codex assumes no liability for financial decisions made using these templates without proper professional review.
 
 ### How to Use This Chapter
 
@@ -58028,7 +58028,7 @@ Financial statements are the foundation of financial intelligence. They provide 
 
 ### 47.1.1 The "Big Three" (Standardized)
 
-The three core financial statementsâ€”Profit & Loss (P&L), Balance Sheet, and Statement of Cash Flowsâ€”provide a complete picture of financial health. Each statement serves a specific purpose and together they tell the full financial story.
+The three core financial statements—Profit & Loss (P&L), Balance Sheet, and Statement of Cash Flows—provide a complete picture of financial health. Each statement serves a specific purpose and together they tell the full financial story.
 
 #### Profit & Loss (P&L) Statement
 
@@ -58051,7 +58051,7 @@ The Ohu Family Enterprise uses a unified Chart of Accounts across all OpCos to e
 - Subscription revenue
 - Retainer fees
 - Maintenance agreements
-- Recurring revenue is the most valuableâ€”predictable and scalable
+- Recurring revenue is the most valuable—predictable and scalable
 
 **One-Time Revenue**:
 - Project-based revenue
@@ -58094,7 +58094,7 @@ The Ohu Family Enterprise uses a unified Chart of Accounts across all OpCos to e
 **Gross Profit Calculation**:
 ```
 Gross Profit = Total Revenue - COGS
-Gross Profit Margin = (Gross Profit / Total Revenue) Ã— 100%
+Gross Profit Margin = (Gross Profit / Total Revenue) × 100%
 ```
 
 **Target Gross Profit Margins**:
@@ -58135,7 +58135,7 @@ Gross Profit Margin = (Gross Profit / Total Revenue) Ã— 100%
 **EBITDA Calculation**:
 ```
 EBITDA = Gross Profit - Operating Expenses
-EBITDA Margin = (EBITDA / Total Revenue) Ã— 100%
+EBITDA Margin = (EBITDA / Total Revenue) × 100%
 ```
 
 **Target EBITDA Margins**:
@@ -58146,7 +58146,7 @@ EBITDA Margin = (EBITDA / Total Revenue) Ã— 100%
 **Net Income Calculation**:
 ```
 Net Income = EBITDA - Interest Expense - Taxes - Depreciation/Amortization
-Net Profit Margin = (Net Income / Total Revenue) Ã— 100%
+Net Profit Margin = (Net Income / Total Revenue) × 100%
 ```
 
 **Key P&L Metrics to Track**:
@@ -58232,7 +58232,7 @@ The standardized P&L template includes:
 - Other direct costs: $25,000
 - Total COGS: $725,000
 - Gross Profit: $1,500,000 - $725,000 = $775,000
-- Gross Profit Margin: ($775,000 / $1,500,000) Ã— 100% = 51.7%
+- Gross Profit Margin: ($775,000 / $1,500,000) × 100% = 51.7%
 
 **Operating Expenses Section**:
 - Sales and marketing: $150,000 (10% of revenue)
@@ -58241,14 +58241,14 @@ The standardized P&L template includes:
 - Other operating expenses: $25,000
 - Total Operating Expenses: $450,000
 - EBITDA: $775,000 - $450,000 = $325,000
-- EBITDA Margin: ($325,000 / $1,500,000) Ã— 100% = 21.7%
+- EBITDA Margin: ($325,000 / $1,500,000) × 100% = 21.7%
 
 **Below the Line Section**:
 - Interest expense: $20,000
 - Depreciation: $30,000
 - Taxes: $60,000
 - Net Income: $325,000 - $20,000 - $30,000 - $60,000 = $215,000
-- Net Profit Margin: ($215,000 / $1,500,000) Ã— 100% = 14.3%
+- Net Profit Margin: ($215,000 / $1,500,000) × 100% = 14.3%
 
 **Variance Analysis**:
 
@@ -58322,7 +58322,7 @@ The standardized P&L template includes:
 Assets = Liabilities + Equity
 ```
 
-This equation must always balanceâ€”hence the name "Balance Sheet."
+This equation must always balance—hence the name "Balance Sheet."
 
 **Assets Section**:
 
@@ -58465,8 +58465,8 @@ This equation must always balanceâ€”hence the name "Balance Sheet."
 **Efficiency Metrics**:
 - Asset Turnover = Revenue / Total Assets
 - Inventory Turnover = COGS / Average Inventory
-- Days Sales Outstanding (DSO) = (AR / Revenue) Ã— 365
-- Days Payable Outstanding (DPO) = (AP / COGS) Ã— 365
+- Days Sales Outstanding (DSO) = (AR / Revenue) × 365
+- Days Payable Outstanding (DPO) = (AP / COGS) × 365
 
 **Balance Sheet Template Structure**
 
@@ -58530,7 +58530,7 @@ The standardized Balance Sheet template includes:
 - Retained Earnings: $140,000
 - Total Equity: $340,000
 
-**Verification**: $270,000 + $340,000 = $610,000 âœ“ (Balances)
+**Verification**: $270,000 + $340,000 = $610,000 ✓ (Balances)
 
 **Key Metrics**:
 - Current Ratio: $260,000 / $70,000 = 3.7 (Excellent)
@@ -58807,7 +58807,7 @@ The standardized Cash Flow Statement template includes:
 
 **Service Business Revenue Model**:
 ```
-Total Revenue = Client Count Ã— Average Fee Ã— Retention Rate Ã— (1 + Growth Rate)
+Total Revenue = Client Count × Average Fee × Retention Rate × (1 + Growth Rate)
 ```
 
 **Components**:
@@ -58828,7 +58828,7 @@ Total Revenue = Client Count Ã— Average Fee Ã— Retention Rate Ã— (1 + G
 **Retention Rate**:
 - Percentage of clients retained
 - Target: > 90% for service businesses
-- Calculate: (Clients Retained / Beginning Clients) Ã— 100%
+- Calculate: (Clients Retained / Beginning Clients) × 100%
 
 **Growth Rate**:
 - Expected revenue growth
@@ -58848,19 +58848,19 @@ Total Revenue = Client Count Ã— Average Fee Ã— Retention Rate Ã— (1 + G
 - Growth rate: 15%
 
 **Calculation**:
-- Monthly recurring revenue: 550 Ã— $200 = $110,000
-- Annual recurring revenue: $110,000 Ã— 12 = $1,320,000
+- Monthly recurring revenue: 550 × $200 = $110,000
+- Annual recurring revenue: $110,000 × 12 = $1,320,000
 - One-time revenue (15% of recurring): $198,000
 - Total revenue: $1,518,000
-- With 15% growth: $1,518,000 Ã— 1.15 = $1,745,700
+- With 15% growth: $1,518,000 × 1.15 = $1,745,700
 
 **Expense Budget Build**:
 
 **Headcount-Based Expenses**:
 
 **Salaries and Wages**:
-- Current headcount Ã— Average salary
-- New hires Ã— Starting salary
+- Current headcount × Average salary
+- New hires × Starting salary
 - Merit increases
 - Overtime (if applicable)
 - Total payroll = Base salaries + Overtime + Benefits
@@ -58976,8 +58976,8 @@ The standardized Budget template includes:
 - [ ] Set budget guidelines and targets
 
 **Budget Preparation**:
-- [ ] Build revenue budget (client count Ã— average fee Ã— retention)
-- [ ] Build expense budget (headcount Ã— salary + fixed + variable)
+- [ ] Build revenue budget (client count × average fee × retention)
+- [ ] Build expense budget (headcount × salary + fixed + variable)
 - [ ] Document all assumptions
 - [ ] Review budget for reasonableness
 - [ ] Compare to prior year
@@ -59017,16 +59017,16 @@ The standardized Budget template includes:
 - Churned clients: -50
 - Ending clients: 550
 - Average monthly fee: $200
-- Monthly recurring revenue: 550 Ã— $200 = $110,000
-- Annual recurring revenue: $110,000 Ã— 12 = $1,320,000
+- Monthly recurring revenue: 550 × $200 = $110,000
+- Annual recurring revenue: $110,000 × 12 = $1,320,000
 - One-time revenue (15% of recurring): $198,000
 - Total revenue budget: $1,518,000
 
 **Expense Budget**:
 
 **Headcount-Based**:
-- Technicians (8 Ã— $60,000): $480,000
-- Admin staff (3 Ã— $50,000): $150,000
+- Technicians (8 × $60,000): $480,000
+- Admin staff (3 × $50,000): $150,000
 - Benefits (25% of salaries): $157,500
 - Total payroll: $787,500
 
@@ -59081,10 +59081,10 @@ Marketing ROI = (Lifetime Value - Customer Acquisition Cost) / Customer Acquisit
 - Target: < 20% of Lifetime Value
 
 **Lifetime Value (LTV)**:
-- Average revenue per customer Ã— Average customer lifespan
-- For service businesses: Average monthly fee Ã— Average months as customer
+- Average revenue per customer × Average customer lifespan
+- For service businesses: Average monthly fee × Average months as customer
 - Should account for churn and retention
-- Target: > 5Ã— Customer Acquisition Cost
+- Target: > 5× Customer Acquisition Cost
 
 **Marketing ROI Calculation Example**:
 
@@ -59094,7 +59094,7 @@ Marketing ROI = (Lifetime Value - Customer Acquisition Cost) / Customer Acquisit
 - CAC: $10,000 / 20 = $500 per customer
 - Average monthly fee: $200
 - Average customer lifespan: 36 months
-- LTV: $200 Ã— 36 = $7,200
+- LTV: $200 × 36 = $7,200
 
 **Calculation**:
 - Marketing ROI = ($7,200 - $500) / $500 = 13.4:1
@@ -59168,8 +59168,8 @@ Payback Period = Initial Investment / (Additional Revenue - Additional Costs per
 - Total investment: $60,000
 - Additional service capacity: 2 service calls per day
 - Average service call revenue: $300
-- Additional daily revenue: 2 Ã— $300 = $600
-- Additional annual revenue: $600 Ã— 250 working days = $150,000
+- Additional daily revenue: 2 × $300 = $600
+- Additional annual revenue: $600 × 250 working days = $150,000
 - Additional costs (fuel, maintenance, insurance): $30,000/year
 - Net additional profit: $150,000 - $30,000 = $120,000/year
 
@@ -59220,7 +59220,7 @@ Payback Period = Initial Investment / (Additional Revenue - Additional Costs per
 
 **Formula**:
 ```
-NPV = Î£ (Cash Flow in Year t / (1 + Discount Rate)^t) - Initial Investment
+NPV = Σ (Cash Flow in Year t / (1 + Discount Rate)^t) - Initial Investment
 ```
 
 **Components**:
@@ -59266,10 +59266,10 @@ NPV = Î£ (Cash Flow in Year t / (1 + Discount Rate)^t) - Initial Investment
 **NPV Sensitivity Analysis**:
 
 Test how NPV changes with different assumptions:
-- Revenue assumptions (Â±10%, Â±20%)
-- Cost assumptions (Â±10%, Â±20%)
-- Discount rate (Â±2%, Â±5%)
-- Investment life (Â±2 years)
+- Revenue assumptions (±10%, ±20%)
+- Cost assumptions (±10%, ±20%)
+- Discount rate (±2%, ±5%)
+- Investment life (±2 years)
 
 This helps understand investment risk and key drivers.
 
@@ -59280,7 +59280,7 @@ This helps understand investment risk and key drivers.
 **Formula**:
 ```
 IRR is the discount rate where NPV = 0
-Solve for r: 0 = Î£ (Cash Flow in Year t / (1 + r)^t) - Initial Investment
+Solve for r: 0 = Σ (Cash Flow in Year t / (1 + r)^t) - Initial Investment
 ```
 
 **IRR Decision Rule**:
@@ -59363,7 +59363,7 @@ Break-Even Revenue = Fixed Costs / (1 - Variable Cost %)
 
 **Calculation**:
 - Break-even service calls = $50,000 / $150 = 333 calls/month
-- Break-even revenue = 333 Ã— $300 = $100,000/month
+- Break-even revenue = 333 × $300 = $100,000/month
 
 **Interpretation**: The business needs 333 service calls per month (or $100,000 in revenue) to break even. Any calls above 333 generate profit.
 
@@ -59400,9 +59400,9 @@ Calculate break-even for different service types:
 **Break-Even Sensitivity Analysis**:
 
 Test how break-even changes with:
-- Fixed costs (Â±10%, Â±20%)
-- Variable costs (Â±10%, Â±20%)
-- Price (Â±10%, Â±20%)
+- Fixed costs (±10%, ±20%)
+- Variable costs (±10%, ±20%)
+- Price (±10%, ±20%)
 
 **Sensitivity Analysis Example**:
 
@@ -59489,15 +59489,15 @@ Margin of Safety (Revenue) = (Current Revenue - Break-Even Revenue) / Current Re
 - Variables: Revenue, Costs, Discount Rate
 
 **One-Way Sensitivity**:
-- Revenue Â±10%: NPV changes by Â±$30,000
-- Costs Â±10%: NPV changes by Â±$20,000
-- Discount rate Â±2%: NPV changes by Â±$15,000
+- Revenue ±10%: NPV changes by ±$30,000
+- Costs ±10%: NPV changes by ±$20,000
+- Discount rate ±2%: NPV changes by ±$15,000
 
 **Conclusion**: Revenue is the most sensitive variable.
 
 **Sensitivity Analysis Implementation Checklist**:
 - [ ] Identify key variables
-- [ ] Determine variable ranges (Â±10%, Â±20%)
+- [ ] Determine variable ranges (±10%, ±20%)
 - [ ] Calculate outcomes for each scenario
 - [ ] Identify most sensitive variables
 - [ ] Assess risk factors
@@ -59679,10 +59679,10 @@ Remaining Estimated Payments = Required Estimated Payments / Remaining Quarters
 - Distributions: $120,000
 
 **LLC (Partnership)**:
-- SE tax on $200,000: $200,000 Ã— 15.3% = $30,600
+- SE tax on $200,000: $200,000 × 15.3% = $30,600
 
 **S-Corporation**:
-- SE tax on $80,000 salary: $80,000 Ã— 15.3% = $12,240
+- SE tax on $80,000 salary: $80,000 × 15.3% = $12,240
 - No SE tax on $120,000 distributions
 - SE tax savings: $30,600 - $12,240 = $18,360
 
@@ -59759,10 +59759,10 @@ Remaining Estimated Payments = Required Estimated Payments / Remaining Quarters
 **Scenario**: Home office used for monthly team meetings
 - Monthly team meetings: 12 per year
 - Fair market rent: $500 per day
-- Total rent: 12 Ã— $500 = $6,000/year
+- Total rent: 12 × $500 = $6,000/year
 - Business deduction: $6,000
 - Homeowner income: $0 (tax-free under Augusta Rule)
-- Tax savings (assuming 30% tax rate): $6,000 Ã— 30% = $1,800
+- Tax savings (assuming 30% tax rate): $6,000 × 30% = $1,800
 
 **Augusta Rule Implementation Checklist**:
 - [ ] Identify business use of home (meetings, training, etc.)
@@ -59775,13 +59775,13 @@ Remaining Estimated Payments = Required Estimated Payments / Remaining Quarters
 
 #### Vehicle Mileage Log
 
-**Purpose**: Vehicle mileage logs track business vehicle use for tax deductions. You can deduct either standard mileage rate or actual expensesâ€”whichever is more beneficial.
+**Purpose**: Vehicle mileage logs track business vehicle use for tax deductions. You can deduct either standard mileage rate or actual expenses—whichever is more beneficial.
 
 **Two Methods**:
 
 **Standard Mileage Rate**:
 - IRS sets rate annually (2024: $0.67/mile)
-- Simple: Track miles Ã— rate
+- Simple: Track miles × rate
 - No need to track actual expenses
 - Can switch methods year-to-year
 
@@ -59813,7 +59813,7 @@ Remaining Estimated Payments = Required Estimated Payments / Remaining Quarters
 **Standard Mileage vs. Actual Expense Comparison**:
 
 **Scenario**: 15,000 business miles, $0.67/mile rate
-- Standard mileage deduction: 15,000 Ã— $0.67 = $10,050
+- Standard mileage deduction: 15,000 × $0.67 = $10,050
 
 **Actual Expenses** (if tracked):
 - Gas: $3,000
@@ -60049,7 +60049,7 @@ Cap Rate = Net Operating Income / Purchase Price
 
 **Metrics**:
 - Cap rate = $34,942 / $550,000 = 6.4%
-- Annual debt service = $2,638 Ã— 12 = $31,656
+- Annual debt service = $2,638 × 12 = $31,656
 - Cash flow = $34,942 - $31,656 = $3,286
 - Cash-on-cash return = $3,286 / $110,000 = 3.0%
 - DSCR = $34,942 / $31,656 = 1.10
@@ -60067,7 +60067,7 @@ Cap Rate = Net Operating Income / Purchase Price
 - Impact on NOI, cash flow, DSCR
 
 **Example**: 20% vacancy
-- Effective gross income: $4,800 Ã— 0.80 Ã— 12 = $46,080
+- Effective gross income: $4,800 × 0.80 × 12 = $46,080
 - NOI: $46,080 - $19,778 = $26,302
 - Cash flow: $26,302 - $31,656 = -$5,354 (negative)
 - DSCR: $26,302 / $31,656 = 0.83 (below 1.0 - concerning)
@@ -60108,12 +60108,12 @@ Cap Rate = Net Operating Income / Purchase Price
 **Seller's Discretionary Earnings (SDE) Multiple**:
 - SDE = Net Income + Owner Salary + Non-recurring Expenses + Personal Expenses
 - SDE Multiple: Based on market comps (typically 2.0-4.0x for service businesses)
-- Business Value = SDE Ã— SDE Multiple
+- Business Value = SDE × SDE Multiple
 
 **EBITDA Multiple**:
 - EBITDA = Earnings Before Interest, Taxes, Depreciation, Amortization
 - EBITDA Multiple: Based on market comps (typically 3.0-6.0x)
-- Business Value = EBITDA Ã— EBITDA Multiple
+- Business Value = EBITDA × EBITDA Multiple
 
 **Market Comparables**:
 - Research recent sales of similar businesses
@@ -60144,15 +60144,15 @@ Cap Rate = Net Operating Income / Purchase Price
 - Growth rate: 25% annually
 - Market SDE multiple: 3.0x (for HVAC service businesses)
 - Growth premium: 20% (for 25% growth)
-- Adjusted multiple: 3.0 Ã— 1.20 = 3.6x
-- Business value: $350,000 Ã— 3.6 = $1,260,000
+- Adjusted multiple: 3.0 × 1.20 = 3.6x
+- Business value: $350,000 × 3.6 = $1,260,000
 
 **Alternative Calculation (EBITDA)**:
 - EBITDA: $250,000
 - Market EBITDA multiple: 4.0x
 - Growth premium: 20%
-- Adjusted multiple: 4.0 Ã— 1.20 = 4.8x
-- Business value: $250,000 Ã— 4.8 = $1,200,000
+- Adjusted multiple: 4.0 × 1.20 = 4.8x
+- Business value: $250,000 × 4.8 = $1,200,000
 
 **Average Value**: ($1,260,000 + $1,200,000) / 2 = $1,230,000
 
@@ -60475,8 +60475,8 @@ Cap Rate = Net Operating Income / Purchase Price
 **Efficiency Ratios**:
 - Asset Turnover = Revenue / Total Assets
 - Inventory Turnover = COGS / Average Inventory
-- Days Sales Outstanding (DSO) = (AR / Revenue) Ã— 365
-- Days Payable Outstanding (DPO) = (AP / COGS) Ã— 365
+- Days Sales Outstanding (DSO) = (AR / Revenue) × 365
+- Days Payable Outstanding (DPO) = (AP / COGS) × 365
 - Cash Conversion Cycle = DSO + Inventory Days - DPO
 
 **Ratio Analysis Implementation Checklist**:
@@ -60907,8 +60907,8 @@ Each section includes comprehensive implementation checklists:
 **Budgeting**:
 1. Use zero-based budgeting methodology
 2. Justify every expense
-3. Build revenue from client count Ã— average fee
-4. Build expenses from headcount Ã— salary + fixed + variable
+3. Build revenue from client count × average fee
+4. Build expenses from headcount × salary + fixed + variable
 5. Document all assumptions
 6. Review and update quarterly
 
@@ -61007,7 +61007,7 @@ The Ohu Family Enterprise operates on a Financial Intelligence Framework that tr
 6. **Risk Management**: Scenario analysis and stress testing identify and mitigate risks
 
 **Financial Statement Mastery**:
-The three core financial statementsâ€”P&L, Balance Sheet, and Cash Flowâ€”work together to provide a complete financial picture:
+The three core financial statements—P&L, Balance Sheet, and Cash Flow—work together to provide a complete financial picture:
 - **P&L** shows profitability (are we making money?)
 - **Balance Sheet** shows financial position (what do we own and owe?)
 - **Cash Flow** shows liquidity (how did we generate and use cash?)
@@ -61015,7 +61015,7 @@ The three core financial statementsâ€”P&L, Balance Sheet, and Cash Flowâ�
 **The Golden Rule**: "Profit is an opinion; Cash is a fact." We manage by the Cash Flow Statement because cash pays the bills.
 
 **Budgeting Excellence**:
-Zero-based budgeting ensures every expense is justified and resources are allocated efficiently. The revenue build (Client Count Ã— Average Fee Ã— Retention) and expense build (Headcount Ã— Salary + Fixed + Variable) provide a solid foundation for financial planning.
+Zero-based budgeting ensures every expense is justified and resources are allocated efficiently. The revenue build (Client Count × Average Fee × Retention) and expense build (Headcount × Salary + Fixed + Variable) provide a solid foundation for financial planning.
 
 **Analysis-Driven Decisions**:
 Every investment decision is supported by financial analysis:
@@ -61064,7 +61064,7 @@ Standardized models ensure consistent evaluation:
 
 **Financial Reporting**:
 - Don't skip monthly financial statements
-- Don't ignore variancesâ€”investigate them
+- Don't ignore variances—investigate them
 - Don't use inconsistent Chart of Accounts
 - Don't forget to reconcile balance sheet accounts
 
@@ -61126,7 +61126,7 @@ Standardized models ensure consistent evaluation:
 
 All templates are designed to be used within the SuiteDash environment or as standalone Excel/Google Sheets tools. They should be reviewed and validated by qualified financial professionals (CPAs, financial advisors) before making significant financial decisions.
 
-**Critical Reminder**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals before making significant financial decisions. Financial models are based on assumptions and estimatesâ€”actual results may vary. The Ohu Family Enterprise's financial success depends on consistent application of these tools, regular review with professionals, and continuous improvement based on actual results.
+**Critical Reminder**: All financial templates and models in this chapter are provided as tools for financial planning and analysis. They must be reviewed and validated by qualified financial professionals before making significant financial decisions. Financial models are based on assumptions and estimates—actual results may vary. The Ohu Family Enterprise's financial success depends on consistent application of these tools, regular review with professionals, and continuous improvement based on actual results.
 
 ---
 
@@ -61146,9 +61146,9 @@ All templates are designed to be used within the SuiteDash environment or as sta
 
 Marketing is the fuel; Sales is the engine. This chapter provides the standardized creative assets and scripts that power the Ohu Family Enterprise's revenue generation. We do not reinvent the wheel for every campaign. We use proven, high-converting templates developed by ToriMedia and refined by data.
 
-These materials are designed to be "White Labeled"â€”easily adapted for any OpCo (HVAC, Pest Control, Notary) while maintaining the Empire's standards of persuasion and professionalism.
+These materials are designed to be "White Labeled"—easily adapted for any OpCo (HVAC, Pest Control, Notary) while maintaining the Empire's standards of persuasion and professionalism.
 
-**Critical Framework**: All marketing and sales materials follow the proven **PAS Framework** (Problem, Agitation, Solution) combined with **Social Proof** and **Clear Calls to Action**. Every piece of content is designed to move prospects through the buyer's journey: Awareness â†’ Interest â†’ Consideration â†’ Purchase â†’ Loyalty.
+**Critical Framework**: All marketing and sales materials follow the proven **PAS Framework** (Problem, Agitation, Solution) combined with **Social Proof** and **Clear Calls to Action**. Every piece of content is designed to move prospects through the buyer's journey: Awareness → Interest → Consideration → Purchase → Loyalty.
 
 ### How to Use This Chapter
 
@@ -61247,18 +61247,18 @@ Comfort complaints from employees and customers?
 
 WE SOLVE HVAC PROBLEMS
 
-âœ“ Expert maintenance and repair services
-âœ“ 24/7 emergency service availability
-âœ“ Energy-efficient solutions that save money
-âœ“ Licensed, insured, and certified technicians
-âœ“ 100% satisfaction guarantee
+✓ Expert maintenance and repair services
+✓ 24/7 emergency service availability
+✓ Energy-efficient solutions that save money
+✓ Licensed, insured, and certified technicians
+✓ 100% satisfaction guarantee
 
 TRUSTED BY 500+ LOCAL BUSINESSES
 
-â­â­â­â­â­ "Best HVAC service we've ever used!" - John Smith, ABC Company
-â­â­â­â­â­ "Saved us thousands in energy costs!" - Jane Doe, XYZ Corp
+⭐⭐⭐⭐⭐ "Best HVAC service we've ever used!" - John Smith, ABC Company
+⭐⭐⭐⭐⭐ "Saved us thousands in energy costs!" - Jane Doe, XYZ Corp
 
-[QR CODE] â†’ Book Your Free Consultation Today
+[QR CODE] → Book Your Free Consultation Today
 Call: (555) 123-4567 | Visit: www.yourcompany.com
 
 SPECIAL OFFER: 20% OFF First Service Call
@@ -61272,18 +61272,18 @@ SPECIAL OFFER: 20% OFF First Service Call
 Professional HVAC Services Since [YEAR]
 
 OUR SERVICES:
-â€¢ Preventive Maintenance
-â€¢ Emergency Repairs
-â€¢ System Installation
-â€¢ Energy Audits
-â€¢ Indoor Air Quality Solutions
+• Preventive Maintenance
+• Emergency Repairs
+• System Installation
+• Energy Audits
+• Indoor Air Quality Solutions
 
 WHY CHOOSE US:
-â€¢ Licensed & Insured
-â€¢ 24/7 Emergency Service
-â€¢ 100% Satisfaction Guarantee
-â€¢ Upfront Pricing
-â€¢ Local, Family-Owned Business
+• Licensed & Insured
+• 24/7 Emergency Service
+• 100% Satisfaction Guarantee
+• Upfront Pricing
+• Local, Family-Owned Business
 
 CONTACT US:
 Phone: (555) 123-4567
@@ -61291,13 +61291,13 @@ Email: info@yourcompany.com
 Website: www.yourcompany.com
 Address: [Your Address]
 
-[QR CODE] â†’ Schedule Service Now
+[QR CODE] → Schedule Service Now
 ```
 
 **Design Specifications**:
 
 **Layout**:
-- Size: 8.5" Ã— 11" (standard letter) or 8.5" Ã— 5.5" (half-sheet)
+- Size: 8.5" × 11" (standard letter) or 8.5" × 5.5" (half-sheet)
 - Orientation: Portrait or Landscape
 - Margins: 0.5" on all sides
 
@@ -61317,7 +61317,7 @@ Address: [Your Address]
 - Logo: Top left or center
 - Photos: High-quality, professional
 - Icons: Simple, recognizable
-- QR Code: Large, scannable (minimum 1" Ã— 1")
+- QR Code: Large, scannable (minimum 1" × 1")
 
 **Brochure Implementation Checklist**:
 - [ ] Customize template with OpCo-specific content
@@ -61575,14 +61575,14 @@ UNDERSTANDING YOUR NEEDS
 Based on our discovery call, we understand:
 
 Current Situation:
-â€¢ [Pain point 1]
-â€¢ [Pain point 2]
-â€¢ [Pain point 3]
+• [Pain point 1]
+• [Pain point 2]
+• [Pain point 3]
 
 Goals & Objectives:
-â€¢ [Goal 1]
-â€¢ [Goal 2]
-â€¢ [Goal 3]
+• [Goal 1]
+• [Goal 2]
+• [Goal 3]
 
 ---
 
@@ -61595,31 +61595,31 @@ We propose [Solution Name] which includes:
 [Feature 3]: [Description and benefit]
 
 This solution will:
-âœ“ Address [Pain point 1]
-âœ“ Achieve [Goal 1]
-âœ“ Deliver [Desired outcome]
+✓ Address [Pain point 1]
+✓ Achieve [Goal 1]
+✓ Deliver [Desired outcome]
 
 ---
 
 SCOPE OF WORK
 
 Service 1: [Service Name]
-â€¢ Deliverable 1: [Description]
-â€¢ Deliverable 2: [Description]
-â€¢ Timeline: [Start date] to [End date]
+• Deliverable 1: [Description]
+• Deliverable 2: [Description]
+• Timeline: [Start date] to [End date]
 
 Service 2: [Service Name]
-â€¢ Deliverable 1: [Description]
-â€¢ Deliverable 2: [Description]
-â€¢ Timeline: [Start date] to [End date]
+• Deliverable 1: [Description]
+• Deliverable 2: [Description]
+• Timeline: [Start date] to [End date]
 
 Exclusions:
-â€¢ [What's not included]
-â€¢ [What's not included]
+• [What's not included]
+• [What's not included]
 
 Assumptions:
-â€¢ [Assumption 1]
-â€¢ [Assumption 2]
+• [Assumption 1]
+• [Assumption 2]
 
 ---
 
@@ -61652,9 +61652,9 @@ Tax (if applicable): $[Amount]
 Total Investment: $[Amount]
 
 Payment Schedule:
-â€¢ Deposit (50%): $[Amount] upon signing
-â€¢ Progress Payment (30%): $[Amount] at [Milestone]
-â€¢ Final Payment (20%): $[Amount] upon completion
+• Deposit (50%): $[Amount] upon signing
+• Progress Payment (30%): $[Amount] at [Milestone]
+• Final Payment (20%): $[Amount] upon completion
 
 ---
 
@@ -61670,11 +61670,11 @@ Guarantee: 100% satisfaction or money back
 
 WHY CHOOSE US
 
-â€¢ [X] years of industry experience
-â€¢ Licensed, insured, and certified
-â€¢ 100% satisfaction guarantee
-â€¢ [X] happy clients
-â€¢ [Award/Certification]
+• [X] years of industry experience
+• Licensed, insured, and certified
+• 100% satisfaction guarantee
+• [X] happy clients
+• [Award/Certification]
 
 Testimonials:
 "[Testimonial]" - [Client Name]
@@ -62062,9 +62062,9 @@ Does that help address your concern?"
 "Based on everything we've discussed, it sounds like [Package X] is the perfect fit for what you need.
 
 Here's what I'm thinking:
-â€¢ [Benefit 1]
-â€¢ [Benefit 2]
-â€¢ [Benefit 3]
+• [Benefit 1]
+• [Benefit 2]
+• [Benefit 3]
 
 This will help you [Achieve Goal] and [Solve Problem].
 
@@ -62132,9 +62132,9 @@ CTA: "Get Free Consultation"
 
 **Example**:
 ```
-âœ“ 24/7 Emergency Service - We're there when you need us
-âœ“ Energy-Efficient Solutions - Save money on utility bills
-âœ“ Licensed & Insured - Professional service you can trust
+✓ 24/7 Emergency Service - We're there when you need us
+✓ Energy-Efficient Solutions - Save money on utility bills
+✓ Licensed & Insured - Professional service you can trust
 ```
 
 **3. The Guide (About Us Section)**:
@@ -62319,9 +62319,9 @@ Or call us: [Phone Number]
 [Supporting statement that builds interest]
 
 [VALUE PROPOSITION]
-âœ“ [Benefit 1]
-âœ“ [Benefit 2]
-âœ“ [Benefit 3]
+✓ [Benefit 1]
+✓ [Benefit 2]
+✓ [Benefit 3]
 
 [URGENCY]
 Limited Time: [Offer] - Expires [Date]
@@ -62344,14 +62344,14 @@ Call Now: [Phone Number]
 Available 24/7
 
 [TRUST ELEMENTS]
-âœ“ Licensed & Insured
-âœ“ 100% Satisfaction Guarantee
-âœ“ [X] Happy Customers
+✓ Licensed & Insured
+✓ 100% Satisfaction Guarantee
+✓ [X] Happy Customers
 
 [ADDITIONAL BENEFITS]
-â€¢ [Benefit]
-â€¢ [Benefit]
-â€¢ [Benefit]
+• [Benefit]
+• [Benefit]
+• [Benefit]
 
 [FINAL CTA]
 [CTA Button]
@@ -62612,9 +62612,9 @@ To help you get the most out of our service, here are some tips:
 [Description]
 
 Resources:
-â€¢ [Resource 1]
-â€¢ [Resource 2]
-â€¢ [Resource 3]
+• [Resource 1]
+• [Resource 2]
+• [Resource 3]
 
 Questions? We're here to help!
 Phone: [Phone]
@@ -62686,9 +62686,9 @@ Hi [Name],
 [Technician Name] has arrived and started the work.
 
 What we're doing:
-â€¢ [Task 1]
-â€¢ [Task 2]
-â€¢ [Task 3]
+• [Task 1]
+• [Task 2]
+• [Task 3]
 
 Expected completion: [Time]
 
@@ -62704,9 +62704,9 @@ Hi [Name],
 Your service is complete!
 
 Here's what we did:
-â€¢ [Completed Task 1]
-â€¢ [Completed Task 2]
-â€¢ [Completed Task 3]
+• [Completed Task 1]
+• [Completed Task 2]
+• [Completed Task 3]
 
 [Photos if applicable]
 
@@ -62788,9 +62788,9 @@ Hi [Name],
 We haven't heard from you in a while, and we want to make sure everything is okay.
 
 We'd love your feedback:
-â€¢ How was your last experience with us?
-â€¢ Is there anything we could have done better?
-â€¢ What would bring you back?
+• How was your last experience with us?
+• Is there anything we could have done better?
+• What would bring you back?
 
 We're here to help. If there's anything we can do, please let us know.
 
@@ -63509,10 +63509,10 @@ Expert HVAC Services That Save You Money
 24/7 emergency service, preventive maintenance, and energy-efficient solutions
 
 [BODY COPY]
-âœ“ Licensed & Insured Technicians
-âœ“ 100% Satisfaction Guarantee
-âœ“ Upfront Pricing
-âœ“ Same-Day Service Available
+✓ Licensed & Insured Technicians
+✓ 100% Satisfaction Guarantee
+✓ Upfront Pricing
+✓ Same-Day Service Available
 
 [CALL TO ACTION]
 Call Now: (555) 123-4567
@@ -63581,9 +63581,9 @@ Time: [Time]
 Location: [Location]
 
 [What to Expect]
-â€¢ [Benefit 1]
-â€¢ [Benefit 2]
-â€¢ [Benefit 3]
+• [Benefit 1]
+• [Benefit 2]
+• [Benefit 3]
 
 [RSVP]
 RSVP by [Date]: [Link]
@@ -63606,14 +63606,14 @@ Together, we can [Joint Benefit]
 
 [PROPOSAL]
 We propose [Partnership Structure] where:
-â€¢ [Benefit 1]
-â€¢ [Benefit 2]
-â€¢ [Benefit 3]
+• [Benefit 1]
+• [Benefit 2]
+• [Benefit 3]
 
 [TERMS]
-â€¢ [Term 1]
-â€¢ [Term 2]
-â€¢ [Term 3]
+• [Term 1]
+• [Term 2]
+• [Term 3]
 
 [NEXT STEPS]
 Let's schedule a call to discuss: [Contact Information]
@@ -63754,19 +63754,19 @@ FOR IMMEDIATE RELEASE
 
 **Repurpose Content Across Channels**:
 
-**Blog Post â†’ Social Media**:
+**Blog Post → Social Media**:
 - Extract key points
 - Create multiple social posts
 - Use quotes as graphics
 - Create video summaries
 
-**Video â†’ Blog Post**:
+**Video → Blog Post**:
 - Transcribe video
 - Create blog post from transcript
 - Add images and graphics
 - Include video embed
 
-**Case Study â†’ Multiple Formats**:
+**Case Study → Multiple Formats**:
 - Full case study (blog post)
 - Social media posts (key highlights)
 - Email campaign (testimonial)
@@ -63835,9 +63835,9 @@ Hi [Name],
 [Headline about offer]
 
 [Offer Details]
-â€¢ [Benefit 1]
-â€¢ [Benefit 2]
-â€¢ [Benefit 3]
+• [Benefit 1]
+• [Benefit 2]
+• [Benefit 3]
 
 [Urgency]
 This offer expires [Date] or Only [X] spots available
@@ -63903,31 +63903,31 @@ Role: [Job Title]
 Company: [Company Type/Size]
 
 Pain Points:
-â€¢ [Pain Point 1]
-â€¢ [Pain Point 2]
-â€¢ [Pain Point 3]
+• [Pain Point 1]
+• [Pain Point 2]
+• [Pain Point 3]
 
 Goals:
-â€¢ [Goal 1]
-â€¢ [Goal 2]
-â€¢ [Goal 3]
+• [Goal 1]
+• [Goal 2]
+• [Goal 3]
 
 Challenges:
-â€¢ [Challenge 1]
-â€¢ [Challenge 2]
+• [Challenge 1]
+• [Challenge 2]
 
 Preferred Communication:
-â€¢ [Channel 1]
-â€¢ [Channel 2]
+• [Channel 1]
+• [Channel 2]
 
 Decision-Making Process:
-â€¢ [Step 1]
-â€¢ [Step 2]
-â€¢ [Step 3]
+• [Step 1]
+• [Step 2]
+• [Step 3]
 
 Objections:
-â€¢ [Objection 1]
-â€¢ [Objection 2]
+• [Objection 1]
+• [Objection 2]
 ```
 
 ### Marketing Funnel Templates
@@ -63979,7 +63979,7 @@ Objections:
 7. **Analysis**: Track performance and optimize
 
 **Content Approval Workflow**:
-- Draft â†’ Review â†’ Edit â†’ Approve â†’ Publish
+- Draft → Review → Edit → Approve → Publish
 - Assign reviewers
 - Set deadlines
 - Track status
@@ -63988,25 +63988,25 @@ Objections:
 ### Marketing Automation Workflows
 
 **Lead Nurturing Workflow**:
-1. Lead captured â†’ Welcome email
-2. Day 2 â†’ Educational content
-3. Day 5 â†’ Case study
-4. Day 10 â†’ Special offer
-5. Day 15 â†’ Follow-up call
-6. Day 30 â†’ Re-engagement email
+1. Lead captured → Welcome email
+2. Day 2 → Educational content
+3. Day 5 → Case study
+4. Day 10 → Special offer
+5. Day 15 → Follow-up call
+6. Day 30 → Re-engagement email
 
 **Customer Onboarding Workflow**:
-1. Purchase â†’ Welcome email
-2. Day 1 â†’ Team introduction
-3. Day 3 â†’ Service tips
-4. Day 7 â†’ Feedback request
-5. Day 14 â†’ Upsell opportunity
+1. Purchase → Welcome email
+2. Day 1 → Team introduction
+3. Day 3 → Service tips
+4. Day 7 → Feedback request
+5. Day 14 → Upsell opportunity
 
 **Win-Back Workflow**:
-1. 30 days inactive â†’ Check-in email
-2. 60 days inactive â†’ Special offer
-3. 90 days inactive â†’ Feedback request
-4. 120 days inactive â†’ Final win-back attempt
+1. 30 days inactive → Check-in email
+2. 60 days inactive → Special offer
+3. 90 days inactive → Feedback request
+4. 120 days inactive → Final win-back attempt
 
 ### Quality Assurance Checklist
 
@@ -64063,20 +64063,20 @@ Objections:
 
 All templates, scripts, and materials in this chapter are living documents that should be continuously improved based on actual performance data. The Ohu Family Enterprise's marketing and sales success depends on consistent application, regular testing, and continuous optimization.
 
-**Final Reminder**: Marketing and sales are not one-time activitiesâ€”they require consistent effort, regular optimization, and continuous improvement. Use these templates as starting points, customize them for your specific situation, test everything, and always be improving based on data and feedback.
+**Final Reminder**: Marketing and sales are not one-time activities—they require consistent effort, regular optimization, and continuous improvement. Use these templates as starting points, customize them for your specific situation, test everything, and always be improving based on data and feedback.
 
 ### Template Customization Guide
 
 **How to Customize Templates for Your OpCo**:
 
 **Step 1: Replace Placeholders**:
-- [Company Name] â†’ Your actual company name
-- [Service] â†’ Your specific service
-- [Industry] â†’ Your industry
-- [Target Audience] â†’ Your ideal customer
-- [Problem] â†’ Your customer's main problem
-- [Solution] â†’ How you solve it
-- [Benefit] â†’ Key benefits you provide
+- [Company Name] → Your actual company name
+- [Service] → Your specific service
+- [Industry] → Your industry
+- [Target Audience] → Your ideal customer
+- [Problem] → Your customer's main problem
+- [Solution] → How you solve it
+- [Benefit] → Key benefits you provide
 
 **Step 2: Add Your Brand Elements**:
 - Insert your logo
@@ -65083,13 +65083,13 @@ SELECTION CRITERIA
 PROPOSAL REQUIREMENTS
 
 Please include:
-â€¢ Company background and experience
-â€¢ Relevant case studies
-â€¢ Team qualifications
-â€¢ Proposed approach
-â€¢ Timeline
-â€¢ Fee structure
-â€¢ References
+• Company background and experience
+• Relevant case studies
+• Team qualifications
+• Proposed approach
+• Timeline
+• Fee structure
+• References
 
 SUBMISSION DEADLINE
 
@@ -65101,12 +65101,12 @@ Questions should be directed to [Contact Information]
 
 EVALUATION TIMELINE
 
-â€¢ RFP Release: [Date]
-â€¢ Questions Deadline: [Date]
-â€¢ Proposal Deadline: [Date]
-â€¢ Evaluation: [Date]
-â€¢ Selection: [Date]
-â€¢ Contract Execution: [Date]
+• RFP Release: [Date]
+• Questions Deadline: [Date]
+• Proposal Deadline: [Date]
+• Evaluation: [Date]
+• Selection: [Date]
+• Contract Execution: [Date]
 ```
 
 ### 49.5.3 Vendor Scorecard
@@ -65356,7 +65356,7 @@ Each section includes:
 ### Key Takeaways
 
 **Strategic Partnership Approach**:
-We don't treat professional service providers as vendorsâ€”we treat them as extensions of our executive team. This means:
+We don't treat professional service providers as vendors—we treat them as extensions of our executive team. This means:
 - Clear expectations and standards
 - Regular communication and feedback
 - Long-term relationship building
@@ -66459,8 +66459,8 @@ Rate each candidate 1-10 on each criterion:
 - **Total Year 1**: $19,000
 
 **5-Year Projection** (assuming assets grow to $20M):
-- Company A: $25,000 + $2,000 + $4,000 = $31,000/year â†’ $155,000 total
-- Company B: $15,000 + $1,000 + $3,000 = $19,000/year â†’ $95,000 total
+- Company A: $25,000 + $2,000 + $4,000 = $31,000/year → $155,000 total
+- Company B: $15,000 + $1,000 + $3,000 = $19,000/year → $95,000 total
 - **Savings with Company B**: $60,000 over 5 years
 
 **Key Insight**: Flat fees are often more cost-effective as assets grow.
@@ -67349,7 +67349,7 @@ The goal of this volume is not just resilience (bouncing back), but **anti-fragi
 
 ## Introduction
 
-Chapter 52 provides a comprehensive troubleshooting guide for the most common problems facing the Legacy Codex. This chapter categorizes problems by type, provides diagnostic frameworks, and offers proven solutions for each category. Every problem is an opportunity to strengthen the empireâ€”if addressed systematically and learned from completely.
+Chapter 52 provides a comprehensive troubleshooting guide for the most common problems facing the Legacy Codex. This chapter categorizes problems by type, provides diagnostic frameworks, and offers proven solutions for each category. Every problem is an opportunity to strengthen the empire—if addressed systematically and learned from completely.
 
 ### The Problem-Solving Framework
 
@@ -70442,7 +70442,7 @@ Chapter 53 provides the framework for effective crisis management. Chapter 54 ad
 
 ## Introduction
 
-In the Legacy Codex, "good enough" is the enemy of "great." The completion of a system or the launch of a business is not the finish lineâ€”it is the starting line for optimization. Continuous Optimization is the disciplined, relentless pursuit of incremental improvement. It is the application of the Japanese concept of *Kaizen* to every facet of the empire.
+In the Legacy Codex, "good enough" is the enemy of "great." The completion of a system or the launch of a business is not the finish line—it is the starting line for optimization. Continuous Optimization is the disciplined, relentless pursuit of incremental improvement. It is the application of the Japanese concept of *Kaizen* to every facet of the empire.
 
 This chapter provides the framework for systematically elevating the performance of your businesses, systems, finances, and organization. It moves beyond troubleshooting (fixing what is broken) to optimization (perfecting what is working).
 
@@ -70860,7 +70860,7 @@ Use this checklist before making any decision involving capital allocation >$50,
 - [ ] Ethical boundaries checked
 - [ ] Values Assessment Checklist completed (if major decision)
 
-**Values Alignment**: [ ] âœ… Strong [ ] WARNING: Moderate [ ] âŒ Weak
+**Values Alignment**: [ ] ✅ Strong [ ] WARNING: Moderate [ ] ❌ Weak
 
 ---
 
@@ -73113,8 +73113,8 @@ Rate each factor on a scale of 1-10, where 10 is most favorable.
 
 ### Option A
 - **Probability of Success**: [X]%
-- **Outcome 1**: [Description] â†’ Score: [X/10]
-- **Outcome 2**: [Description] â†’ Score: [X/10]
+- **Outcome 1**: [Description] → Score: [X/10]
+- **Outcome 2**: [Description] → Score: [X/10]
 - **Expected Value**: [Calculation]
 
 ### Option B
@@ -73373,10 +73373,10 @@ Rate each factor on a scale of 1-10, where 10 is most favorable.
 
 | Metric | Target | Current | Status | Weight | Weighted Score |
 |--------|--------|---------|--------|--------|----------------|
-| Monthly Recurring Revenue | $833K | $[X] | [âœ“/âœ—] | 15% | [X] |
-| Gross Margin | 70%+ | [X]% | [âœ“/âœ—] | 10% | [X] |
-| Cash Reserve (months) | 6+ | [X] | [âœ“/âœ—] | 10% | [X] |
-| Effective Tax Rate | <15% | [X]% | [âœ“/âœ—] | 5% | [X] |
+| Monthly Recurring Revenue | $833K | $[X] | [✓/✗] | 15% | [X] |
+| Gross Margin | 70%+ | [X]% | [✓/✗] | 10% | [X] |
+| Cash Reserve (months) | 6+ | [X] | [✓/✗] | 10% | [X] |
+| Effective Tax Rate | <15% | [X]% | [✓/✗] | 5% | [X] |
 | **Subtotal** | | | | **40%** | **[X]/40** |
 
 ---
@@ -73385,10 +73385,10 @@ Rate each factor on a scale of 1-10, where 10 is most favorable.
 
 | Metric | Target | Current | Status | Weight | Weighted Score |
 |--------|--------|---------|--------|--------|----------------|
-| Automation Percentage | 80%+ | [X]% | [âœ“/âœ—] | 10% | [X] |
-| Client NPS | 70+ | [X] | [âœ“/âœ—] | 10% | [X] |
-| Error Rate | <1% | [X]% | [âœ“/âœ—] | 5% | [X] |
-| Team Retention | 90%+ | [X]% | [âœ“/âœ—] | 5% | [X] |
+| Automation Percentage | 80%+ | [X]% | [✓/✗] | 10% | [X] |
+| Client NPS | 70+ | [X] | [✓/✗] | 10% | [X] |
+| Error Rate | <1% | [X]% | [✓/✗] | 5% | [X] |
+| Team Retention | 90%+ | [X]% | [✓/✗] | 5% | [X] |
 | **Subtotal** | | | | **30%** | **[X]/30** |
 
 ---
@@ -73397,9 +73397,9 @@ Rate each factor on a scale of 1-10, where 10 is most favorable.
 
 | Metric | Target | Current | Status | Weight | Weighted Score |
 |--------|--------|---------|--------|--------|----------------|
-| Values Alignment | 90%+ | [X]% | [âœ“/âœ—] | 8% | [X] |
-| Education Completion | 100% | [X]% | [âœ“/âœ—] | 7% | [X] |
-| Family Council Attend | 100% | [X]% | [âœ“/âœ—] | 5% | [X] |
+| Values Alignment | 90%+ | [X]% | [✓/✗] | 8% | [X] |
+| Education Completion | 100% | [X]% | [✓/✗] | 7% | [X] |
+| Family Council Attend | 100% | [X]% | [✓/✗] | 5% | [X] |
 | **Subtotal** | | | | **20%** | **[X]/20** |
 
 ---
@@ -73408,9 +73408,9 @@ Rate each factor on a scale of 1-10, where 10 is most favorable.
 
 | Metric | Target | Current | Status | Weight | Weighted Score |
 |--------|--------|---------|--------|--------|----------------|
-| Foundation Grants | $[X]K | $[X] | [âœ“/âœ—] | 5% | [X] |
-| Lives Impacted | 100+ | [X] | [âœ“/âœ—] | 3% | [X] |
-| System Documentation | 100% | [X]% | [âœ“/âœ—] | 2% | [X] |
+| Foundation Grants | $[X]K | $[X] | [✓/✗] | 5% | [X] |
+| Lives Impacted | 100+ | [X] | [✓/✗] | 3% | [X] |
+| System Documentation | 100% | [X]% | [✓/✗] | 2% | [X] |
 | **Subtotal** | | | | **10%** | **[X]/10** |
 
 ---
@@ -73541,14 +73541,14 @@ Rate each factor on a scale of 1-10, where 10 is most favorable.
 
 ## Risk Score Calculation
 
-**Risk Score Formula**: (Probability Ã— Impact) / (Mitigability Ã— Reversibility)
+**Risk Score Formula**: (Probability × Impact) / (Mitigability × Reversibility)
 
 **Calculation**:
 - Probability: [X]
 - Impact: [X]
 - Mitigability: [X]
 - Reversibility: [X]
-- **Risk Score**: ([X] Ã— [X]) / ([X] Ã— [X]) = [X]
+- **Risk Score**: ([X] × [X]) / ([X] × [X]) = [X]
 
 **Risk Score Interpretation**:
 - <1.0: Very low risk
@@ -74152,24 +74152,24 @@ Templates must be saved in the correct directory:
 
 ```
 templates/
-â”œâ”€â”€ legal/
-â”‚   â”œâ”€â”€ trusts/
-â”‚   â”œâ”€â”€ entities/
-â”‚   â”œâ”€â”€ real-estate/
-â”‚   â””â”€â”€ contracts/
-â”œâ”€â”€ financial/
-â”‚   â”œâ”€â”€ statements/
-â”‚   â”œâ”€â”€ budgets/
-â”‚   â”œâ”€â”€ forecasts/
-â”‚   â””â”€â”€ tax/
-â”œâ”€â”€ operational/
-â”‚   â”œâ”€â”€ sops/
-â”‚   â”œâ”€â”€ workflows/
-â”‚   â””â”€â”€ processes/
-â””â”€â”€ marketing/
-    â”œâ”€â”€ emails/
-    â”œâ”€â”€ scripts/
-    â””â”€â”€ proposals/
+├── legal/
+│   ├── trusts/
+│   ├── entities/
+│   ├── real-estate/
+│   └── contracts/
+├── financial/
+│   ├── statements/
+│   ├── budgets/
+│   ├── forecasts/
+│   └── tax/
+├── operational/
+│   ├── sops/
+│   ├── workflows/
+│   └── processes/
+└── marketing/
+    ├── emails/
+    ├── scripts/
+    └── proposals/
 ```
 
 ## File Naming Conventions
@@ -74179,10 +74179,10 @@ templates/
 - **Use hyphens**: Separate words with hyphens (not underscores or spaces)
 - **Be descriptive**: Name should clearly indicate template purpose
 - **Examples**:
-  - `Legacy-trust-template.md` âœ“
-  - `profit-loss-monthly.md` âœ“
-  - `sop-client-onboarding.md` âœ“
-  - `email-client-welcome.md` âœ“
+  - `Legacy-trust-template.md` ✓
+  - `profit-loss-monthly.md` ✓
+  - `sop-client-onboarding.md` ✓
+  - `email-client-welcome.md` ✓
 
 ## Version Control
 
@@ -74896,22 +74896,22 @@ This document tracks the status of the Empire Templates Library creation. The go
 
 ---
 
-## System Foundation âœ… COMPLETE
+## System Foundation ✅ COMPLETE
 
-### Directory Structure âœ…
+### Directory Structure ✅
 - [x] Legal templates directory (`legal/`)
 - [x] Financial templates directory (`financial/`)
 - [x] Operational templates directory (`operational/`)
 - [x] Marketing templates directory (`marketing/`)
 - [x] Subdirectories created for each category
 
-### Core Documentation âœ…
+### Core Documentation ✅
 - [x] README.md - System overview and usage guide
 - [x] TEMPLATE_INDEX.md - Complete index of all templates (1,000+ listed)
 - [x] TEMPLATE_CREATION_GUIDE.md - Systematic creation guide
 - [x] TEMPLATE_SYSTEM_STATUS.md - This status document
 
-### Template Standards âœ…
+### Template Standards ✅
 - [x] Standard template format defined
 - [x] Field naming conventions established
 - [x] Quality checklist created
@@ -74923,7 +74923,7 @@ This document tracks the status of the Empire Templates Library creation. The go
 
 ### Legal Templates (17 created, 183+ remaining)
 
-#### Trust Documents âœ…
+#### Trust Documents ✅
 - [x] `Legacy-trust-template.md` - Complete South Dakota Dynasty Trust Agreement
 - [x] `ilit-template.md` - Irrevocable Life Insurance Trust (referenced in chapter 46)
 - [x] `crummey-trust-template.md` - Crummey Trust Agreement (referenced in chapter 46)
@@ -74931,7 +74931,7 @@ This document tracks the status of the Empire Templates Library creation. The go
 - [x] `trustee-letter-template.md` - Trustee Decision Letter
 - [ ] Additional trust templates (15+)
 
-#### Entity Documents âœ…
+#### Entity Documents ✅
 - [x] `master-services-agreement.md` - Management Services Agreement
 - [x] `llc-operating-agreement-wyoming.md` - Wyoming LLC Operating Agreement
 - [x] `ip-license-agreement.md` - IP License Agreement
@@ -74957,7 +74957,7 @@ This document tracks the status of the Empire Templates Library creation. The go
 
 ### Financial Templates (7 created, 193+ remaining)
 
-#### Financial Statements âœ…
+#### Financial Statements ✅
 - [x] `profit-loss-monthly.md` - Monthly P&L Statement Template
 - [x] `profit-loss-quarterly.md` - Quarterly P&L Statement Template
 - [x] `profit-loss-annual.md` - Annual P&L Statement Template
@@ -74990,7 +74990,7 @@ This document tracks the status of the Empire Templates Library creation. The go
 
 ### Operational Templates (11 created, 289+ remaining)
 
-#### SOP Templates âœ…
+#### SOP Templates ✅
 - [x] `sop-client-onboarding.md` - Complete Client Onboarding SOP
 - [x] `sop-service-delivery.md` - Service Delivery SOP
 - [x] `sop-invoicing.md` - Invoicing SOP
@@ -75015,14 +75015,14 @@ This document tracks the status of the Empire Templates Library creation. The go
 
 ### Marketing Templates (5 created, 295+ remaining)
 
-#### Email Templates âœ…
+#### Email Templates ✅
 - [x] `email-client-welcome.md` - Client Welcome Email Template
 - [x] `email-client-onboarding-sequence.md` - Complete Onboarding Email Sequence (7 emails)
 - [x] `email-cold-outreach.md` - Cold Outreach Email
 - [x] `email-client-update.md` - Client Update Email
 - [ ] Additional email templates (50+)
 
-#### Sales Scripts âœ…
+#### Sales Scripts ✅
 - [x] `script-cold-call-intro.md` - Cold Call Introduction Script
 - [x] `script-objection-price.md` - Price Objection Handling Script
 - [ ] Additional script templates (28+)
@@ -75054,16 +75054,16 @@ This document tracks the status of the Empire Templates Library creation. The go
 | Marketing | 13 | 287+ | 300+ | 4.3% |
 | **TOTAL** | **67** | **933+** | **1,000+** | **6.7%** |
 
-### Foundation Complete âœ…
-- Directory structure: âœ…
-- Index system: âœ…
-- Creation guide: âœ…
-- Quality standards: âœ…
-- Version control: âœ…
+### Foundation Complete ✅
+- Directory structure: ✅
+- Index system: ✅
+- Creation guide: ✅
+- Quality standards: ✅
+- Version control: ✅
 
 ### Templates Created: 67
 ### Templates Remaining: 933+
-### System Ready: âœ… YES
+### System Ready: ✅ YES
 
 ---
 
@@ -75121,7 +75121,7 @@ Use the `TEMPLATE_CREATION_GUIDE.md` to systematically create remaining template
 
 ## Quality Assurance
 
-### Standards Established âœ…
+### Standards Established ✅
 - [x] Template format standard
 - [x] Field naming conventions
 - [x] Quality checklist
@@ -75209,9 +75209,9 @@ Use the `TEMPLATE_CREATION_GUIDE.md` to systematically create remaining template
 
 | Stream | Current MRR | Target MRR | Status | Actions Needed |
 |--------|------------|-----------|--------|----------------|
-| [Stream 1] | $[X] | $[X] | [âœ“/âœ—] | [Actions] |
-| [Stream 2] | $[X] | $[X] | [âœ“/âœ—] | [Actions] |
-| [Stream 3] | $[X] | $[X] | [âœ“/âœ—] | [Actions] |
+| [Stream 1] | $[X] | $[X] | [✓/✗] | [Actions] |
+| [Stream 2] | $[X] | $[X] | [✓/✗] | [Actions] |
+| [Stream 3] | $[X] | $[X] | [✓/✗] | [Actions] |
 
 ### Key Initiatives
 
@@ -75256,9 +75256,9 @@ Use the `TEMPLATE_CREATION_GUIDE.md` to systematically create remaining template
 
 | Asset | Value | Cash Flow | Status | Actions Needed |
 |-------|-------|-----------|--------|----------------|
-| [Asset 1] | $[X] | $[X]/mo | [âœ“/âœ—] | [Actions] |
-| [Asset 2] | $[X] | $[X]/mo | [âœ“/âœ—] | [Actions] |
-| [Asset 3] | $[X] | $[X]/mo | [âœ“/âœ—] | [Actions] |
+| [Asset 1] | $[X] | $[X]/mo | [✓/✗] | [Actions] |
+| [Asset 2] | $[X] | $[X]/mo | [✓/✗] | [Actions] |
+| [Asset 3] | $[X] | $[X]/mo | [✓/✗] | [Actions] |
 
 ### Acquisition Pipeline
 
@@ -75337,19 +75337,19 @@ Use the `TEMPLATE_CREATION_GUIDE.md` to systematically create remaining template
 
 ## Cross-Horizon Integration
 
-### Horizon 1 â†’ Horizon 2
+### Horizon 1 → Horizon 2
 
 **Cash Flow Funding Assets**: $[X] this period
 **Target**: $[X] this period
 **Status**: [ ] On Track [ ] Behind [ ] Ahead
 
-### Horizon 2 â†’ Horizon 3
+### Horizon 2 → Horizon 3
 
 **Assets Transferred to Trust**: $[X] this period
 **Target**: $[X] this period
 **Status**: [ ] On Track [ ] Behind [ ] Ahead
 
-### Horizon 3 â†’ Horizon 1
+### Horizon 3 → Horizon 1
 
 **Trust Providing Security**: [Assessment]
 **Enabling Risk-Taking**: [Assessment]
@@ -75571,7 +75571,7 @@ Use this template to track and plan capital allocation according to the 70/20/10
 
 **Target Return**: 8%+ cash-on-cash
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -75596,7 +75596,7 @@ Use this template to track and plan capital allocation according to the 70/20/10
 
 **Expected Return**: 3x+ within 5 years
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -75612,15 +75612,15 @@ Use this template to track and plan capital allocation according to the 70/20/10
 
 | Reserve Type | Target | Current | Status |
 |-------------|--------|---------|--------|
-| Operating Reserves (12 months) | $_______ | $_______ | [ ] âœ… [ ] WARNING: [ ] âŒ |
-| Emergency Fund | $_______ | $_______ | [ ] âœ… [ ] WARNING: [ ] âŒ |
-| Opportunity Fund | $_______ | $_______ | [ ] âœ… [ ] WARNING: [ ] âŒ |
-| Trust Reserves | $_______ | $_______ | [ ] âœ… [ ] WARNING: [ ] âŒ |
+| Operating Reserves (12 months) | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
+| Emergency Fund | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
+| Opportunity Fund | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
+| Trust Reserves | $_______ | $_______ | [ ] ✅ [ ] WARNING: [ ] ❌ |
 | **TOTAL** | **$_______** | **$_______** | |
 
 **Liquidity**: [ ] High [ ] Medium [ ] Low
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -75633,7 +75633,7 @@ Use this template to track and plan capital allocation according to the 70/20/10
 - Growth Investments: _______________% (Target: 20%)
 - Reserves: _______________% (Target: 10%)
 
-**Balance Status**: [ ] âœ… Balanced [ ] WARNING: Needs Adjustment [ ] âŒ Unbalanced
+**Balance Status**: [ ] ✅ Balanced [ ] WARNING: Needs Adjustment [ ] ❌ Unbalanced
 
 **Adjustments Needed**: 
 _________________________________________________________________
@@ -75684,10 +75684,10 @@ _________________________________________________________________
 - Trust Reserves: $_______________
 
 **Current vs. Target**:
-- Operating: $_______ / $_______ ([ ] âœ… [ ] WARNING: [ ] âŒ)
-- Emergency: $_______ / $_______ ([ ] âœ… [ ] WARNING: [ ] âŒ)
-- Opportunity: $_______ / $_______ ([ ] âœ… [ ] WARNING: [ ] âŒ)
-- Trust: $_______ / $_______ ([ ] âœ… [ ] WARNING: [ ] âŒ)
+- Operating: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
+- Emergency: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
+- Opportunity: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
+- Trust: $_______ / $_______ ([ ] ✅ [ ] WARNING: [ ] ❌)
 
 **Actions Needed**: 
 _________________________________________________________________
@@ -75747,7 +75747,7 @@ _________________________________________________________________
 
 **Target**: 8%+ cash-on-cash
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 ---
 
@@ -75765,7 +75765,7 @@ _________________________________________________________________
 
 **Target**: 3x+ return within 5 years
 
-**Status**: [ ] âœ… On Track [ ] WARNING: Behind [ ] âŒ Off Track
+**Status**: [ ] ✅ On Track [ ] WARNING: Behind [ ] ❌ Off Track
 
 ---
 
@@ -75952,7 +75952,7 @@ __________________________
 
 **Target**: 6+ months coverage
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -75966,7 +75966,7 @@ _________________________________________________________________
 
 **Compliance Failures**: _______________
 
-**Status**: [ ] âœ… Compliant [ ] WARNING: Minor Issues [ ] âŒ Material Violations
+**Status**: [ ] ✅ Compliant [ ] WARNING: Minor Issues [ ] ❌ Material Violations
 
 **Action Items**: 
 _________________________________________________________________
@@ -75982,7 +75982,7 @@ _________________________________________________________________
 
 **Communication Frequency**: [ ] Daily [ ] Weekly [ ] Monthly [ ] Rarely
 
-**Status**: [ ] âœ… Strong Unity [ ] WARNING: Minor Tensions [ ] âŒ Significant Conflicts
+**Status**: [ ] ✅ Strong Unity [ ] WARNING: Minor Tensions [ ] ❌ Significant Conflicts
 
 **Action Items**: 
 _________________________________________________________________
@@ -76008,7 +76008,7 @@ _________________________________________________________________
 
 **Target**: 15%+ CAGR over 10-year periods
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -76035,7 +76035,7 @@ _________________________________________________________________
 
 **Target**: No single source >30% of total
 
-**Status**: [ ] âœ… Diversified [ ] WARNING: Concentration Risk [ ] âŒ High Risk
+**Status**: [ ] ✅ Diversified [ ] WARNING: Concentration Risk [ ] ❌ High Risk
 
 **Action Items**: 
 _________________________________________________________________
@@ -76055,7 +76055,7 @@ _________________________________________________________________
 
 **Target**: At least one next-generation member ready for leadership
 
-**Status**: [ ] âœ… On Track [ ] WARNING: Needs Acceleration [ ] âŒ Behind Schedule
+**Status**: [ ] ✅ On Track [ ] WARNING: Needs Acceleration [ ] ❌ Behind Schedule
 
 **Action Items**: 
 _________________________________________________________________
@@ -76077,7 +76077,7 @@ _________________________________________________________________
 
 **Target**: 1,000+ lives improved annually by Year 10
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -76097,7 +76097,7 @@ _________________________________________________________________
 
 **Target**: At least one family member in industry leadership role
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -76115,7 +76115,7 @@ _________________________________________________________________
 
 **Target**: 100% of critical knowledge areas mastered by next generation
 
-**Status**: [ ] âœ… On Target [ ] WARNING: Below Target [ ] âŒ Critical
+**Status**: [ ] ✅ On Target [ ] WARNING: Below Target [ ] ❌ Critical
 
 **Action Items**: 
 _________________________________________________________________
@@ -76128,9 +76128,9 @@ _________________________________________________________________
 ## Overall Empire Health Score
 
 **Weighted Calculation**:
-- Survival Metrics (50%): _______________ Ã— 0.50 = _______________
-- Growth Metrics (30%): _______________ Ã— 0.30 = _______________
-- Legacy Metrics (20%): _______________ Ã— 0.20 = _______________
+- Survival Metrics (50%): _______________ × 0.50 = _______________
+- Growth Metrics (30%): _______________ × 0.30 = _______________
+- Legacy Metrics (20%): _______________ × 0.20 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -76264,7 +76264,7 @@ _________________________________________________________________
 ## Purpose
 Standard invoice for notary services.
 
-**Company**: Notroom Services LLC
+**Company**: Kwode LLC (dba Notroom Services)
 **Client**: [Client Name]
 **Date**: __________________________
 **Invoice #**: __________________________
@@ -77040,18 +77040,18 @@ This template helps evaluate real estate investment opportunities by calculating
 
 ### Return on Investment (ROI)
 
-**ROI** = (Annual Cash Flow / Total Cash Invested) Ã— 100
-**ROI** = ($[AMOUNT] / $[AMOUNT]) Ã— 100 = **[PERCENTAGE]%**
+**ROI** = (Annual Cash Flow / Total Cash Invested) × 100
+**ROI** = ($[AMOUNT] / $[AMOUNT]) × 100 = **[PERCENTAGE]%**
 
 ### Capitalization Rate (Cap Rate)
 
-**Cap Rate** = (Net Operating Income / Purchase Price) Ã— 100
-**Cap Rate** = ($[AMOUNT] / $[AMOUNT]) Ã— 100 = **[PERCENTAGE]%**
+**Cap Rate** = (Net Operating Income / Purchase Price) × 100
+**Cap Rate** = ($[AMOUNT] / $[AMOUNT]) × 100 = **[PERCENTAGE]%**
 
 ### Cash-on-Cash Return
 
-**Cash-on-Cash** = (Annual Cash Flow / Total Cash Invested) Ã— 100
-**Cash-on-Cash** = ($[AMOUNT] / $[AMOUNT]) Ã— 100 = **[PERCENTAGE]%**
+**Cash-on-Cash** = (Annual Cash Flow / Total Cash Invested) × 100
+**Cash-on-Cash** = ($[AMOUNT] / $[AMOUNT]) × 100 = **[PERCENTAGE]%**
 
 ### Debt Service Coverage Ratio (DSCR)
 
@@ -77302,7 +77302,7 @@ This template provides a comprehensive monthly Balance Sheet for tracking assets
 **Equity**: $[AMOUNT]  
 **Liabilities + Equity**: $[AMOUNT]  
 
-**Balance Check**: Assets = Liabilities + Equity âœ“
+**Balance Check**: Assets = Liabilities + Equity ✓
 
 ---
 
@@ -77487,7 +77487,7 @@ This template provides a comprehensive monthly Cash Flow Statement for tracking 
 | Petty Cash | $[AMOUNT] | $[AMOUNT] | $[AMOUNT] |
 | **Total Cash** | **$[AMOUNT]** | **$[AMOUNT]** | **$[AMOUNT]** |
 
-**Reconciliation**: Cash at End of Period = Total Cash from Bank Statements âœ“
+**Reconciliation**: Cash at End of Period = Total Cash from Bank Statements ✓
 
 ---
 
@@ -78331,9 +78331,9 @@ This template helps compare tax implications of different entity structures (LLC
 ## ADDITIONAL CONSIDERATIONS
 
 ### Liability Protection
-- [ ] LLC: âœ… Limited liability
-- [ ] S-Corp: âœ… Limited liability
-- [ ] C-Corp: âœ… Limited liability
+- [ ] LLC: ✅ Limited liability
+- [ ] S-Corp: ✅ Limited liability
+- [ ] C-Corp: ✅ Limited liability
 
 ### Compliance Requirements
 - [ ] LLC: Minimal (varies by state)
@@ -79172,15 +79172,15 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Number of Dynasty Trusts**: _______________ trusts under administration
   - **Target**: 100+ Legacy trusts
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Years of Experience**: _______________ years administering Legacy trusts
   - **Target**: 10+ years
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Average Trust Size**: $_______________
   - **Target**: Similar to your trust size
-  - **Status**: [ ] âœ… Appropriate [ ] WARNING: Different [ ] âŒ Mismatch
+  - **Status**: [ ] ✅ Appropriate [ ] WARNING: Different [ ] ❌ Mismatch
 
 - [ ] **Track Record**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -79198,7 +79198,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
   - [ ] Legacy trusts are side business
   - [ ] General trust practice
   - [ ] Limited Legacy expertise
-  - **Status**: [ ] âœ… Specialized [ ] WARNING: General [ ] âŒ Limited
+  - **Status**: [ ] ✅ Specialized [ ] WARNING: General [ ] ❌ Limited
 
 **Experience Score**: _______________/10
 
@@ -79211,11 +79211,11 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 - [ ] **Rating Agency**: _______________
 - [ ] **Rating**: _______________
   - **Target**: A+ or better
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Capital**: $_______________
   - **Target**: $50M+ in capital
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Financial History**: 
   - [ ] Strong and stable
@@ -79233,7 +79233,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
   - [ ] Assets held in segregated accounts
   - [ ] FDIC/SIPC insurance where applicable
   - [ ] Strong protection mechanisms
-  - **Status**: [ ] âœ… Strong [ ] WARNING: Adequate [ ] âŒ Weak
+  - **Status**: [ ] ✅ Strong [ ] WARNING: Adequate [ ] ❌ Weak
 
 **Financial Stability Score**: _______________/10
 
@@ -79245,7 +79245,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Retention Rate**: _______________%
   - **Target**: 95%+
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Client Satisfaction**: 
   - [ ] Excellent (9-10/10)
@@ -79258,7 +79258,7 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 - [ ] **Response Time**: _______________ hours
   - **Target**: 24 hours or less
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Communication Quality**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -79430,12 +79430,12 @@ Use this checklist to evaluate and select a trust company for your South Dakota 
 
 ### Weighted Scores
 
-- **Experience (25%)**: _______________ Ã— 0.25 = _______________
-- **Financial Stability (20%)**: _______________ Ã— 0.20 = _______________
-- **Service Quality (20%)**: _______________ Ã— 0.20 = _______________
-- **Fees (15%)**: _______________ Ã— 0.15 = _______________
-- **Technology (10%)**: _______________ Ã— 0.10 = _______________
-- **Compliance (10%)**: _______________ Ã— 0.10 = _______________
+- **Experience (25%)**: _______________ × 0.25 = _______________
+- **Financial Stability (20%)**: _______________ × 0.20 = _______________
+- **Service Quality (20%)**: _______________ × 0.20 = _______________
+- **Fees (15%)**: _______________ × 0.15 = _______________
+- **Technology (10%)**: _______________ × 0.10 = _______________
+- **Compliance (10%)**: _______________ × 0.10 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -79653,7 +79653,7 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 
 - [ ] **Response Time**: _______________ hours
   - **Target**: 24 hours or less
-  - **Status**: [ ] âœ… Meets [ ] WARNING: Close [ ] âŒ Below
+  - **Status**: [ ] ✅ Meets [ ] WARNING: Close [ ] ❌ Below
 
 - [ ] **Communication Quality**: 
   - [ ] Excellent [ ] Good [ ] Fair [ ] Poor
@@ -79743,11 +79743,11 @@ Use this template to evaluate and select trustees for your South Dakota Dynasty 
 
 ### Weighted Scores
 
-- **Qualifications (30%)**: _______________ Ã— 0.30 = _______________
-- **Experience (25%)**: _______________ Ã— 0.25 = _______________
-- **Service Quality (20%)**: _______________ Ã— 0.20 = _______________
-- **Alignment (15%)**: _______________ Ã— 0.15 = _______________
-- **References (10%)**: _______________ Ã— 0.10 = _______________
+- **Qualifications (30%)**: _______________ × 0.30 = _______________
+- **Experience (25%)**: _______________ × 0.25 = _______________
+- **Service Quality (20%)**: _______________ × 0.20 = _______________
+- **Alignment (15%)**: _______________ × 0.15 = _______________
+- **References (10%)**: _______________ × 0.10 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -81185,7 +81185,7 @@ Licensee shall use Licensed IP trademarks in accordance with:
 
 (a) Licensor's trademark usage guidelines;
 
-(b) Proper trademark notices (â„¢, Â®, etc.);
+(b) Proper trademark notices (™, ®, etc.);
 
 (c) Licensor's style guide (if any);
 
@@ -83743,7 +83743,7 @@ The Grantor or others may make contributions to this Trust up to the annual gift
 
 **2024 Annual Exclusion**: $18,000 per contributor per beneficiary
 
-**Multiple Contributors**: If both parents contribute, total annual contributions may be up to $36,000 ($18,000 Ã— 2).
+**Multiple Contributors**: If both parents contribute, total annual contributions may be up to $36,000 ($18,000 × 2).
 
 ### Section 2.2: Crummey Withdrawal Rights
 
@@ -85567,7 +85567,7 @@ I was updating the [Directory Name] database today and noticed we have a listing
 
 We are getting a lot of traffic from people looking for [Service] in [City], and I want to make sure they can contact you.
 
-Can you take 30 seconds to verify your profile? Itâ€™s free.
+Can you take 30 seconds to verify your profile? It’s free.
 
 [Link: Claim My Listing]
 
@@ -85585,7 +85585,7 @@ Hi [Name],
 
 I noticed you haven't claimed your profile on [Directory Name] yet.
 
-Just a heads upâ€”we had over [Number] visitors looking for [Service] last month. If your profile isn't claimed, those leads might be going to your competitors.
+Just a heads up—we had over [Number] visitors looking for [Service] last month. If your profile isn't claimed, those leads might be going to your competitors.
 
 Claiming your listing ensures you show up in search results.
 
@@ -86053,9 +86053,9 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 > "Our latest study of [NUMBER] [TARGET AUDIENCE] reveals [KEY FINDING].
 > 
 > Key insights:
-> â€¢ [INSIGHT 1]
-> â€¢ [INSIGHT 2]
-> â€¢ [INSIGHT 3]
+> • [INSIGHT 1]
+> • [INSIGHT 2]
+> • [INSIGHT 3]
 > 
 > Download the full report to see how this impacts your business."
 
@@ -86071,9 +86071,9 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 > "[CLIENT NAME], a [INDUSTRY] company, was struggling with [PROBLEM].
 > 
 > After implementing our [SOLUTION], they achieved:
-> â€¢ [RESULT 1]
-> â€¢ [RESULT 2]
-> â€¢ [RESULT 3]
+> • [RESULT 1]
+> • [RESULT 2]
+> • [RESULT 3]
 > 
 > Read the full case study to see how we can help your business."
 
@@ -86089,9 +86089,9 @@ This template provides frameworks for writing effective LinkedIn ad copy for B2B
 > "Learn how [TARGET AUDIENCE] are [ACHIEVING RESULT] in this free webinar.
 > 
 > You'll discover:
-> â€¢ [LEARNING POINT 1]
-> â€¢ [LEARNING POINT 2]
-> â€¢ [LEARNING POINT 3]
+> • [LEARNING POINT 1]
+> • [LEARNING POINT 2]
+> • [LEARNING POINT 3]
 > 
 > Featuring [SPEAKER NAME], [TITLE]. Limited seats available."
 
@@ -86190,7 +86190,7 @@ Case studies are powerful marketing tools that provide social proof. This templa
 
 [Describe the state of the client's business before working with you. What pain points were they experiencing? What was the cost of the problem?]
 
-> *"Quote from client about how difficult things were before."* â€” [Client Name]
+> *"Quote from client about how difficult things were before."* — [Client Name]
 
 ## THE SOLUTION
 
@@ -86209,7 +86209,7 @@ We implemented a strategy focused on:
 -   **Metric 2**: [e.g., 2x faster turnaround]
 -   **Metric 3**: [e.g., ROI of 400%]
 
-> *"Quote from client about how happy they are with the results."* â€” [Client Name]
+> *"Quote from client about how happy they are with the results."* — [Client Name]
 
 ---
 
@@ -87125,7 +87125,7 @@ Best,
 
 Hi Sarah,
 
-I saw on LinkedIn that ABC Title just opened a new branch in Austin â€“ congratulations on the expansion!
+I saw on LinkedIn that ABC Title just opened a new branch in Austin – congratulations on the expansion!
 
 I'm reaching out because I know scaling operations often creates bottlenecks with document signing. We help title companies like XYZ Title reduce closing delays by 40% with our on-demand mobile notary network.
 
@@ -87293,9 +87293,9 @@ We offer two options to best fit your needs:
 
 | Feature | **Standard Option** | **Premium Option** |
 | :--- | :---: | :---: |
-| Core Service | âœ… | âœ… |
+| Core Service | ✅ | ✅ |
 | Support | Email | Priority Phone + Email |
-| [Feature X] | âŒ | âœ… |
+| [Feature X] | ❌ | ✅ |
 | **INVESTMENT** | **$[AMOUNT]** | **$[AMOUNT]** |
 
 ## 5. TIMELINE
@@ -87978,11 +87978,11 @@ Use this matrix to evaluate any decision involving capital allocation >$50,000, 
 ## Overall Decision Score
 
 **Weighted Total Score**:
-- Financial Impact (30%): _______________ Ã— 0.30 = _______________
-- Strategic Alignment (25%): _______________ Ã— 0.25 = _______________
-- Value Consistency (20%): _______________ Ã— 0.20 = _______________
-- Risk Assessment (15%): _______________ Ã— 0.15 = _______________
-- Implementation Feasibility (10%): _______________ Ã— 0.10 = _______________
+- Financial Impact (30%): _______________ × 0.30 = _______________
+- Strategic Alignment (25%): _______________ × 0.25 = _______________
+- Value Consistency (20%): _______________ × 0.20 = _______________
+- Risk Assessment (15%): _______________ × 0.15 = _______________
+- Implementation Feasibility (10%): _______________ × 0.10 = _______________
 
 **TOTAL SCORE**: _______________/10
 
@@ -88456,7 +88456,7 @@ Use this log to track all Intellectual Property owned by ToriMedia.
 
 
 ## Purpose
-This template provides a standard fee schedule for Notroom Services LLC, ensuring consistent pricing and profitability.
+This template provides a standard fee schedule for Kwode LLC (dba Notroom Services), ensuring consistent pricing and profitability.
 
 ## Mobile Notary Services
 
@@ -88518,7 +88518,7 @@ This template provides a standard fee schedule for Notroom Services LLC, ensurin
 ---
 
 **Effective Date**: [Date]
-**Notroom Services LLC**
+**Kwode LLC (dba Notroom Services)**
 
 
 
@@ -88693,7 +88693,7 @@ Use this template to assess risks for any major decision or investment.
 
 ### Risk Severity Calculation
 
-**Risk Score = Probability Ã— Impact**
+**Risk Score = Probability × Impact**
 
 | Risk | Probability (1-3) | Impact (1-3) | Score | Severity |
 |------|-------------------|--------------|-------|----------|
@@ -90839,7 +90839,7 @@ This process map outlines the complete billing cycle from invoice generation thr
 ## Process Overview
 
 ```
-Service Delivery â†’ Invoice Generation â†’ Invoice Delivery â†’ Payment Monitoring â†’ Payment Application â†’ Reconciliation â†’ Collections (if needed)
+Service Delivery → Invoice Generation → Invoice Delivery → Payment Monitoring → Payment Application → Reconciliation → Collections (if needed)
 ```
 
 ## Detailed Process Steps
@@ -91062,7 +91062,7 @@ This process map provides a visual and detailed breakdown of the client onboardi
 ## Process Overview
 
 ```
-Contract Signed â†’ Welcome â†’ Information Collection â†’ Kickoff â†’ Setup â†’ Training â†’ First Delivery â†’ Check-In â†’ Complete
+Contract Signed → Welcome → Information Collection → Kickoff → Setup → Training → First Delivery → Check-In → Complete
 ```
 
 ## Detailed Process Steps

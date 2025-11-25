@@ -1,8 +1,11 @@
-﻿# Chapter 9: Operating Company Playbooks
+# Chapter 9: Operating Company Playbooks
 
 ## Introduction
 
-Operating companies are the revenue-generating engines of the Legacy Codex. This chapter provides comprehensive playbooks for each operating company: RegIntel Advisors (consulting), Notroom Services (professional services), TaxEar Advisory (tax practice), and Directory Companies (digital assets).
+Operating companies are the revenue-generating engines of the Legacy Codex. This chapter provides comprehensive playbooks for each operating brand: RegIntel Advisors (consulting), Notroom Services (professional services), TaxEar Advisory (tax practice), and Directory Companies (digital assets).
+
+**Legal Structure Note:**
+While these are distinct operational brands, they legally operate as divisions under **Kwode LLC** (Technology & Professional Services OpCo). Real estate operations are managed by **Obuke LLC** (Holdings) and **Lodging Connections LLC** (Hospitality/STR). **ToriMedia LLC** holds the Intellectual Property, and **Neat Circle LLC** operates community services. This distinction is critical for liability protection and tax planning.
 
 Each playbook covers service offerings, pricing strategies, client acquisition, service delivery, quality control, compliance requirements, and growth strategies. By following these playbooks, you will ensure consistent, high-quality service delivery while maximizing revenue and profitability.
 
@@ -975,7 +978,7 @@ Practice setup establishes the foundation for TaxEar Advisory. This section cove
 **Setup Requirements**:
 
 **1. Entity Formation**
-- Form TaxEar Advisory LLC
+- Form Kwode LLC (dba TaxEar Advisory)
 - Obtain EIN
 - Set up banking
 - Establish structure

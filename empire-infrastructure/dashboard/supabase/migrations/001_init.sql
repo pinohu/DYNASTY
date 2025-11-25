@@ -50,3 +50,5 @@ CREATE POLICY "Users can update own profile" ON business_profiles
 CREATE POLICY "Users can insert own profile" ON business_profiles
   FOR INSERT WITH CHECK (auth.uid() = id);
 
+
+

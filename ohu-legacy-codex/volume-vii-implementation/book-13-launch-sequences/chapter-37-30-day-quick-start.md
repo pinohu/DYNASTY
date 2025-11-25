@@ -26,7 +26,7 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 - Document your success metrics: What does "winning" look like in 30 days?
 
 **7:00 AM - 8:00 AM: Legal Foundation**
-- Confirm all entity formations are complete (PNR Holdings LLC, CXI LLC, Obuke LLC, ToriMedia)
+- Confirm all entity formations are complete (PNR Holdings LLC, CXI LLC, Obuke LLC, Kwode LLC, ToriMedia LLC, Neat Circle LLC)
 - Verify EINs are obtained for all entities
 - Confirm registered agent information is current
 - Review operating agreements are signed and filed
@@ -108,8 +108,8 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 
 **Morning (8:00 AM - 12:00 PM)**
 - Complete SuiteDash integration with all tools
-- Set up Boost.space as data hub
-- Configure Make.com core workflows
+- Set up KonnectzIT (Primary) or Boost.space (Data Hub)
+- Configure automation workflows (KonnectzIT/Make.com)
 - Test end-to-end automation chains
 - **Quick Win**: One fully automated lead-to-client workflow
 

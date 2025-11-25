@@ -3,7 +3,7 @@
 ## Purpose
 Standard invoice for notary services.
 
-**Company**: Notroom Services LLC
+**Company**: Kwode LLC (dba Notroom Services)
 **Client**: [Client Name]
 **Date**: __________________________
 **Invoice #**: __________________________

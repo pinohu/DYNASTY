@@ -1,4 +1,4 @@
-﻿# Chapter 6: Subsidiary Trust Structures
+# Chapter 6: Subsidiary Trust Structures
 
 ## Introduction
 
@@ -1330,7 +1330,7 @@ Remainder beneficiary selection determines which charity receives the remainder 
 **Option 2: Private Foundation**
 
 **Types**:
-- Family foundation
+- Origin Eyes (501c3)
 - Private foundation
 - Donor-advised fund
 
@@ -1565,7 +1565,7 @@ Annuity payment calculations determine GRAT annuity payments. This section cover
 
 **Formula**:
 - **Annuity Payment** = Percentage of initial value
-- **Payment Amount** = Percentage Ã— Initial value
+- **Payment Amount** = Percentage × Initial value
 - **Payment Term** = GRAT term
 
 **Example**:

@@ -7351,7 +7351,7 @@ Family involvement in philanthropy builds unity, transmits values, and ensures y
 
 #### Family Involvement Strategies
 
-**Family Foundation Board**
+**Origin Eyes (501c3) Board**
 - Family board members
 - Governance participation
 - Decision-making involvement

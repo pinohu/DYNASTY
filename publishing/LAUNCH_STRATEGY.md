@@ -60,3 +60,5 @@
 3.  **Funnel:** Add a QR code in the first chapter of every book leading to the `dashboard/intake` page.
     *   *Reader -> QR Code -> Intake Form -> High Ticket Client.*
 
+
+

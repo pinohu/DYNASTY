@@ -75,6 +75,20 @@ This is not about "passive income." It is about **sovereignty**.
 
 ---
 
+### Book 5: The Arsenal
+**Subtitle:** *The Complete Encyclopedia of Protocols, Contracts, and Templates*
+**Source Material:** Volume IX (Resources), Volume X (Optimization) & All Templates
+
+**The Hook:** "Theory is useless without execution. This is the source code of the empire."
+
+**Key Chapters:**
+1.  **The Contract Vault:** Every legal agreement you need (SDIRA, Family Employment, IP Licensing).
+2.  **The Checklist Library:** Standard Operating Procedures for every role.
+3.  **The Vendor Directory:** Who to hire and when.
+4.  **Troubleshooting:** What to do when things break.
+
+---
+
 ## Sample Chapter: Introduction to Book 1
 
 *(Drafted from the core philosophy of the codebase)*

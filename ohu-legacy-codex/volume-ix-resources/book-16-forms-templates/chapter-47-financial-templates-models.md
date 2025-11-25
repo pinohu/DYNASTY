@@ -3108,6 +3108,70 @@ Standardized models ensure consistent evaluation:
 - Don't use inconsistent evaluation methods
 - Don't forget to track actual vs. projected performance
 
+
+## Section 47.4: Advanced Tax Strategy Checklists
+
+### 47.4.1 Self-Directed IRA (Checkbook Control) Setup
+**Purpose**: To establish a robust, compliant structure for investing retirement funds into alternative assets (Real Estate, Crypto, Private Lending).
+
+- [ ] **Custodian Selection**: Choose a "Self-Directed" custodian (e.g., Rocket Dollar, Alto, Directed IRA).
+- [ ] **Account Funding**: Transfer funds from existing IRA/401(k) to new custodian.
+- [ ] **LLC Formation**:
+    - [ ] Form a new LLC in a low-cost state (e.g., WY, UT, or property state).
+    - [ ] Name: Generic business name (e.g., "Blue Horizon Holdings LLC").
+    - [ ] Manager: Appoint yourself as "Manager" (non-compensated).
+    - [ ] Member: The IRA Custodian is the *sole* member (100% ownership).
+- [ ] **Operating Agreement**: Use a specialized "IRA-LLC Operating Agreement" (provided by custodian or attorney).
+- [ ] **EIN**: Obtain EIN for the LLC.
+- [ ] **Bank Account**: Open a business checking account for the LLC.
+- [ ] **Funding**: Custodian wires IRA funds -> LLC Bank Account.
+- [ ] **Execution**: You write checks from LLC account to buy assets.
+
+### 47.4.2 Mega Backdoor Roth Execution
+**Purpose**: To legally contribute up to $69,000/year (2024) into a Roth bucket using a Solo 401(k).
+
+- [ ] **Plan Document**: Ensure your Solo 401(k) plan document explicitly allows:
+    - [ ] Voluntary After-Tax Contributions.
+    - [ ] In-Plan Roth Conversions.
+    - [ ] (Note: Standard brokerage plans often DO NOT allow this. You need a custom plan).
+- [ ] **Contribution 1 (Employee)**: Defer $23,000 (Roth or Pre-Tax) from salary.
+- [ ] **Contribution 2 (Employer)**: Company contributes 20-25% of net profit (Pre-Tax).
+- [ ] **Calculation**: ($69,000) - (Contrib 1) - (Contrib 2) = **Available After-Tax Space**.
+- [ ] **Contribution 3 (After-Tax)**: Write personal check for the "Available Space" amount to the 401(k).
+- [ ] **Conversion**: Immediately complete "In-Plan Roth Conversion" form to move Contrib 3 -> Roth Sub-account.
+- [ ] **Reporting**: File Form 1099-R (issued by plan administrator) to report conversion (tax-free).
+
+### 47.4.3 HSA "Stealth Wealth" Protocol
+**Purpose**: To turn a medical savings account into a tax-free retirement trust.
+
+- [ ] **Eligibility**: Confirm High Deductible Health Plan (HDHP) coverage.
+- [ ] **Funding**: Contribute family max ($8,300 + $1,000 catch-up if 55+).
+- [ ] **Investment**:
+    - [ ] Log in to HSA provider.
+    - [ ] Set "Cash Sweep" threshold to minimum (e.g., $1,000).
+    - [ ] Invest remainder in S&P 500 Index Fund.
+- [ ] **Expense Management**:
+    - [ ] Pay all current medical bills with **personal credit card** (get points).
+    - [ ] DO NOT use the HSA debit card.
+- [ ] **The "Shoebox"**:
+    - [ ] Scan every medical receipt.
+    - [ ] Save to: `Dynasty/Financial/HSA-Receipts/[Year]`.
+    - [ ] Log in Excel: Date, Provider, Amount, Description.
+- [ ] **Future Reimbursement**: Withdraw funds tax-free in 20 years using accumulated receipts.
+
+### 47.4.4 Family Employment ("Marketing Model") Compliance
+**Purpose**: To shift income to lower tax brackets and fund children's Roth IRAs.
+
+- [ ] **Job Description**: Write formal job description for child (e.g., "Social Media Assistant," "Office Cleaner").
+- [ ] **Agreement**: Sign employment agreement (Parent as Manager, Child as Employee).
+- [ ] **W-4**: Child completes W-4 (Claim "Exempt" if no other income).
+- [ ] **I-9**: Complete I-9 (Verification of age/identity).
+- [ ] **Timesheets**: Child must log hours (Time/Date/Task). **CRITICAL for audit defense.**
+- [ ] **Payment**: Pay by check or direct deposit to child's checking account.
+    - [ ] Rate: Must be "Reasonable Market Rate" (e.g., $15-$20/hr).
+- [ ] **Roth Funding**: Transfer funds from child's checking -> Custodial Roth IRA.
+- [ ] **W-2**: File W-2 for child at year-end.
+
 ### Success Metrics
 
 **Financial Reporting**:
