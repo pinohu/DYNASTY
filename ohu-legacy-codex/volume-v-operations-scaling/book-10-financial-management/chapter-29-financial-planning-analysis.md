@@ -12,6 +12,31 @@ The systems in this chapter integrate with the North Star Dashboard v3 for real-
 
 ---
 
+## Section 29.0: The Tax Strategy Matrix
+
+Financial planning is incomplete without tax planning. To optimize the Empire's efficiency, we categorize entities by their tax function and filing requirements.
+
+**Strategic Goal:** Use Passive Losses from the Asset Layer to offset Active Income from the Operating Layer (where legal), while using PNR Holdings as the central mixing chamber.
+
+### Master Tax Filing Table
+
+| Entity | Role | Tax Classification | Income Character | Primary Filing | Deadline |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **CXI LLC** | Management | **S-Corp** | Active / W-2 | Form 1120-S | March 15 |
+| **PNR Holdings** | Treasury | **Partnership** | Portfolio / Mix | Form 1065 | March 15 |
+| **Obuke LLC** | Real Estate | **Partnership** | Passive (Rental) | Form 1065 (Form 8825) | March 15 |
+| **Kwode LLC** | Hybrid OpCo | **Disregarded** | Active (Ordinary) | Schedule C (via PNR) | April 15 |
+| **Neat Circle LLC** | Automation | **Disregarded** | Active (Ordinary) | Schedule C (via PNR) | April 15 |
+| **Ulor LLC** | Acquisition | **Disregarded** | Active (Ordinary) | Schedule C (via PNR) | April 15 |
+| **Lodging Connections** | Hospitality | **Disregarded** | Active (Non-Passive) | Schedule C (via PNR) | April 15 |
+| **ToriMedia LLC** | IP HoldCo | **Partnership** | Passive (Royalties) | Form 1065 (Schedule E) | March 15 |
+| **Dynasty Trust** | Sovereignty | **Complex Trust** | Trust Income | Form 1041 | April 15 |
+| **Solo 401k** | Retirement | **Exempt Trust** | Deferred | Form 5500-EZ | July 31 |
+
+*Note: If PNR Holdings owns 100% of Kwode/Neat/Ulor, their activity is reported directly on PNR's Partnership Return (Form 1065).*
+
+---
+
 ## Section 29.1: Budgeting Systems
 
 ### 29.1.1 Zero-Based Budgeting Philosophy

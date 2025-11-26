@@ -1532,6 +1532,33 @@ Maintenance ensures directory quality and performance. This section covers conte
 
 ---
 
+## Section 9.5: Ulor LLC - Real Estate Acquisition
+
+**"The Hunter"**
+
+Ulor LLC is a specialized single-purpose entity designed for one function: **Acquisition Anonymity**. It serves as the initial interface with the real estate market, shielding the Dynasty's long-term holding companies (Obuke LLC) and treasury (PNR Holdings) from the public record during the purchase process.
+
+### 1. Core Function & Strategy
+*   **Role**: Contract Signatory and Temporary Title Holder (only if necessary).
+*   **Status**: Disregarded Entity (owned by PNR Holdings).
+*   **Risk Profile**: High (Contractual Liability). Assets should never remain in Ulor longer than necessary.
+
+### 2. The "Ghost Protocol" (Privacy Workflow)
+1.  **Scouting**: Principal identifies a property.
+2.  **Offer**: Offer is made in the name of **"Ulor LLC"** (or a trust with Ulor as Trustee).
+3.  **Contract**: Ulor LLC signs the Purchase and Sale Agreement (PSA).
+4.  **Funding**: PNR Holdings capitalizes Ulor LLC with the exact amount needed for closing.
+5.  **Closing (The PA Strategy)**:
+    *   *Standard States*: Ulor closes, takes title, then deeds to Land Trust.
+    *   *Pennsylvania (Transfer Tax)*: Ulor **assigns** the PSA to the Land Trust *before* closing. The deed transfers directly from Seller → Land Trust. Ulor never takes title, avoiding double transfer tax.
+
+### 3. Compliance & Governance
+*   **Bank Account**: Minimal balance ($1,000). Funded only for deposits/closings.
+*   **Signing Authority**: Principal signs as "Manager of Ulor LLC".
+*   **Tax Filing**: Activity reported on PNR Holdings' return (Schedule C or Rental summary).
+
+---
+
 ## Chapter 9 Summary
 
 This chapter has provided comprehensive playbooks for all operating companies:
