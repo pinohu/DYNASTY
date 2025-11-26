@@ -184,9 +184,13 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 
 **Example**: If a notary service makes an error, we immediately notify the client, correct the error at our expense, and implement systems to prevent recurrence. Short-term cost is irrelevant when integrity is at stake.
 
-#### Pillar 3: Excellence
+#### Pillar 3: The Sanctification of Work
 
-**Definition**: "Good enough" is the enemy of The Enterprise. We strive for mastery in every service we offer, from notary stamps to real estate acquisitions.
+**Definition**: We view our daily work as our primary contribution to the world and our path to personal growth.
+
+**The Standard**: We strive for professional perfection in every task—whether drafting a contract or cleaning a property. A job poorly done is a missed opportunity to serve.
+
+**The Invitation**: We invite family members to view their work not just as a career, but as an offering. By doing ordinary things with extraordinary love and technical competence, we turn our desks into altars and our trade into service.
 
 **Practical Application**:
 - We invest in training and certification for all service providers.
@@ -292,9 +296,13 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 
 **Example**: Our real estate holdings are owned by LLCs, which are owned by trusts. Public records don't reveal the Ohu Family connection. We build wealth quietly.
 
-#### Pillar 12: Faith
+#### Pillar 12: Divine Filiation & Marian Trust
 
-**Definition**: We acknowledge a higher purpose and power, guiding our ethical compass and keeping us humble in success.
+**Definition**: Our Empire is built on the bedrock of the Catholic faith. This is our heritage and our compass.
+
+**The Family Spirit**: We operate with the joy and confidence of children of God. We look to the **Blessed Virgin Mary** as the protector of our family, trusting in her guidance during times of crisis.
+
+**Freedom of Conscience**: We propose this faith to future generations; we do not impose it. We believe that truth compels by its own beauty. We ensure every family member has the *opportunity* to know and love their faith, respecting their freedom to respond to that grace.
 
 **Practical Application**:
 - We begin Family Council meetings with prayer or reflection.
@@ -867,6 +875,73 @@ This chapter provides the strategic decision-making frameworks that guide every 
 4. **Growth vs. Preservation Balance** (Section 2.4): When to accelerate and when to consolidate
 
 These frameworks are not theoretical exercises. They are practical tools used in every Family Council meeting, every capital allocation decision, and every strategic planning session.
+
+---
+
+## 2.0 Strategic Architecture Visualization
+
+Before diving into the frameworks, we must visualize the structure. This diagram maps the **Ohu Dynasty** entity topology, showing the strict separation between Sovereignty, Treasury, Operations, and Assets.
+
+### The Master Entity Map (Component Diagram)
+
+```plantuml
+@startuml
+!theme spacelab
+skinparam componentStyle rectangle
+
+package "Sovereignty Layer (The Fortress)" {
+    [Dynasty Trust\n(South Dakota)] as DT #Navy
+    [Principals\n(Managers)] as PR
+    [Origin Eyes\n(501c3 Charity)] as OE #Green
+}
+
+package "Treasury Layer (The Bank)" {
+    [PNR Holdings LLC\n(Wyoming Treasury)] as PNR #Black
+    [Captive Insurance\n(831b Risk Mgmt)] as CAP #Green
+}
+
+package "Asset Layer (The Vault)" {
+    [Obuke LLC\n(Real Estate HoldCo)] as OBU #Green
+    [ToriMedia LLC\n(IP HoldCo)] as TORI #Green
+}
+
+package "Operating Layer (The Engines)" {
+    [CXI LLC\n(Management S-Corp)] as CXI #Blue
+    [Kwode LLC\n(Hybrid OpCo/HoldCo)] as KW #Red
+    [Neat Circle LLC\n(Automation BPA)] as NEAT #Red
+    [Lodging Connections\n(Hospitality OpCo)] as LODGE #Red
+}
+
+' Relationships
+PR --> DT : Grantors
+DT --> PNR : Owns 100%
+DT --> OE : Beneficiary
+
+PNR --> CAP : Owns 100%
+PNR --> OBU : Owns 100%
+PNR --> TORI : Owns 100%
+PNR --> CXI : Owns 100%
+PNR --> KW : Owns 100%
+PNR --> NEAT : Owns 100%
+PNR --> LODGE : Owns 100%
+
+' Operational Flows
+TORI ..> KW : Licenses IP
+TORI ..> NEAT : Licenses IP
+NEAT ..> KW : Automates
+CXI --> KW : Manages
+CXI --> NEAT : Manages
+
+@enduml
+```
+
+### How to Read This Diagram
+1.  **Sovereignty Layer (Top):** The Trust owns everything but does nothing. It is the ultimate shield.
+2.  **Treasury Layer (Middle):** PNR Holdings acts as the central bank. It receives cash from OpCos and deploys it to Assets.
+3.  **Asset Layer (Right):** Obuke and ToriMedia hold the wealth. They take no risks.
+4.  **Operating Layer (Bottom):** Kwode, Neat Circle, and Lodging do the work. They take the risks (lawsuits, liability).
+5.  **Red Nodes:** High Risk (Keep cash low).
+6.  **Green Nodes:** Safe Harbors (Keep cash high).
 
 ---
 

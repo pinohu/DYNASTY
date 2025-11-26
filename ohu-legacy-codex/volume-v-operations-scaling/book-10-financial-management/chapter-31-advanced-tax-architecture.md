@@ -6,6 +6,43 @@ While Chapter 30 covered the foundational tax strategies (S-Corps, basic retirem
 
 This is not just about saving 37% on income today. It is about creating buckets of capital that can grow for 50+ years completely untethered from the tax code.
 
+### The Tax Iron Dome Visualization
+
+This mindmap categorizes the tax strategies into Deferral, Elimination, Wealth Transfer, and Deductions.
+
+```plantuml
+@startmindmap
+!theme spacelab
+* Tax Iron Dome
+** Deferral Engines
+*** Qualified Opportunity Zones (2026)
+*** 1031 Exchanges (Real Estate)
+*** Lodging Connections (STR Loophole)
+** Elimination Vehicles
+*** Roth Strategies
+**** Mega Backdoor 401k
+**** 529-to-Roth
+*** Health Savings Account (HSA)
+*** Augusta Rule (14 Days Rent)
+** Wealth Transfer
+*** Dynasty Trust (No Estate Tax)
+*** Life Insurance (PPLI)
+*** Origin Eyes (Charitable Deduction)
+** Business Deductions
+*** Captive Insurance (831b)
+*** ToriMedia Royalties (IP)
+*** Children's Salary (Marketing)
+@endmindmap
+```
+
+### How to Read This Diagram
+1.  **Center:** The Goal (Total Tax Protection).
+2.  **Branches:** The 4 mechanisms of tax efficiency.
+3.  **Deferral:** Pushing tax to the future (allows money to grow now).
+4.  **Elimination:** Never paying tax (Roth/HSA).
+5.  **Transfer:** Moving wealth to heirs tax-free.
+6.  **Deductions:** Lowering current taxable income.
+
 ---
 
 ## Section 31.1: The Retirement Super-Structure

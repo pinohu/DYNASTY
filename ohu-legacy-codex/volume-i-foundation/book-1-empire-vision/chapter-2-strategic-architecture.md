@@ -16,6 +16,73 @@ These frameworks are not theoretical exercises. They are practical tools used in
 
 ---
 
+## 2.0 Strategic Architecture Visualization
+
+Before diving into the frameworks, we must visualize the structure. This diagram maps the **Ohu Dynasty** entity topology, showing the strict separation between Sovereignty, Treasury, Operations, and Assets.
+
+### The Master Entity Map (Component Diagram)
+
+```plantuml
+@startuml
+!theme spacelab
+skinparam componentStyle rectangle
+
+package "Sovereignty Layer (The Fortress)" {
+    [Dynasty Trust\n(South Dakota)] as DT #Navy
+    [Principals\n(Managers)] as PR
+    [Origin Eyes\n(501c3 Charity)] as OE #Green
+}
+
+package "Treasury Layer (The Bank)" {
+    [PNR Holdings LLC\n(Wyoming Treasury)] as PNR #Black
+    [Captive Insurance\n(831b Risk Mgmt)] as CAP #Green
+}
+
+package "Asset Layer (The Vault)" {
+    [Obuke LLC\n(Real Estate HoldCo)] as OBU #Green
+    [ToriMedia LLC\n(IP HoldCo)] as TORI #Green
+}
+
+package "Operating Layer (The Engines)" {
+    [CXI LLC\n(Management S-Corp)] as CXI #Blue
+    [Kwode LLC\n(Hybrid OpCo/HoldCo)] as KW #Red
+    [Neat Circle LLC\n(Automation BPA)] as NEAT #Red
+    [Lodging Connections\n(Hospitality OpCo)] as LODGE #Red
+}
+
+' Relationships
+PR --> DT : Grantors
+DT --> PNR : Owns 100%
+DT --> OE : Beneficiary
+
+PNR --> CAP : Owns 100%
+PNR --> OBU : Owns 100%
+PNR --> TORI : Owns 100%
+PNR --> CXI : Owns 100%
+PNR --> KW : Owns 100%
+PNR --> NEAT : Owns 100%
+PNR --> LODGE : Owns 100%
+
+' Operational Flows
+TORI ..> KW : Licenses IP
+TORI ..> NEAT : Licenses IP
+NEAT ..> KW : Automates
+CXI --> KW : Manages
+CXI --> NEAT : Manages
+
+@enduml
+```
+
+### How to Read This Diagram
+1.  **Sovereignty Layer (Top):** The Trust owns everything but does nothing. It is the ultimate shield.
+2.  **Treasury Layer (Middle):** PNR Holdings acts as the central bank. It receives cash from OpCos and deploys it to Assets.
+3.  **Asset Layer (Right):** Obuke and ToriMedia hold the wealth. They take no risks.
+4.  **Operating Layer (Bottom):** Kwode, Neat Circle, and Lodging do the work. They take the risks (lawsuits, liability).
+5.  **Red Nodes:** High Risk (Keep cash low).
+6.  **Green Nodes:** Safe Harbors (Keep cash high).
+
+---
+
 ## 2.1 The Three-Horizon Model
 
 The Three-Horizon Model is our primary strategic framework. It recognizes that the Empire must operate simultaneously across three time horizons, each with different objectives, strategies, and success metrics.

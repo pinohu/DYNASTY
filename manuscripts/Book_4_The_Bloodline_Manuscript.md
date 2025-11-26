@@ -1201,6 +1201,19 @@ This education system is an investment in your Legacy's future. The time and res
 
 ---
 
+## Section 32.0: The Spiritual Heritage Program
+
+The Family Office is committed to supporting the spiritual well-being of the family, understanding that true wealth includes the soul. While the Family Council governs business, we acknowledge that our values flow from our faith.
+
+**Available Resources:**
+1.  **Spiritual Formation**: The family will fund retreats, pilgrimages, and theology courses for any family member who wishes to deepen their understanding of the faith.
+2.  **Sacramental Life**: We structure our family gatherings to ensure access to Mass and the Sacraments is convenient, encouraging a rhythm of prayer amidst our work.
+3.  **The Marian Tradition**: We maintain the tradition of the Rosary and the Angelus at family gatherings, inviting all to participate in this bond of unity.
+
+**The Goal**: To ensure that if a family member chooses the faith, they do so with a fully formed intellect and a free heart, not out of obligation or ignorance.
+
+---
+
 ## Section 32.1: Age-Appropriate Curriculum
 
 ### Ages 5-8: Foundation Building

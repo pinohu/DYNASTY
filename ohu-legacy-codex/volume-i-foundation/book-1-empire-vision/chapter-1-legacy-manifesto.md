@@ -165,9 +165,13 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 
 **Example**: If a notary service makes an error, we immediately notify the client, correct the error at our expense, and implement systems to prevent recurrence. Short-term cost is irrelevant when integrity is at stake.
 
-#### Pillar 3: Excellence
+#### Pillar 3: The Sanctification of Work
 
-**Definition**: "Good enough" is the enemy of The Enterprise. We strive for mastery in every service we offer, from notary stamps to real estate acquisitions.
+**Definition**: We view our daily work as our primary contribution to the world and our path to personal growth.
+
+**The Standard**: We strive for professional perfection in every task—whether drafting a contract or cleaning a property. A job poorly done is a missed opportunity to serve.
+
+**The Invitation**: We invite family members to view their work not just as a career, but as an offering. By doing ordinary things with extraordinary love and technical competence, we turn our desks into altars and our trade into service.
 
 **Practical Application**:
 - We invest in training and certification for all service providers.
@@ -273,9 +277,13 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 
 **Example**: Our real estate holdings are owned by LLCs, which are owned by trusts. Public records don't reveal the Ohu Family connection. We build wealth quietly.
 
-#### Pillar 12: Faith
+#### Pillar 12: Divine Filiation & Marian Trust
 
-**Definition**: We acknowledge a higher purpose and power, guiding our ethical compass and keeping us humble in success.
+**Definition**: Our Empire is built on the bedrock of the Catholic faith. This is our heritage and our compass.
+
+**The Family Spirit**: We operate with the joy and confidence of children of God. We look to the **Blessed Virgin Mary** as the protector of our family, trusting in her guidance during times of crisis.
+
+**Freedom of Conscience**: We propose this faith to future generations; we do not impose it. We believe that truth compels by its own beauty. We ensure every family member has the *opportunity* to know and love their faith, respecting their freedom to respond to that grace.
 
 **Practical Application**:
 - We begin Family Council meetings with prayer or reflection.
