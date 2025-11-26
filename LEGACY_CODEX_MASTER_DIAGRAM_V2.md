@@ -1,4 +1,4 @@
-# The Legacy Codex - Master System Architecture V6
+# The Legacy Codex - Master System Architecture V7
 
 **The "Grand Unified Theory" of the Ohu Dynasty.**
 A high-fidelity visualization of the Legal, Financial, and Technical infrastructure, mapping **all registered entities** to their strategic roles.
@@ -69,9 +69,9 @@ classDiagram
     }
 
     class Kwode_LLC {
-        +Type: Operating LLC
-        +Role: Tech & Services OpCo
-        +Brands: Notroom, TaxEar, Directories
+        +Type: Hybrid OpCo/HoldCo
+        +Role: Professional Services & Assets
+        +Brands: Notroom, TaxEar, Digital Assets
     }
 
     class Lodging_Connections {
@@ -81,9 +81,9 @@ classDiagram
     }
 
     class Neat_Circle_LLC {
-        +Type: Operating LLC
-        +Role: Niche Services / Community
-        +Asset: neatcircle.com
+        +Type: Automation OpCo
+        +Role: Business Process Automation (BPA)
+        +Asset: Tech Implementation
     }
 
     class Obuke_LLC_Master {
