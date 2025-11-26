@@ -27,57 +27,80 @@ Before diving into the frameworks, we must visualize the structure. This diagram
 !theme spacelab
 skinparam componentStyle rectangle
 skinparam linetype ortho
-skinparam nodesep 60
-skinparam ranksep 60
+skinparam nodesep 50
+skinparam ranksep 50
+
+' --- LEVEL 0: BENEFIT LAYER (Personal Tax Shelters) ---
+package "Benefit Layer (Tax Free/Deferred)" {
+    [Solo 401k Trust\n<size:10>Tax: Exempt (5500-EZ)</size>] as 401K #Green
+    [HSA Account\n<size:10>Tax: Exempt (Form 8889)</size>] as HSA #Green
+    [SDIRA LLC\n<size:10>Tax: Disregarded (IRA)</size>] as SDIRA #Green
+}
 
 ' --- LEVEL 1: SOVEREIGNTY ---
-package "Sovereignty Layer (The Fortress)" {
-    [Principals\n(Managers)] as PR
-    [Dynasty Trust\n(South Dakota)] as DT #Navy
-    [Origin Eyes\n(501c3 Charity)] as OE #Green
+package "Sovereignty Layer" {
+    [Principals\n(Managers)\n<size:10>Tax: Form 1040</size>] as PR
+    [Dynasty Trust\n(South Dakota)\n<size:10>Tax: Form 1041</size>] as DT #Navy
+    [Origin Eyes\n(501c3 Charity)\n<size:10>Tax: Form 990</size>] as OE #Green
+    
+    ' Sub-Trusts Branch
+    [Gen 2 Sub-Trusts\n(Beneficiaries)\n<size:10>Tax: Form 1041</size>] as SUBT #Navy
 }
 
 ' --- LEVEL 2: TREASURY ---
-package "Treasury Layer (The Bank)" {
-    [PNR Holdings LLC\n(Wyoming Treasury)] as PNR #Black
-    [Captive Insurance\n(831b Risk Mgmt)] as CAP #Green
+package "Treasury Layer" {
+    [PNR Holdings LLC\n(Wyoming Treasury)\n<size:10>Tax: Partnership (1065)</size>] as PNR #Black
+    [Captive Insurance\n(831b Risk Mgmt)\n<size:10>Tax: Form 1120-PC</size>] as CAP #Green
 }
 
-' --- LEVEL 3: ASSETS (HoldCos) ---
-package "Asset Layer (The Vault)" {
-    [Obuke LLC\n(Parent of Series 1-10)] as OBU #Green
-    [ToriMedia LLC\n(IP HoldCo)] as TORI #Green
+' --- LEVEL 3: PASSIVE ASSETS ---
+package "Passive Zone (Schedule E)" {
+    [Obuke LLC\n(Real Estate)\n<size:10>Tax: Partnership (1065)</size>] as OBU #Green
+    [ToriMedia LLC\n(IP HoldCo)\n<size:10>Tax: Partnership (1065)</size>] as TORI #Green
 }
 
-' --- LEVEL 4: OPERATIONS (Engines) ---
-package "Operating Layer (The Engines)" {
-    [CXI LLC\n(Management S-Corp)] as CXI #Blue
-    [Kwode LLC\n(Hybrid OpCo/HoldCo)] as KW #Red
-    [Neat Circle LLC\n(Automation BPA)] as NEAT #Red
-    [Lodging Connections\n(Hospitality OpCo)] as LODGE #Red
+' --- LEVEL 4: ACTIVE OPERATIONS ---
+package "Active Zone (Ordinary Income)" {
+    [CXI LLC\n(Management)\n<size:10>Tax: S-Corp (1120-S)</size>] as CXI #Blue
+    [Kwode LLC\n(Hybrid OpCo)\n<size:10>Tax: Disregarded</size>] as KW #Red
+    [Neat Circle LLC\n(Automation)\n<size:10>Tax: Disregarded</size>] as NEAT #Red
+    [Lodging Connections\n(Hospitality)\n<size:10>Tax: Disregarded</size>] as LODGE #Red
+    [Ulor LLC\n(Acquisition)\n<size:10>Tax: Disregarded</size>] as ULOR #Red
 }
 
-' --- ALIGNMENT & LAYOUT (Hidden Links) ---
-' Vertical Backbone
-PR -[hidden]down-> DT
-DT -[hidden]down-> PNR
-PNR -[hidden]down-> CXI
+' --- ALIGNMENT (Hidden) ---
+PR -[hidden]down- DT
+DT -[hidden]down- PNR
+PNR -[hidden]down- CXI
 
-' Side Alignment
+' Benefits Alignment
+401K -[hidden]down- HSA
+HSA -[hidden]down- SDIRA
+PR -[hidden]left- 401K
+
+' Sub-Trust Alignment
+DT -[hidden]right- SUBT
+
+' Zone Alignment
 OE -[hidden]right- DT
 PNR -[hidden]right- CAP
+OBU -[hidden]right- CXI
 
-' Layer Separation
-OBU -[hidden]right- TORI
-CXI -[hidden]right- KW
-KW -[hidden]right- NEAT
-NEAT -[hidden]right- LODGE
+' --- RELATIONSHIPS ---
 
-' --- RELATIONSHIPS (Solid = Ownership) ---
+' Benefits Flow
+PR --> 401K : Participant
+PR --> HSA : Owner
+CXI --> 401K : Employer Match
+401K --> SDIRA : Funds (Rollover)
+
+' Sovereignty Flow
 PR --> DT : Grantors
 DT --> PNR : Owns 100%
-DT .left.> OE : Beneficiary
+DT ..> OE : Beneficiary
+DT ..> SUBT : Distributes
 
+' Treasury Flow
 PNR --> CAP
 PNR --> OBU
 PNR --> TORI
@@ -85,11 +108,13 @@ PNR --> CXI
 PNR --> KW
 PNR --> NEAT
 PNR --> LODGE
+PNR --> ULOR
 
-' --- OPERATIONAL FLOWS (Dotted = Service) ---
+' Operational Flow
 CXI ..> KW : Manages
 CXI ..> NEAT : Manages
 CXI ..> LODGE : Manages
+CXI ..> ULOR : Manages
 
 TORI ..> KW : Licenses IP
 TORI ..> NEAT : Licenses IP
@@ -97,6 +122,8 @@ TORI ..> LODGE : Licenses IP
 
 NEAT ..> KW : Automates
 NEAT ..> LODGE : Automates
+
+ULOR .up.> OBU : Assigns Contract
 
 @enduml
 ```
