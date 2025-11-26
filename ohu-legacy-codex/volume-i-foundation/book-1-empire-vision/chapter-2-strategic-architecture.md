@@ -136,6 +136,19 @@ ULOR .up.> OBU : Assigns Contract
 5.  **Red Nodes:** High Risk (Keep cash low).
 6.  **Green Nodes:** Safe Harbors (Keep cash high).
 
+### Tax Filing Strategy Matrix
+
+| Entity | Role | Tax Classification | Income Character | Primary Filing | Deadline |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **CXI LLC** | Management | **S-Corp** | Active / W-2 | Form 1120-S | March 15 |
+| **PNR Holdings** | Treasury | **Partnership** | Portfolio / Mix | Form 1065 | March 15 |
+| **Obuke LLC** | Real Estate | **Partnership** | Passive (Rental) | Form 1065 (Form 8825) | March 15 |
+| **Kwode/Neat** | OpCos | **Disregarded** | Active (Ordinary) | Schedule C (via PNR) | April 15 |
+| **Ulor LLC** | Acquisition | **Disregarded** | Active (Ordinary) | Schedule C (via PNR) | April 15 |
+| **Dynasty Trust** | Sovereignty | **Complex Trust** | Trust Income | Form 1041 | April 15 |
+| **Solo 401k** | Retirement | **Qualified Plan** | Tax-Deferred | Form 5500-EZ | July 31 |
+| **HSA** | Health | **Tax-Exempt** | Tax-Free | Form 8889 | April 15 |
+
 ---
 
 ## 2.1 The Three-Horizon Model
