@@ -11,23 +11,30 @@ For users preferring Graphviz/PlantUML layout control, here are the source codes
 @startuml
 !theme spacelab
 skinparam componentStyle rectangle
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
 
+' --- LEVEL 1: SOVEREIGNTY ---
 package "Sovereignty Layer (The Fortress)" {
-    [Dynasty Trust\n(South Dakota)] as DT #Navy
     [Principals\n(Managers)] as PR
+    [Dynasty Trust\n(South Dakota)] as DT #Navy
     [Origin Eyes\n(501c3 Charity)] as OE #Green
 }
 
+' --- LEVEL 2: TREASURY ---
 package "Treasury Layer (The Bank)" {
     [PNR Holdings LLC\n(Wyoming Treasury)] as PNR #Black
     [Captive Insurance\n(831b Risk Mgmt)] as CAP #Green
 }
 
+' --- LEVEL 3: ASSETS (HoldCos) ---
 package "Asset Layer (The Vault)" {
-    [Obuke LLC\n(Real Estate HoldCo)] as OBU #Green
+    [Obuke LLC\n(Parent of Series 1-10)] as OBU #Green
     [ToriMedia LLC\n(IP HoldCo)] as TORI #Green
 }
 
+' --- LEVEL 4: OPERATIONS (Engines) ---
 package "Operating Layer (The Engines)" {
     [CXI LLC\n(Management S-Corp)] as CXI #Blue
     [Kwode LLC\n(Hybrid OpCo/HoldCo)] as KW #Red
@@ -35,25 +42,46 @@ package "Operating Layer (The Engines)" {
     [Lodging Connections\n(Hospitality OpCo)] as LODGE #Red
 }
 
-' Relationships
+' --- ALIGNMENT & LAYOUT (Hidden Links) ---
+' Vertical Backbone
+PR -[hidden]down-> DT
+DT -[hidden]down-> PNR
+PNR -[hidden]down-> CXI
+
+' Side Alignment
+OE -[hidden]right- DT
+PNR -[hidden]right- CAP
+
+' Layer Separation
+OBU -[hidden]right- TORI
+CXI -[hidden]right- KW
+KW -[hidden]right- NEAT
+NEAT -[hidden]right- LODGE
+
+' --- RELATIONSHIPS (Solid = Ownership) ---
 PR --> DT : Grantors
 DT --> PNR : Owns 100%
-DT --> OE : Beneficiary
+DT .left.> OE : Beneficiary
 
-PNR --> CAP : Owns 100%
-PNR --> OBU : Owns 100%
-PNR --> TORI : Owns 100%
-PNR --> CXI : Owns 100%
-PNR --> KW : Owns 100%
-PNR --> NEAT : Owns 100%
-PNR --> LODGE : Owns 100%
+PNR --> CAP
+PNR --> OBU
+PNR --> TORI
+PNR --> CXI
+PNR --> KW
+PNR --> NEAT
+PNR --> LODGE
 
-' Operational Flows
+' --- OPERATIONAL FLOWS (Dotted = Service) ---
+CXI ..> KW : Manages
+CXI ..> NEAT : Manages
+CXI ..> LODGE : Manages
+
 TORI ..> KW : Licenses IP
 TORI ..> NEAT : Licenses IP
+TORI ..> LODGE : Licenses IP
+
 NEAT ..> KW : Automates
-CXI --> KW : Manages
-CXI --> NEAT : Manages
+NEAT ..> LODGE : Automates
 
 @enduml
 ```
