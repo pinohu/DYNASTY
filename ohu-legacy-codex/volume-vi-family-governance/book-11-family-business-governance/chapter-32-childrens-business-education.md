@@ -34,6 +34,29 @@ The Family Office is committed to supporting the spiritual well-being of the fam
 
 ## Section 32.1: Age-Appropriate Curriculum
 
+### The Heir Qualification Checklist Visualization
+
+This state machine diagram illustrates the meritocratic path from childhood to family council partnership.
+
+![Heir Qualification Checklist](./images/heir-qualification-checklist.svg)
+
+```plantuml
+@startuml
+state "Child (Age 0-12)" as CHILD
+state "Apprentice (Age 12-18)" as APP
+state "Explorer (Age 18-25)" as EXP
+state "Associate (Age 25+)" as ASSOC
+state "Partner" as PARTNER
+
+[*] --> CHILD
+CHILD --> APP : Complete FinLit Course
+APP --> EXP : High School Grad
+EXP --> ASSOC : Work 2 Years Outside Family Biz
+ASSOC --> PARTNER : Demonstrate Competence & Value
+PARTNER --> [*] : Eligible for Council Seat
+@enduml
+```
+
 ### Ages 5-8: Foundation Building
 
 #### Developmental Characteristics

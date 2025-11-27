@@ -1,0 +1,29 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "The Brain (SuiteDash Core)" as CORE #LightBlue {
+    [Project Management] as PM
+    [CRM & Client Portal] as CRM
+}
+
+package "The 6-Cylinder Production Engine" as ENGINE #White {
+    rectangle "1. Creative & Content" as P1 #Pink
+    rectangle "2. Social & Community" as P2 #Pink
+    rectangle "3. Advertising & Growth" as P3 #Pink
+    rectangle "4. Strategy & Ops" as P4 #LightGreen
+    rectangle "5. Business Support" as P5 #LightGray
+    rectangle "6. Advanced / Experimental" as P6 #Gold
+}
+
+' Flows
+CRM --> P1 : Intake Brief
+CRM --> P2 : Calendar Request
+CRM --> P3 : Ad Budget
+PM <--> P4 : KPI Reporting
+PM <--> P5 : Hiring/Finance
+PM <--> P6 : Innovation Lab
+
+@enduml

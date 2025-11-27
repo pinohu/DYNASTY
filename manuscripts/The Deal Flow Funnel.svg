@@ -1,0 +1,40 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 40
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+title The M&A Deal Flow Funnel
+
+package "Top of Funnel (Sourcing)" as TOP #Pink {
+    card "100 Leads" as LEADS
+    card "Automated Screening" as SCREEN
+}
+
+package "Middle of Funnel (Evaluation)" as MID #LightBlue {
+    card "20 Matches" as MATCH
+    card "Initial Meeting" as MEET
+    card "5 LOIs Sent" as LOI
+}
+
+package "Bottom of Funnel (Execution)" as BOT #LightGreen {
+    card "2 LOIs Accepted" as ACCEPT
+    card "Due Diligence" as DD
+    card "1 Deal Closed" as CLOSE
+}
+
+package "Post-Close (Integration)" as POST #Gold {
+    card "90-Day Plan" as PLAN
+}
+
+' Flow
+LEADS --> SCREEN : Criteria Check
+SCREEN --> MATCH : Pass Filter
+MATCH --> MEET : Owner Fit
+MEET --> LOI : Financial Fit
+LOI --> ACCEPT : Negotiation
+ACCEPT --> DD : Verification
+DD --> CLOSE : Funding
+CLOSE --> PLAN : Operations
+
+@enduml

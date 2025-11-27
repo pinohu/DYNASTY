@@ -1,0 +1,40 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 50
+left to right direction
+
+actor "Attacker / Troll" as TROLL #Red
+actor "Public Searcher" as PUBLIC
+
+rectangle "Google Search (The Battlefield)" as GOOGLE {
+    card "Slot 1: Personal Site" as S1
+    card "Slot 2: LinkedIn" as S2
+    card "Slot 3: Crunchbase" as S3
+    card "Slot 4: Press" as S4
+    card "Page 2: Negative Content" as P2 #LightGray
+}
+
+package "The Iron Dome (Defense Assets)" as DOME #LightBlue {
+    [Personal Website] as SITE
+    [LinkedIn Profile] as LINK
+    [Crunchbase] as CB
+    [Press Wire] as PRESS
+    [Privacy Service] as DELETE
+}
+
+' Attack Vectors
+TROLL --> GOOGLE : Posts Negative Content
+PUBLIC --> GOOGLE : Searches Name
+
+' Defense Deployment
+SITE --> S1 : Ranks #1
+LINK --> S2 : Ranks #2
+CB --> S3 : Ranks #3
+PRESS --> S4 : Ranks #4
+
+' Countermeasures
+DELETE ..> TROLL : Removes Personal Info
+DOME ..> P2 : Pushes Negatives Down
+
+@enduml

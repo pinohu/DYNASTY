@@ -1,0 +1,42 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+cloud "The Internet (Wild West)" as NET #LightGray
+
+package "The Fortress (Home Network)" {
+    component [UniFi Dream Machine\n(Firewall/Router)] as UDM #DarkGrey
+    
+    package "VLAN 1: The Vault (Secure)" as V1 #LightGreen {
+        [Work Laptop] as WORK
+        [Synology NAS] as NAS
+    }
+    
+    package "VLAN 2: The Commons (Insecure)" as V2 #Pink {
+        [Kids Devices] as KIDS
+        [IoT / Smart Home] as IOT
+    }
+    
+    package "VLAN 3: Guest (Isolated)" as V3 #Yellow {
+        [Guest / Burner] as GUEST
+    }
+}
+
+artifact "YubiKey (Hardware Key)" as KEY #Gold
+
+' Network Flow
+NET --> UDM : Ingress
+UDM --> WORK : Secure Path
+UDM --> NAS : Secure Path
+UDM --> KIDS : Filtered Path
+UDM --> GUEST : Sandbox Path
+
+' Logic
+WORK --> NAS : Admin Access
+WORK ..> KEY : Requires MFA
+KIDS ..> V1 : <color:red>BLOCKED</color>
+IOT ..> V1 : <color:red>BLOCKED</color>
+
+@enduml

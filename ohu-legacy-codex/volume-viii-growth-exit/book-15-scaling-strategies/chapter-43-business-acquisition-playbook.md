@@ -488,6 +488,27 @@ We build density in specific geographic markets to maximize operational synergie
 - Build regional brand
 - **Timeline:** Years 3-5
 
+### The M&A Deal Flow Funnel Visualization
+
+This funnel diagram visualizes the M&A process from lead generation to closed acquisition.
+
+![M&A Deal Flow Funnel](./images/ma-deal-flow-funnel.svg)
+
+```plantuml
+@startuml
+card "Lead Generation (100)" as C1
+card "Initial Filter (50)" as C2
+card "LOI Submitted (10)" as C3
+card "Due Diligence (3)" as C4
+card "Acquisition (1)" as C5
+
+C1 -> C2 : Apply Buy Box Criteria
+C2 -> C3 : Financial Review
+C3 -> C4 : Accepted Offer
+C4 -> C5 : Legal & Ops Audit
+@enduml
+```
+
 ### Sourcing Channels
 
 **Proprietary Deal Flow**

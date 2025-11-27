@@ -1,0 +1,35 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "The Family Empire (Private)" as EMPIRE #AliceBlue {
+    [Dynasty Trust] as TRUST #White
+    [ToriMedia LLC\n(IP HoldCo)] as TORI #White
+    [Obuke LLC\n(Real Estate HoldCo)] as OBU #White
+}
+
+package "The Public Charity (501c3)" as CHARITY #Honeydew {
+    [Origin Eyes Board] as BOARD #White
+    [Origin Eyes Operations] as OPS #White
+}
+
+' Governance Link
+TRUST .r.> BOARD : <color:red>Veto Power (Golden Share)</color>\nProtects Mission Integrity
+
+' Asset Links
+TORI -d-> OPS : <color:blue>IP License ($1/yr)</color>\nCurriculum/Software
+OBU -d-> OPS : <color:blue>Facility Lease</color>\nLand/Buildings
+
+' Financial Flow
+TRUST -d-> BOARD : Tax-Deductible Grants
+BOARD -d-> OPS : Budget Allocation
+
+note bottom of OPS
+  <b>The Sandbox</b>
+  Next Gen family members
+  train here as volunteers.
+end note
+
+@enduml

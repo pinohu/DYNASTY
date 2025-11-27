@@ -1,0 +1,39 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 50
+skinparam ranksep 50
+skinparam componentStyle rectangle
+
+title The Three Horizon Strategy Map
+
+package "Horizon 1: The Engine (Years 0-3)" as H1 #LightGreen {
+    [Cash Flow Focus] as CF
+    [Service Businesses] as SVC
+    [Operational Efficiency] as OPS
+    note bottom: 60% Resource Allocation\nGoal: Survival & Funding
+}
+
+package "Horizon 2: The Asset Base (Years 3-10)" as H2 #LightBlue {
+    [Asset Accumulation] as ASSET
+    [Real Estate Portfolio] as RE
+    [Directory Empire] as DIR
+    note bottom: 30% Resource Allocation\nGoal: Wealth & Appreciation
+}
+
+package "Horizon 3: The Legacy (Years 10-365)" as H3 #Gold {
+    [Generational Transfer] as GEN
+    [Dynasty Trust] as TRUST
+    [Philanthropy (Origin Eyes)] as PHIL
+    note bottom: 10% Resource Allocation\nGoal: Perpetuity & Impact
+}
+
+' Transitions
+CF --> ASSET : Funds
+SVC --> RE : Diversifies into
+OPS --> DIR : Automates
+
+ASSET --> GEN : Secures
+RE --> TRUST : Protected in
+DIR --> PHIL : Funds
+
+@enduml

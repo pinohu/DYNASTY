@@ -34,39 +34,180 @@ Before we build the systems, we must define the machines. The Dynasty's revenue 
 4.  **Obuke LLC (Real Estate HoldCo)**: The "Wealth" Engine.
     *   **Assets:** Physical Property, Notes, Deeds.
     *   **Role:** Passive asset accumulation and protection.
+    *   **Philanthropic Role:** Leases facilities to Origin Eyes (Nonprofit) at fair market rates (Triple-Net Lease).
+
+5.  **CXI LLC (Management S-Corp)**: The "Brain" Engine.
+    *   **Role:** Provides executive management to all entities, including Origin Eyes (Nonprofit), via Management Services Agreements.
+
+6.  **ToriMedia IP LLC (Asset HoldCo)**: The "Soul" Engine (The Vault).
+    *   **Role:** Passive holding of the "ToriMedia" brand, the 24-Service Content Library, and all proprietary methodologies.
+    *   **Key Assets:**
+        *   **The Amplified Reach Operating System (AR-OS)**: The proprietary SuiteDash/AITable process engineering bundle (6 Pipelines, 180+ workflows).
+        *   **The 24-Service Content Library**: The "Full Stack" creative catalog.
+    *   **Income:** Collects royalties from the Agency and licenses content to Origin Eyes.
+
+7.  **Amplified Reach LLC (Operating OpCo)**: The "Voice" Engine (The Sword).
+    *   **Role:** Active execution of the "Full-Stack Growth Partner" services (Content, Traffic, Conversion).
+    *   **Function:** Signs client contracts, takes operational risk, and pays licensing fees to ToriMedia IP LLC.
+
+### The Series LLC Structure Visualization
+
+This diagram shows the relationship between the Master LLC and its individual Series Cells, illustrating how liability is isolated for each property.
+
+![Series LLC Structure](./images/series-llc-structure.svg)
+
+```plantuml
+@startuml
+class "Obuke Master LLC" as MASTER {
+    + Operating Agreement
+    + EIN (Master)
+    + Bank Account (Admin)
+    --
+    Functions:
+    # File Tax Return (8825)
+    # Manage Property Manager
+}
+
+class "Series A Cell" as CELL1 {
+    + Property: 123 Main St
+    + Separate Bank Account
+    + Separate Books
+    --
+    Liability: Isolated
+}
+
+class "Series B Cell" as CELL2 {
+    + Property: 456 Oak Ave
+    + Separate Bank Account
+    + Separate Books
+    --
+    Liability: Isolated
+}
+
+MASTER *-- CELL1 : Establishes
+MASTER *-- CELL2 : Establishes
+@enduml
+```
+
+### The Corporate Veil Maintenance Cycle Visualization
+
+This activity diagram illustrates the annual checklist required to maintain the corporate veil and ensure legal protection.
+
+![Corporate Veil Maintenance Cycle](./images/corporate-veil-maintenance-cycle.svg)
+
+```plantuml
+@startuml
+start
+:Start of Fiscal Year;
+partition "Annual Compliance" {
+    :Hold Annual Meeting;
+    :Draft Meeting Minutes;
+    :Review Operating Agreement;
+    if (Changes needed?) then (Yes)
+        :Amend Operating Agreement;
+    else (No)
+        :Ratify Existing Agreement;
+    endif
+    :File State Annual Report;
+    :Pay Franchise Fees;
+}
+partition "Financial Hygiene" {
+    :Review Bank Accounts;
+    if (Personal expenses found?) then (Yes)
+        :Reclassify as Distribution;
+        note right: Danger! Avoid this.
+    else (No)
+        :Books Clean;
+    endif
+}
+:Corporate Veil Intact;
+stop
+@enduml
+```
 
 ### The Cash Flow Engine Visualization
 
 This sequence diagram illustrates the **velocity of money** through these engines. It shows how a single dollar travels from a client to a protected asset.
 
+![Perfect Dollar Sequence](./images/perfect-dollar-sequence.svg)
+
+**Source Code:**
+
 ```plantuml
 @startuml
-!theme spacelab
-autonumber
+skinparam linetype ortho
+skinparam nodesep 150
+skinparam ranksep 150
+skinparam componentStyle rectangle
 
-actor Client
-participant "Neat Circle\n(Automation OpCo)" as OP #Red
-participant "ToriMedia\n(IP HoldCo)" as IP #Green
-participant "CXI LLC\n(Management)" as MGMT #Blue
-participant "PNR Holdings\n(Treasury)" as HOLD #Black
-participant "Obuke LLC\n(Assets)" as ASSET #Green
+' Left to Right flow
+left to right direction
 
-== Revenue Phase ==
-Client -> OP: Pay for Service ($10,000)
-note right: Gross Revenue
+' --- SOVEREIGNTY ---
+package "Sovereignty" as FORTRESS #AliceBlue {
+    [Principals\n(Managers)] as PR
+    [Dynasty Trust\n(South Dakota)] as DT
+}
 
-== Expense Phase (The Shield) ==
-OP -> IP: Pay IP Royalty (5%)
-OP -> MGMT: Pay Mgmt Fee (20%)
-OP -> OP: Pay Direct Expenses
+' --- TREASURY ---
+package "Treasury" as BANK #LightGray {
+    ' Fixed Visibility: White Box, Bold Text
+    [**PNR Holdings LLC**\n(Wyoming Treasury)] as PNR #White
+    
+    [Origin Eyes\n(501c3 Charity)] as OE #White
+}
 
-== Harvest Phase ==
-OP -> HOLD: Sweep Excess Profit (Cash Sweep)
-note right: Liability Firewall
+' --- OPERATIONS (Grouped to force vertical stacking) ---
+package "Operating Layer" as OPS #LemonChiffon {
+    
+    ' Group 1: Management & IP (Top)
+    package "Management Core" {
+        [CXI LLC\n(Mgmt S-Corp)] as CXI #White
+        [ToriMedia IP LLC\n(The Vault)] as TORI_IP #Gold
+    }
 
-== Investment Phase ==
-HOLD -> ASSET: Capital Contribution
-ASSET -> ASSET: Buy Real Estate
+    ' Group 2: Active Biz (Middle)
+    package "Active Business" {
+        [Amplified Reach\n(The Sword)] as REACH_AGENCY #White
+        [Lodging Connections\n(Hospitality)] as LODGE #White
+        [Neat Circle LLC\n(Automation)] as NEAT #White
+        [Kwode LLC\n(Hybrid)] as KW #White
+    }
+    
+    ' Group 3: Assets & Risk (Bottom)
+        [Kwode LLC\n(Hybrid)] as KW #White
+    }
+    
+    ' Group 3: Assets & Risk (Bottom)
+    package "Assets & Risk" {
+        [Obuke LLC\n(Real Estate)] as OBU #White
+        [Captive Insurance\n(831b)] as CAP #White
+    }
+}
+
+' --- CONNECTIONS ---
+
+' Sovereignty -> Treasury
+PR --> DT
+DT --> PNR : Owns 100%
+DT --> OE : Beneficiary
+
+' PNR -> Operations (Fan Out)
+PNR --> CXI
+PNR --> TORI_IP
+PNR --> REACH_AGENCY
+PNR --> LODGE
+PNR --> NEAT
+PNR --> KW
+PNR --> OBU
+PNR --> CAP
+
+' Internal Ops Links (Dotted)
+CXI ..> NEAT : Manages
+CXI ..> KW : Manages
+TORI_IP ..> REACH_AGENCY : Licenses IP (Royalty Flow)
+TORI_IP ..> KW : Licenses IP
+
 @enduml
 ```
 

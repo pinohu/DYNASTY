@@ -1,0 +1,35 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "The Wild Web (Data Sources)" {
+    [Google Maps] as GM
+    [LinkedIn] as LI
+    [Competitor Sites] as COMP
+    [Gov Registries] as GOV
+}
+
+package "The Intelligence Engine (Databar.ai)" as BRAIN #LightBlue {
+    [Scraper Agents] as SCRAPE
+    [Enrichment API] as ENRICH
+    [Validation Logic] as VALID
+}
+
+package "The Asset (SuiteDash CRM)" as CRM #LightGreen {
+    database "Golden Records" as DB
+}
+
+' Flows
+GM --> SCRAPE : Raw Leads
+LI --> SCRAPE : Profiles
+COMP --> SCRAPE : Listings
+GOV --> SCRAPE : Licenses
+
+SCRAPE --> ENRICH : Incomplete Data
+ENRICH --> ENRICH : Append Email/Phone/Rev
+ENRICH --> VALID : Verify Deliverability
+VALID --> DB : Clean Lead Data
+
+@enduml

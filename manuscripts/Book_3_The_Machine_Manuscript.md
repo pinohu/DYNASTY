@@ -31,6 +31,55 @@ This chapter is your implementation guide. It moves beyond the "what" to the "ho
 
 ## Section 19.1: Complete Configuration Guide
 
+### The SuiteDash Central Nervous System Visualization
+
+This component diagram illustrates how SuiteDash serves as the central hub, integrating with payments, accounting, and communication tools.
+
+![SuiteDash Central Nervous System](./images/suitedash-central-nervous-system.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "Input Sources (The 'Who')" {
+    actor "Clients" as C
+    actor "Leads" as L
+    actor "Staff" as S
+}
+
+package "The Brain (Central Hub)" {
+    component [SuiteDash Core\n(CRM + Portal)] as SD #LightBlue
+}
+
+package "Output & Integrations (The 'How')" {
+    database "Financials" {
+        [Stripe] as PAY #LightGreen
+        [QuickBooks] as QB #LightGreen
+    }
+    
+    database "Communication" {
+        [SendGrid] as MAIL #Pink
+        [Twilio] as SMS #Pink
+    }
+}
+
+' Inputs to Brain
+C --> SD : Access Portal
+L --> SD : Submit Forms
+S --> SD : Manage Projects
+
+' Brain to Integrations
+SD <--> PAY : Process Payments
+SD <--> QB : Sync Invoices
+SD --> MAIL : Send Emails
+SD --> SMS : Send Alerts
+
+@enduml
+```
+
 Setting up SuiteDash correctly from Day 1 prevents "technical debt" later.
 
 ### Initial Setup Walkthrough
@@ -85,6 +134,31 @@ Setting up SuiteDash correctly from Day 1 prevents "technical debt" later.
 - **Zapier/KonnectzIT**: Connect SuiteDash to external marketing tools (Mailchimp, Facebook Ads).
 
 ---
+
+### The Content Factory Workflow Visualization
+
+This activity diagram outlines the production line for content creation, from ideation to repurposing.
+
+![Content Factory Workflow](./images/content-factory-workflow.svg)
+
+```plantuml
+@startuml
+state "Ideation" as IDEA
+state "Scripting" as SCRIPT
+state "Recording" as REC
+state "Editing" as EDIT
+state "Distribution" as DIST
+state "Repurposing" as REPURP
+
+[*] --> IDEA
+IDEA --> SCRIPT : Outline Created
+SCRIPT --> REC : Teleprompter Ready
+REC --> EDIT : Raw Files Uploaded
+EDIT --> DIST : Final Cut Approved
+DIST --> REPURP : Posted to Socials
+REPURP --> [*] : Turned into Blog/Newsletter
+@enduml
+```
 
 ## Section 19.2: CRM Optimization
 
@@ -180,6 +254,37 @@ The Portal is your competitive advantage. It makes you look like a Fortune 500 c
 ---
 
 ## Section 19.4: Financial Management Integration
+
+### The Perfect Dollar Sequence Visualization
+
+This sequence diagram illustrates the tax-efficient journey of revenue through the operating companies and holdings.
+
+![Perfect Dollar Sequence](./images/perfect-dollar-sequence-v2.svg)
+
+```plantuml
+@startuml
+|OpCo (Active)|
+start
+:Receive $1.00 Revenue;
+:Pay Direct Expenses;
+:Pay Management Fee to Holdings;
+|Holdings (Passive)|
+:Receive Fee;
+:Pay Shared Services (Software, Legal);
+:Calculate Net Profit;
+|Owner (Taxpayer)|
+:Receive K-1;
+if (Tax Strategy?) then (S-Corp)
+    :Pay Reasonable Salary;
+    :Take Distribution;
+else (Partnership)
+    :Pass-through Income;
+endif
+:Pay Tax;
+:Reinvest Remainder;
+stop
+@enduml
+```
 
 Money in, Money out.
 
@@ -723,6 +828,94 @@ Tell the GPT which mode you want:
 - [ ] Request SOP documentation for your processes
 - [ ] Design new features and integrations
 - [ ] Create training materials based on GPT outputs
+
+---
+
+---
+
+## Section 19.6: The Agency Operating System (Amplified Reach Production Lines)
+
+Amplified Reach LLC (The Sword) is not just a service provider; it is a **Process-Driven Machine**. It runs on a proprietary "6-Cylinder Engine" defined by the **Media Empire Process Engineering** bundle.
+
+These six pipelines are the **"Operational DNA"** of the agency. They are assets owned by ToriMedia IP LLC and licensed to Amplified Reach for execution. They turn chaos into predictable revenue.
+
+### 1. The Agency Production Ecosystem Visualization
+
+This diagram illustrates the six core production lines that drive the agency, all managed within the SuiteDash Command Center.
+
+![Agency Production Ecosystem](./images/agency-production-ecosystem.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "The Brain (SuiteDash Core)" as CORE #LightBlue {
+    [Project Management] as PM
+    [CRM & Client Portal] as CRM
+}
+
+package "The 6-Cylinder Production Engine" as ENGINE #White {
+    rectangle "1. Creative & Content" as P1 #Pink
+    rectangle "2. Social & Community" as P2 #Pink
+    rectangle "3. Advertising & Growth" as P3 #Pink
+    rectangle "4. Strategy & Ops" as P4 #LightGreen
+    rectangle "5. Business Support" as P5 #LightGray
+    rectangle "6. Advanced / Experimental" as P6 #Gold
+}
+
+' Flows
+CRM --> P1 : Intake Brief
+CRM --> P2 : Calendar Request
+CRM --> P3 : Ad Budget
+PM <--> P4 : KPI Reporting
+PM <--> P5 : Hiring/Finance
+PM <--> P6 : Innovation Lab
+
+@enduml
+```
+
+### 2. The Six Production Lines
+
+Each pipeline is a standardized assembly line with strict stages, SLAs, and Quality Assurance (QA) gates.
+
+#### Cylinder 1: Creative & Content (The Factory)
+*   **Purpose:** Production of high-value assets (Video, Copy, Design).
+*   **Stages:** `Intake` $\rightarrow$ `Ideation` $\rightarrow$ `Draft` $\rightarrow$ `Edit` $\rightarrow$ `Design` $\rightarrow$ `QA` $\rightarrow$ `Publish` $\rightarrow$ `Promote` $\rightarrow$ `Review`.
+*   **Key Roles:** Video Editors, Copywriters, Thumbnail Designers.
+
+#### Cylinder 2: Social & Community (The Broadcast)
+*   **Purpose:** Distribution and audience engagement.
+*   **Stages:** `Calendar` $\rightarrow$ `Asset Prep` $\rightarrow$ `Approval` $\rightarrow$ `Schedule` $\rightarrow$ `Engage` $\rightarrow$ `Moderation` $\rightarrow$ `UGC` $\rightarrow$ `Reporting`.
+*   **Key Roles:** Social Schedulers, Community Managers, DM Specialists.
+
+#### Cylinder 3: Advertising & Growth (The Fuel)
+*   **Purpose:** Paid acquisition and funnel optimization.
+*   **Stages:** `Brief` $\rightarrow$ `Audience` $\rightarrow$ `Build` $\rightarrow$ `Tracking` $\rightarrow$ `Launch` $\rightarrow$ `Optimize (A/B)` $\rightarrow$ `Retargeting` $\rightarrow$ `CRO` $\rightarrow$ `Post-Mortem`.
+*   **Key Roles:** Ad Buyers, Funnel Architects, CRO Specialists.
+
+#### Cylinder 4: Strategy & Ops (The Steering)
+*   **Purpose:** Governance and long-term direction.
+*   **Stages:** `Planning` $\rightarrow$ `OKR Cascade` $\rightarrow$ `Budget` $\rightarrow$ `Sync` $\rightarrow$ `SOP Review` $\rightarrow$ `Risk` $\rightarrow$ `KPI Dashboard` $\rightarrow$ `Retrospective`.
+*   **Key Roles:** Operations Manager (Integrator), Analytics Dashboard Builder.
+
+#### Cylinder 5: Business Support (The Maintenance)
+*   **Purpose:** Internal health (Finance, HR, Legal).
+*   **Stages:** `Request` $\rightarrow$ `Triage` $\rightarrow$ `Processing` $\rightarrow$ `Approval` $\rightarrow$ `Settlement` $\rightarrow$ `Audit & Archive`.
+*   **Key Roles:** Finance Manager, HR Recruiter, Contracts Specialist.
+
+#### Cylinder 6: Advanced / Experimental (The R&D)
+*   **Purpose:** Innovation and "Moonshot" projects.
+*   **Stages:** `Idea Intake` $\rightarrow$ `Scope` $\rightarrow$ `Pilot Build` $\rightarrow$ `Beta Test` $\rightarrow$ `Evaluate` $\rightarrow$ `Scale / Kill` $\rightarrow$ `Handover`.
+*   **Key Roles:** AI Prompt Librarian, Workflow Engineer, Gamification Specialist.
+
+### 3. Implementation: The "Import" Strategy
+To activate these pipelines instantly:
+1.  **Source:** Use the `ToriMedia_ContentLibrary_ALL24.json` and `SuiteDash_pipelines_enriched...csv` files.
+2.  **Action:** Import these CSVs directly into SuiteDash (Project Management module) or your AITable database.
+3.  **Result:** You instantly have a Fortune 500-level operational structure populated with tasks, dependencies, and descriptions.
 
 ---
 

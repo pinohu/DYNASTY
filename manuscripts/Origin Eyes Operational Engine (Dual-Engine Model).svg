@@ -1,0 +1,36 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+left to right direction
+
+package "Origin Eyes Operations" {
+    
+    package "Engine A: Digital Academy" as TECH #LightCyan {
+        [Curriculum Dev\n(AI/No-Code)] as CURR
+        [LMS Platform\n(Online Delivery)] as LMS
+        [Cohorts\n(Live Training)] as CLASS
+    }
+
+    package "Engine B: Community Builder" as BUILD #MistyRose {
+        [Tech Hubs\n(Physical Space)] as HUB
+        [Affordable Housing\n(Sustainable)] as HOUSE
+        [Facility Mgmt\n(Maintenance)] as MAINT
+    }
+}
+
+actor "Beneficiaries" as PEOPLE
+
+' Tech Flow
+CURR --> LMS
+LMS --> CLASS
+CLASS --> PEOPLE : Skills Transfer
+
+' Real Estate Flow
+HUB --> PEOPLE : Access
+HOUSE --> PEOPLE : Shelter
+MAINT --> HUB
+MAINT --> HOUSE
+
+@enduml

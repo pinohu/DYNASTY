@@ -1,0 +1,40 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 100
+skinparam componentStyle rectangle
+left to right direction
+
+package "United States (The Source)" as USA #AliceBlue {
+    [Origin Eyes US\n(501c3 Charity)] as OE_US #White
+}
+
+package "Compliance Layer (The Bridge)" as BRIDGE #LightYellow {
+    [Expenditure Responsibility\nGrant Agreement] as CONTRACT
+    [Receipts & Impact Reports] as AUDIT
+}
+
+package "Nigeria (The Target)" as NG #LightGreen {
+    [Local NGO / Partner\n(Grantee)] as PARTNER #White
+    [Project: Computer Lab] as PROJECT
+}
+
+' The Flow
+OE_US --> CONTRACT : 1. Issues Grant\n(Specific Purpose)
+CONTRACT --> PARTNER : 2. Funds Transfer
+
+PARTNER --> PROJECT : 3. Purchases\nEquipment/Labor
+
+' The Return Loop (Critical for Compliance)
+PARTNER .u.> AUDIT : 4. Submits Proof
+AUDIT .u.> OE_US : 5. Verifies Usage
+
+note bottom of CONTRACT
+  **Legal Requirement:**
+  Funds must be tracked
+  to the final dollar.
+  No "General Support"
+  without equivalency.
+end note
+
+@enduml

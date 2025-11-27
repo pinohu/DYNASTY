@@ -49,3 +49,5 @@ The "AI Workforce" described in the Legacy Codex is currently a **Cyborg Model**
 *   **Tone Drift:** If the voice sounds robotic, add "Write like a human talking to a friend" to the prompt.
 *   **Security:** DO NOT paste sensitive PII (SSNs, Passwords) into public AI tools. Use placeholders (e.g., [CLIENT NAME]).
 
+
+

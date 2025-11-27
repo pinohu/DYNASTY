@@ -37,6 +37,105 @@ These questions are not rhetorical exercises. They are the decision-making frame
 
 ---
 
+### The Trust Waterfall Visualization
+
+This sequence diagram illustrates how money flows from the customer through the operating companies, into the treasury, and finally to the Dynasty Trust and beneficiaries.
+
+![The Trust Waterfall](./images/trust-waterfall.svg)
+
+```plantuml
+@startuml
+skinparam participantStyle awesome
+
+actor "Customer" as CUST
+participant "OpCo (LLC)" as OPCO
+participant "PNR Holdings\n(Treasury)" as PNR
+participant "Dynasty Trust\n(Sovereign)" as TRUST
+participant "Sub-Trusts\n(Beneficiaries)" as SUB
+
+CUST -> OPCO : 1. Pays Revenue ($1.00)
+activate OPCO
+OPCO -> OPCO : 2. Pays Expenses ($0.70)
+OPCO -> PNR : 3. Pays Management Fee ($0.30)
+deactivate OPCO
+
+activate PNR
+PNR -> PNR : 4. Pays Asset Protection Costs\n(D&O, Software, Legal)
+PNR -> TRUST : 5. Distributes Profit
+deactivate PNR
+
+activate TRUST
+TRUST -> TRUST : 6. Reinvests in Assets (70%)
+TRUST -> SUB : 7. Distributes HEMS (30%)
+deactivate TRUST
+@enduml
+```
+
+### The Asset Protection Firewall Visualization
+
+This diagram illustrates the "Iron Dome" concept—how liability is contained within specific entities to protect the core wealth.
+
+![The Asset Protection Firewall](./images/asset-protection-firewall.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 80
+skinparam componentStyle rectangle
+
+' Force Left-to-Right Layout for cleaner lanes
+left to right direction
+
+package "The Citadel (Safe Zone)" as CITADEL #LightGreen {
+    [Dynasty Trust] as DT
+    [PNR Holdings] as PNR
+    [Obuke LLC (Master)] as OBU
+}
+
+package "The Battlefield (Risk Zone)" as BATTLEFIELD #Pink {
+    rectangle "Service Businesses" {
+        [Notroom Services] as NOT
+        [TaxEar Advisory] as TAX
+    }
+    rectangle "Real Estate Cells" {
+        [Obuke Series A\n(Property 1)] as SA
+        [Obuke Series B\n(Property 2)] as SB
+    }
+}
+
+actor "Creditor (Attack 1)" as ATT1
+actor "Tenant (Attack 2)" as ATT2
+
+' Ownership Hierarchy (The Backbone)
+DT --> PNR
+PNR --> NOT
+PNR --> TAX
+PNR --> OBU
+OBU --> SA
+OBU --> SB
+
+' Attack Vectors (Coming from the "Public" side)
+ATT1 .u.> NOT : <color:red>Sues Notary Error</color>
+ATT2 .u.> SA : <color:red>Slip & Fall Lawsuit</color>
+
+' Defense Logic (Notes attached to the LINK itself or near the node)
+note bottom of NOT
+  <color:red><b>BLOCKED BY VEIL</b></color>
+  Liability stops here.
+  Cannot reach PNR.
+end note
+
+note bottom of SA
+  <color:red><b>BLOCKED BY CELL</b></color>
+  Liability isolated.
+  Cannot reach Master
+  or Series B.
+end note
+
+@enduml
+```
+
 ## 1.1 The 365-Year Vision Statement
 
 ### The Philosophy of "Forever"
@@ -878,114 +977,356 @@ These frameworks are not theoretical exercises. They are practical tools used in
 
 ---
 
+## 1.4 The Philanthropic Engine: Origin Eyes Governance
+
+The Origin Eyes Policy Manual (OEPM) serves as the operational constitution for the Dynasty's philanthropic arm. It is not merely a mission statement but a governance framework ensuring that our charitable efforts remain aligned with the 365-Year Vision while maximizing tax efficiency and social impact.
+
+### Strategic Alignment & Purpose
+Origin Eyes (a 501(c)(3) Public Charity) fulfills three critical roles in the Empire's architecture:
+1.  **The "Third Horizon" Asset:** It acts as the vehicle for generational legacy (Horizon 3), ensuring the family's values impact the broader world.
+2.  **Tax Optimization:** By receiving pre-tax distributions from the Dynasty Trust and PNR Holdings, it lowers the Empire's overall tax burden while keeping capital under family stewardship.
+3.  **Training Ground:** It serves as the "sandbox" for the next generation (see Volume VI, Chapter 32). Young family members serve as Volunteer Coordinators or Junior Board Members to learn governance, budgeting, and leadership before they are entrusted with for-profit assets.
+
+### Critical "Blind Spot" Protections
+To ensure Origin Eyes remains a servant of the Dynasty rather than a liability, we have implemented three specific "Ironclad" protections in its Bylaws:
+
+#### 1. The "Founder's Intent" Lock (Mission Veto)
+*   **Risk:** Future independent boards might drift from the core mission (Mission Drift).
+*   **Protection:** The Dynasty Trust holds a perpetual "Golden Share" or Veto Power regarding any changes to the Origin Eyes Mission Statement. While methods may evolve, the core mission of "Digital Literacy and Sustainable Living" is immutable.
+
+#### 2. Intellectual Property Sovereignty (The License Model)
+*   **Risk:** If Origin Eyes develops valuable software or curriculum, that IP could be "captured" by the public domain if the charity dissolves.
+*   **Protection:** **ToriMedia LLC** (the Family IP HoldCo) retains ownership of all core intellectual property. It *licenses* this IP to Origin Eyes for $1/year. This ensures that if the nonprofit is ever compromised, the IP remains safely within the Family Empire.
+
+#### 3. Real Estate Asset Protection (The Lease Model)
+*   **Risk:** Owning real estate inside a nonprofit can be risky if the entity loses its tax-exempt status or faces liability lawsuits.
+*   **Protection:** **Obuke LLC** (the Real Estate HoldCo) acquires and owns the physical land and buildings. It then *leases* these facilities to Origin Eyes at favorable rates. This keeps the hard assets protected within the Empire's "Citadel" while allowing the charity to fulfill its mission.
+
+### Origin Eyes Governance Visualization
+
+This diagram illustrates the specific governance and asset relationships between the Family Empire and the Public Charity.
+
+![Origin Eyes Governance Structure](./images/origin-eyes-governance.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "The Family Empire (Private)" as EMPIRE #AliceBlue {
+    [Dynasty Trust] as TRUST #White
+    [ToriMedia LLC\n(IP HoldCo)] as TORI #White
+    [Obuke LLC\n(Real Estate HoldCo)] as OBU #White
+}
+
+package "The Public Charity (501c3)" as CHARITY #Honeydew {
+    [Origin Eyes Board] as BOARD #White
+    [Origin Eyes Operations] as OPS #White
+}
+
+' Governance Link
+TRUST .r.> BOARD : <color:red>Veto Power (Golden Share)</color>\nProtects Mission Integrity
+
+' Asset Links
+TORI -d-> OPS : <color:blue>IP License ($1/yr)</color>\nCurriculum/Software
+OBU -d-> OPS : <color:blue>Facility Lease</color>\nLand/Buildings
+
+' Financial Flow
+TRUST -d-> BOARD : Tax-Deductible Grants
+BOARD -d-> OPS : Budget Allocation
+
+note bottom of OPS
+  <b>The Sandbox</b>
+  Next Gen family members
+  train here as volunteers.
+end note
+
+@enduml
+```
+
+## 1.5 The "Immune System" Protocols for Origin Eyes
+
+Because Origin Eyes interacts closely with the family (Licensing IP, Leasing Land, Training Heirs), it is a prime target for IRS scrutiny regarding **"Private Inurement"**. To protect the Empire and the Charity, we implement three non-negotiable protocols.
+
+### 1. The "Arm's Length" Validation Standard
+*   **The Risk:** The IRS assumes any transaction between a Family and their Charity is "Self-Dealing."
+*   **The Protocol:** Every contract >$10,000 between the Dynasty and the Charity must be backed by an **Independent Fairness Opinion** or **Comparables Study**.
+*   **The Rule:** "The Charity must never pay *more* than Fair Market Value, and the Family must never accept *less* than Cost (unless it's a donation)."
+
+### 2. The "Living Mission" Amendment Process
+*   **The Risk:** Locking the mission to "Digital Literacy" creates obsolescence risk (the "Buggy Whip" problem).
+*   **The Protocol:** The Mission Statement can only be amended via a **Supermajority + Protector** vote.
+*   **The Mechanism:**
+    *   100% Vote of the Family Council.
+    *   Consent of the Trust Protector.
+    *   Legal Opinion confirming the new mission serves the original *intent*.
+
+### 3. The "Meritocracy Wall" (Anti-Nepotism)
+*   **The Risk:** The Charity becomes a "dumping ground" for unemployable family members.
+*   **The Protocol:** Family members are encouraged to serve as **Unpaid Volunteers** or **Board Members**.
+*   **The Restriction:** A family member can only be *employed* (Paid) if they meet the **"Open Market Standard"**:
+    1.  They possess the relevant degree/experience required for an external candidate.
+    2.  They interview against outside candidates.
+    3.  Their performance is reviewed by an *independent* advisor, not their parents.
+
+## 1.6 Origin Eyes Operational Engine (The Dual-Engine Model)
+
+We have established the governance; now we define the action. Origin Eyes operates two distinct engines to fulfill its mission of "Digital Literacy & Sustainable Living."
+
+### Engine A: The "Tech-Forward" Academy (Digital Literacy)
+*   **Core Activity:** Running "Digital Bootcamp" cohorts.
+*   **Curriculum:** We reject generic "computer skills" in favor of high-value, market-ready skills: *No-Code Automation (Zapier), AI Prompt Engineering, and Remote Work Readiness.*
+*   **Delivery:** Hybrid Model. Online courses (scalable) + Local workshops in community centers (impact).
+*   **Operations:** Curriculum development, LMS management, and student mentorship.
+
+### Engine B: The "Community Builder" (Sustainable Real Estate)
+*   **Core Activity:** Developing or rehabilitating community spaces (The "Hubs").
+*   **The Model:** Acquiring distressed properties (via Obuke LLC), renovating them into "Tech Hubs" or "Affordable Housing" using green technology, and leasing them to the nonprofit.
+*   **Operations:** Property management, tenant support, and facility maintenance.
+
+### Visualization: The Dual-Engine Model
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+left to right direction
+
+package "Origin Eyes Operations" {
+    
+    package "Engine A: Digital Academy" as TECH #LightCyan {
+        [Curriculum Dev\n(AI/No-Code)] as CURR
+        [LMS Platform\n(Online Delivery)] as LMS
+        [Cohorts\n(Live Training)] as CLASS
+    }
+
+    package "Engine B: Community Builder" as BUILD #MistyRose {
+        [Tech Hubs\n(Physical Space)] as HUB
+        [Affordable Housing\n(Sustainable)] as HOUSE
+        [Facility Mgmt\n(Maintenance)] as MAINT
+    }
+}
+
+actor "Beneficiaries" as PEOPLE
+
+' Tech Flow
+CURR --> LMS
+LMS --> CLASS
+CLASS --> PEOPLE : Skills Transfer
+
+' Real Estate Flow
+HUB --> PEOPLE : Access
+HOUSE --> PEOPLE : Shelter
+MAINT --> HUB
+MAINT --> HOUSE
+
+@enduml
+```
+
+## 1.7 The Economic Cycle of Philanthropy
+
+You cannot "take profit" from a nonprofit. However, you can generate substantial wealth *around* it through **Management & Asset Alignment**. This is the ethical and legal way to align the Dynasty's interests with the Charity's success.
+
+### Strategy 1: The Management Fee (CXI LLC)
+*   **Mechanism:** Origin Eyes hires **CXI LLC** (Management S-Corp) to handle administration (Bookkeeping, HR, Strategy).
+*   **The Deal:** CXI charges a *Fair Market Value* monthly retainer (e.g., $5,000/mo).
+*   **Result:** The nonprofit gets professional management; the family gets paid for expertise.
+
+### Strategy 2: The Triple-Net Lease (Obuke LLC)
+*   **Mechanism:** **Obuke LLC** (Real Estate HoldCo) buys the building. Origin Eyes *leases* it for its "Tech Hub."
+*   **The Deal:** Origin Eyes pays rent to Obuke. Rent must be *at or below* market rates to be safe, but it covers the mortgage and provides steady cash flow.
+*   **Result:** The charity gets a stable home; the family builds equity in the underlying asset.
+
+### Strategy 3: The IP License (ToriMedia LLC)
+*   **Mechanism:** **ToriMedia** creates the proprietary "AI Bootcamp Curriculum." Origin Eyes *licenses* it.
+*   **The Deal:** ToriMedia charges a per-student license fee (e.g., $50/student).
+*   **Result:** The charity gets world-class content; the family monetizes its intellectual property.
+
+### Visualization: The Economic Cycle
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 80
+skinparam componentStyle rectangle
+
+' Top Down Flow for clarity
+package "Revenue Sources" as REV #LightGreen {
+    [Donors]
+    [Corporate Grants]
+    [Program Fees]
+}
+
+package "The Nonprofit (Conduit)" as OE #White {
+    [**Origin Eyes (501c3)**]
+}
+
+package "The Family Empire (Service Providers)" as FAM #LightBlue {
+    [**CXI LLC**\n(Management S-Corp)] as CXI
+    [**Obuke LLC**\n(Real Estate HoldCo)] as OBU
+    [**ToriMedia LLC**\n(IP HoldCo)] as TORI
+}
+
+' Money In
+Donors --> [**Origin Eyes (501c3)**]
+[Corporate Grants] --> [**Origin Eyes (501c3)**]
+[Program Fees] --> [**Origin Eyes (501c3)**]
+
+' Money Out (Services)
+[**Origin Eyes (501c3)**] --> CXI : Management Fee\n(Admin/HR)
+[**Origin Eyes (501c3)**] --> OBU : Rent Payment\n(Facilities)
+[**Origin Eyes (501c3)**] --> TORI : License Fee\n(Curriculum IP)
+
+note right of CXI
+  **"Fair Market Value"**
+  Contracts Only.
+  Must be defensible
+  in an audit.
+end note
+
+@enduml
+```
+
+## 1.8 The International Impact Bridge (Nigeria Strategy)
+
+Supporting initiatives in Nigeria from a US 501(c)(3) requires strict adherence to Anti-Money Laundering (AML) and Terrorist Financing rules. We utilize the **"Expenditure Responsibility"** model to ensure compliance.
+
+### The "Expenditure Responsibility" Grant
+*   **The Mechanism:** Origin Eyes US creates a specific *Grant Agreement* with a Nigerian partner (e.g., a local school or NGO).
+*   **Terms:** "We grant you $10,000 specifically to buy 20 laptops and pay 1 teacher for 6 months."
+*   **Reporting:** The Nigerian partner must provide receipts and impact reports proving the funds were used *only* for that purpose.
+*   **Control:** Origin Eyes US retains discretion and control over the funds until they are spent.
+
+### Visualization: The International Bridge
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 100
+skinparam componentStyle rectangle
+left to right direction
+
+package "United States (The Source)" as USA #AliceBlue {
+    [Origin Eyes US\n(501c3 Charity)] as OE_US #White
+}
+
+package "Compliance Layer (The Bridge)" as BRIDGE #LightYellow {
+    [Expenditure Responsibility\nGrant Agreement] as CONTRACT
+    [Receipts & Impact Reports] as AUDIT
+}
+
+package "Nigeria (The Target)" as NG #LightGreen {
+    [Local NGO / Partner\n(Grantee)] as PARTNER #White
+    [Project: Computer Lab] as PROJECT
+}
+
+' The Flow
+OE_US --> CONTRACT : 1. Issues Grant\n(Specific Purpose)
+CONTRACT --> PARTNER : 2. Funds Transfer
+
+PARTNER --> PROJECT : 3. Purchases\nEquipment/Labor
+
+' The Return Loop (Critical for Compliance)
+PARTNER .u.> AUDIT : 4. Submits Proof
+AUDIT .u.> OE_US : 5. Verifies Usage
+
+note bottom of CONTRACT
+  **Legal Requirement:**
+  Funds must be tracked
+  to the final dollar.
+  No "General Support"
+  without equivalency.
+end note
+
+@enduml
+```
+
+---
+
 ## 2.0 Strategic Architecture Visualization
 
 Before diving into the frameworks, we must visualize the structure. This diagram maps the **Ohu Dynasty** entity topology, showing the strict separation between Sovereignty, Treasury, Operations, and Assets.
 
 ### The Master Entity Map (Component Diagram)
 
+![Master Entity Map](./images/master-entity-map.svg)
+
+**Source Code:**
+
 ```plantuml
 @startuml
-!theme spacelab
-skinparam componentStyle rectangle
 skinparam linetype ortho
-skinparam nodesep 50
-skinparam ranksep 50
+skinparam nodesep 150
+skinparam ranksep 150
+skinparam componentStyle rectangle
 
-' --- LEVEL 0: BENEFIT LAYER (Personal Tax Shelters) ---
-package "Benefit Layer (Tax Free/Deferred)" {
-    [Solo 401k Trust\n<size:10>Tax: Exempt (5500-EZ)</size>] as 401K #Green
-    [HSA Account\n<size:10>Tax: Exempt (Form 8889)</size>] as HSA #Green
-    [SDIRA LLC\n<size:10>Tax: Disregarded (IRA)</size>] as SDIRA #Green
+' Left to Right flow
+left to right direction
+
+' --- SOVEREIGNTY ---
+package "Sovereignty" as FORTRESS #AliceBlue {
+    [Principals\n(Managers)] as PR
+    [Dynasty Trust\n(South Dakota)] as DT
 }
 
-' --- LEVEL 1: SOVEREIGNTY ---
-package "Sovereignty Layer" {
-    [Principals\n(Managers)\n<size:10>Tax: Form 1040</size>] as PR
-    [Dynasty Trust\n(South Dakota)\n<size:10>Tax: Form 1041</size>] as DT #Navy
-    [Origin Eyes\n(501c3 Charity)\n<size:10>Tax: Form 990</size>] as OE #Green
+' --- TREASURY ---
+package "Treasury" as BANK #LightGray {
+    ' Fixed Visibility: White Box, Bold Text
+    [**PNR Holdings LLC**\n(Wyoming Treasury)] as PNR #White
     
-    ' Sub-Trusts Branch
-    [Gen 2 Sub-Trusts\n(Beneficiaries)\n<size:10>Tax: Form 1041</size>] as SUBT #Navy
+    [Origin Eyes\n(501c3 Charity)] as OE #White
 }
 
-' --- LEVEL 2: TREASURY ---
-package "Treasury Layer" {
-    [PNR Holdings LLC\n(Wyoming Treasury)\n<size:10>Tax: Partnership (1065)</size>] as PNR #Black
-    [Captive Insurance\n(831b Risk Mgmt)\n<size:10>Tax: Form 1120-PC</size>] as CAP #Green
+' --- OPERATIONS (Grouped to force vertical stacking) ---
+package "Operating Layer" as OPS #LemonChiffon {
+    
+    ' Group 1: Management & IP (Top)
+    package "Management Core" {
+        [CXI LLC\n(Mgmt S-Corp)] as CXI #White
+        [ToriMedia LLC\n(IP HoldCo)] as TORI #White
+    }
+
+    ' Group 2: Active Biz (Middle)
+    package "Active Business" {
+        [Lodging Connections\n(Hospitality)] as LODGE #White
+        [Neat Circle LLC\n(Automation)] as NEAT #White
+        [Kwode LLC\n(Hybrid)] as KW #White
+    }
+    
+    ' Group 3: Assets & Risk (Bottom)
+    package "Assets & Risk" {
+        [Obuke LLC\n(Real Estate)] as OBU #White
+        [Captive Insurance\n(831b)] as CAP #White
+    }
 }
 
-' --- LEVEL 3: PASSIVE ASSETS ---
-package "Passive Zone (Schedule E)" {
-    [Obuke LLC\n(Real Estate)\n<size:10>Tax: Partnership (1065)</size>] as OBU #Green
-    [ToriMedia LLC\n(IP HoldCo)\n<size:10>Tax: Partnership (1065)</size>] as TORI #Green
-}
+' --- CONNECTIONS ---
 
-' --- LEVEL 4: ACTIVE OPERATIONS ---
-package "Active Zone (Ordinary Income)" {
-    [CXI LLC\n(Management)\n<size:10>Tax: S-Corp (1120-S)</size>] as CXI #Blue
-    [Kwode LLC\n(Hybrid OpCo)\n<size:10>Tax: Disregarded</size>] as KW #Red
-    [Neat Circle LLC\n(Automation)\n<size:10>Tax: Disregarded</size>] as NEAT #Red
-    [Lodging Connections\n(Hospitality)\n<size:10>Tax: Disregarded</size>] as LODGE #Red
-    [Ulor LLC\n(Acquisition)\n<size:10>Tax: Disregarded</size>] as ULOR #Red
-}
-
-' --- ALIGNMENT (Hidden) ---
-PR -[hidden]down- DT
-DT -[hidden]down- PNR
-PNR -[hidden]down- CXI
-
-' Benefits Alignment
-401K -[hidden]down- HSA
-HSA -[hidden]down- SDIRA
-PR -[hidden]left- 401K
-
-' Sub-Trust Alignment
-DT -[hidden]right- SUBT
-
-' Zone Alignment
-OE -[hidden]right- DT
-PNR -[hidden]right- CAP
-OBU -[hidden]right- CXI
-
-' --- RELATIONSHIPS ---
-
-' Benefits Flow
-PR --> 401K : Participant
-PR --> HSA : Owner
-CXI --> 401K : Employer Match
-401K --> SDIRA : Funds (Rollover)
-
-' Sovereignty Flow
-PR --> DT : Grantors
+' Sovereignty -> Treasury
+PR --> DT
 DT --> PNR : Owns 100%
-DT ..> OE : Beneficiary
-DT ..> SUBT : Distributes
+DT --> OE : Beneficiary
 
-' Treasury Flow
-PNR --> CAP
-PNR --> OBU
-PNR --> TORI
+' PNR -> Operations (Fan Out)
 PNR --> CXI
-PNR --> KW
-PNR --> NEAT
+PNR --> TORI
 PNR --> LODGE
-PNR --> ULOR
+PNR --> NEAT
+PNR --> KW
+PNR --> OBU
+PNR --> CAP
 
-' Operational Flow
-CXI ..> KW : Manages
+' Internal Ops Links (Dotted)
 CXI ..> NEAT : Manages
-CXI ..> LODGE : Manages
-CXI ..> ULOR : Manages
-
-TORI ..> KW : Licenses IP
+CXI ..> KW : Manages
 TORI ..> NEAT : Licenses IP
-TORI ..> LODGE : Licenses IP
-
-NEAT ..> KW : Automates
-NEAT ..> LODGE : Automates
-
-ULOR .up.> OBU : Assigns Contract
+TORI ..> KW : Licenses IP
 
 @enduml
 ```

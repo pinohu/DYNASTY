@@ -1,0 +1,45 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+title The Heir Development Pathway
+
+state "Phase 1: Child (Age 0-12)" as P1 #LightBlue {
+    state "Financial Literacy Games" as S1
+    state "Savings Jars" as S2
+    state "Family Values Stories" as S3
+}
+
+state "Phase 2: Apprentice (Age 12-18)" as P2 #LightGreen {
+    state "Internship (Summer)" as S4
+    state "Junior Board Member" as S5
+    state "Investment Club" as S6
+}
+
+state "Phase 3: Explorer (Age 18-25)" as P3 #Pink {
+    state "University / Trade" as S7
+    state "Outside Employment" as S8
+    state "Travel / Mission" as S9
+}
+
+state "Phase 4: Associate (Age 25-30)" as P4 #Gold {
+    state "Junior Executive" as S10
+    state "Project Lead" as S11
+    state "First Distribution" as S12
+}
+
+state "Phase 5: Partner (Age 30+)" as P5 #White {
+    state "Family Council Voting" as S13
+    state "Senior Leadership" as S14
+    state "Trustee Role" as S15
+}
+
+' Transitions
+P1 --> P2 : Age 12
+P2 --> P3 : High School Grad
+P3 --> P4 : 2 Years Outside Work
+P4 --> P5 : Proven Competence
+
+@enduml

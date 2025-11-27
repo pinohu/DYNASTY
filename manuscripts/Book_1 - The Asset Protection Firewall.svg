@@ -1,0 +1,56 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 80
+skinparam componentStyle rectangle
+
+' Force Left-to-Right Layout for cleaner lanes
+left to right direction
+
+package "The Citadel (Safe Zone)" as CITADEL #LightGreen {
+    [Dynasty Trust] as DT
+    [PNR Holdings] as PNR
+    [Obuke LLC (Master)] as OBU
+}
+
+package "The Battlefield (Risk Zone)" as BATTLEFIELD #Pink {
+    rectangle "Service Businesses" {
+        [Notroom Services] as NOT
+        [TaxEar Advisory] as TAX
+    }
+    rectangle "Real Estate Cells" {
+        [Obuke Series A\n(Property 1)] as SA
+        [Obuke Series B\n(Property 2)] as SB
+    }
+}
+
+actor "Creditor (Attack 1)" as ATT1
+actor "Tenant (Attack 2)" as ATT2
+
+' Ownership Hierarchy (The Backbone)
+DT --> PNR
+PNR --> NOT
+PNR --> TAX
+PNR --> OBU
+OBU --> SA
+OBU --> SB
+
+' Attack Vectors (Coming from the "Public" side)
+ATT1 .u.> NOT : <color:red>Sues Notary Error</color>
+ATT2 .u.> SA : <color:red>Slip & Fall Lawsuit</color>
+
+' Defense Logic (Notes attached to the LINK itself or near the node)
+note bottom of NOT
+  <color:red><b>BLOCKED BY VEIL</b></color>
+  Liability stops here.
+  Cannot reach PNR.
+end note
+
+note bottom of SA
+  <color:red><b>BLOCKED BY CELL</b></color>
+  Liability isolated.
+  Cannot reach Master
+  or Series B.
+end note
+
+@enduml

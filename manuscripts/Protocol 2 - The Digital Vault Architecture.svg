@@ -1,0 +1,37 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "Rented Land (SaaS Risk)" {
+    [SuiteDash CRM] as SD #Pink
+    [QuickBooks Fin] as QB #Pink
+    [Google Drive] as G #Pink
+    [Stripe Data] as S #Pink
+}
+
+package "The Digital Vault (Sovereign)" {
+    node "Synology NAS (Local Home)" {
+        [Backup Manager] as BM #LightGreen
+        database "Local RAID" as RAID #LightBlue
+    }
+    
+    node "Deep Storage (Immutable)" {
+        [Encrypted USB] as USB #Gold
+        cloud "Backblaze B2 (Encrypted)" as B2 #LightBlue
+    }
+}
+
+' Flows (Data Extraction)
+SD --> BM : CSV Export
+QB --> BM : PDF Dump
+G --> BM : Daily Sync
+S --> BM : Transaction Log
+
+' Flows (Protection)
+BM --> RAID : Write Data
+RAID --> USB : Monthly Copy (Offsite)
+RAID --> B2 : Encrypted Sync
+
+@enduml

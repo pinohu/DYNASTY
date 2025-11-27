@@ -1,0 +1,41 @@
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 80
+skinparam componentStyle rectangle
+
+' Top Down Flow for clarity
+package "Revenue Sources" as REV #LightGreen {
+    [Donors]
+    [Corporate Grants]
+    [Program Fees]
+}
+
+package "The Nonprofit (Conduit)" as OE #White {
+    [**Origin Eyes (501c3)**]
+}
+
+package "The Family Empire (Service Providers)" as FAM #LightBlue {
+    [**CXI LLC**\n(Management S-Corp)] as CXI
+    [**Obuke LLC**\n(Real Estate HoldCo)] as OBU
+    [**ToriMedia LLC**\n(IP HoldCo)] as TORI
+}
+
+' Money In
+Donors --> [**Origin Eyes (501c3)**]
+[Corporate Grants] --> [**Origin Eyes (501c3)**]
+[Program Fees] --> [**Origin Eyes (501c3)**]
+
+' Money Out (Services)
+[**Origin Eyes (501c3)**] --> CXI : Management Fee\n(Admin/HR)
+[**Origin Eyes (501c3)**] --> OBU : Rent Payment\n(Facilities)
+[**Origin Eyes (501c3)**] --> TORI : License Fee\n(Curriculum IP)
+
+note right of CXI
+  **"Fair Market Value"**
+  Contracts Only.
+  Must be defensible
+  in an audit.
+end note
+
+@enduml
