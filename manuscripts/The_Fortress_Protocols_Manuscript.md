@@ -50,6 +50,8 @@ You cannot expect your spouse to learn API coding during a crisis. You need a pr
 
 ### 1.4 Visualization: The Code Red Activation Sequence
 
+![Code Red Activation Sequence](./images/code-red-activation.svg)
+
 ```plantuml
 @startuml
 participant "Trust Protector\n(Commonwealth Trust)" as PROT
@@ -109,6 +111,8 @@ We utilize the **3-2-1 Backup Rule** adapted for the SaaS era:
 *   **Communications:** "Google Takeout" or IMAP backup of all email accounts to local archive.
 
 ### 2.3 Visualization: The Digital Vault Diagram
+
+![The Digital Vault Architecture](./images/digital-vault-architecture.svg)
 
 ```plantuml
 @startuml
@@ -173,6 +177,8 @@ The core engines (Notary, Tax, Directory) are high-risk for AI displacement in t
 *   **The Result:** The Family Council uses this deck to identify weak points and pivot strategy.
 
 ### 3.4 Visualization: The Innovation Cycle (The Hedge)
+
+![The Innovation Cycle](./images/innovation-cycle.svg)
 
 ```plantuml
 @startuml
@@ -249,6 +255,8 @@ You cannot delete negative content, but you can bury it.
 
 ### 4.4 Visualization: The Reputation Iron Dome
 
+![The Reputation Defense Ecosystem](./images/reputation-defense-ecosystem.svg)
+
 ```plantuml
 @startuml
 skinparam linetype ortho
@@ -323,6 +331,8 @@ We focus on software security, but the weakest link is often physical hardware o
     *   If seized or stolen, the loss is hardware only, not the Empire's keys.
 
 ### 5.4 Visualization: The OpSec Network Map
+
+![The OpSec Network Map](./images/opsec-network-map.svg)
 
 ```plantuml
 @startuml

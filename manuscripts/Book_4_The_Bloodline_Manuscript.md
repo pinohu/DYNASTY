@@ -7237,6 +7237,8 @@ The following diagrams illustrate the structure and flow of the Apex Insurance A
 
 This diagram visualizes the "Moat" protecting the Empire. It shows which policies shield which entities and how the Captive Insurance Company integrates into the structure.
 
+![Master Insurance Ecosystem](./images/master-insurance-ecosystem.svg)
+
 ```plantuml
 @startuml
 skinparam linetype ortho
@@ -7293,6 +7295,8 @@ DT --> ILIT
 
 This diagram details the specific "Checkbook Logic" for each policy type, ensuring tax efficiency is maximized.
 
+![Premium & Tax Flow Logic](./images/premium-tax-flow-logic.svg)
+
 ```plantuml
 @startuml
 participant "Operating Co\n(Tax Deduction)" as OPCO
@@ -7340,6 +7344,8 @@ end
 ### Diagram 3: The "Zero-Loss" Hybrid LTC Strategy
 
 This illustrates the specific flow for the Hybrid Long-Term Care strategy, ensuring premiums are never "wasted."
+
+![Zero-Loss Hybrid LTC Strategy](./images/zero-loss-hybrid-ltc.svg)
 
 ```plantuml
 @startuml
@@ -8915,6 +8921,55 @@ Growth through acquisition is the accelerator of the Ohu Family Enterprise. Whil
 The strategy is specific: acquire resilient, cash-flowing local service businesses (HVAC, pest control, property maintenance), separate their operations from their real estate, modernize them with the SuiteDash Business Operating System (BOS), and amplify them with ToriMedia's creative engine. This is not speculative venture capital; this is industrial-grade wealth accumulation.
 
 This playbook serves as the operational manual for the Empire's M&A engine. It moves beyond theory into the granular details of deal sourcing, forensic due diligence, creative financing structures, and the critical first 100 days of integration.
+
+### The M&A Deal Flow Funnel Visualization
+
+This diagram illustrates the stages of the acquisition pipeline, from lead generation to closing.
+
+![M&A Deal Flow Funnel](./images/ma-deal-flow-funnel.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 40
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+title The M&A Deal Flow Funnel
+
+package "Top of Funnel (Sourcing)" as TOP #Pink {
+    card "100 Leads" as LEADS
+    card "Automated Screening" as SCREEN
+}
+
+package "Middle of Funnel (Evaluation)" as MID #LightBlue {
+    card "20 Matches" as MATCH
+    card "Initial Meeting" as MEET
+    card "5 LOIs Sent" as LOI
+}
+
+package "Bottom of Funnel (Execution)" as BOT #LightGreen {
+    card "2 LOIs Accepted" as ACCEPT
+    card "Due Diligence" as DD
+    card "1 Deal Closed" as CLOSE
+}
+
+package "Post-Close (Integration)" as POST #Gold {
+    card "90-Day Plan" as PLAN
+}
+
+' Flow
+LEADS --> SCREEN : Criteria Check
+SCREEN --> MATCH : Pass Filter
+MATCH --> MEET : Owner Fit
+MEET --> LOI : Financial Fit
+LOI --> ACCEPT : Negotiation
+ACCEPT --> DD : Verification
+DD --> CLOSE : Funding
+CLOSE --> PLAN : Operations
+
+@enduml
+```
 
 ## 43.1 Target Identification
 

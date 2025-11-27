@@ -125,11 +125,11 @@ stop
 @enduml
 ```
 
-### The Cash Flow Engine Visualization
+### The Master Entity Map Visualization
 
-This sequence diagram illustrates the **velocity of money** through these engines. It shows how a single dollar travels from a client to a protected asset.
+This diagram illustrates the complete structure of the Ohu Empire, showing the Sovereignty, Treasury, and Operating layers.
 
-![Perfect Dollar Sequence](./images/perfect-dollar-sequence.svg)
+![Master Entity Map](./images/master-entity-map.svg)
 
 **Source Code:**
 
@@ -171,10 +171,6 @@ package "Operating Layer" as OPS #LemonChiffon {
         [Amplified Reach\n(The Sword)] as REACH_AGENCY #White
         [Lodging Connections\n(Hospitality)] as LODGE #White
         [Neat Circle LLC\n(Automation)] as NEAT #White
-        [Kwode LLC\n(Hybrid)] as KW #White
-    }
-    
-    ' Group 3: Assets & Risk (Bottom)
         [Kwode LLC\n(Hybrid)] as KW #White
     }
     
