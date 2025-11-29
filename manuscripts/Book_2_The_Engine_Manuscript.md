@@ -125,6 +125,8 @@ stop
 @enduml
 ```
 
+---
+
 ### The Master Entity Map Visualization
 
 This diagram illustrates the complete structure of the Ohu Empire, showing the Sovereignty, Treasury, and Operating layers.
@@ -203,6 +205,45 @@ CXI ..> NEAT : Manages
 CXI ..> KW : Manages
 TORI_IP ..> REACH_AGENCY : Licenses IP (Royalty Flow)
 TORI_IP ..> KW : Licenses IP
+
+@enduml
+```
+
+### The Three-Horizon Strategy Visualization
+
+This diagram illustrates our strategic planning framework, balancing immediate cash flow with long-term generational wealth.
+
+![Three Horizon Strategy Map](./images/three-horizon-map.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "Horizon 1: The Cash Engine (Years 0-3)" as H1 #LightGreen {
+    [Notroom Services] as NOTARY
+    [TaxEar Advisory] as TAX
+    note bottom: "Fuel for the Journey"
+}
+
+package "Horizon 2: The Asset Engine (Years 3-10)" as H2 #LightBlue {
+    [Obuke Real Estate] as RE
+    [Directory Empire] as DIR
+    note bottom: "Wealth Accumulation"
+}
+
+package "Horizon 3: The Legacy Engine (Years 10-365)" as H3 #Gold {
+    [Dynasty Trust] as TRUST
+    [Ohu Labs (VC)] as VC
+    note bottom: "Immortality"
+}
+
+' Flow
+H1 --> H2 : Surplus Cash Flow
+H2 --> H3 : Asset Appreciation
+H3 ..> H1 : Governance & Capital
 
 @enduml
 ```

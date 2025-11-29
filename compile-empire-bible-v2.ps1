@@ -3,10 +3,21 @@
 
 $outputFile = "Empire_Bible_Complete.md"
 
+$logFile = "compilation_log.txt"
+function Log-Message {
+    param($msg)
+    Add-Content -Path $logFile -Value $msg
+    Write-Host $msg
+}
+
 # Auto-discover all chapter files
-Write-Host "Discovering chapters..."
-$chapterFiles = Get-ChildItem -Path "empire-bible" -Recurse -Filter "chapter-*.md" | 
+Log-Message "Discovering chapters in current directory recursively..."
+$allFiles = Get-ChildItem -Path . -Recurse -Filter "chapter-*.md"
+Log-Message "Found $($allFiles.Count) total markdown files."
+
+$chapterFiles = $allFiles | 
     Where-Object { 
+        $_.Name -match '^chapter-' -and
         $_.FullName -notlike "*\templates\*" -and 
         $_.FullName -notlike "*\checklists\*" -and
         $_.FullName -notlike "*\implementation-resources\*"
@@ -22,8 +33,9 @@ $chapterFiles = Get-ChildItem -Path "empire-bible" -Recurse -Filter "chapter-*.m
 
 # Auto-discover introduction files
 Write-Host "Discovering introductions..."
-$introFiles = Get-ChildItem -Path "empire-bible" -Recurse -Filter "*introduction.md" | 
+$introFiles = $allFiles | 
     Where-Object { 
+        $_.Name -match 'introduction.md$' -and
         $_.FullName -notlike "*\templates\*" -and 
         $_.FullName -notlike "*\checklists\*"
     } | ForEach-Object {
@@ -268,7 +280,7 @@ foreach ($chapter in $chapterOrder | Sort-Object Order) {
 }
 
 # Add appendices if they exist
-$appendicesPath = "empire-bible\appendices"
+$appendicesPath = "ohu-legacy-codex\appendices"
 if (Test-Path $appendicesPath) {
     $appendicesFiles = Get-ChildItem -Path $appendicesPath -Filter "*.md" | Sort-Object Name
     if ($appendicesFiles.Count -gt 0) {

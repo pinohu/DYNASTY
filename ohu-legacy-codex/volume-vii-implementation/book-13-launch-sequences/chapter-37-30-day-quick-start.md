@@ -46,12 +46,14 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 - Configure customer and vendor lists
 - **Action Item**: Create monthly close checklist template
 
-**10:00 AM - 11:00 AM: SuiteDash Command Center Setup**
-- Create white-label environment for each operating company
-- Configure roles and permissions (executive, manager, staff, client)
-- Set up CRM structure with standardized fields
-- Create initial pipelines for each business unit
-- **Action Item**: Document SuiteDash configuration in knowledge base
+**10:00 AM - 11:00 AM: SuiteDash Control Center Configuration**
+- **Execute "Day 1 Control Center" Protocol**:
+  - Create the 20 Custom Fields for "Hormozi Value Equation" (Dream_Outcome_Score, Likelihood_Score, etc.).
+  - Build the "CLOSER" Pipeline (Clarify -> Label -> Overview -> Sell -> Explain -> Reinforce).
+  - Configure the "Value Engine" automation logic (see Volume IV, Chapter 19 for exact formulas).
+- Create white-label environment for each operating company.
+- Configure roles and permissions (executive, manager, staff, client).
+- **Action Item**: Complete the "Day 1: Control Center" checklist.
 
 **11:00 AM - 12:00 PM: Team Activation**
 - Send welcome emails to all team members (VAs, contractors, advisors)
@@ -104,14 +106,15 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 - Celebrate small wins
 - **Action Item**: Schedule weekly family business review meeting
 
-### Day 2: System Integration
+### Day 2: System Integration & Data Engine Launch
 
 **Morning (8:00 AM - 12:00 PM)**
-- Complete SuiteDash integration with all tools
-- Set up KonnectzIT (Primary) or Boost.space (Data Hub)
-- Configure automation workflows (KonnectzIT/Make.com)
-- Test end-to-end automation chains
-- **Quick Win**: One fully automated lead-to-client workflow
+- **Execute "Day 2 Data Engine" Protocol**:
+  - **Hexomatic**: Configure "Google Maps Lead Scraper" recipe for your target niche (e.g., "Plumbers in [City]").
+  - **Brilliant Directories**: Initialize first directory instance (branding, domain).
+  - **Data Import**: Upload the initial 50-lead test batch from Hexomatic to Brilliant Directories.
+- Complete SuiteDash integration with active tools (Activepieces).
+- **Quick Win**: One fully populated directory niche with live data.
 
 **Afternoon (1:00 PM - 5:00 PM)**
 - Team orientation call (all VAs and contractors)
@@ -125,15 +128,17 @@ Your 30-day journey is divided into four distinct phases: Days 1-7 (Foundation),
 - Adjust Day 3 priorities based on learnings
 - Document any process improvements needed
 
-### Day 3: First Client Acquisition
+### Day 3: First Client Acquisition & Outreach Machine
 
-**Focus**: Generate and close your first paying client
+**Focus**: Generate and close your first paying client using the Automated Outreach Machine
 
 **Morning**
-- Launch first marketing campaign (Google Ads or Facebook Ads)
-- Activate referral network outreach
-- Send announcement emails to personal network
-- Post on social media with clear call-to-action
+- **Execute "Day 3 Outreach Machine" Protocol**:
+  - **Autobound**: Set up "Directory Claim Invitation" campaign.
+  - **AI Prompt**: Configure for high-conversion "Claim your [Rating] star listing" messaging.
+  - **Launch**: Send campaign to the 50 test leads generated on Day 2.
+- Launch complementary Google/Facebook Ads (optional).
+- Activate referral network outreach.
 
 **Afternoon**
 - Monitor lead flow in real-time

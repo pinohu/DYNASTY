@@ -200,7 +200,138 @@ Money in, Money out.
 
 ---
 
-## Section 19.5: SuiteDash Super GPT - AI-Powered Implementation Assistant
+## Section 19.5: The North Star Configuration Protocols
+
+This section details the **exact executable configurations** required to implement the "North Star" strategy. These are your technical marching orders.
+
+### 19.5.1 The "Hormozi Value Equation" CRM Configuration
+
+To operationalize high-value sales, you must track the core drivers of value. Configure these specific assets in SuiteDash immediately.
+
+**A. Custom Fields Setup (CRM Targets)**
+Navigate to: `Hamburger Menu ☰` > `Custom Fields` > `Manage Custom Fields` > `+Add Custom Field`
+
+**Core "Hormozi" Value Fields (The Engine)**
+| Field Name | Type | Description | Options/Validation |
+| :--- | :--- | :--- | :--- |
+| `Dream_Outcome_Score` | Number | Hormozi Value: Desired outcome appeal | Min: 1, Max: 10, Default: 5 |
+| `Likelihood_Score` | Number | Hormozi Value: Belief in success | Min: 1, Max: 10, Default: 5 |
+| `Time_Delay_Days` | Number | Hormozi Value: Days to result | Min: 1, Max: 365, Default: 90 |
+| `Effort_Score` | Number | Hormozi Value: Required effort | Min: 1, Max: 10, Default: 5 |
+| `Calculated_Value` | Number | Auto-calculated score (0-100) | Min: 0, Max: 100 |
+
+**Sales Qualification Fields ("CLOSER")**
+| Field Name | Type | Description | Options |
+| :--- | :--- | :--- | :--- |
+| `Primary_Pain_Point` | Text Area | Main problem identified | N/A |
+| `Problem_Label` | Text | Specific labeled problem | N/A |
+| `Previous_Solutions` | Text Area | What they tried before | N/A |
+| `Budget_Authority` | Dropdown | Decision power | Decision Maker, Influencer, None |
+| `Company_Size` | Dropdown | Org size | 1-10, 11-50, 51-200, 200+ |
+| `Timeline_Urgency` | Dropdown | Implementation timeline | Immediate, 30 Days, 90 Days, Future |
+| `Budget_Range` | Dropdown | Expected investment | <$5k, $5k-10k, $10k-25k, $25k+ |
+
+**Business Intelligence Fields (KPIs)**
+| Field Name | Type | Description |
+| :--- | :--- | :--- |
+| `Lead_Source_Primary` | Dropdown | Origin (Ads, Referral, Directory) |
+| `Customer_LTV` | Number | Lifetime Value ($) |
+| `CAC_Actual` | Number | Cost to Acquire ($) |
+| `Churn_Risk` | Dropdown | Risk level (Low, Med, High) |
+| `NPS_Score` | Number | Net Promoter Score (0-10) |
+| `Referral_Partner` | Text | Who sent them |
+| `Onboarding_Status` | Dropdown | Not Started, In Progress, Complete |
+| `Next_Renewal_Date` | Date | Subscription renewal |
+
+**B. The "CLOSER" Pipeline Structure**
+Navigate to: `Deals` > `Pipelines` > `+Add Pipeline` -> Title: `CLOSER Sales Framework`
+
+1.  **CLARIFY (10%)**: Identify core problem.
+    *   *Action*: Log `Primary_Pain_Point`.
+    *   *Automation*: Send **Pre-Discovery Email** (Script below).
+2.  **LABEL (20%)**: Confirm problem acknowledgment.
+    *   *Action*: Update `Problem_Label`.
+3.  **OVERVIEW (35%)**: Document past failures.
+    *   *Action*: Log `Previous_Solutions`.
+4.  **SELL (50%)**: Demo the specific solution.
+    *   *Action*: Update `Time_Delay_Days` (show speed).
+5.  **EXPLAIN (70%)**: Resolve objections.
+    *   *Action*: Update `Effort_Score` (show ease).
+6.  **REINFORCE (90%)**: Finalize commitment.
+    *   *Action*: Generate Contract.
+7.  **CLOSED WON (100%)**: Implementation.
+    *   *Action*: Trigger Onboarding Template.
+
+**C. The "Value Engine" Automation Logic**
+Use this exact JavaScript formula in your SuiteDash/Activepieces automation to calculate lead priority:
+
+```javascript
+// Normalized Hormozi Value Calculation
+let dream = parseFloat("{{contact.Dream_Outcome_Score}}") || 5;
+let belief = parseFloat("{{contact.Likelihood_Score}}") || 5;
+let delay = Math.max(1, parseFloat("{{contact.Time_Delay_Days}}") / 30); // Normalized to months
+let effort = parseFloat("{{contact.Effort_Score}}") || 5;
+
+// (Dream * Belief) / (Delay * Effort)
+let rawScore = (dream * belief) / (delay * effort);
+return Math.min(100, Math.round(rawScore * 10)); // Cap at 100
+```
+
+**D. Asset: Pre-Discovery Email Script**
+*Copy/Paste this into your "CLARIFY" stage automation:*
+
+**Subject**: Preparing for our discovery call - {{contact.First_Name}}
+```text
+Hi {{contact.First_Name}},
+
+I'm looking forward to our call to discuss {{contact.Company_Name}}'s goals.
+
+To make the best use of our time, could you quickly hit reply and let me know:
+
+1. What is the #1 challenge you are facing right now?
+2. What does a "home run" outcome look like for you?
+3. Is there a specific deadline or timeline we need to be aware of?
+
+No need for an essay—bullet points are perfect.
+
+Talk soon,
+[Your Name]
+```
+
+### 19.5.2 The Directory Data Factory (Hexomatic + Brilliant Directories)
+
+This workflow fills your directories with leads without manual entry.
+
+**Step 1: The Hexomatic Scraper**
+*   **Recipe**: "Google Maps Lead Scraper" (AppSumo Tool #110).
+*   **Inputs**: CSV of keywords (e.g., "HVAC in Austin", "Notaries in Dallas").
+*   **Extraction**: `Title`, `Phone`, `Website`, `Rating`, `Address`.
+*   **Step 2**: Run "Email Scraper" on the `Website` results.
+
+**Step 2: The Bulk Import**
+*   **Target**: Brilliant Directories (AppSumo Tool #40).
+*   **Action**: Import Hexomatic CSV.
+*   **Mapping**: `Title` -> `Company Name`, `Email` -> `Email` (Critical for claiming).
+*   **Status**: Set to `Free / Unclaimed`.
+
+**Step 3: The "Claim Your Listing" Outreach**
+*   **Tool**: Autobound (AppSumo Tool #22).
+*   **Campaign**: Upload CSV.
+*   **AI Prompt**: *"Write a helpful email to [Title] noting their [Rating] star rating. Invite them to verify their profile on [Directory Name] to improve local SEO."*
+
+### 19.5.3 Boring Business Modernization (ElectroNeek)
+
+For acquired assets (HVAC, Laundromats) running on legacy software.
+
+**The "Legacy Bridge" Bot**
+1.  **Trigger**: Tech uploads photo of paper invoice to Dropbox.
+2.  **Process**: ElectroNeek (AppSumo Tool #75) `Document Intelligence` extracts `Amount`, `Customer`, `Date`.
+3.  **Action**: ElectroNeek bot opens desktop QuickBooks/Legacy App, clicks fields, types data, saves.
+4.  **Result**: 100% automated bookeeping for non-API software.
+
+---
+
+## Section 19.7: SuiteDash Super GPT - AI-Powered Implementation Assistant
 
 **The "Implementation Accelerator"**:
 

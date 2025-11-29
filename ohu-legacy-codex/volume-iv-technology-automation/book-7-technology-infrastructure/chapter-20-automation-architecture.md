@@ -186,27 +186,27 @@ Documentation is key. If you get hit by a bus, someone needs to know how the mac
 
 Theory is good; recipes are better. Below are the specific, copy-paste automation workflows for each of the Ohu Family Enterprise's operating companies. These recipes leverage your specific tech stack: **SuiteDash, KonnectzIT, Activepieces, and Make.com**.
 
-### Recipe 1: Notroom Services (The "Instant Booking" Flow)
-**Goal**: Turn a notary lead into a booked appointment without human intervention.
+### Recipe 1: The Automation Agency "Glue" (SuiteDash + Activepieces)
+**Goal**: Sync new clients to your entire ecosystem instantly.
 
 **Ingredients**:
--   **Trigger**: GoZen Form (on website) or TidyCal Booking.
--   **Middleware**: KonnectzIT.
--   **Destination**: SuiteDash + Google Calendar + Slack.
+-   **Trigger**: SuiteDash (Contact Created).
+-   **Middleware**: Activepieces (Self-Hosted).
+-   **Destinations**: Google Drive, Slack, VBOUT.
 
 **The Recipe**:
-1.  **Trigger**: Lead submits "Request Notary" form on GoZen.
-2.  **Action 1 (KonnectzIT)**: Create/Update Contact in **SuiteDash**.
-    -   *Mapping*: Name, Email, Phone, Service Type.
-    -   *Tag*: `#Lead-Notary`.
-3.  **Action 2**: Send Email (Acumbamail/Gmail).
-    -   *Content*: "Thanks for your request. Click here to book your slot: [TidyCal Link]."
-4.  **Action 3**: Send Slack Notification to `#ops-notary`.
-    -   *Content*: "New Notary Lead: [Name] - [Service Type]."
-5.  **Action 4 (When Booked)**: TidyCal Webhook -> KonnectzIT -> SuiteDash.
-    -   *Action*: Convert Contact to Client.
-    -   *Action*: Create Project "Notary: [Name] - [Date]".
-    -   *Action*: Assign Task "Prepare Doc Package" to VA.
+1.  **Trigger**: SuiteDash -> `Contact Created` (or Webhook).
+2.  **Action 1: Create Assets Folder (Google Drive)**.
+    -   *Action*: `Create Folder`.
+    -   *Name*: `{{contact.Company_Name}} - Assets`.
+    -   *Parent*: `[Master Client Folder ID]`.
+3.  **Action 2: Team Notification (Slack)**.
+    -   *Action*: `Send Message` to `#sales-wins`.
+    -   *Message*: `🚀 New Client: {{contact.First_Name}} from {{contact.Company_Name}}. Value Score: {{contact.Calculated_Value}}`.
+4.  **Action 3: Marketing Nurture (VBOUT)**.
+    -   *Action*: `Add Contact to List`.
+    -   *List*: `Onboarding - New Clients`.
+    -   *Email*: `{{contact.Email}}`.
 
 ### Recipe 2: Obuke Real Estate (The "Tenant Onboarding" Flow)
 **Goal**: Automate the lease signing and portal access process.
@@ -253,28 +253,24 @@ Theory is good; recipes are better. Below are the specific, copy-paste automatio
     -   *Action*: Notify Team "Ready to Prep."
     -   *Action*: Change Status to "In Prep."
 
-### Recipe 4: Directory Empire (The "Upsell" Engine)
-**Goal**: Convert free listings to paid members.
+### Recipe 4: The Directory Data Factory (Hexomatic -> Brilliant Directories)
+**Goal**: Populate directories with thousands of leads automatically.
 
 **Ingredients**:
--   **Trigger**: New Free Signup in Brilliant Directories.
--   **Middleware**: KonnectzIT.
--   **Destination**: Acumbamail + SuiteDash.
+-   **Source**: Hexomatic (Google Maps Scraper).
+-   **Destination**: Brilliant Directories (Import).
+-   **Outreach**: Autobound.
 
 **The Recipe**:
-1.  **Trigger**: Webhook from Brilliant Directories (New Member).
-2.  **Action 1**: Create Contact in **SuiteDash**.
-    -   *Tag*: `#Directory-Free-Member`.
-    -   *Circle*: `Directory Members`.
-3.  **Action 2**: Add to **Acumbamail** List "Directory Nurture."
-4.  **Action 3 (Drip Sequence)**:
-    -   *Day 1*: "Welcome! Here is your free listing."
-    -   *Day 3*: "Case Study: How Premium members get 5x more leads."
-    -   *Day 7*: "Limited Offer: Upgrade to Premium for 50% off first month."
-5.  **Action 4 (On Upgrade)**:
-    -   *Trigger*: Stripe Payment.
-    -   *Action*: Update SuiteDash Tag to `#Directory-Premium`.
-    -   *Action*: Create "Optimization Call" Task for VA.
+1.  **Step 1 (Hexomatic)**: Run "Google Maps Lead Scraper".
+    -   *Input*: Keywords (e.g., "Plumbers in Dallas").
+    -   *Extract*: `Title`, `Phone`, `Website`, `Rating`, `Address`.
+2.  **Step 2 (Hexomatic)**: Run "Email Scraper" on extracted URLs.
+3.  **Step 3 (Import)**: Upload CSV to Brilliant Directories.
+    -   *Map*: `Title`->`Company`, `Email`->`Email`.
+    -   *Status*: `Free / Claim Listing`.
+4.  **Step 4 (Autobound)**: Launch "Claim Invitation" Campaign.
+    -   *Prompt*: "Hi [Title], saw your [Rating] star reviews. Claim your free verified profile on [Directory] to get more leads."
 
 ### Recipe 5: AI Content Factory (The "SEO" Machine)
 **Goal**: Generate location pages for directories automatically.
@@ -294,6 +290,26 @@ Theory is good; recipes are better. Below are the specific, copy-paste automatio
 5.  **Action 4**: Post to Website (WordPress API or BD API).
     -   *Status*: Draft (for review) or Publish (if bold).
 6.  **Action 5**: Update Google Sheet with "Published URL."
+
+### Recipe 6: Boring Business Modernization (ElectroNeek RPA)
+**Goal**: Automate legacy software (QuickBooks Desktop) for acquired businesses.
+
+**Ingredients**:
+-   **Tool**: ElectroNeek (RPA).
+-   **Trigger**: Dropbox File Upload.
+-   **Target**: Legacy Desktop App.
+
+**The Recipe**:
+1.  **Trigger**: Field tech uploads photo of paper invoice to `Dropbox/Invoices_To_Process`.
+2.  **Action 1 (OCR)**: ElectroNeek `Document Intelligence` reads the PDF.
+    -   *Extracts*: `Invoice #`, `Customer Name`, `Amount`, `Date`.
+3.  **Action 2 (Bot)**: ElectroNeek bot wakes up.
+    -   Opens QuickBooks Desktop 2015.
+    -   Clicks `Create Invoice`.
+    -   Types `{{Customer Name}}`.
+    -   Types `{{Amount}}`.
+    -   Clicks `Save`.
+4.  **Action 3**: Sends summary to Slack `#finance-ops`.
 
 ---
 

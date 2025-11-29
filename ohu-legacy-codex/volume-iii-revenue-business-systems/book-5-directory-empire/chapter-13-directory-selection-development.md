@@ -190,7 +190,73 @@ How to go from "Zero" to "Revenue."
 
 ---
 
-## Section 13.5: Super Directory GPT - AI-Powered Directory Development
+## Section 13.5: The Directory Data Factory Configuration
+
+This section details the **exact technical configuration** for populating your directories at scale using the "North Star" tech stack.
+
+### 13.5.1 The Data Engine (Hexomatic)
+**Objective**: Scrape business data to populate directories without manual entry.
+
+**Recipe: Google Maps Lead Scraper**
+1.  **Input**: Create a CSV file with keywords (e.g., "Plumbers in Dallas", "HVAC in Austin").
+2.  **Select Template**: In Hexomatic, choose `Google Maps Scraper` (One-click template).
+3.  **Extract Fields**:
+    *   `Title` (Business Name)
+    *   `Rating`
+    *   `Reviews Count`
+    *   `Address`
+    *   `Phone`
+    *   `Website`
+4.  **Workflow Step 2**: Add `Email Scraper` step to run on the extracted Website URL.
+    *   Extract `Email Address` and `Social Media Links`.
+5.  **Export**: Download as `Google Sheets` or `CSV`.
+
+### 13.5.2 The Bulk Import (Brilliant Directories)
+**Objective**: Import Hexomatic data to create "Claimable" listings.
+
+**Steps**:
+1.  Navigate to: `My Members` > `Import Members`.
+2.  **Map Fields**:
+    *   `First Name` -> `Business Name` (or split if person)
+    *   `Company` -> `Title` (from Hexomatic)
+    *   `Phone` -> `Phone`
+    *   `Email` -> `Email` (Critical for "Claim Listing" campaigns)
+    *   `Website` -> `Website`
+3.  **Membership Level**: Assign to `Free / Claim Listing` (Create this level if it doesn't exist).
+
+### 13.5.3 The Outreach Machine (Autobound)
+**Objective**: Get businesses to claim their listings.
+
+**Configuration**:
+1.  **Campaign Name**: `Directory Claim Invitation`.
+2.  **Upload**: The CSV from Hexomatic.
+3.  **AI Prompt**: Use the exact prompt below.
+4.  **Call to Action**: Link to the specific "Claim Listing" page on your directory.
+
+**Asset: Directory Claim Email Script**
+*System Instruction*: Use variables [Business Name], [Rating], [City], and [Directory Name].
+
+**Prompt**:
+"Write a friendly, helpful cold email to a local business owner.
+Subject: Your [Rating] star rating on [Directory Name]
+Body:
+Hi [Business Name],
+I was researching top-rated providers in [City] and noticed your impressive [Rating]-star reviews.
+I've added your business to [Directory Name] as a featured provider because we want to highlight quality local pros.
+However, your profile is currently unverified, meaning you might be missing out on leads.
+Please verify your phone number and add your logo here: [Link].
+It’s free to claim."
+
+### 13.5.4 The SEO Content Factory (Katteb + NeuronWriter)
+**Objective**: Rank for "Best [Service] in [City]".
+
+**Configuration**:
+1.  **NeuronWriter**: Create analyses for "Top 10 [Service] in [City]" keywords. Use content score recommendations to structure H2/H3 headers.
+2.  **Katteb**: Use "Fact-Checked Article" mode.
+3.  **Prompt**: "Write a comprehensive guide on 'How to Hire a [Service Type] in [City]'. Include 5 questions to ask, average costs in [Year], and why licensing is critical."
+4.  **Import**: Post to Brilliant Directories Blog.
+
+## Section 13.7: Super Directory GPT - AI-Powered Directory Development
 
 **The "Directory Development Accelerator"**:
 

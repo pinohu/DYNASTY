@@ -4,7 +4,7 @@
 
 Welcome to the **Legacy Codex**. This is the comprehensive operating manual for building, managing, and preserving a multi-generational family empire. It is designed to guide the Ohu Family for the next 365 years.
 
-**Total Scope:** 10 Volumes | 18 Books | 54+ Chapters | ~1,500+ Pages
+**Total Scope:** 11 Volumes | 19 Books | 56+ Chapters | ~1,600+ Pages
 
 ---
 
@@ -48,6 +48,7 @@ Welcome to the **Legacy Codex**. This is the comprehensive operating manual for 
 *The nervous system that powers efficiency.*
 
 - **Book 7: Technology Infrastructure**
+    - [Chapter 18: Comprehensive Tech Inventory & Utilization Matrix](volume-iv-technology-automation/book-7-technology-infrastructure/chapter-18-comprehensive-tech-inventory.md)
     - [Chapter 19: SuiteDash Command Center](volume-iv-technology-automation/book-7-technology-infrastructure/chapter-19-suitedash-command-center.md)
     - [Chapter 20: Automation Architecture](volume-iv-technology-automation/book-7-technology-infrastructure/chapter-20-automation-architecture.md)
     - [Chapter 21: AI Implementation Strategy](volume-iv-technology-automation/book-7-technology-infrastructure/chapter-21-ai-implementation-strategy.md)
@@ -120,6 +121,13 @@ Welcome to the **Legacy Codex**. This is the comprehensive operating manual for 
     - [Chapter 53: Crisis Management Protocols](volume-x-troubleshooting-optimization/book-18-problem-solving-crisis-management/chapter-53-crisis-management-protocols.md)
     - [Chapter 54: Continuous Optimization](volume-x-troubleshooting-optimization/book-18-problem-solving-crisis-management/chapter-54-continuous-optimization.md)
 
+## Volume XI: The Sovereign Executive
+*The keys to the kingdom and digital succession.*
+
+- **Book 19: Executive Systems**
+    - [Chapter 55: Digital Sovereignty & The "Kill Switch" Protocol](volume-xi-sovereign-executive/book-19-executive-systems/chapter-55-digital-sovereignty.md)
+    - [Chapter 56: The Burnout-Proof Execution Strategy](volume-xi-sovereign-executive/book-19-executive-systems/chapter-56-burnout-proof-execution.md)
+
 ---
 
 ## Appendices & Indexes
@@ -145,18 +153,13 @@ Welcome to the **Legacy Codex**. This is the comprehensive operating manual for 
 - Volume VIII: Growth & Exit Strategies
 - Volume IX: Resources & References
 - Volume X: Troubleshooting & Optimization
+- Volume XI: The Sovereign Executive
 
-**All 10 Volumes Complete** âœ…
+**All 11 Volumes Complete** âœ…
 
 ---
 
-**Master Index Updated**: November 18, 2025
+**Master Index Updated**: November 29, 2025
 **Status**: All Volumes Complete âœ…
 **Final Verification**: Complete
 **Production Ready**: Yes & Linked
-
-
-
-
-
-

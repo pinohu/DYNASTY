@@ -99,6 +99,52 @@ We do not guess. We **enrich**. The Intelligence Layer automates the gathering o
 3.  **Sync**: Push enriched data to SuiteDash CRM.
 4.  **Act**: Trigger "Cold Outreach" Sequence via SendGrid.
 
+### Visualization: The Competitor Intelligence Cycle
+
+This diagram maps the cycle of gathering, analyzing, and acting on competitor data to maintain market dominance.
+
+![Competitor Intelligence Cycle](./images/competitor-intelligence-cycle.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "Inputs (Market Signals)" as IN {
+    [Competitor Pricing] as PRICE
+    [Customer Reviews] as REVIEWS
+    [Feature Releases] as FEATURES
+}
+
+package "The Processor (AI Analysis)" as AI {
+    [Sentiment Analysis] as SENT
+    [Gap Analysis] as GAP
+    [Feature Matrix] as MATRIX
+}
+
+package "Outputs (Strategic Action)" as OUT {
+    [Pricing Adjustment] as ADJ
+    [Product Roadmap] as ROAD
+    [Sales Battlecards] as BATTLE
+}
+
+' Flows
+PRICE --> MATRIX
+FEATURES --> MATRIX
+REVIEWS --> SENT
+
+SENT --> GAP
+MATRIX --> GAP
+
+GAP --> ADJ
+GAP --> ROAD
+GAP --> BATTLE
+
+@enduml
+```
+
 ### Visualization: The Intelligence Layer
 
 ![The Intelligence Layer](./images/intelligence-layer.svg)

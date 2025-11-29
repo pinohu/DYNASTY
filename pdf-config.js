@@ -1,0 +1,259 @@
+module.exports = {
+	css: `/* Professional Book Styling for PDF */
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Open+Sans:wght@400;600;700&display=swap');
+
+/* Base Typography */
+body {
+    font-family: 'Merriweather', serif;
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #222;
+    text-align: justify;
+    hyphens: auto;
+    orphans: 2;
+    widows: 2;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    color: #111;
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 22pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 2px solid #000;
+    padding-bottom: 8px;
+    margin-top: 0;
+    margin-bottom: 0.3em; /* TIGHTER SPACING */
+    text-align: center;
+    page-break-before: always;
+}
+
+h2 {
+    font-size: 16pt;
+    font-weight: 600;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 4px;
+    margin-top: 1em; /* TIGHTER SPACING */
+    margin-bottom: 0.5em;
+    text-align: left;
+    page-break-after: avoid;
+    /* Only force page break if it's NOT immediately after an H1? 
+       CSS can't do that easily without adjacent sibling selectors which might not work with markdown intermediates.
+       We'll remove forced page-break-before for H2 to keep flow, unless user wants strict sectioning.
+       User said "It is ok for headers and subheader to be close to each other".
+    */
+}
+
+h3 {
+    font-size: 13pt;
+    font-weight: 600;
+    color: #444;
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+    page-break-after: avoid;
+}
+
+/* Paragraphs & Lists */
+p {
+    margin-bottom: 0.6em;
+    text-indent: 0;
+}
+
+ul, ol {
+    margin-left: 2em;
+    margin-bottom: 0.6em;
+}
+
+li {
+    margin-bottom: 0.2em;
+}
+
+/* Blockquotes */
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #ccc;
+    margin: 1em 0;
+    padding: 0.4em 1.2em;
+    background: #f8f9fa;
+    font-family: 'Merriweather', serif;
+    color: #555;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 10pt;
+    font-family: 'Open Sans', sans-serif;
+    page-break-inside: avoid;
+}
+
+th {
+    background-color: #f0f0f0;
+    border-bottom: 2px solid #444;
+    padding: 8px;
+    font-weight: 700;
+    text-align: left;
+}
+
+td {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 6px;
+    vertical-align: top;
+}
+
+tr:nth-child(even) {
+    background-color: #fafafa;
+}
+
+/* Images */
+img {
+    display: block;
+    max-width: 90%; /* Slightly larger */
+    max-height: 50vh;
+    margin: 1.5em auto;
+    border: 1px solid #eee;
+    page-break-inside: avoid;
+}
+
+/* Navigation Links */
+.back-to-toc {
+    text-align: right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 8pt; /* Smaller */
+    color: #999;
+    margin-top: -0.5em;
+    margin-bottom: 1.5em;
+}
+
+.back-to-toc a {
+    text-decoration: none;
+    color: #999;
+    border-bottom: none;
+}
+
+.back-to-toc a:hover {
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+
+/* Page Breaks & Layout */
+.page-break {
+    page-break-before: always;
+}
+
+/* Front Matter Classes */
+.title-page {
+    text-align: center;
+    margin-top: 20vh;
+    page-break-after: always;
+}
+
+.title-page h1 {
+    font-size: 32pt;
+    border: none;
+    margin-bottom: 0.2em;
+    letter-spacing: 3px;
+    page-break-before: auto;
+}
+
+.title-page .subtitle {
+    font-size: 16pt;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    margin-bottom: 2em;
+    color: #555;
+}
+
+.title-page .author {
+    font-size: 14pt;
+    font-weight: 700;
+    margin-top: 3em;
+}
+
+.copyright-page {
+    page-break-before: always;
+    page-break-after: always;
+    font-size: 9pt;
+    text-align: center;
+    margin-top: 60vh;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.toc-page {
+    page-break-before: always;
+    page-break-after: always;
+}
+
+/* TOC Styling */
+.toc-page h1 {
+    text-align: center;
+    margin-bottom: 1em;
+    border-bottom: none;
+    page-break-before: always;
+}
+
+.toc-page ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.toc-page li {
+    margin-bottom: 0.3em;
+    border-bottom: 1px dotted #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.toc-page a {
+    text-decoration: none;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 11pt;
+    font-weight: 600;
+    width: 100%;
+    display: block;
+    padding: 1px 0;
+}
+
+/* Utility */
+.center { text-align: center; }
+.justify { text-align: justify; }`,
+	body_class: "markdown-body",
+	marked_options: {
+		headerIds: true,
+		smartypants: true,
+	},
+	pdf_options: {
+		format: "A4",
+		margin: {
+			top: "20mm",
+			bottom: "20mm",
+			left: "20mm",
+			right: "20mm",
+		},
+		displayHeaderFooter: true,
+		headerTemplate: `
+			<div style="font-family: 'Open Sans', sans-serif; font-size: 9px; color: #666; width: 100%; text-align: center; padding-bottom: 10px; border-bottom: 1px solid #ddd; margin-left: 20mm; margin-right: 20mm;">
+				<span class="title"></span>
+			</div>
+		`,
+		footerTemplate: `
+			<div style="font-family: 'Open Sans', sans-serif; font-size: 10px; color: #333; width: 100%; text-align: center; margin-top: 10px; padding-top: 5px;">
+				<span class="pageNumber"></span>
+			</div>
+		`,
+		printBackground: true,
+	},
+};

@@ -581,6 +581,41 @@ Thanks for your time!
 
 #### Video Content
 
+##### The North Star Video Factory (FlexClip + Zebracat + Vadoo AI)
+**Objective**: High-volume content production without a studio.
+
+**Tools**:
+-   `FlexClip` (#86): Video editing.
+-   `Zebracat` (#268): AI Text-to-Video generation.
+-   `Vadoo AI` (#255): Repurposing long-form into shorts.
+
+**The Workflow**:
+1.  **Input**: Blog post URL from Brilliant Directories or your main site.
+2.  **Process (Zebracat)**:
+    -   Paste URL -> "Generate Marketing Video".
+    -   **Style**: "Professional/Corporate" for B2B directories, "Energetic" for consumer apps.
+    -   **Prompt**: See *Asset Library* below.
+    -   **Output**: 30-60 second vertical video (Shorts/Reels).
+3.  **Distribution**:
+    -   **Vista Social** (#258): Schedule video to YouTube Shorts, TikTok, Instagram Reels.
+    -   **Caption**: "Check out the top rated [Service] providers in [City]! Link in bio."
+
+**Asset: Zebracat Video Prompt**
+*Input Type*: "Text to Video"
+
+**Prompt**:
+"Create a high-energy 30-second vertical video for social media.
+Topic: The Top 5 [Service Type] in [City].
+Visual Style: Modern, clean, fast cuts.
+Script:
+'Looking for the best [Service Type] in [City]?
+Stop scrolling!
+We've ranked the top providers based on real reviews.
+Don't risk a bad experience.
+Find the verified pros on [Directory Name].
+Link in bio!'
+Music: Upbeat, trending."
+
 **Video Content Types:**
 
 **Type 1: Educational Videos**

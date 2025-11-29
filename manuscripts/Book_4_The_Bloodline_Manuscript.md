@@ -16618,6 +16618,161 @@ This case study demonstrates the power of systematic exit planning and execution
 
 ---
 
+# Chapter 36: The Origin Eyes Foundation
+
+## 36.1 The Dual-Engine Philosophy
+
+We do not build wealth for the sake of wealth. We build it to fuel a higher purpose. The Ohu Dynasty operates on a "Dual-Engine" model:
+1.  **The Economic Engine (PNR Holdings):** Generates profit.
+2.  **The Impact Engine (Origin Eyes):** Distributes purpose.
+
+### Visualization: The Origin Eyes Operational Engine
+
+This diagram illustrates how the Foundation operates efficiently, minimizing overhead while maximizing impact.
+
+![Origin Eyes Operational Engine](./images/origin-eyes-operational-engine.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "Engine 1: The Generator (For-Profit)" as PROFIT #LightGreen {
+    [OpCo 1 (Notary)] as A
+    [OpCo 2 (Real Estate)] as B
+    [OpCo 3 (Tax)] as C
+}
+
+package "Engine 2: The Distributor (Non-Profit)" as IMPACT #LightBlue {
+    [Origin Eyes Foundation] as OE
+}
+
+package "The World (Beneficiaries)" as WORLD #White {
+    [Education] as EDU
+    [Healthcare] as HEALTH
+    [Entrepreneurship] as BIZ
+}
+
+' Flow
+A --> PROFIT : Revenue
+B --> PROFIT : Revenue
+C --> PROFIT : Revenue
+
+PROFIT --> OE : 10% Tithe (Tax Deductible)
+OE --> EDU : Grants
+OE --> HEALTH : Grants
+OE --> BIZ : Micro-Loans
+
+@enduml
+```
+
+## 36.2 Governance Structure
+
+To ensure the Foundation remains true to its mission for 365 years, we separate " Governance" from "Management."
+
+### Visualization: Origin Eyes Governance
+
+![Origin Eyes Governance Structure](./images/origin-eyes-governance.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "Governance (The Board)" as BOARD #Gold {
+    [Family Seat (Permanent)] as FAM
+    [Independent Seat 1 (Legal)] as IND1
+    [Independent Seat 2 (Finance)] as IND2
+}
+
+package "Management (The Staff)" as STAFF #LightGray {
+    [Executive Director] as ED
+    [Program Officer] as PROG
+}
+
+' Relationships
+FAM -[hidden]- IND1
+IND1 -[hidden]- IND2
+
+BOARD --> ED : Hires/Fires
+ED --> PROG : Manages
+BOARD --> BOARD : Sets Strategy
+
+@enduml
+```
+
+## 36.3 The Economic Cycle
+
+Money flows in a specific cycle to maximize tax efficiency and impact velocity.
+
+### Visualization: The Economic Cycle
+
+![Origin Eyes Economic Cycle](./images/origin-eyes-economic-cycle.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+cycle "The Giving Cycle" {
+    [1. PNR Profits] as PNR
+    [2. Donation (Tax Deduction)] as GIVE
+    [3. Foundation Assets] as CORPus
+    [4. Investment Income] as GROW
+    [5. Impact Grants] as IMPACT
+}
+
+PNR --> GIVE
+GIVE --> CORPus
+CORPus --> GROW
+GROW --> CORPus
+CORPus --> IMPACT
+IMPACT ..> PNR : Social Capital (Reputation)
+
+@enduml
+```
+
+## 36.4 The International Bridge
+
+Our legacy spans two continents: The US and Nigeria. Origin Eyes serves as the bridge.
+
+### Visualization: The International Bridge
+
+![Origin Eyes International Bridge](./images/origin-eyes-international-bridge.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 100
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+package "USA (Source)" as USA #LightBlue {
+    [Origin Eyes 501c3] as OE_US
+}
+
+package "Nigeria (Destination)" as NIG #LightGreen {
+    [Origin Eyes NGO] as OE_NG
+    [Local Partners] as LOCALS
+}
+
+' Flow
+OE_US --> OE_NG : Grants (OFAC Compliant)
+OE_NG --> LOCALS : Implementation
+LOCALS --> OE_NG : Impact Reports
+OE_NG --> OE_US : Compliance Data
+
+@enduml
+```
+
+---
+
 # Volume VIII: Growth & Exit Strategies
 
 ## Introduction
@@ -16634,6 +16789,62 @@ Book 15 provides the playbook for non-linear growth. We move beyond the slow gri
 
 ### Chapter 43: Business Acquisition Playbook
 This chapter details the "Boring Business" acquisition strategy. It explains how to identify resilient local service businesses, how to value them, how to finance them using the "Capital Stack" (SBA + Seller Note), and how to integrate them into the Empire ecosystem using the "OpCo/PropCo" split.
+
+### The Deal Flow Funnel Visualization
+
+This diagram maps the process of identifying, evaluating, and acquiring new businesses to fuel the Empire's growth.
+
+![M&A Deal Flow Funnel](./images/ma-deal-flow-funnel.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 60
+skinparam componentStyle rectangle
+
+phase "Sourcing" as P1 {
+    [BizBuySell] as SRC1
+    [Broker Networks] as SRC2
+    [Direct Mail] as SRC3
+}
+
+phase "Screening" as P2 {
+    [Initial Review] as GATE1
+    [NDA Signed] as GATE2
+    [Financials Received] as GATE3
+}
+
+phase "Due Diligence" as P3 {
+    [Legal Audit] as DD1
+    [Financial Audit] as DD2
+    [Operational Audit] as DD3
+}
+
+phase "Closing" as P4 {
+    [LOI Sent] as CLOSE1
+    [APA Signed] as CLOSE2
+    [Integration] as CLOSE3
+}
+
+' Flow
+SRC1 --> GATE1
+SRC2 --> GATE1
+SRC3 --> GATE1
+
+GATE1 --> GATE2
+GATE2 --> GATE3
+GATE3 --> DD1
+
+DD1 --> DD2
+DD2 --> DD3
+DD3 --> CLOSE1
+
+CLOSE1 --> CLOSE2
+CLOSE2 --> CLOSE3
+
+@enduml
+```
 
 **Key Topics:**
 -   Target Identification (HVAC, Pest Control, etc.)

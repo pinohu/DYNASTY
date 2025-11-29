@@ -259,7 +259,7 @@ The Portal is your competitive advantage. It makes you look like a Fortune 500 c
 
 This sequence diagram illustrates the tax-efficient journey of revenue through the operating companies and holdings.
 
-![Perfect Dollar Sequence](./images/perfect-dollar-sequence-v2.svg)
+![Perfect Dollar Sequence](./images/perfect-dollar-sequence.svg)
 
 ```plantuml
 @startuml

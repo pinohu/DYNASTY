@@ -23,6 +23,45 @@ This book is not a theory. It is the foundational operating manual of the Ohu Dy
 
 Welcome to the **Legacy Codex**. This document is not merely a business plan or an operations manual; it is the sacred constitution of our family's legacy. It is the blueprint for building, operating, and perpetuating a business empire that will stand for over 365 years.
 
+### The Grand Master Visualization
+
+This diagram represents the "Unified Theory" of the Ohu Dynasty—how Family, Business, and Wealth connect to form an immortal system.
+
+![Grand Master Diagram](./images/grand-master-diagram.svg)
+
+```plantuml
+@startuml
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 80
+skinparam componentStyle rectangle
+
+package "The Family (The Why)" as FAM #LightBlue {
+    [Family Council] as COUNCIL
+    [Constitution & Values] as VALUES
+}
+
+package "The Business (The Engine)" as BIZ #Pink {
+    [Operating Companies] as OPCO
+    [Innovation Labs] as LABS
+}
+
+package "The Wealth (The Fuel)" as MONEY #LightGreen {
+    [Dynasty Trust] as TRUST
+    [Investment Portfolio] as INVEST
+}
+
+' Relationships
+COUNCIL --> VALUES : Governs
+VALUES --> OPCO : Guides
+OPCO --> TRUST : Funds
+TRUST --> INVEST : Grows
+INVEST --> COUNCIL : Supports (Distributions)
+LABS --> OPCO : Innovates
+
+@enduml
+```
+
 In a world of quarterly earnings and short-term thinking, we choose a different path. We choose the path of the **Legacy**. A Legacy is not built by accident; it is engineered with precision, fueled by vision, and protected by ironclad structures.
 
 This chapter establishes the philosophical bedrock upon which every other volume of this Bible rests. Without this foundation, our trusts, entities, and technologies are merely tools without purpose. With it, they become the instruments of our immortality.
@@ -401,7 +440,7 @@ To navigate the centuries, we rely on the **12 Pillars of Empire Building**. The
 
 **The Family Spirit**: We operate with the joy and confidence of children of God. We look to the **Blessed Virgin Mary** as the protector of our family, trusting in her guidance during times of crisis.
 
-**Freedom of Conscience**: We propose this faith to future generations; we do not impose it. We believe that truth compels by its own beauty. We ensure every family member has the *opportunity* to know and love their faith, respecting their freedom to respond to that grace.
+**Freedom of Conscience**: We propose this faith to future generations; we do not impose it. We believe that truth compels by its own beauty. We ensure every family member has the *opportunity* to know and love their faith, respecting their freedom to respond to that grace. We are Catholics and will not adhere to any other religion.
 
 **Practical Application**:
 - We begin Family Council meetings with prayer or reflection.
