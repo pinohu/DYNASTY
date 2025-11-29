@@ -9,62 +9,110 @@ This document serves as the "Visual Source Code" for the Ohu Dynasty's structure
 
 This diagram visualizes the relationship between the Trust, the Holding Company, and the Operating Entities, including tax classifications.
 
-```mermaid
-graph TB
-    %% --- STYLING ---
-    classDef trust fill:#003366,stroke:#fff,stroke-width:2px,color:#fff
-    classDef holdco fill:#000000,stroke:#fff,stroke-width:2px,color:#fff
-    classDef opco fill:#cc0000,stroke:#fff,stroke-width:2px,color:#fff
-    classDef asset fill:#006600,stroke:#fff,stroke-width:2px,color:#fff
-    classDef benefit fill:#ff9900,stroke:#333,stroke-width:1px
+```plantuml
+@startuml
+!theme spacelab
+skinparam componentStyle rectangle
+skinparam linetype ortho
+skinparam nodesep 50
+skinparam ranksep 50
 
-    %% --- LEVEL 1: SOVEREIGNTY ---
-    subgraph SOVEREIGNTY [Layer 1: Sovereignty]
-        DT[Dynasty Trust<br/>South Dakota<br/>Tax: Complex Trust]:::trust
-        OE[Origin Eyes<br/>501c3 Foundation<br/>Tax: Exempt]:::asset
-        DT -.->|Beneficiary| OE
-    end
+' --- LEVEL 0: BENEFIT LAYER (Personal Tax Shelters) ---
+package "Benefit Layer (Tax Free/Deferred)" {
+    [Solo 401k Trust\n<size:10>Tax: Exempt (5500-EZ)</size>] as 401K #Green
+    [HSA Account\n<size:10>Tax: Exempt (Form 8889)</size>] as HSA #Green
+    [SDIRA LLC\n<size:10>Tax: Disregarded (IRA)</size>] as SDIRA #Green
+}
 
-    %% --- LEVEL 2: TREASURY ---
-    subgraph TREASURY [Layer 2: Treasury]
-        PNR[PNR Holdings LLC<br/>Wyoming<br/>Tax: Partnership]:::holdco
-        DT -->|Owns 100%| PNR
-        
-        CAP[Captive Insurance<br/>Tax: 831b C-Corp]:::asset
-        PNR -->|Risk Mgmt| CAP
-    end
+' --- LEVEL 1: SOVEREIGNTY ---
+package "Sovereignty Layer" {
+    [Principals\n(Managers)\n<size:10>Tax: Form 1040</size>] as PR
+    [Dynasty Trust\n(South Dakota)\n<size:10>Tax: Form 1041</size>] as DT #Navy
+    [Origin Eyes\n(501c3 Charity)\n<size:10>Tax: Form 990</size>] as OE #Green
+    
+    ' Sub-Trusts Branch
+    [Gen 2 Sub-Trusts\n(Beneficiaries)\n<size:10>Tax: Form 1041</size>] as SUBT #Navy
+}
 
-    %% --- LEVEL 3: OPERATIONS ---
-    subgraph OPERATIONS [Layer 3: Active Operations]
-        CXI[CXI LLC<br/>Management Co<br/>Tax: S-Corp]:::opco
-        NEAT[Neat Circle LLC<br/>Automation Agency<br/>Tax: Disregarded]:::opco
-        LODGE[Lodging Connections<br/>Hospitality<br/>Tax: Disregarded]:::opco
-        KW[Kwode LLC<br/>Hybrid Ops<br/>Tax: Disregarded]:::opco
-        ULOR[Ulor LLC<br/>Acquisitions<br/>Tax: Disregarded]:::opco
+' --- LEVEL 2: TREASURY ---
+package "Treasury Layer" {
+    [PNR Holdings LLC\n(Wyoming Treasury)\n<size:10>Tax: Partnership (1065)</size>] as PNR #Black
+    [Captive Insurance\n(831b Risk Mgmt)\n<size:10>Tax: Form 1120-PC</size>] as CAP #Green
+}
 
-        PNR -->|Owns| CXI
-        PNR -->|Owns| NEAT
-        PNR -->|Owns| LODGE
-        PNR -->|Owns| KW
-        PNR -->|Owns| ULOR
-    end
+' --- LEVEL 3: PASSIVE ASSETS ---
+package "Passive Zone (Schedule E)" {
+    [Obuke LLC\n(Real Estate)\n<size:10>Tax: Partnership (1065)</size>] as OBU #Green
+    [ToriMedia LLC\n(IP HoldCo)\n<size:10>Tax: Partnership (1065)</size>] as TORI #Green
+}
 
-    %% --- LEVEL 4: ASSETS ---
-    subgraph ASSETS [Layer 4: Passive Assets]
-        OBU[Obuke LLC<br/>Real Estate HoldCo<br/>Tax: Partnership]:::asset
-        TORI[ToriMedia LLC<br/>IP HoldCo<br/>Tax: Partnership]:::asset
-        
-        PNR -->|Owns| OBU
-        PNR -->|Owns| TORI
-    end
+' --- LEVEL 4: ACTIVE OPERATIONS ---
+package "Active Zone (Ordinary Income)" {
+    [CXI LLC\n(Management)\n<size:10>Tax: S-Corp (1120-S)</size>] as CXI #Blue
+    [Kwode LLC\n(Hybrid OpCo)\n<size:10>Tax: Disregarded</size>] as KW #Red
+    [Neat Circle LLC\n(Automation Agency)\n<size:10>Tax: Disregarded</size>] as NEAT #Red
+    [Lodging Connections\n(Hospitality)\n<size:10>Tax: Disregarded</size>] as LODGE #Red
+    [Ulor LLC\n(Acquisitions)\n<size:10>Tax: Disregarded</size>] as ULOR #Red
+}
 
-    %% --- LEVEL 5: BENEFITS ---
-    subgraph BENEFITS [Layer 0: Personal Benefits]
-        K401[Solo 401k Trust]:::benefit
-        HSA[HSA Account]:::benefit
-        
-        CXI -.->|Employer Match| K401
-    end
+' --- ALIGNMENT (Hidden) ---
+PR -[hidden]down- DT
+DT -[hidden]down- PNR
+PNR -[hidden]down- CXI
+
+' Benefits Alignment
+401K -[hidden]down- HSA
+HSA -[hidden]down- SDIRA
+PR -[hidden]left- 401K
+
+' Sub-Trust Alignment
+DT -[hidden]right- SUBT
+
+' Zone Alignment
+OE -[hidden]right- DT
+PNR -[hidden]right- CAP
+OBU -[hidden]right- CXI
+
+' --- RELATIONSHIPS ---
+
+' Benefits Flow
+PR --> 401K : Participant
+PR --> HSA : Owner
+CXI --> 401K : Employer Match
+401K --> SDIRA : Funds (Rollover)
+
+' Sovereignty Flow
+PR --> DT : Grantors
+DT --> PNR : Owns 100%
+DT ..> OE : Beneficiary
+DT ..> SUBT : Distributes
+
+' Treasury Flow
+PNR --> CAP
+PNR --> OBU
+PNR --> TORI
+PNR --> CXI
+PNR --> KW
+PNR --> NEAT
+PNR --> LODGE
+PNR --> ULOR
+
+' Operational Flow
+CXI ..> KW : Manages
+CXI ..> NEAT : Manages
+CXI ..> LODGE : Manages
+CXI ..> ULOR : Manages
+
+TORI ..> KW : Licenses IP
+TORI ..> NEAT : Licenses IP
+TORI ..> LODGE : Licenses IP
+
+NEAT ..> KW : Automates
+NEAT ..> LODGE : Automates
+
+ULOR .up.> OBU : Assigns Contract
+
+@enduml
 ```
 
 ---
@@ -73,31 +121,35 @@ graph TB
 
 This sequence diagram tracks the flow of $1 of revenue from a client through the entire system, maximizing tax efficiency and asset protection.
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor Client
-    participant OP as Neat Circle (OpCo)
-    participant IP as ToriMedia (IP HoldCo)
-    participant MGMT as CXI LLC (Mgmt)
-    participant HOLD as PNR Holdings (Treasury)
-    participant ASSET as Obuke LLC (Assets)
+```plantuml
+@startuml
+!theme spacelab
+autonumber
 
-    Note over OP: REVENUE PHASE
-    Client->>OP: Pays Invoice ($10,000)
-    
-    Note over OP,MGMT: EXPENSE PHASE (The Shield)
-    OP->>IP: Pay IP Royalties (5%)
-    OP->>MGMT: Pay Management Fees (20%)
-    OP->>OP: Pay Direct Expenses (Software/Labor)
-    
-    Note over OP,HOLD: HARVEST PHASE
-    OP->>HOLD: Sweep Excess Profit (Cash Sweep)
-    Note right of HOLD: Liability Firewall Reached
-    
-    Note over HOLD,ASSET: INVESTMENT PHASE
-    HOLD->>ASSET: Capital Contribution
-    ASSET->>ASSET: Acquire Real Estate / Stocks
+actor Client
+participant "Neat Circle\n(Automation OpCo)" as OP #Red
+participant "ToriMedia\n(IP HoldCo)" as IP #Green
+participant "CXI LLC\n(Management)" as MGMT #Blue
+participant "PNR Holdings\n(Treasury)" as HOLD #Black
+participant "Obuke LLC\n(Assets)" as ASSET #Green
+
+== Revenue Phase ==
+Client -> OP: Pay for Service ($10,000)
+note right: Gross Revenue
+
+== Expense Phase (The Shield) ==
+OP -> IP: Pay IP Royalty (5%)
+OP -> MGMT: Pay Mgmt Fee (20%)
+OP -> OP: Pay Direct Expenses
+
+== Harvest Phase ==
+OP -> HOLD: Sweep Excess Profit (Cash Sweep)
+note right: Liability Firewall
+
+== Investment Phase ==
+HOLD -> ASSET: Capital Contribution
+ASSET -> ASSET: Buy Real Estate
+@enduml
 ```
 
 ---
@@ -106,28 +158,29 @@ sequenceDiagram
 
 A visual breakdown of the tax mitigation strategies employed by the Codex.
 
-```mermaid
-mindmap
-  root((Tax Iron Dome))
-    Deferral Engines
-      Qualified Opportunity Zones
-      1031 Exchanges
-      Lodging Connections Loophole
-    Elimination Vehicles
-      Roth Strategies
-        Mega Backdoor 401k
-        529-to-Roth
-      HSA Triple Tax Advantage
-      Augusta Rule 14 Days
-    Wealth Transfer
-      Dynasty Trust
-        No Estate Tax
-        Generation Skipping
-      Life Insurance PPLI
-    Business Deductions
-      Captive Insurance 831b
-      IP Royalties
-      Childrens Salary Board
+```plantuml
+@startmindmap
+!theme spacelab
+* Tax Iron Dome
+** Deferral Engines
+*** Qualified Opportunity Zones (2026)
+*** 1031 Exchanges (Real Estate)
+*** Lodging Connections (STR Loophole)
+** Elimination Vehicles
+*** Roth Strategies
+**** Mega Backdoor 401k
+**** 529-to-Roth
+*** Health Savings Account (HSA)
+*** Augusta Rule (14 Days Rent)
+** Wealth Transfer
+*** Dynasty Trust (No Estate Tax)
+*** Life Insurance (PPLI)
+*** Origin Eyes (Charitable Deduction)
+** Business Deductions
+*** Captive Insurance (831b)
+*** ToriMedia Royalties (IP)
+*** Children's Salary (Marketing)
+@endmindmap
 ```
 
 ---
